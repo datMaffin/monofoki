@@ -4,7 +4,6 @@ FullName: mononoki Regular
 FamilyName: mononoki
 Weight: Regular
 Version: 1.1
-StyleMapFamilyName: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -43,6 +42,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2CapHeight: 700
 OS2XHeight: 500
+OS2Vendor: 'PfEd'
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Matthias Tellen" "" "" "" "" "" "" "mononoki" "Regular"
 PickledDataWithLists: "(dp0
@@ -1556,14 +1556,14 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 24 13
+WinInfo: 65280 24 13
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
 StemSnapV 4 [85]
 EndPrivate
 AnchorClass2: "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 726
+BeginChars: 65591 714
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1783,7 +1783,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 168 728 N 1 0 0 1 0 200 2
+Refer: 166 728 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -1801,7 +1801,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -1819,7 +1819,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -1837,7 +1837,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 200 2
+Refer: 243 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -1872,7 +1872,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -1890,7 +1890,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 313 731 N 1 0 0 1 164 5 2
+Refer: 301 731 N 1 0 0 1 164 5 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -1908,7 +1908,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 364 730 N 1 0 0 1 0 200 2
+Refer: 352 730 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -1926,7 +1926,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 401 732 N 1 0 0 1 0 200 2
+Refer: 389 732 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -2829,7 +2829,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 17 67 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -2847,7 +2847,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 17 67 N 1 0 0 1 0 0 2
-Refer: 179 184 N 1 0 0 1 46 0 2
+Refer: 176 184 N 1 0 0 1 46 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -2865,7 +2865,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 17 67 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3001,7 +3001,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 24 68 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3019,7 +3019,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 24 68 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3166,7 +3166,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3184,7 +3184,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3202,7 +3202,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3220,7 +3220,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 200 729 N 1 0 0 1 3 200 2
+Refer: 197 729 N 1 0 0 1 3 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3238,7 +3238,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 200 2
+Refer: 243 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3256,7 +3256,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -3274,7 +3274,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 313 731 N 1 0 0 1 165 -4 2
+Refer: 301 731 N 1 0 0 1 165 -4 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -4078,7 +4078,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 44 71 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -4139,7 +4139,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 47 72 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -4271,7 +4271,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 49 73 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -4289,7 +4289,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 49 73 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -4307,7 +4307,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 49 73 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 200 2
+Refer: 243 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -4325,7 +4325,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 49 73 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -4343,7 +4343,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 49 73 N 1 0 0 1 0 0 2
-Refer: 313 731 N 1 0 0 1 165 0 2
+Refer: 301 731 N 1 0 0 1 165 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -5341,7 +5341,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 58 74 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -6858,7 +6858,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 62 76 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -6876,7 +6876,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 62 76 N 1 0 0 1 0 0 2
-Refer: 338 183 N 1 0 0 1 100 50 2
+Refer: 326 183 N 1 0 0 1 100 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -13750,7 +13750,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 70 78 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -13768,7 +13768,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 70 78 N 1 0 0 1 0 0 2
-Refer: 401 732 N 1 0 0 1 0 200 2
+Refer: 389 732 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -13900,7 +13900,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 79 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -13918,7 +13918,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 79 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -13936,7 +13936,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 79 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 200 2
+Refer: 243 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -13954,7 +13954,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 79 N 1 0 0 1 0 0 2
-Refer: 261 733 N 1 0 0 1 -3 200 2
+Refer: 253 733 N 1 0 0 1 -3 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -13972,7 +13972,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 79 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -14057,7 +14057,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 75 79 N 1 0 0 1 0 0 2
-Refer: 401 732 N 1 0 0 1 0 200 2
+Refer: 389 732 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -15133,7 +15133,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 91 82 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -16921,7 +16921,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 95 83 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 196 2
+Refer: 172 711 N 1 0 0 1 0 196 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -16939,7 +16939,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 95 83 N 1 0 0 1 0 0 2
-Refer: 179 184 N 1 0 0 1 6 0 2
+Refer: 176 184 N 1 0 0 1 6 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -16957,7 +16957,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 95 83 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 196 2
+Refer: 179 710 N 1 0 0 1 0 196 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -16974,7 +16974,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 387 8721 N 1 0 0 1 0 0 2
+Refer: 375 8721 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17045,7 +17045,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 101 84 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17063,7 +17063,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 101 84 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17506,7 +17506,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 168 728 N 1 0 0 1 0 200 2
+Refer: 166 728 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17524,7 +17524,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17542,7 +17542,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17560,7 +17560,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 200 2
+Refer: 243 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17578,7 +17578,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 261 733 N 1 0 0 1 -3 200 2
+Refer: 253 733 N 1 0 0 1 -3 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17596,7 +17596,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17614,7 +17614,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 313 731 N 1 0 0 1 2 0 2
+Refer: 301 731 N 1 0 0 1 2 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -17649,7 +17649,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 107 85 N 1 0 0 1 0 0 2
-Refer: 364 730 N 1 0 0 1 0 200 2
+Refer: 352 730 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -18985,7 +18985,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 119 87 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -19003,7 +19003,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 119 87 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -19021,7 +19021,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 119 87 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 200 2
+Refer: 243 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -21391,7 +21391,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 126 89 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 200 2
+Refer: 179 710 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -21409,7 +21409,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 126 89 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -21427,7 +21427,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 126 89 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 200 2
+Refer: 243 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -22236,7 +22236,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 131 90 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 200 2
+Refer: 172 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -22254,7 +22254,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 131 90 N 1 0 0 1 0 0 2
-Refer: 200 729 N 1 0 0 1 3 200 2
+Refer: 197 729 N 1 0 0 1 3 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -23233,7 +23233,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 168 728 N 1 0 0 1 0 50 2
+Refer: 166 728 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -23251,7 +23251,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -23469,7 +23469,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 50 2
+Refer: 192 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -23532,7 +23532,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 50 2
+Refer: 243 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -23589,7 +23589,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 50 2
+Refer: 282 175 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -29029,84 +29029,8 @@ I575
 sss."
 EndChar
 
-StartChar: ampersand_ampersand
-Encoding: 65544 -1 148
-GlifName: ampersand_ampersand
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-928 159 m 257
- 943 190 956 226 966 267 c 256
- 970 283 963 294 947 297 c 258
- 914 303 l 258
- 898 306 888 299 884 284 c 256
- 880 267 876 252 871 237 c 257
- 823 298 761 364 697 428 c 256
- 652 473 634 511 634 542 c 256
- 634 585 668 618 713 618 c 256
- 763 618 801 581 801 532 c 256
- 801 510 792 488 775 471 c 256
- 765 461 765 449 777 437 c 258
- 797 417 l 258
- 809 405 821 405 831 415 c 256
- 865 449 882 492 882 534 c 256
- 882 627 810 697 714 697 c 256
- 620 697 549 630 549 541 c 256
- 549 492 575 437 631 380 c 257
- 569 336 536 282 523 228 c 257
- 452 305 337 428 337 428 c 257
- 292 473 274 511 274 542 c 256
- 274 585 308 618 353 618 c 256
- 403 618 441 581 441 532 c 256
- 441 510 432 488 415 471 c 256
- 405 461 405 449 417 437 c 258
- 437 417 l 258
- 449 405 461 405 471 415 c 256
- 505 449 522 492 522 534 c 256
- 522 627 450 697 354 697 c 256
- 260 697 189 630 189 541 c 256
- 189 492 215 437 271 380 c 257
- 191 323 158 249 158 180 c 256
- 158 68 227 -7 339 -7 c 256
- 402 -7 468 21 521 85 c 257
- 533 98 l 257
- 559 33 617 -7 699 -7 c 256
- 762 -7 828 21 881 85 c 257
- 894 62 903 41 909 21 c 257
- 914 7 922 0 937 0 c 258
- 969 0 l 258
- 986 0 995 10 991 27 c 257
- 979 69 958 112 928 159 c 257
-  PathStart: -2
-242 180 m 256
- 242 229 268 284 326 324 c 257
- 388 260 436 205 493 157 c 257
- 432 94 382 69 339 69 c 256
- 278 69 242 108 242 180 c 256
-  PathStart: -2
-602 180 m 256
- 602 229 628 284 686 324 c 257
- 748 260 796 205 833 157 c 257
- 792 94 742 69 699 69 c 256
- 638 69 602 108 602 180 c 256
-  PathStart: -2
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:29 +0000
-p3
-s."
-EndChar
-
 StartChar: aogonek
-Encoding: 261 261 149
+Encoding: 261 261 148
 GlifName: aogonek
 Width: 575
 VWidth: 0
@@ -29114,7 +29038,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 313 731 N 1 0 0 1 165 0 2
+Refer: 301 731 N 1 0 0 1 165 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -29124,15 +29048,15 @@ s."
 EndChar
 
 StartChar: approxequal
-Encoding: 8776 8776 150
+Encoding: 8776 8776 149
 GlifName: approxequal
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 153 126 N 1 0 0 1 0 150 2
-Refer: 153 126 N 1 0 0 1 0 -150 2
+Refer: 152 126 N 1 0 0 1 0 150 2
+Refer: 152 126 N 1 0 0 1 0 -150 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -29142,7 +29066,7 @@ s."
 EndChar
 
 StartChar: aring
-Encoding: 229 229 151
+Encoding: 229 229 150
 GlifName: aring
 Width: 575
 VWidth: 0
@@ -29150,7 +29074,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 364 730 N 1 0 0 1 0 50 2
+Refer: 352 730 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -29160,7 +29084,7 @@ s."
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 152
+Encoding: 94 94 151
 GlifName: asciicircum
 Width: 575
 VWidth: 0
@@ -29193,7 +29117,7 @@ s."
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 153
+Encoding: 126 126 152
 GlifName: asciitilde
 Width: 575
 VWidth: 0
@@ -29570,7 +29494,7 @@ sss."
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 154
+Encoding: 42 42 153
 GlifName: asterisk
 Width: 575
 VWidth: 0
@@ -35795,7 +35719,7 @@ sss."
 EndChar
 
 StartChar: at
-Encoding: 64 64 155
+Encoding: 64 64 154
 GlifName: at
 Width: 575
 VWidth: 0
@@ -36960,7 +36884,7 @@ sss."
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 156
+Encoding: 227 227 155
 GlifName: atilde
 Width: 575
 VWidth: 0
@@ -36968,7 +36892,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
-Refer: 401 732 N 1 0 0 1 0 50 2
+Refer: 389 732 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -36978,7 +36902,7 @@ s."
 EndChar
 
 StartChar: b
-Encoding: 98 98 157
+Encoding: 98 98 156
 GlifName: b
 Width: 575
 VWidth: 0
@@ -37685,7 +37609,7 @@ sss."
 EndChar
 
 StartChar: b.hex
-Encoding: 65545 -1 158
+Encoding: 65545 -1 157
 GlifName: b.hex
 Width: 575
 VWidth: 0
@@ -37749,7 +37673,7 @@ s."
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 159
+Encoding: 92 92 158
 GlifName: backslash
 Width: 575
 VWidth: 0
@@ -37776,7 +37700,7 @@ s."
 EndChar
 
 StartChar: bar
-Encoding: 124 124 160
+Encoding: 124 124 159
 GlifName: bar
 Width: 575
 VWidth: 0
@@ -37802,29 +37726,8 @@ p2
 s."
 EndChar
 
-StartChar: bar_bar
-Encoding: 65546 -1 161
-GlifName: bar_bar
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-Refer: 160 124 N 1 0 0 1 490 0 2
-Refer: 160 124 N 1 0 0 1 85 0 2
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:30 +0000
-p3
-s."
-EndChar
-
 StartChar: beta
-Encoding: 946 946 162
+Encoding: 946 946 160
 GlifName: beta
 Width: 575
 VWidth: 0
@@ -37868,7 +37771,7 @@ s."
 EndChar
 
 StartChar: block
-Encoding: 9608 9608 163
+Encoding: 9608 9608 161
 GlifName: block
 Width: 575
 VWidth: 0
@@ -37891,7 +37794,7 @@ s."
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 164
+Encoding: 123 123 162
 GlifName: braceleft
 Width: 575
 VWidth: 0
@@ -38439,7 +38342,7 @@ sss."
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 165
+Encoding: 125 125 163
 GlifName: braceright
 Width: 575
 VWidth: 0
@@ -38486,7 +38389,7 @@ s."
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 166
+Encoding: 91 91 164
 GlifName: bracketleft
 Width: 575
 VWidth: 0
@@ -38519,7 +38422,7 @@ s."
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 167
+Encoding: 93 93 165
 GlifName: bracketright
 Width: 575
 VWidth: 0
@@ -38552,7 +38455,7 @@ s."
 EndChar
 
 StartChar: breve
-Encoding: 728 728 168
+Encoding: 728 728 166
 GlifName: breve
 Width: 575
 VWidth: 0
@@ -38581,24 +38484,8 @@ p2
 s."
 EndChar
 
-StartChar: brevecombcy
-Encoding: 65547 -1 169
-GlifName: brevecombcy
-Width: 575
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
-p1
-V2016-05-30 08:50:44 +0000
-p2
-s."
-EndChar
-
 StartChar: brokenbar
-Encoding: 166 166 170
+Encoding: 166 166 167
 GlifName: brokenbar
 Width: 575
 VWidth: 0
@@ -38634,7 +38521,7 @@ s."
 EndChar
 
 StartChar: bullet
-Encoding: 8226 8226 171
+Encoding: 8226 8226 168
 GlifName: bullet
 Width: 575
 VWidth: 0
@@ -38658,7 +38545,7 @@ s."
 EndChar
 
 StartChar: c
-Encoding: 99 99 172
+Encoding: 99 99 169
 GlifName: c
 Width: 575
 VWidth: 0
@@ -39053,7 +38940,7 @@ sss."
 EndChar
 
 StartChar: c.hex
-Encoding: 65548 -1 173
+Encoding: 65548 -1 170
 GlifName: c.hex
 Width: 575
 VWidth: 0
@@ -39106,14 +38993,14 @@ s."
 EndChar
 
 StartChar: cacute
-Encoding: 263 263 174
+Encoding: 263 263 171
 GlifName: cacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 172 99 N 1 0 0 1 0 0 2
+Refer: 169 99 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -39124,7 +39011,7 @@ s."
 EndChar
 
 StartChar: caron
-Encoding: 711 711 175
+Encoding: 711 711 172
 GlifName: caron
 Width: 575
 VWidth: 0
@@ -39158,15 +39045,15 @@ s."
 EndChar
 
 StartChar: ccaron
-Encoding: 269 269 176
+Encoding: 269 269 173
 GlifName: ccaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 172 99 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 50 2
+Refer: 169 99 N 1 0 0 1 0 0 2
+Refer: 172 711 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -39176,15 +39063,15 @@ s."
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 177
+Encoding: 231 231 174
 GlifName: ccedilla
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 172 99 N 1 0 0 1 0 0 2
-Refer: 179 184 N 1 0 0 1 6 0 2
+Refer: 169 99 N 1 0 0 1 0 0 2
+Refer: 176 184 N 1 0 0 1 6 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -39194,15 +39081,15 @@ s."
 EndChar
 
 StartChar: ccircumflex
-Encoding: 265 265 178
+Encoding: 265 265 175
 GlifName: ccircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 172 99 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 169 99 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -39212,7 +39099,7 @@ s."
 EndChar
 
 StartChar: cedilla
-Encoding: 184 184 179
+Encoding: 184 184 176
 GlifName: cedilla
 Width: 575
 VWidth: 0
@@ -39251,7 +39138,7 @@ s."
 EndChar
 
 StartChar: cent
-Encoding: 162 162 180
+Encoding: 162 162 177
 GlifName: cent
 Width: 575
 VWidth: 0
@@ -39274,7 +39161,7 @@ SplineSet
  258 467 l 257
  343 480 l 257
 EndSplineSet
-Refer: 172 99 N 1 0 0 1 0 0 2
+Refer: 169 99 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -39284,7 +39171,7 @@ s."
 EndChar
 
 StartChar: chi
-Encoding: 967 967 181
+Encoding: 967 967 178
 GlifName: chi
 Width: 575
 VWidth: 0
@@ -39332,7 +39219,7 @@ s."
 EndChar
 
 StartChar: circumflex
-Encoding: 710 710 182
+Encoding: 710 710 179
 GlifName: circumflex
 Width: 575
 VWidth: 0
@@ -39366,7 +39253,7 @@ s."
 EndChar
 
 StartChar: colon
-Encoding: 58 58 183
+Encoding: 58 58 180
 GlifName: colon
 Width: 575
 VWidth: 0
@@ -39402,7 +39289,7 @@ s."
 EndChar
 
 StartChar: comma
-Encoding: 44 44 184
+Encoding: 44 44 181
 GlifName: comma
 Width: 575
 VWidth: 0
@@ -39433,7 +39320,7 @@ s."
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 185
+Encoding: 169 169 182
 GlifName: copyright
 Width: 575
 VWidth: 0
@@ -39494,7 +39381,7 @@ s."
 EndChar
 
 StartChar: currency
-Encoding: 164 164 186
+Encoding: 164 164 183
 GlifName: currency
 Width: 575
 VWidth: 0
@@ -39547,7 +39434,7 @@ s."
 EndChar
 
 StartChar: d
-Encoding: 100 100 187
+Encoding: 100 100 184
 GlifName: d
 Width: 575
 VWidth: 0
@@ -39944,7 +39831,7 @@ sss."
 EndChar
 
 StartChar: d.hex
-Encoding: 65549 -1 188
+Encoding: 65549 -1 185
 GlifName: d.hex
 Width: 575
 VWidth: 0
@@ -40009,7 +39896,7 @@ s."
 EndChar
 
 StartChar: dagger
-Encoding: 8224 8224 189
+Encoding: 8224 8224 186
 GlifName: dagger
 Width: 575
 VWidth: 0
@@ -40048,7 +39935,7 @@ s."
 EndChar
 
 StartChar: daggerdbl
-Encoding: 8225 8225 190
+Encoding: 8225 8225 187
 GlifName: daggerdbl
 Width: 575
 VWidth: 0
@@ -40099,15 +39986,15 @@ s."
 EndChar
 
 StartChar: dcaron
-Encoding: 271 271 191
+Encoding: 271 271 188
 GlifName: dcaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 187 100 N 1 0 0 1 0 0 2
-Refer: 356 8218 N 1 0 0 1 -100 699 2
+Refer: 184 100 N 1 0 0 1 0 0 2
+Refer: 344 8218 N 1 0 0 1 -100 699 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -40117,15 +40004,15 @@ s."
 EndChar
 
 StartChar: dcroat
-Encoding: 273 273 192
+Encoding: 273 273 189
 GlifName: dcroat
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 187 100 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 121 20 2
+Refer: 184 100 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 121 20 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -40135,7 +40022,7 @@ s."
 EndChar
 
 StartChar: degree
-Encoding: 176 176 193
+Encoding: 176 176 190
 GlifName: degree
 Width: 575
 VWidth: 0
@@ -40165,7 +40052,7 @@ s."
 EndChar
 
 StartChar: delta
-Encoding: 948 948 194
+Encoding: 948 948 191
 GlifName: delta
 Width: 575
 VWidth: 0
@@ -40205,7 +40092,7 @@ s."
 EndChar
 
 StartChar: dieresis
-Encoding: 168 168 195
+Encoding: 168 168 192
 GlifName: dieresis
 Width: 575
 VWidth: 0
@@ -40242,7 +40129,7 @@ s."
 EndChar
 
 StartChar: divide
-Encoding: 247 247 196
+Encoding: 247 247 193
 GlifName: divide
 Width: 575
 VWidth: 0
@@ -40287,7 +40174,7 @@ s."
 EndChar
 
 StartChar: dkshade
-Encoding: 9619 9619 197
+Encoding: 9619 9619 194
 GlifName: dkshade
 Width: 575
 VWidth: 0
@@ -40384,7 +40271,7 @@ s."
 EndChar
 
 StartChar: dnblock
-Encoding: 9604 9604 198
+Encoding: 9604 9604 195
 GlifName: dnblock
 Width: 575
 VWidth: 0
@@ -40407,7 +40294,7 @@ s."
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 199
+Encoding: 36 36 196
 GlifName: dollar
 Width: 575
 VWidth: 0
@@ -41588,7 +41475,7 @@ sss."
 EndChar
 
 StartChar: dotaccent
-Encoding: 729 729 200
+Encoding: 729 729 197
 GlifName: dotaccent
 Width: 575
 VWidth: 0
@@ -41616,7 +41503,7 @@ s."
 EndChar
 
 StartChar: dotbelowcomb
-Encoding: 803 803 201
+Encoding: 803 803 198
 GlifName: dotbelowcomb
 Width: 575
 VWidth: 0
@@ -41643,7 +41530,7 @@ s."
 EndChar
 
 StartChar: dotlessi
-Encoding: 305 305 202
+Encoding: 305 305 199
 GlifName: dotlessi
 Width: 575
 VWidth: 0
@@ -42014,7 +41901,7 @@ sss."
 EndChar
 
 StartChar: e
-Encoding: 101 101 203
+Encoding: 101 101 200
 GlifName: e
 Width: 575
 VWidth: 0
@@ -42053,7 +41940,7 @@ s."
 EndChar
 
 StartChar: e.hex
-Encoding: 65550 -1 204
+Encoding: 65550 -1 201
 GlifName: e.hex
 Width: 575
 VWidth: 0
@@ -42119,14 +42006,14 @@ s."
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 205
+Encoding: 233 233 202
 GlifName: eacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
+Refer: 200 101 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -42137,15 +42024,15 @@ s."
 EndChar
 
 StartChar: ecaron
-Encoding: 283 283 206
+Encoding: 283 283 203
 GlifName: ecaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 50 2
+Refer: 200 101 N 1 0 0 1 0 0 2
+Refer: 172 711 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42155,15 +42042,15 @@ s."
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 207
+Encoding: 234 234 204
 GlifName: ecircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 200 101 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42173,15 +42060,15 @@ s."
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 208
+Encoding: 235 235 205
 GlifName: edieresis
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 50 2
+Refer: 200 101 N 1 0 0 1 0 0 2
+Refer: 192 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42191,15 +42078,15 @@ s."
 EndChar
 
 StartChar: edotaccent
-Encoding: 279 279 209
+Encoding: 279 279 206
 GlifName: edotaccent
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
-Refer: 200 729 N 1 0 0 1 3 50 2
+Refer: 200 101 N 1 0 0 1 0 0 2
+Refer: 197 729 N 1 0 0 1 3 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42209,15 +42096,15 @@ s."
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 210
+Encoding: 232 232 207
 GlifName: egrave
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 50 2
+Refer: 200 101 N 1 0 0 1 0 0 2
+Refer: 243 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42227,7 +42114,7 @@ s."
 EndChar
 
 StartChar: eight
-Encoding: 56 56 211
+Encoding: 56 56 208
 GlifName: eight
 Width: 575
 VWidth: 0
@@ -42693,7 +42580,7 @@ sss."
 EndChar
 
 StartChar: eight.dnom
-Encoding: 65551 -1 212
+Encoding: 65551 -1 209
 GlifName: eight.dnom
 Width: 250
 VWidth: 0
@@ -42736,7 +42623,7 @@ s."
 EndChar
 
 StartChar: eight.hex
-Encoding: 65552 -1 213
+Encoding: 65552 -1 210
 GlifName: eight.hex
 Width: 575
 VWidth: 0
@@ -42754,7 +42641,7 @@ SplineSet
  105 804 114 812 114 829 c 258
  114 875 l 258
 EndSplineSet
-Refer: 211 56 N 1 0 0 1 0 0 2
+Refer: 208 56 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42764,14 +42651,14 @@ s."
 EndChar
 
 StartChar: eight.numr
-Encoding: 65553 -1 214
+Encoding: 65553 -1 211
 GlifName: eight.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 212 -1 N 1 0 0 1 0 400 2
+Refer: 209 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -42792,16 +42679,16 @@ s."
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 215
+Encoding: 8230 8230 212
 GlifName: ellipsis
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 337 46 N 0.683 0 0 0.683 262 1 2
-Refer: 337 46 N 0.683 0 0 0.683 -80 1 2
-Refer: 337 46 N 0.683 0 0 0.683 91 1 2
+Refer: 325 46 N 0.683 0 0 0.683 262 1 2
+Refer: 325 46 N 0.683 0 0 0.683 -80 1 2
+Refer: 325 46 N 0.683 0 0 0.683 91 1 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42811,15 +42698,15 @@ s."
 EndChar
 
 StartChar: emacron
-Encoding: 275 275 216
+Encoding: 275 275 213
 GlifName: emacron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 50 2
+Refer: 200 101 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42829,7 +42716,7 @@ s."
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 217
+Encoding: 8212 8212 214
 GlifName: emdash
 Width: 575
 VWidth: 0
@@ -42856,7 +42743,7 @@ s."
 EndChar
 
 StartChar: emptyset
-Encoding: 8709 8709 218
+Encoding: 8709 8709 215
 GlifName: emptyset
 Width: 575
 VWidth: 0
@@ -42901,7 +42788,7 @@ s."
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 219
+Encoding: 8211 8211 216
 GlifName: endash
 Width: 575
 VWidth: 0
@@ -42928,15 +42815,15 @@ s."
 EndChar
 
 StartChar: eogonek
-Encoding: 281 281 220
+Encoding: 281 281 217
 GlifName: eogonek
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
-Refer: 313 731 N 1 0 0 1 165 0 2
+Refer: 200 101 N 1 0 0 1 0 0 2
+Refer: 301 731 N 1 0 0 1 165 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -42946,7 +42833,7 @@ s."
 EndChar
 
 StartChar: epsilon
-Encoding: 949 949 221
+Encoding: 949 949 218
 GlifName: epsilon
 Width: 575
 VWidth: 0
@@ -42986,7 +42873,7 @@ s."
 EndChar
 
 StartChar: equal
-Encoding: 61 61 222
+Encoding: 61 61 219
 GlifName: equal
 Width: 575
 VWidth: 0
@@ -43332,463 +43219,8 @@ I575
 sss."
 EndChar
 
-StartChar: equal_equal
-Encoding: 65554 -1 223
-GlifName: equal_equal
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-125 404 m 258
- 109 404 100 395 100 378 c 258
- 100 352 l 258
- 100 336 109 327 125 327 c 258
- 1025 327 l 258
- 1042 327 1050 336 1050 352 c 258
- 1050 379 l 258
- 1050 395 1042 404 1025 404 c 258
- 125 404 l 258
-125 174 m 258
- 109 174 100 165 100 148 c 258
- 100 122 l 258
- 100 106 109 97 125 97 c 258
- 1025 97 l 258
- 1042 97 1050 106 1050 122 c 258
- 1050 149 l 258
- 1050 165 1042 174 1025 174 c 258
- 125 174 l 258
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:31 +0000
-p3
-s."
-EndChar
-
-StartChar: equal_greater
-Encoding: 65555 -1 224
-GlifName: equal_greater
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-684 562 m 258
- 672 571 659 571 649 558 c 258
- 630 535 l 258
- 620 522 621 510 634 500 c 258
- 770 397 l 257
- 735 404 699 404 664 404 c 258
- 125 404 l 258
- 109 404 100 395 100 378 c 258
- 100 352 l 258
- 100 336 109 327 125 327 c 258
- 708 327 l 258
- 754 327 801 327 848 339 c 257
- 966 250 l 257
- 848 161 l 257
- 801 173 754 173 708 173 c 258
- 125 173 l 258
- 109 173 100 164 100 148 c 258
- 100 122 l 258
- 100 105 109 96 125 96 c 258
- 664 96 l 258
- 699 96 735 96 770 103 c 257
- 634 0 l 258
- 621 -10 620 -22 630 -35 c 258
- 649 -58 l 258
- 659 -71 672 -71 684 -62 c 258
- 1009 182 l 258
- 1035 201 1050 226 1050 250 c 256
- 1050 274 1035 299 1009 318 c 258
- 684 562 l 258
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:32 +0000
-p3
-sVcom.typemytype.robofont.layerData
-p4
-(dp5
-Vbackground
-p6
-(dp7
-Vanchors
-p8
-(lp9
-sVcomponents
-p10
-(lp11
-sVcontours
-p12
-(lp13
-(dp14
-Vpoints
-p15
-(lp16
-(dp17
-VsegmentType
-p18
-Vline
-p19
-sVsmooth
-p20
-I01
-sVx
-p21
-I594
-sVy
-p22
-I677
-sa(dp23
-g20
-I00
-sg21
-I582
-sg22
-I686
-sa(dp24
-g20
-I00
-sg21
-I569
-sg22
-I686
-sa(dp25
-g18
-Vcurve
-p26
-sg20
-I01
-sg21
-I559
-sg22
-I673
-sa(dp27
-g18
-Vline
-p28
-sg20
-I01
-sg21
-I540
-sg22
-I650
-sa(dp29
-g20
-I00
-sg21
-I530
-sg22
-I637
-sa(dp30
-g20
-I00
-sg21
-I531
-sg22
-I625
-sa(dp31
-g18
-Vcurve
-p32
-sg20
-I01
-sg21
-I544
-sg22
-I615
-sa(dp33
-g18
-Vline
-p34
-sg20
-I00
-sg21
-I849
-sg22
-I394
-sa(dp35
-g20
-I00
-sg21
-I815
-sg22
-I401
-sa(dp36
-g20
-I00
-sg21
-I771
-sg22
-I404
-sa(dp37
-g18
-Vcurve
-p38
-sg20
-I01
-sg21
-I690
-sg22
-I404
-sa(dp39
-g18
-Vline
-p40
-sg20
-I01
-sg21
-I37
-sg22
-I404
-sa(dp41
-g20
-I00
-sg21
-I21
-sg22
-I404
-sa(dp42
-g20
-I00
-sg21
-I12
-sg22
-I395
-sa(dp43
-g18
-Vcurve
-p44
-sg20
-I01
-sg21
-I12
-sg22
-I378
-sa(dp45
-g18
-Vline
-p46
-sg20
-I01
-sg21
-I12
-sg22
-I352
-sa(dp47
-g20
-I00
-sg21
-I12
-sg22
-I336
-sa(dp48
-g20
-I00
-sg21
-I21
-sg22
-I327
-sa(dp49
-g18
-Vcurve
-p50
-sg20
-I01
-sg21
-I37
-sg22
-I327
-sa(dp51
-g18
-Vline
-p52
-sg20
-I01
-sg21
-I690
-sg22
-I327
-sa(dp53
-g20
-I00
-sg21
-I773
-sg22
-I327
-sa(dp54
-g20
-I00
-sg21
-I816
-sg22
-I330
-sa(dp55
-g18
-Vcurve
-p56
-sg20
-I00
-sg21
-I851
-sg22
-I337
-sa(dp57
-g18
-Vline
-p58
-sg20
-I01
-sg21
-I544
-sg22
-I115
-sa(dp59
-g20
-I00
-sg21
-I531
-sg22
-I105
-sa(dp60
-g20
-I00
-sg21
-I530
-sg22
-I93
-sa(dp61
-g18
-Vcurve
-p62
-sg20
-I01
-sg21
-I540
-sg22
-I80
-sa(dp63
-g18
-Vline
-p64
-sg20
-I01
-sg21
-I559
-sg22
-I57
-sa(dp65
-g20
-I00
-sg21
-I569
-sg22
-I44
-sa(dp66
-g20
-I00
-sg21
-I583
-sg22
-I44
-sa(dp67
-g18
-Vcurve
-p68
-sg20
-I01
-sg21
-I595
-sg22
-I53
-sa(dp69
-g18
-Vline
-p70
-sg20
-I01
-sg21
-I919
-sg22
-I297
-sa(dp71
-g20
-I00
-sg21
-I945
-sg22
-I316
-sa(dp72
-g20
-I00
-sg21
-I960
-sg22
-I341
-sa(dp73
-g18
-Vcurve
-p74
-sg20
-I01
-sg21
-I960
-sg22
-I365
-sa(dp75
-g20
-I00
-sg21
-I960
-sg22
-I389
-sa(dp76
-g20
-I00
-sg21
-I945
-sg22
-I414
-sa(dp77
-g18
-Vcurve
-p78
-sg20
-I01
-sg21
-I919
-sg22
-I433
-sasasVlib
-p79
-(dp80
-sVname
-p81
-Vequal_greater
-p82
-sVunicodes
-p83
-(lp84
-sVwidth
-p85
-I1150
-sss."
-EndChar
-
 StartChar: equivalence
-Encoding: 8801 8801 225
+Encoding: 8801 8801 220
 GlifName: equivalence
 Width: 575
 VWidth: 0
@@ -43833,7 +43265,7 @@ s."
 EndChar
 
 StartChar: eta
-Encoding: 951 951 226
+Encoding: 951 951 221
 GlifName: eta
 Width: 575
 VWidth: 0
@@ -43867,7 +43299,7 @@ s."
 EndChar
 
 StartChar: eth
-Encoding: 240 240 227
+Encoding: 240 240 222
 GlifName: eth
 Width: 575
 VWidth: 0
@@ -43913,7 +43345,7 @@ s."
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 228
+Encoding: 33 33 223
 GlifName: exclam
 Width: 575
 VWidth: 0
@@ -43948,71 +43380,16 @@ p2
 s."
 EndChar
 
-StartChar: exclam_equal
-Encoding: 65556 -1 229
-GlifName: exclam_equal
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-1050 352 m 258
- 1050 379 l 258
- 1050 395 1042 404 1025 404 c 258
- 700 404 l 257
- 820 644 l 258
- 827 658 823 670 809 677 c 258
- 777 693 l 258
- 763 700 751 696 744 682 c 258
- 605 404 l 257
- 125 404 l 258
- 109 404 100 395 100 378 c 258
- 100 352 l 258
- 100 336 109 327 125 327 c 258
- 567 327 l 257
- 490 174 l 257
- 125 174 l 258
- 109 174 100 165 100 148 c 258
- 100 122 l 258
- 100 106 109 97 125 97 c 258
- 452 97 l 257
- 331 -144 l 258
- 324 -158 328 -170 342 -177 c 258
- 374 -193 l 258
- 388 -200 400 -196 407 -182 c 258
- 547 97 l 257
- 1025 97 l 258
- 1042 97 1050 106 1050 122 c 258
- 1050 149 l 258
- 1050 165 1042 174 1025 174 c 258
- 585 174 l 257
- 662 327 l 257
- 1025 327 l 258
- 1042 327 1050 336 1050 352 c 258
-  PathStart: -2
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:24 +0000
-p3
-s."
-EndChar
-
 StartChar: exclamdbl
-Encoding: 8252 8252 230
+Encoding: 8252 8252 224
 GlifName: exclamdbl
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 228 33 N 1 0 0 1 -100 0 2
-Refer: 228 33 N 1 0 0 1 100 0 2
+Refer: 223 33 N 1 0 0 1 -100 0 2
+Refer: 223 33 N 1 0 0 1 100 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -44022,14 +43399,14 @@ s."
 EndChar
 
 StartChar: exclamdown
-Encoding: 161 161 231
+Encoding: 161 161 225
 GlifName: exclamdown
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 228 33 N 1 0 0 -1 0 500 2
+Refer: 223 33 N 1 0 0 -1 0 500 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -44039,7 +43416,7 @@ s."
 EndChar
 
 StartChar: f
-Encoding: 102 102 232
+Encoding: 102 102 226
 GlifName: f
 Width: 575
 VWidth: 0
@@ -44283,7 +43660,7 @@ sss."
 EndChar
 
 StartChar: f.hex
-Encoding: 65557 -1 233
+Encoding: 65557 -1 227
 GlifName: f.hex
 Width: 575
 VWidth: 0
@@ -44363,7 +43740,7 @@ s."
 EndChar
 
 StartChar: five
-Encoding: 53 53 234
+Encoding: 53 53 228
 GlifName: five
 Width: 575
 VWidth: 0
@@ -46084,7 +45461,7 @@ sss."
 EndChar
 
 StartChar: five.dnom
-Encoding: 65558 -1 235
+Encoding: 65558 -1 229
 GlifName: five.dnom
 Width: 250
 VWidth: 0
@@ -46128,7 +45505,7 @@ s."
 EndChar
 
 StartChar: five.hex
-Encoding: 65559 -1 236
+Encoding: 65559 -1 230
 GlifName: five.hex
 Width: 575
 VWidth: 0
@@ -46155,7 +45532,7 @@ SplineSet
  537 804 546 812 546 829 c 258
  546 875 l 258
 EndSplineSet
-Refer: 234 53 N 1 0 0 1 0 0 2
+Refer: 228 53 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -46165,14 +45542,14 @@ s."
 EndChar
 
 StartChar: five.numr
-Encoding: 65560 -1 237
+Encoding: 65560 -1 231
 GlifName: five.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 235 -1 N 1 0 0 1 0 400 2
+Refer: 229 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -46193,16 +45570,16 @@ s."
 EndChar
 
 StartChar: fiveeighths
-Encoding: 8541 8541 238
+Encoding: 8541 8541 232
 GlifName: fiveeighths
 Width: 588
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 237 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 212 -1 N 1 0 0 1 325 0 2
+Refer: 231 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 209 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -46220,7 +45597,7 @@ s."
 EndChar
 
 StartChar: florin
-Encoding: 402 402 239
+Encoding: 402 402 233
 GlifName: florin
 Width: 575
 VWidth: 0
@@ -46263,7 +45640,7 @@ s."
 EndChar
 
 StartChar: four
-Encoding: 52 52 240
+Encoding: 52 52 234
 GlifName: four
 Width: 575
 VWidth: 0
@@ -47431,7 +46808,7 @@ sss."
 EndChar
 
 StartChar: four.dnom
-Encoding: 65561 -1 241
+Encoding: 65561 -1 235
 GlifName: four.dnom
 Width: 250
 VWidth: 0
@@ -47479,7 +46856,7 @@ s."
 EndChar
 
 StartChar: four.hex
-Encoding: 65562 -1 242
+Encoding: 65562 -1 236
 GlifName: four.hex
 Width: 575
 VWidth: 0
@@ -47497,7 +46874,7 @@ SplineSet
  249 804 258 812 258 829 c 258
  258 875 l 258
 EndSplineSet
-Refer: 240 52 N 1 0 0 1 0 0 2
+Refer: 234 52 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -47507,14 +46884,14 @@ s."
 EndChar
 
 StartChar: four.numr
-Encoding: 65563 -1 243
+Encoding: 65563 -1 237
 GlifName: four.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 241 -1 N 1 0 0 1 0 400 2
+Refer: 235 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -47535,14 +46912,14 @@ s."
 EndChar
 
 StartChar: fraction
-Encoding: 8260 8260 244
+Encoding: 8260 8260 238
 GlifName: fraction
 Width: 75
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 538 8725 N 1 0 0 1 -250 15 2
+Refer: 526 8725 N 1 0 0 1 -250 15 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -47552,7 +46929,7 @@ s."
 EndChar
 
 StartChar: g
-Encoding: 103 103 245
+Encoding: 103 103 239
 GlifName: g
 Width: 575
 VWidth: 0
@@ -50265,7 +49642,7 @@ sss."
 EndChar
 
 StartChar: gamma
-Encoding: 947 947 246
+Encoding: 947 947 240
 GlifName: gamma
 Width: 575
 VWidth: 0
@@ -50304,15 +49681,15 @@ s."
 EndChar
 
 StartChar: gcircumflex
-Encoding: 285 285 247
+Encoding: 285 285 241
 GlifName: gcircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 245 103 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 1 50 2
+Refer: 239 103 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 1 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -50322,7 +49699,7 @@ s."
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 248
+Encoding: 223 223 242
 GlifName: germandbls
 Width: 575
 VWidth: 0
@@ -50363,7 +49740,7 @@ s."
 EndChar
 
 StartChar: grave
-Encoding: 96 96 249
+Encoding: 96 96 243
 GlifName: grave
 Width: 575
 VWidth: 0
@@ -50392,7 +49769,7 @@ s."
 EndChar
 
 StartChar: greater
-Encoding: 62 62 250
+Encoding: 62 62 244
 GlifName: greater
 Width: 575
 VWidth: 0
@@ -50887,72 +50264,8 @@ I575
 sss."
 EndChar
 
-StartChar: greater_equal
-Encoding: 65564 -1 251
-GlifName: greater_equal
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-966 343 m 258
- 1028 358 1050 391 1050 425 c 256
- 1050 459 1028 492 966 507 c 258
- 144 706 l 258
- 129 710 116 701 113 687 c 258
- 106 659 l 258
- 103 645 110 632 125 628 c 258
- 968 425 l 257
- 125 222 l 258
- 110 218 103 205 106 191 c 258
- 113 163 l 258
- 116 149 129 140 144 144 c 258
- 966 343 l 258
-125 77 m 258
- 109 77 100 68 100 51 c 258
- 100 25 l 258
- 100 9 109 0 125 0 c 258
- 1025 0 l 258
- 1042 0 1050 9 1050 25 c 258
- 1050 52 l 258
- 1050 68 1042 77 1025 77 c 258
- 125 77 l 258
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:33 +0000
-p3
-s."
-EndChar
-
-StartChar: greater_greater
-Encoding: 65565 -1 252
-GlifName: greater_greater
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-Refer: 250 62 N 1 0 0 1 497 0 2
-Refer: 250 62 N 1 0 0 1 77 0 2
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:33 +0000
-p3
-s."
-EndChar
-
 StartChar: greaterequal
-Encoding: 8805 8805 253
+Encoding: 8805 8805 245
 GlifName: greaterequal
 Width: 575
 VWidth: 0
@@ -50992,7 +50305,7 @@ s."
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 254
+Encoding: 171 171 246
 GlifName: guillemotleft
 Width: 575
 VWidth: 0
@@ -51036,14 +50349,14 @@ s."
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 255
+Encoding: 187 187 247
 GlifName: guillemotright
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 254 171 N -1 0 0 1 575 0 2
+Refer: 246 171 N -1 0 0 1 575 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -51053,7 +50366,7 @@ s."
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 8249 8249 256
+Encoding: 8249 8249 248
 GlifName: guilsinglleft
 Width: 575
 VWidth: 0
@@ -51084,14 +50397,14 @@ s."
 EndChar
 
 StartChar: guilsinglright
-Encoding: 8250 8250 257
+Encoding: 8250 8250 249
 GlifName: guilsinglright
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 256 8249 N -1 0 0 1 576 0 2
+Refer: 248 8249 N -1 0 0 1 576 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -51101,7 +50414,7 @@ s."
 EndChar
 
 StartChar: h
-Encoding: 104 104 258
+Encoding: 104 104 250
 GlifName: h
 Width: 575
 VWidth: 0
@@ -51140,15 +50453,15 @@ s."
 EndChar
 
 StartChar: hcircumflex
-Encoding: 293 293 259
+Encoding: 293 293 251
 GlifName: hcircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 258 104 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 100 120 2
+Refer: 250 104 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 100 120 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -51158,7 +50471,7 @@ s."
 EndChar
 
 StartChar: heart
-Encoding: 9829 9829 260
+Encoding: 9829 9829 252
 GlifName: heart
 Width: 575
 VWidth: 0
@@ -51185,7 +50498,7 @@ Comment: "+AAoA    heart+AAoA  "
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 733 733 261
+Encoding: 733 733 253
 GlifName: hungarumlaut
 Width: 575
 VWidth: 0
@@ -51222,7 +50535,7 @@ s."
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 262
+Encoding: 45 45 254
 GlifName: hyphen
 Width: 575
 VWidth: 0
@@ -51248,49 +50561,8 @@ p2
 s."
 EndChar
 
-StartChar: hyphen_greater
-Encoding: 65566 -1 263
-GlifName: hyphen_greater
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-684 562 m 258
- 672 571 659 571 649 558 c 258
- 630 535 l 258
- 620 522 621 510 634 500 c 258
- 939 279 l 257
- 905 286 861 289 780 289 c 258
- 125 289 l 258
- 109 289 100 280 100 263 c 258
- 100 237 l 258
- 100 221 109 212 125 212 c 258
- 780 212 l 258
- 863 212 906 215 941 222 c 257
- 634 0 l 258
- 621 -10 620 -22 630 -35 c 258
- 649 -58 l 258
- 659 -71 673 -71 685 -62 c 258
- 1009 182 l 258
- 1035 201 1050 226 1050 250 c 256
- 1050 274 1035 299 1009 318 c 258
- 684 562 l 258
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:28 +0000
-p3
-s."
-EndChar
-
 StartChar: i
-Encoding: 105 105 264
+Encoding: 105 105 255
 GlifName: i
 Width: 575
 VWidth: 0
@@ -51670,14 +50942,14 @@ sss."
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 265
+Encoding: 237 237 256
 GlifName: iacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 202 305 N 1 0 0 1 0 0 2
+Refer: 199 305 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -51688,15 +50960,15 @@ s."
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 266
+Encoding: 238 238 257
 GlifName: icircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 202 305 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 199 305 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -51706,15 +50978,15 @@ s."
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 267
+Encoding: 239 239 258
 GlifName: idieresis
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 202 305 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 50 2
+Refer: 199 305 N 1 0 0 1 0 0 2
+Refer: 192 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -51724,15 +50996,15 @@ s."
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 268
+Encoding: 236 236 259
 GlifName: igrave
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 202 305 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 50 2
+Refer: 199 305 N 1 0 0 1 0 0 2
+Refer: 243 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -51742,7 +51014,7 @@ s."
 EndChar
 
 StartChar: ij
-Encoding: 307 307 269
+Encoding: 307 307 260
 GlifName: ij
 Width: 575
 VWidth: 0
@@ -51800,15 +51072,15 @@ s."
 EndChar
 
 StartChar: imacron
-Encoding: 299 299 270
+Encoding: 299 299 261
 GlifName: imacron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 202 305 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 50 2
+Refer: 199 305 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -51818,7 +51090,7 @@ s."
 EndChar
 
 StartChar: infinity
-Encoding: 8734 8734 271
+Encoding: 8734 8734 262
 GlifName: infinity
 Width: 575
 VWidth: 0
@@ -52284,7 +51556,7 @@ sss."
 EndChar
 
 StartChar: integral
-Encoding: 8747 8747 272
+Encoding: 8747 8747 263
 GlifName: integral
 Width: 575
 VWidth: 0
@@ -52320,16 +51592,16 @@ s."
 EndChar
 
 StartChar: iogonek
-Encoding: 303 303 273
+Encoding: 303 303 264
 GlifName: iogonek
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 202 305 N 1 0 0 1 0 0 2
-Refer: 200 729 N 1 0 0 1 3 50 2
-Refer: 313 731 N 1 0 0 1 164 5 2
+Refer: 199 305 N 1 0 0 1 0 0 2
+Refer: 197 729 N 1 0 0 1 3 50 2
+Refer: 301 731 N 1 0 0 1 164 5 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -52339,7 +51611,7 @@ s."
 EndChar
 
 StartChar: iota
-Encoding: 953 953 274
+Encoding: 953 953 265
 GlifName: iota
 Width: 575
 VWidth: 0
@@ -52370,7 +51642,7 @@ s."
 EndChar
 
 StartChar: j
-Encoding: 106 106 275
+Encoding: 106 106 266
 GlifName: j
 Width: 575
 VWidth: 0
@@ -52865,15 +52137,15 @@ sss."
 EndChar
 
 StartChar: jcircumflex
-Encoding: 309 309 276
+Encoding: 309 309 267
 GlifName: jcircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 421 567 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 100 100 2
+Refer: 409 567 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 100 100 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -52883,7 +52155,7 @@ s."
 EndChar
 
 StartChar: k
-Encoding: 107 107 277
+Encoding: 107 107 268
 GlifName: k
 Width: 575
 VWidth: 0
@@ -53865,7 +53137,7 @@ sss."
 EndChar
 
 StartChar: kappa
-Encoding: 954 954 278
+Encoding: 954 954 269
 GlifName: kappa
 Width: 575
 VWidth: 0
@@ -53907,7 +53179,7 @@ s."
 EndChar
 
 StartChar: l
-Encoding: 108 108 279
+Encoding: 108 108 270
 GlifName: l
 Width: 575
 VWidth: 0
@@ -53944,7 +53216,7 @@ s."
 EndChar
 
 StartChar: lacute
-Encoding: 314 314 280
+Encoding: 314 314 271
 GlifName: lacute
 Width: 575
 VWidth: 0
@@ -53991,7 +53263,7 @@ s."
 EndChar
 
 StartChar: lambda
-Encoding: 955 955 281
+Encoding: 955 955 272
 GlifName: lambda
 Width: 575
 VWidth: 0
@@ -54420,7 +53692,7 @@ sss."
 EndChar
 
 StartChar: lcaron
-Encoding: 318 318 282
+Encoding: 318 318 273
 GlifName: lcaron
 Width: 575
 VWidth: 0
@@ -54473,7 +53745,7 @@ s."
 EndChar
 
 StartChar: ldot
-Encoding: 320 320 283
+Encoding: 320 320 274
 GlifName: ldot
 Width: 575
 VWidth: 0
@@ -54519,14 +53791,14 @@ s."
 EndChar
 
 StartChar: less
-Encoding: 60 60 284
+Encoding: 60 60 275
 GlifName: less
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 250 62 N -1 0 0 1 575 0 2
+Refer: 244 62 N -1 0 0 1 575 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -54535,36 +53807,15 @@ p2
 s."
 EndChar
 
-StartChar: less_less
-Encoding: 65567 -1 285
-GlifName: less_less
-Width: 1150
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-Refer: 250 62 N -1 0 0 -1 652 500 2
-Refer: 250 62 N -1 0 0 -1 1072 500 2
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:31:34 +0000
-p3
-s."
-EndChar
-
 StartChar: lessequal
-Encoding: 8804 8804 286
+Encoding: 8804 8804 276
 GlifName: lessequal
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 253 8805 N -1 0 0 1 575 0 2
+Refer: 245 8805 N -1 0 0 1 575 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -54574,7 +53825,7 @@ s."
 EndChar
 
 StartChar: lfblock
-Encoding: 9612 9612 287
+Encoding: 9612 9612 277
 GlifName: lfblock
 Width: 575
 VWidth: 0
@@ -54596,50 +53847,8 @@ p2
 s."
 EndChar
 
-StartChar: lighthorzbxd
-Encoding: 65568 -1 288
-GlifName: lighthorzbxd
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.Export
-p1
-I00
-sVcom.schriftgestaltung.Glyphs.lastChange
-p2
-V2016-06-09 18:43:36 +0000
-p3
-s."
-EndChar
-
-StartChar: lighthorzbxd.001
-Encoding: 65569 -1 289
-GlifName: lighthorzbxd.001
-Width: 575
-VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--21 304 m 257
- 596 304 l 257
- 596 346 l 257
- -21 346 l 257
- -21 304 l 257
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
-p1
-V2016-06-10 08:26:49 +0000
-p2
-s."
-EndChar
-
 StartChar: logicalnot
-Encoding: 172 172 290
+Encoding: 172 172 278
 GlifName: logicalnot
 Width: 575
 VWidth: 0
@@ -54669,7 +53878,7 @@ s."
 EndChar
 
 StartChar: lslash
-Encoding: 322 322 291
+Encoding: 322 322 279
 GlifName: lslash
 Width: 575
 VWidth: 0
@@ -54718,7 +53927,7 @@ s."
 EndChar
 
 StartChar: ltshade
-Encoding: 9617 9617 292
+Encoding: 9617 9617 280
 GlifName: ltshade
 Width: 575
 VWidth: 0
@@ -54755,7 +53964,7 @@ s."
 EndChar
 
 StartChar: m
-Encoding: 109 109 293
+Encoding: 109 109 281
 GlifName: m
 Width: 575
 VWidth: 0
@@ -55688,7 +54897,7 @@ sss."
 EndChar
 
 StartChar: macron
-Encoding: 175 175 294
+Encoding: 175 175 282
 GlifName: macron
 Width: 575
 VWidth: 0
@@ -55716,14 +54925,14 @@ s."
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 295
+Encoding: 8722 8722 283
 GlifName: minus
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 262 45 N 1 0 0 1 0 0 2
+Refer: 254 45 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -55733,7 +54942,7 @@ s."
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 296
+Encoding: 215 215 284
 GlifName: multiply
 Width: 575
 VWidth: 0
@@ -55772,7 +54981,7 @@ s."
 EndChar
 
 StartChar: n
-Encoding: 110 110 297
+Encoding: 110 110 285
 GlifName: n
 Width: 575
 VWidth: 0
@@ -55808,14 +55017,14 @@ s."
 EndChar
 
 StartChar: nacute
-Encoding: 324 324 298
+Encoding: 324 324 286
 GlifName: nacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 297 110 N 1 0 0 1 0 0 2
+Refer: 285 110 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -55826,15 +55035,15 @@ s."
 EndChar
 
 StartChar: ncaron
-Encoding: 328 328 299
+Encoding: 328 328 287
 GlifName: ncaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 297 110 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 50 2
+Refer: 285 110 N 1 0 0 1 0 0 2
+Refer: 172 711 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -55844,14 +55053,14 @@ s."
 EndChar
 
 StartChar: nine
-Encoding: 57 57 300
+Encoding: 57 57 288
 GlifName: nine
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 380 54 N -1 0 0 -1 553 704 2
+Refer: 368 54 N -1 0 0 -1 553 704 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57297,7 +56506,7 @@ sss."
 EndChar
 
 StartChar: nine.dnom
-Encoding: 65570 -1 301
+Encoding: 65570 -1 289
 GlifName: nine.dnom
 Width: 250
 VWidth: 0
@@ -57336,7 +56545,7 @@ s."
 EndChar
 
 StartChar: nine.hex
-Encoding: 65571 -1 302
+Encoding: 65571 -1 290
 GlifName: nine.hex
 Width: 575
 VWidth: 0
@@ -57363,7 +56572,7 @@ SplineSet
  537 804 546 812 546 829 c 258
  546 875 l 258
 EndSplineSet
-Refer: 300 57 N 1 0 0 1 0 0 2
+Refer: 288 57 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57373,14 +56582,14 @@ s."
 EndChar
 
 StartChar: nine.numr
-Encoding: 65572 -1 303
+Encoding: 65572 -1 291
 GlifName: nine.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 301 -1 N 1 0 0 1 0 400 2
+Refer: 289 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -57401,7 +56610,7 @@ s."
 EndChar
 
 StartChar: notequal
-Encoding: 8800 8800 304
+Encoding: 8800 8800 292
 GlifName: notequal
 Width: 575
 VWidth: 0
@@ -57453,15 +56662,15 @@ s."
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 305
+Encoding: 241 241 293
 GlifName: ntilde
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 297 110 N 1 0 0 1 0 0 2
-Refer: 401 732 N 1 0 0 1 0 50 2
+Refer: 285 110 N 1 0 0 1 0 0 2
+Refer: 389 732 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57471,14 +56680,14 @@ s."
 EndChar
 
 StartChar: nu
-Encoding: 957 957 306
+Encoding: 957 957 294
 GlifName: nu
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 703 118 N 1 0 0 1 0 0 2
+Refer: 691 118 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57488,7 +56697,7 @@ s."
 EndChar
 
 StartChar: numbersign
-Encoding: 35 35 307
+Encoding: 35 35 295
 GlifName: numbersign
 Width: 575
 VWidth: 0
@@ -57556,7 +56765,7 @@ s."
 EndChar
 
 StartChar: o
-Encoding: 111 111 308
+Encoding: 111 111 296
 GlifName: o
 Width: 575
 VWidth: 0
@@ -57587,14 +56796,14 @@ s."
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 309
+Encoding: 243 243 297
 GlifName: oacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
+Refer: 296 111 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -57605,15 +56814,15 @@ s."
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 310
+Encoding: 244 244 298
 GlifName: ocircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 296 111 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57623,15 +56832,15 @@ s."
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 311
+Encoding: 246 246 299
 GlifName: odieresis
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 50 2
+Refer: 296 111 N 1 0 0 1 0 0 2
+Refer: 192 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57641,7 +56850,7 @@ s."
 EndChar
 
 StartChar: oe
-Encoding: 339 339 312
+Encoding: 339 339 300
 GlifName: oe
 Width: 575
 VWidth: 0
@@ -57686,7 +56895,7 @@ s."
 EndChar
 
 StartChar: ogonek
-Encoding: 731 731 313
+Encoding: 731 731 301
 GlifName: ogonek
 Width: 575
 VWidth: 0
@@ -57716,15 +56925,15 @@ s."
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 314
+Encoding: 242 242 302
 GlifName: ograve
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 50 2
+Refer: 296 111 N 1 0 0 1 0 0 2
+Refer: 243 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57734,15 +56943,15 @@ s."
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 337 337 315
+Encoding: 337 337 303
 GlifName: ohungarumlaut
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
-Refer: 261 733 N 1 0 0 1 -3 50 2
+Refer: 296 111 N 1 0 0 1 0 0 2
+Refer: 253 733 N 1 0 0 1 -3 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57752,15 +56961,15 @@ s."
 EndChar
 
 StartChar: omacron
-Encoding: 333 333 316
+Encoding: 333 333 304
 GlifName: omacron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 50 2
+Refer: 296 111 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57770,7 +56979,7 @@ s."
 EndChar
 
 StartChar: omega
-Encoding: 969 969 317
+Encoding: 969 969 305
 GlifName: omega
 Width: 575
 VWidth: 0
@@ -57816,14 +57025,14 @@ s."
 EndChar
 
 StartChar: omicron
-Encoding: 959 959 318
+Encoding: 959 959 306
 GlifName: omicron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
+Refer: 296 111 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -57833,7 +57042,7 @@ s."
 EndChar
 
 StartChar: one
-Encoding: 49 49 319
+Encoding: 49 49 307
 GlifName: one
 Width: 575
 VWidth: 0
@@ -59431,7 +58640,7 @@ sss."
 EndChar
 
 StartChar: one.dnom
-Encoding: 65573 -1 320
+Encoding: 65573 -1 308
 GlifName: one.dnom
 Width: 250
 VWidth: 0
@@ -59472,7 +58681,7 @@ s."
 EndChar
 
 StartChar: one.hex
-Encoding: 65574 -1 321
+Encoding: 65574 -1 309
 GlifName: one.hex
 Width: 575
 VWidth: 0
@@ -59490,7 +58699,7 @@ SplineSet
  537 804 546 812 546 829 c 258
  546 875 l 258
 EndSplineSet
-Refer: 319 49 N 1 0 0 1 0 0 2
+Refer: 307 49 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -59500,14 +58709,14 @@ s."
 EndChar
 
 StartChar: one.numr
-Encoding: 65575 -1 322
+Encoding: 65575 -1 310
 GlifName: one.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 320 -1 N 1 0 0 1 0 400 2
+Refer: 308 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -59528,7 +58737,7 @@ s."
 EndChar
 
 StartChar: onedotenleader
-Encoding: 8228 8228 323
+Encoding: 8228 8228 311
 GlifName: onedotenleader
 Width: 575
 VWidth: 0
@@ -59555,16 +58764,16 @@ s."
 EndChar
 
 StartChar: oneeighth
-Encoding: 8539 8539 324
+Encoding: 8539 8539 312
 GlifName: oneeighth
 Width: 590
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 212 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 209 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -59582,16 +58791,16 @@ s."
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 325
+Encoding: 189 189 313
 GlifName: onehalf
 Width: 587
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 404 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 392 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -59609,16 +58818,16 @@ s."
 EndChar
 
 StartChar: onequarter
-Encoding: 188 188 326
+Encoding: 188 188 314
 GlifName: onequarter
 Width: 585
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 241 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 235 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -59636,7 +58845,7 @@ s."
 EndChar
 
 StartChar: ordfeminine
-Encoding: 170 170 327
+Encoding: 170 170 315
 GlifName: ordfeminine
 Width: 575
 VWidth: 0
@@ -59675,7 +58884,7 @@ s."
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 328
+Encoding: 186 186 316
 GlifName: ordmasculine
 Width: 575
 VWidth: 0
@@ -59706,7 +58915,7 @@ s."
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 329
+Encoding: 248 248 317
 GlifName: oslash
 Width: 575
 VWidth: 0
@@ -59754,15 +58963,15 @@ s."
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 330
+Encoding: 245 245 318
 GlifName: otilde
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
-Refer: 401 732 N 1 0 0 1 0 50 2
+Refer: 296 111 N 1 0 0 1 0 0 2
+Refer: 389 732 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -59772,7 +58981,7 @@ s."
 EndChar
 
 StartChar: p
-Encoding: 112 112 331
+Encoding: 112 112 319
 GlifName: p
 Width: 575
 VWidth: 0
@@ -59809,7 +59018,7 @@ s."
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 332
+Encoding: 182 182 320
 GlifName: paragraph
 Width: 575
 VWidth: 0
@@ -59846,7 +59055,7 @@ s."
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 333
+Encoding: 40 40 321
 GlifName: parenleft
 Width: 575
 VWidth: 0
@@ -60474,7 +59683,7 @@ sss."
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 334
+Encoding: 41 41 322
 GlifName: parenright
 Width: 575
 VWidth: 0
@@ -60752,7 +59961,7 @@ sss."
 EndChar
 
 StartChar: partialdiff
-Encoding: 8706 8706 335
+Encoding: 8706 8706 323
 GlifName: partialdiff
 Width: 575
 VWidth: 0
@@ -60788,7 +59997,7 @@ s."
 EndChar
 
 StartChar: percent
-Encoding: 37 37 336
+Encoding: 37 37 324
 GlifName: percent
 Width: 575
 VWidth: 0
@@ -60833,7 +60042,7 @@ s."
 EndChar
 
 StartChar: period
-Encoding: 46 46 337
+Encoding: 46 46 325
 GlifName: period
 Width: 575
 VWidth: 0
@@ -60860,7 +60069,7 @@ s."
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 338
+Encoding: 183 183 326
 GlifName: periodcentered
 Width: 575
 VWidth: 0
@@ -60887,7 +60096,7 @@ s."
 EndChar
 
 StartChar: perthousand
-Encoding: 8240 8240 339
+Encoding: 8240 8240 327
 GlifName: perthousand
 Width: 575
 VWidth: 0
@@ -60941,7 +60150,7 @@ s."
 EndChar
 
 StartChar: phi
-Encoding: 966 966 340
+Encoding: 966 966 328
 GlifName: phi
 Width: 575
 VWidth: 0
@@ -60984,7 +60193,7 @@ s."
 EndChar
 
 StartChar: pi
-Encoding: 960 960 341
+Encoding: 960 960 329
 GlifName: pi
 Width: 575
 VWidth: 0
@@ -61025,7 +60234,7 @@ s."
 EndChar
 
 StartChar: plus
-Encoding: 43 43 342
+Encoding: 43 43 330
 GlifName: plus
 Width: 575
 VWidth: 0
@@ -61085,7 +60294,7 @@ s."
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 343
+Encoding: 177 177 331
 GlifName: plusminus
 Width: 575
 VWidth: 0
@@ -61133,7 +60342,7 @@ s."
 EndChar
 
 StartChar: product
-Encoding: 8719 8719 344
+Encoding: 8719 8719 332
 GlifName: product
 Width: 575
 VWidth: 0
@@ -61172,7 +60381,7 @@ s."
 EndChar
 
 StartChar: psi
-Encoding: 968 968 345
+Encoding: 968 968 333
 GlifName: psi
 Width: 575
 VWidth: 0
@@ -61215,7 +60424,7 @@ s."
 EndChar
 
 StartChar: q
-Encoding: 113 113 346
+Encoding: 113 113 334
 GlifName: q
 Width: 575
 VWidth: 0
@@ -61597,7 +60806,7 @@ sss."
 EndChar
 
 StartChar: question
-Encoding: 63 63 347
+Encoding: 63 63 335
 GlifName: question
 Width: 575
 VWidth: 0
@@ -62591,14 +61800,14 @@ sss."
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 348
+Encoding: 191 191 336
 GlifName: questiondown
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 347 63 N -1 0 0 -1 583 500 2
+Refer: 335 63 N -1 0 0 -1 583 500 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62608,7 +61817,7 @@ s."
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 349
+Encoding: 34 34 337
 GlifName: quotedbl
 Width: 575
 VWidth: 0
@@ -62644,15 +61853,15 @@ s."
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 350
+Encoding: 8222 8222 338
 GlifName: quotedblbase
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 356 8218 N 1 0 0 1 -100 0 2
-Refer: 356 8218 N 1 0 0 1 100 0 2
+Refer: 344 8218 N 1 0 0 1 -100 0 2
+Refer: 344 8218 N 1 0 0 1 100 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62662,15 +61871,15 @@ s."
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 351
+Encoding: 8220 8220 339
 GlifName: quotedblleft
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 356 8218 N -1 0 0 -1 660 518 2
-Refer: 356 8218 N -1 0 0 -1 460 518 2
+Refer: 344 8218 N -1 0 0 -1 660 518 2
+Refer: 344 8218 N -1 0 0 -1 460 518 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62680,15 +61889,15 @@ s."
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 352
+Encoding: 8221 8221 340
 GlifName: quotedblright
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 356 8218 N 1 0 0 1 -100 635 2
-Refer: 356 8218 N 1 0 0 1 100 635 2
+Refer: 344 8218 N 1 0 0 1 -100 635 2
+Refer: 344 8218 N 1 0 0 1 100 635 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62698,14 +61907,14 @@ s."
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 353
+Encoding: 8216 8216 341
 GlifName: quoteleft
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 356 8218 N -1 0 0 -1 560 518 2
+Refer: 344 8218 N -1 0 0 -1 560 518 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62715,14 +61924,14 @@ s."
 EndChar
 
 StartChar: quotereversed
-Encoding: 8219 8219 354
+Encoding: 8219 8219 342
 GlifName: quotereversed
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 356 8218 N -1 0 0 1 560 634 2
+Refer: 344 8218 N -1 0 0 1 560 634 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62732,14 +61941,14 @@ s."
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 355
+Encoding: 8217 8217 343
 GlifName: quoteright
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 356 8218 N 1 0 0 1 0 635 2
+Refer: 344 8218 N 1 0 0 1 0 635 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62749,7 +61958,7 @@ s."
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 8218 8218 356
+Encoding: 8218 8218 344
 GlifName: quotesinglbase
 Width: 575
 VWidth: 0
@@ -62780,7 +61989,7 @@ s."
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 357
+Encoding: 39 39 345
 GlifName: quotesingle
 Width: 575
 VWidth: 0
@@ -62807,7 +62016,7 @@ s."
 EndChar
 
 StartChar: r
-Encoding: 114 114 358
+Encoding: 114 114 346
 GlifName: r
 Width: 575
 VWidth: 0
@@ -62841,14 +62050,14 @@ s."
 EndChar
 
 StartChar: racute
-Encoding: 341 341 359
+Encoding: 341 341 347
 GlifName: racute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 358 114 N 1 0 0 1 0 0 2
+Refer: 346 114 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -62859,7 +62068,7 @@ s."
 EndChar
 
 StartChar: radical
-Encoding: 8730 8730 360
+Encoding: 8730 8730 348
 GlifName: radical
 Width: 575
 VWidth: 0
@@ -62897,15 +62106,15 @@ s."
 EndChar
 
 StartChar: rcaron
-Encoding: 345 345 361
+Encoding: 345 345 349
 GlifName: rcaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 358 114 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 50 2
+Refer: 346 114 N 1 0 0 1 0 0 2
+Refer: 172 711 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -62915,7 +62124,7 @@ s."
 EndChar
 
 StartChar: registered
-Encoding: 174 174 362
+Encoding: 174 174 350
 GlifName: registered
 Width: 575
 VWidth: 0
@@ -62980,7 +62189,7 @@ s."
 EndChar
 
 StartChar: rho
-Encoding: 961 961 363
+Encoding: 961 961 351
 GlifName: rho
 Width: 575
 VWidth: 0
@@ -63014,7 +62223,7 @@ s."
 EndChar
 
 StartChar: ring
-Encoding: 730 730 364
+Encoding: 730 730 352
 GlifName: ring
 Width: 575
 VWidth: 0
@@ -63045,7 +62254,7 @@ s."
 EndChar
 
 StartChar: rtblock
-Encoding: 9616 9616 365
+Encoding: 9616 9616 353
 GlifName: rtblock
 Width: 575
 VWidth: 0
@@ -63068,7 +62277,7 @@ s."
 EndChar
 
 StartChar: s
-Encoding: 115 115 366
+Encoding: 115 115 354
 GlifName: s
 Width: 575
 VWidth: 0
@@ -63563,14 +62772,14 @@ sss."
 EndChar
 
 StartChar: sacute
-Encoding: 347 347 367
+Encoding: 347 347 355
 GlifName: sacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 366 115 N 1 0 0 1 0 0 2
+Refer: 354 115 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -63581,15 +62790,15 @@ s."
 EndChar
 
 StartChar: scaron
-Encoding: 353 353 368
+Encoding: 353 353 356
 GlifName: scaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 366 115 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 50 2
+Refer: 354 115 N 1 0 0 1 0 0 2
+Refer: 172 711 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -63599,15 +62808,15 @@ s."
 EndChar
 
 StartChar: scedilla
-Encoding: 351 351 369
+Encoding: 351 351 357
 GlifName: scedilla
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 366 115 N 1 0 0 1 0 0 2
-Refer: 179 184 N 1 0 0 1 6 0 2
+Refer: 354 115 N 1 0 0 1 0 0 2
+Refer: 176 184 N 1 0 0 1 6 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -63617,15 +62826,15 @@ s."
 EndChar
 
 StartChar: scircumflex
-Encoding: 349 349 370
+Encoding: 349 349 358
 GlifName: scircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 366 115 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 354 115 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -63635,7 +62844,7 @@ s."
 EndChar
 
 StartChar: section
-Encoding: 167 167 371
+Encoding: 167 167 359
 GlifName: section
 Width: 575
 VWidth: 0
@@ -65234,7 +64443,7 @@ sss."
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 372
+Encoding: 59 59 360
 GlifName: semicolon
 Width: 575
 VWidth: 0
@@ -65274,7 +64483,7 @@ s."
 EndChar
 
 StartChar: seven
-Encoding: 55 55 373
+Encoding: 55 55 361
 GlifName: seven
 Width: 575
 VWidth: 0
@@ -65985,7 +65194,7 @@ sss."
 EndChar
 
 StartChar: seven.dnom
-Encoding: 65576 -1 374
+Encoding: 65576 -1 362
 GlifName: seven.dnom
 Width: 250
 VWidth: 0
@@ -66026,7 +65235,7 @@ s."
 EndChar
 
 StartChar: seven.hex
-Encoding: 65577 -1 375
+Encoding: 65577 -1 363
 GlifName: seven.hex
 Width: 575
 VWidth: 0
@@ -66062,7 +65271,7 @@ SplineSet
  537 804 546 812 546 829 c 258
  546 875 l 258
 EndSplineSet
-Refer: 373 55 N 1 0 0 1 0 0 2
+Refer: 361 55 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -66072,14 +65281,14 @@ s."
 EndChar
 
 StartChar: seven.numr
-Encoding: 65578 -1 376
+Encoding: 65578 -1 364
 GlifName: seven.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 374 -1 N 1 0 0 1 0 400 2
+Refer: 362 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -66100,16 +65309,16 @@ s."
 EndChar
 
 StartChar: seveneighths
-Encoding: 8542 8542 377
+Encoding: 8542 8542 365
 GlifName: seveneighths
 Width: 577
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 376 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 212 -1 N 1 0 0 1 325 0 2
+Refer: 364 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 209 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -66127,7 +65336,7 @@ s."
 EndChar
 
 StartChar: shade
-Encoding: 9618 9618 378
+Encoding: 9618 9618 366
 GlifName: shade
 Width: 575
 VWidth: 0
@@ -66184,7 +65393,7 @@ s."
 EndChar
 
 StartChar: sigma
-Encoding: 963 963 379
+Encoding: 963 963 367
 GlifName: sigma
 Width: 575
 VWidth: 0
@@ -66218,7 +65427,7 @@ s."
 EndChar
 
 StartChar: six
-Encoding: 54 54 380
+Encoding: 54 54 368
 GlifName: six
 Width: 575
 VWidth: 0
@@ -68782,7 +67991,7 @@ sss."
 EndChar
 
 StartChar: six.dnom
-Encoding: 65579 -1 381
+Encoding: 65579 -1 369
 GlifName: six.dnom
 Width: 250
 VWidth: 0
@@ -68821,7 +68030,7 @@ s."
 EndChar
 
 StartChar: six.hex
-Encoding: 65580 -1 382
+Encoding: 65580 -1 370
 GlifName: six.hex
 Width: 575
 VWidth: 0
@@ -68848,7 +68057,7 @@ SplineSet
  393 804 402 812 402 829 c 258
  402 875 l 258
 EndSplineSet
-Refer: 380 54 N 1 0 0 1 0 0 2
+Refer: 368 54 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -68858,14 +68067,14 @@ s."
 EndChar
 
 StartChar: six.numr
-Encoding: 65581 -1 383
+Encoding: 65581 -1 371
 GlifName: six.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 381 -1 N 1 0 0 1 0 400 2
+Refer: 369 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -68886,14 +68095,14 @@ s."
 EndChar
 
 StartChar: slash
-Encoding: 47 47 384
+Encoding: 47 47 372
 GlifName: slash
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 159 92 N -1 0 0 1 575 0 2
+Refer: 158 92 N -1 0 0 1 575 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -68903,7 +68112,7 @@ s."
 EndChar
 
 StartChar: space
-Encoding: 32 32 385
+Encoding: 32 32 373
 GlifName: space
 Width: 575
 VWidth: 0
@@ -68919,7 +68128,7 @@ s."
 EndChar
 
 StartChar: sterling
-Encoding: 163 163 386
+Encoding: 163 163 374
 GlifName: sterling
 Width: 575
 VWidth: 0
@@ -68968,7 +68177,7 @@ s."
 EndChar
 
 StartChar: summation
-Encoding: 8721 8721 387
+Encoding: 8721 8721 375
 GlifName: summation
 Width: 575
 VWidth: 0
@@ -69008,7 +68217,7 @@ s."
 EndChar
 
 StartChar: t
-Encoding: 116 116 388
+Encoding: 116 116 376
 GlifName: t
 Width: 575
 VWidth: 0
@@ -69515,7 +68724,7 @@ sss."
 EndChar
 
 StartChar: tau
-Encoding: 964 964 389
+Encoding: 964 964 377
 GlifName: tau
 Width: 575
 VWidth: 0
@@ -69552,7 +68761,7 @@ s."
 EndChar
 
 StartChar: tbar
-Encoding: 359 359 390
+Encoding: 359 359 378
 GlifName: tbar
 Width: 575
 VWidth: 0
@@ -69611,15 +68820,15 @@ s."
 EndChar
 
 StartChar: tcaron
-Encoding: 357 357 391
+Encoding: 357 357 379
 GlifName: tcaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 388 116 N 1 0 0 1 0 0 2
-Refer: 356 8218 N 1 0 0 1 121 735 2
+Refer: 376 116 N 1 0 0 1 0 0 2
+Refer: 344 8218 N 1 0 0 1 121 735 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -69629,7 +68838,7 @@ s."
 EndChar
 
 StartChar: therefore
-Encoding: 8756 8756 392
+Encoding: 8756 8756 380
 GlifName: therefore
 Width: 575
 VWidth: 0
@@ -69674,7 +68883,7 @@ s."
 EndChar
 
 StartChar: theta
-Encoding: 952 952 393
+Encoding: 952 952 381
 GlifName: theta
 Width: 575
 VWidth: 0
@@ -69706,7 +68915,7 @@ s."
 EndChar
 
 StartChar: thorn
-Encoding: 254 254 394
+Encoding: 254 254 382
 GlifName: thorn
 Width: 575
 VWidth: 0
@@ -69746,7 +68955,7 @@ s."
 EndChar
 
 StartChar: three
-Encoding: 51 51 395
+Encoding: 51 51 383
 GlifName: three
 Width: 575
 VWidth: 0
@@ -70825,7 +70034,7 @@ sss."
 EndChar
 
 StartChar: three.dnom
-Encoding: 65582 -1 396
+Encoding: 65582 -1 384
 GlifName: three.dnom
 Width: 250
 VWidth: 0
@@ -70871,7 +70080,7 @@ s."
 EndChar
 
 StartChar: three.hex
-Encoding: 65583 -1 397
+Encoding: 65583 -1 385
 GlifName: three.hex
 Width: 575
 VWidth: 0
@@ -70898,7 +70107,7 @@ SplineSet
  537 804 546 812 546 829 c 258
  546 875 l 258
 EndSplineSet
-Refer: 395 51 N 1 0 0 1 0 0 2
+Refer: 383 51 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -70908,14 +70117,14 @@ s."
 EndChar
 
 StartChar: three.numr
-Encoding: 65584 -1 398
+Encoding: 65584 -1 386
 GlifName: three.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 396 -1 N 1 0 0 1 0 400 2
+Refer: 384 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -70936,16 +70145,16 @@ s."
 EndChar
 
 StartChar: threeeighths
-Encoding: 8540 8540 399
+Encoding: 8540 8540 387
 GlifName: threeeighths
 Width: 590
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 398 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 212 -1 N 1 0 0 1 325 0 2
+Refer: 386 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 209 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -70963,16 +70172,16 @@ s."
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 400
+Encoding: 190 190 388
 GlifName: threequarters
 Width: 585
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 398 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 241 -1 N 1 0 0 1 325 0 2
+Refer: 386 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 235 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -70990,7 +70199,7 @@ s."
 EndChar
 
 StartChar: tilde
-Encoding: 732 732 401
+Encoding: 732 732 389
 GlifName: tilde
 Width: 575
 VWidth: 0
@@ -71024,7 +70233,7 @@ s."
 EndChar
 
 StartChar: trademark
-Encoding: 8482 8482 402
+Encoding: 8482 8482 390
 GlifName: trademark
 Width: 575
 VWidth: 0
@@ -71082,7 +70291,7 @@ s."
 EndChar
 
 StartChar: two
-Encoding: 50 50 403
+Encoding: 50 50 391
 GlifName: two
 Width: 575
 VWidth: 0
@@ -74233,7 +73442,7 @@ sss."
 EndChar
 
 StartChar: two.dnom
-Encoding: 65585 -1 404
+Encoding: 65585 -1 392
 GlifName: two.dnom
 Width: 250
 VWidth: 0
@@ -74273,7 +73482,7 @@ s."
 EndChar
 
 StartChar: two.hex
-Encoding: 65586 -1 405
+Encoding: 65586 -1 393
 GlifName: two.hex
 Width: 575
 VWidth: 0
@@ -74291,7 +73500,7 @@ SplineSet
  394 804 402 812 402 829 c 258
  402 875 l 258
 EndSplineSet
-Refer: 403 50 N 1 0 0 1 0 0 2
+Refer: 391 50 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -74301,14 +73510,14 @@ s."
 EndChar
 
 StartChar: two.numr
-Encoding: 65587 -1 406
+Encoding: 65587 -1 394
 GlifName: two.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 404 -1 N 1 0 0 1 0 400 2
+Refer: 392 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -74329,15 +73538,15 @@ s."
 EndChar
 
 StartChar: twodotenleader
-Encoding: 8229 8229 407
+Encoding: 8229 8229 395
 GlifName: twodotenleader
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 337 46 N 0.683 0 0 0.683 -10 1 2
-Refer: 337 46 N 0.683 0 0 0.683 193 1 2
+Refer: 325 46 N 0.683 0 0 0.683 -10 1 2
+Refer: 325 46 N 0.683 0 0 0.683 193 1 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -74347,7 +73556,7 @@ s."
 EndChar
 
 StartChar: u
-Encoding: 117 117 408
+Encoding: 117 117 396
 GlifName: u
 Width: 575
 VWidth: 0
@@ -75055,14 +74264,14 @@ sss."
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 409
+Encoding: 250 250 397
 GlifName: uacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
+Refer: 396 117 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -75073,15 +74282,15 @@ s."
 EndChar
 
 StartChar: ubreve
-Encoding: 365 365 410
+Encoding: 365 365 398
 GlifName: ubreve
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 168 728 N 1 0 0 1 0 50 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 166 728 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75091,15 +74300,15 @@ s."
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 411
+Encoding: 251 251 399
 GlifName: ucircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75109,15 +74318,15 @@ s."
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 412
+Encoding: 252 252 400
 GlifName: udieresis
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 50 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 192 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75127,15 +74336,15 @@ s."
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 413
+Encoding: 249 249 401
 GlifName: ugrave
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 50 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 243 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75145,15 +74354,15 @@ s."
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 369 369 414
+Encoding: 369 369 402
 GlifName: uhungarumlaut
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 261 733 N 1 0 0 1 -3 50 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 253 733 N 1 0 0 1 -3 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75163,15 +74372,15 @@ s."
 EndChar
 
 StartChar: umacron
-Encoding: 363 363 415
+Encoding: 363 363 403
 GlifName: umacron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 50 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75181,7 +74390,7 @@ s."
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 416
+Encoding: 95 95 404
 GlifName: underscore
 Width: 575
 VWidth: 0
@@ -75208,7 +74417,7 @@ s."
 EndChar
 
 StartChar: uni00A0
-Encoding: 160 160 417
+Encoding: 160 160 405
 GlifName: uni00A_0
 Width: 575
 VWidth: 0
@@ -75217,7 +74426,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni00B5
-Encoding: 181 181 418
+Encoding: 181 181 406
 GlifName: uni00B_5
 Width: 575
 VWidth: 0
@@ -75255,7 +74464,7 @@ s."
 EndChar
 
 StartChar: uni0162
-Encoding: 354 354 419
+Encoding: 354 354 407
 GlifName: uni0162
 Width: 575
 VWidth: 0
@@ -75263,7 +74472,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 101 84 N 1 0 0 1 0 0 2
-Refer: 179 184 N 1 0 0 1 6 0 2
+Refer: 176 184 N 1 0 0 1 6 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75273,15 +74482,15 @@ s."
 EndChar
 
 StartChar: uni0163
-Encoding: 355 355 420
+Encoding: 355 355 408
 GlifName: uni0163
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 388 116 N 1 0 0 1 0 0 2
-Refer: 179 184 N 1 0 0 1 6 0 2
+Refer: 376 116 N 1 0 0 1 0 0 2
+Refer: 176 184 N 1 0 0 1 6 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75291,7 +74500,7 @@ s."
 EndChar
 
 StartChar: uni0237
-Encoding: 567 567 421
+Encoding: 567 567 409
 GlifName: uni0237
 Width: 575
 VWidth: 0
@@ -75325,7 +74534,7 @@ s."
 EndChar
 
 StartChar: uni0394
-Encoding: 916 916 422
+Encoding: 916 916 410
 GlifName: uni0394
 Width: 575
 VWidth: 0
@@ -75356,7 +74565,7 @@ s."
 EndChar
 
 StartChar: uni03A9
-Encoding: 937 937 423
+Encoding: 937 937 411
 GlifName: uni03A_9
 Width: 575
 VWidth: 0
@@ -75405,7 +74614,7 @@ s."
 EndChar
 
 StartChar: uni03BC
-Encoding: 956 956 424
+Encoding: 956 956 412
 GlifName: uni03B_C_
 Width: 575
 VWidth: 0
@@ -75443,7 +74652,7 @@ s."
 EndChar
 
 StartChar: uni0401
-Encoding: 1025 1025 425
+Encoding: 1025 1025 413
 GlifName: uni0401
 Width: 575
 VWidth: 0
@@ -75452,7 +74661,7 @@ AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Fore
 Refer: 28 69 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75462,14 +74671,14 @@ s."
 EndChar
 
 StartChar: uni0403
-Encoding: 1027 1027 426
+Encoding: 1027 1027 414
 GlifName: uni0403
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 435 1043 N 1 0 0 1 0 0 2
+Refer: 423 1043 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -75480,7 +74689,7 @@ s."
 EndChar
 
 StartChar: uni0405
-Encoding: 1029 1029 427
+Encoding: 1029 1029 415
 GlifName: uni0405
 Width: 575
 VWidth: 0
@@ -75491,7 +74700,7 @@ Refer: 95 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0406
-Encoding: 1030 1030 428
+Encoding: 1030 1030 416
 GlifName: uni0406
 Width: 575
 VWidth: 0
@@ -75502,7 +74711,7 @@ Refer: 49 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0407
-Encoding: 1031 1031 429
+Encoding: 1031 1031 417
 GlifName: uni0407
 Width: 575
 VWidth: 0
@@ -75510,7 +74719,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 49 73 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 200 2
+Refer: 192 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75520,7 +74729,7 @@ s."
 EndChar
 
 StartChar: uni0408
-Encoding: 1032 1032 430
+Encoding: 1032 1032 418
 GlifName: uni0408
 Width: 575
 VWidth: 0
@@ -75531,14 +74740,14 @@ Refer: 58 74 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni040C
-Encoding: 1036 1036 431
+Encoding: 1036 1036 419
 GlifName: uni040C_
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 442 1050 N 1 0 0 1 0 0 2
+Refer: 430 1050 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -75549,7 +74758,7 @@ s."
 EndChar
 
 StartChar: uni0410
-Encoding: 1040 1040 432
+Encoding: 1040 1040 420
 GlifName: uni0410
 Width: 575
 VWidth: 0
@@ -75566,7 +74775,7 @@ s."
 EndChar
 
 StartChar: uni0411
-Encoding: 1041 1041 433
+Encoding: 1041 1041 421
 GlifName: uni0411
 Width: 575
 VWidth: 0
@@ -75604,7 +74813,7 @@ s."
 EndChar
 
 StartChar: uni0412
-Encoding: 1042 1042 434
+Encoding: 1042 1042 422
 GlifName: uni0412
 Width: 575
 VWidth: 0
@@ -75615,7 +74824,7 @@ Refer: 14 66 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0413
-Encoding: 1043 1043 435
+Encoding: 1043 1043 423
 GlifName: uni0413
 Width: 575
 VWidth: 0
@@ -75648,7 +74857,7 @@ s."
 EndChar
 
 StartChar: uni0414
-Encoding: 1044 1044 436
+Encoding: 1044 1044 424
 GlifName: uni0414
 Width: 575
 VWidth: 0
@@ -75694,7 +74903,7 @@ s."
 EndChar
 
 StartChar: uni0415
-Encoding: 1045 1045 437
+Encoding: 1045 1045 425
 GlifName: uni0415
 Width: 575
 VWidth: 0
@@ -75712,7 +74921,7 @@ s."
 EndChar
 
 StartChar: uni0416
-Encoding: 1046 1046 438
+Encoding: 1046 1046 426
 GlifName: uni0416
 Width: 575
 VWidth: 0
@@ -75771,7 +74980,7 @@ s."
 EndChar
 
 StartChar: uni0417
-Encoding: 1047 1047 439
+Encoding: 1047 1047 427
 GlifName: uni0417
 Width: 575
 VWidth: 0
@@ -75780,7 +74989,7 @@ AnchorPoint: "top" 288 700 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 395 51 N 1 0 0 1 0 0 2
+Refer: 383 51 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75790,7 +74999,7 @@ s."
 EndChar
 
 StartChar: uni0418
-Encoding: 1048 1048 440
+Encoding: 1048 1048 428
 GlifName: uni0418
 Width: 575
 VWidth: 0
@@ -75830,15 +75039,15 @@ s."
 EndChar
 
 StartChar: uni0419
-Encoding: 1049 1049 441
+Encoding: 1049 1049 429
 GlifName: uni0419
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 168 728 N 1 0 0 1 0 200 2
-Refer: 440 1048 N 1 0 0 1 0 0 2
+Refer: 166 728 N 1 0 0 1 0 200 2
+Refer: 428 1048 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -75848,7 +75057,7 @@ s."
 EndChar
 
 StartChar: uni041A
-Encoding: 1050 1050 442
+Encoding: 1050 1050 430
 GlifName: uni041A_
 Width: 575
 VWidth: 0
@@ -75867,7 +75076,7 @@ s."
 EndChar
 
 StartChar: uni041B
-Encoding: 1051 1051 443
+Encoding: 1051 1051 431
 GlifName: uni041B_
 Width: 575
 VWidth: 0
@@ -75902,7 +75111,7 @@ s."
 EndChar
 
 StartChar: uni041C
-Encoding: 1052 1052 444
+Encoding: 1052 1052 432
 GlifName: uni041C_
 Width: 575
 VWidth: 0
@@ -75913,7 +75122,7 @@ Refer: 68 77 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni041D
-Encoding: 1053 1053 445
+Encoding: 1053 1053 433
 GlifName: uni041D_
 Width: 575
 VWidth: 0
@@ -75931,7 +75140,7 @@ s."
 EndChar
 
 StartChar: uni041E
-Encoding: 1054 1054 446
+Encoding: 1054 1054 434
 GlifName: uni041E_
 Width: 575
 VWidth: 0
@@ -75949,7 +75158,7 @@ s."
 EndChar
 
 StartChar: uni041F
-Encoding: 1055 1055 447
+Encoding: 1055 1055 435
 GlifName: uni041F_
 Width: 575
 VWidth: 0
@@ -75983,7 +75192,7 @@ s."
 EndChar
 
 StartChar: uni0420
-Encoding: 1056 1056 448
+Encoding: 1056 1056 436
 GlifName: uni0420
 Width: 575
 VWidth: 0
@@ -75994,7 +75203,7 @@ Refer: 86 80 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0421
-Encoding: 1057 1057 449
+Encoding: 1057 1057 437
 GlifName: uni0421
 Width: 575
 VWidth: 0
@@ -76012,7 +75221,7 @@ s."
 EndChar
 
 StartChar: uni0422
-Encoding: 1058 1058 450
+Encoding: 1058 1058 438
 GlifName: uni0422
 Width: 575
 VWidth: 0
@@ -76030,7 +75239,7 @@ s."
 EndChar
 
 StartChar: uni0423
-Encoding: 1059 1059 451
+Encoding: 1059 1059 439
 GlifName: uni0423
 Width: 575
 VWidth: 0
@@ -76071,7 +75280,7 @@ s."
 EndChar
 
 StartChar: uni0424
-Encoding: 1060 1060 452
+Encoding: 1060 1060 440
 GlifName: uni0424
 Width: 575
 VWidth: 0
@@ -76114,7 +75323,7 @@ s."
 EndChar
 
 StartChar: uni0425
-Encoding: 1061 1061 453
+Encoding: 1061 1061 441
 GlifName: uni0425
 Width: 575
 VWidth: 0
@@ -76132,7 +75341,7 @@ s."
 EndChar
 
 StartChar: uni0426
-Encoding: 1062 1062 454
+Encoding: 1062 1062 442
 GlifName: uni0426
 Width: 575
 VWidth: 0
@@ -76171,7 +75380,7 @@ s."
 EndChar
 
 StartChar: uni0427
-Encoding: 1063 1063 455
+Encoding: 1063 1063 443
 GlifName: uni0427
 Width: 575
 VWidth: 0
@@ -76210,7 +75419,7 @@ s."
 EndChar
 
 StartChar: uni0428
-Encoding: 1064 1064 456
+Encoding: 1064 1064 444
 GlifName: uni0428
 Width: 575
 VWidth: 0
@@ -76249,7 +75458,7 @@ s."
 EndChar
 
 StartChar: uni0429
-Encoding: 1065 1065 457
+Encoding: 1065 1065 445
 GlifName: uni0429
 Width: 575
 VWidth: 0
@@ -76293,7 +75502,7 @@ s."
 EndChar
 
 StartChar: uni042A
-Encoding: 1066 1066 458
+Encoding: 1066 1066 446
 GlifName: uni042A_
 Width: 575
 VWidth: 0
@@ -76331,7 +75540,7 @@ s."
 EndChar
 
 StartChar: uni042B
-Encoding: 1067 1067 459
+Encoding: 1067 1067 447
 GlifName: uni042B_
 Width: 575
 VWidth: 0
@@ -76373,7 +75582,7 @@ s."
 EndChar
 
 StartChar: uni042C
-Encoding: 1068 1068 460
+Encoding: 1068 1068 448
 GlifName: uni042C_
 Width: 575
 VWidth: 0
@@ -76408,7 +75617,7 @@ s."
 EndChar
 
 StartChar: uni042D
-Encoding: 1069 1069 461
+Encoding: 1069 1069 449
 GlifName: uni042D_
 Width: 575
 VWidth: 0
@@ -76449,7 +75658,7 @@ s."
 EndChar
 
 StartChar: uni042E
-Encoding: 1070 1070 462
+Encoding: 1070 1070 450
 GlifName: uni042E_
 Width: 575
 VWidth: 0
@@ -76496,7 +75705,7 @@ s."
 EndChar
 
 StartChar: uni042F
-Encoding: 1071 1071 463
+Encoding: 1071 1071 451
 GlifName: uni042F_
 Width: 575
 VWidth: 0
@@ -76540,7 +75749,7 @@ s."
 EndChar
 
 StartChar: uni0430
-Encoding: 1072 1072 464
+Encoding: 1072 1072 452
 GlifName: uni0430
 Width: 575
 VWidth: 0
@@ -76558,7 +75767,7 @@ s."
 EndChar
 
 StartChar: uni0431
-Encoding: 1073 1073 465
+Encoding: 1073 1073 453
 GlifName: uni0431
 Width: 575
 VWidth: 0
@@ -76595,7 +75804,7 @@ s."
 EndChar
 
 StartChar: uni0432
-Encoding: 1074 1074 466
+Encoding: 1074 1074 454
 GlifName: uni0432
 Width: 575
 VWidth: 0
@@ -76638,7 +75847,7 @@ s."
 EndChar
 
 StartChar: uni0433
-Encoding: 1075 1075 467
+Encoding: 1075 1075 455
 GlifName: uni0433
 Width: 575
 VWidth: 0
@@ -76671,7 +75880,7 @@ s."
 EndChar
 
 StartChar: uni0434
-Encoding: 1076 1076 468
+Encoding: 1076 1076 456
 GlifName: uni0434
 Width: 575
 VWidth: 0
@@ -76716,7 +75925,7 @@ s."
 EndChar
 
 StartChar: uni0435
-Encoding: 1077 1077 469
+Encoding: 1077 1077 457
 GlifName: uni0435
 Width: 575
 VWidth: 0
@@ -76724,7 +75933,7 @@ Flags: W
 AnchorPoint: "top" 288 500 basechar 0
 LayerCount: 2
 Fore
-Refer: 203 101 N 1 0 0 1 0 0 2
+Refer: 200 101 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -76734,7 +75943,7 @@ s."
 EndChar
 
 StartChar: uni0436
-Encoding: 1078 1078 470
+Encoding: 1078 1078 458
 GlifName: uni0436
 Width: 575
 VWidth: 0
@@ -76794,7 +76003,7 @@ s."
 EndChar
 
 StartChar: uni0437
-Encoding: 1079 1079 471
+Encoding: 1079 1079 459
 GlifName: uni0437
 Width: 575
 VWidth: 0
@@ -76838,7 +76047,7 @@ s."
 EndChar
 
 StartChar: uni0438
-Encoding: 1080 1080 472
+Encoding: 1080 1080 460
 GlifName: uni0438
 Width: 575
 VWidth: 0
@@ -76878,7 +76087,7 @@ s."
 EndChar
 
 StartChar: uni0439
-Encoding: 1081 1081 473
+Encoding: 1081 1081 461
 GlifName: uni0439
 Width: 575
 VWidth: 0
@@ -76907,7 +76116,7 @@ SplineSet
  80 500 69 489 69 474 c 258
   PathStart: -2
 EndSplineSet
-Refer: 168 728 N 1 0 0 1 0 50 2
+Refer: 166 728 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -76917,7 +76126,7 @@ s."
 EndChar
 
 StartChar: uni043A
-Encoding: 1082 1082 474
+Encoding: 1082 1082 462
 GlifName: uni043A_
 Width: 575
 VWidth: 0
@@ -76962,7 +76171,7 @@ s."
 EndChar
 
 StartChar: uni043B
-Encoding: 1083 1083 475
+Encoding: 1083 1083 463
 GlifName: uni043B_
 Width: 575
 VWidth: 0
@@ -76997,7 +76206,7 @@ s."
 EndChar
 
 StartChar: uni043C
-Encoding: 1084 1084 476
+Encoding: 1084 1084 464
 GlifName: uni043C_
 Width: 575
 VWidth: 0
@@ -77040,7 +76249,7 @@ s."
 EndChar
 
 StartChar: uni043D
-Encoding: 1085 1085 477
+Encoding: 1085 1085 465
 GlifName: uni043D_
 Width: 575
 VWidth: 0
@@ -77080,7 +76289,7 @@ s."
 EndChar
 
 StartChar: uni043E
-Encoding: 1086 1086 478
+Encoding: 1086 1086 466
 GlifName: uni043E_
 Width: 575
 VWidth: 0
@@ -77088,7 +76297,7 @@ Flags: W
 AnchorPoint: "top" 288 500 basechar 0
 LayerCount: 2
 Fore
-Refer: 308 111 N 1 0 0 1 0 0 2
+Refer: 296 111 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77098,7 +76307,7 @@ s."
 EndChar
 
 StartChar: uni043F
-Encoding: 1087 1087 479
+Encoding: 1087 1087 467
 GlifName: uni043F_
 Width: 575
 VWidth: 0
@@ -77132,18 +76341,18 @@ s."
 EndChar
 
 StartChar: uni0440
-Encoding: 1088 1088 480
+Encoding: 1088 1088 468
 GlifName: uni0440
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 331 112 N 1 0 0 1 0 0 2
+Refer: 319 112 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0441
-Encoding: 1089 1089 481
+Encoding: 1089 1089 469
 GlifName: uni0441
 Width: 575
 VWidth: 0
@@ -77151,7 +76360,7 @@ Flags: W
 AnchorPoint: "bottomright" 555 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 172 99 N 1 0 0 1 0 0 2
+Refer: 169 99 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77161,7 +76370,7 @@ s."
 EndChar
 
 StartChar: uni0442
-Encoding: 1090 1090 482
+Encoding: 1090 1090 470
 GlifName: uni0442
 Width: 575
 VWidth: 0
@@ -77196,7 +76405,7 @@ s."
 EndChar
 
 StartChar: uni0443
-Encoding: 1091 1091 483
+Encoding: 1091 1091 471
 GlifName: uni0443
 Width: 575
 VWidth: 0
@@ -77204,7 +76413,7 @@ Flags: W
 AnchorPoint: "top" 288 500 basechar 0
 LayerCount: 2
 Fore
-Refer: 711 121 N 1 0 0 1 0 0 2
+Refer: 699 121 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77214,7 +76423,7 @@ s."
 EndChar
 
 StartChar: uni0444
-Encoding: 1092 1092 484
+Encoding: 1092 1092 472
 GlifName: uni0444
 Width: 575
 VWidth: 0
@@ -77257,7 +76466,7 @@ s."
 EndChar
 
 StartChar: uni0445
-Encoding: 1093 1093 485
+Encoding: 1093 1093 473
 GlifName: uni0445
 Width: 575
 VWidth: 0
@@ -77265,7 +76474,7 @@ Flags: W
 AnchorPoint: "bottomright" 555 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 709 120 N 1 0 0 1 0 0 2
+Refer: 697 120 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77275,7 +76484,7 @@ s."
 EndChar
 
 StartChar: uni0446
-Encoding: 1094 1094 486
+Encoding: 1094 1094 474
 GlifName: uni0446
 Width: 575
 VWidth: 0
@@ -77314,7 +76523,7 @@ s."
 EndChar
 
 StartChar: uni0447
-Encoding: 1095 1095 487
+Encoding: 1095 1095 475
 GlifName: uni0447
 Width: 575
 VWidth: 0
@@ -77353,7 +76562,7 @@ s."
 EndChar
 
 StartChar: uni0448
-Encoding: 1096 1096 488
+Encoding: 1096 1096 476
 GlifName: uni0448
 Width: 575
 VWidth: 0
@@ -77392,7 +76601,7 @@ s."
 EndChar
 
 StartChar: uni0449
-Encoding: 1097 1097 489
+Encoding: 1097 1097 477
 GlifName: uni0449
 Width: 575
 VWidth: 0
@@ -77436,7 +76645,7 @@ s."
 EndChar
 
 StartChar: uni044A
-Encoding: 1098 1098 490
+Encoding: 1098 1098 478
 GlifName: uni044A_
 Width: 575
 VWidth: 0
@@ -77474,7 +76683,7 @@ s."
 EndChar
 
 StartChar: uni044B
-Encoding: 1099 1099 491
+Encoding: 1099 1099 479
 GlifName: uni044B_
 Width: 575
 VWidth: 0
@@ -77516,7 +76725,7 @@ s."
 EndChar
 
 StartChar: uni044C
-Encoding: 1100 1100 492
+Encoding: 1100 1100 480
 GlifName: uni044C_
 Width: 585
 VWidth: 0
@@ -77551,7 +76760,7 @@ s."
 EndChar
 
 StartChar: uni044D
-Encoding: 1101 1101 493
+Encoding: 1101 1101 481
 GlifName: uni044D_
 Width: 575
 VWidth: 0
@@ -77592,7 +76801,7 @@ s."
 EndChar
 
 StartChar: uni044E
-Encoding: 1102 1102 494
+Encoding: 1102 1102 482
 GlifName: uni044E_
 Width: 575
 VWidth: 0
@@ -77638,7 +76847,7 @@ s."
 EndChar
 
 StartChar: uni044F
-Encoding: 1103 1103 495
+Encoding: 1103 1103 483
 GlifName: uni044F_
 Width: 575
 VWidth: 0
@@ -77679,15 +76888,15 @@ s."
 EndChar
 
 StartChar: uni0451
-Encoding: 1105 1105 496
+Encoding: 1105 1105 484
 GlifName: uni0451
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 469 1077 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 0 2
+Refer: 457 1077 N 1 0 0 1 0 0 2
+Refer: 192 168 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77697,14 +76906,14 @@ s."
 EndChar
 
 StartChar: uni0453
-Encoding: 1107 1107 497
+Encoding: 1107 1107 485
 GlifName: uni0453
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 467 1075 N 1 0 0 1 0 0 2
+Refer: 455 1075 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 12 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -77715,47 +76924,47 @@ s."
 EndChar
 
 StartChar: uni0455
-Encoding: 1109 1109 498
+Encoding: 1109 1109 486
 GlifName: uni0455
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 366 115 N 1 0 0 1 0 0 2
+Refer: 354 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0456
-Encoding: 1110 1110 499
+Encoding: 1110 1110 487
 GlifName: uni0456
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 264 105 N 1 0 0 1 0 0 2
+Refer: 255 105 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0458
-Encoding: 1112 1112 500
+Encoding: 1112 1112 488
 GlifName: uni0458
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 275 106 N 1 0 0 1 0 0 2
+Refer: 266 106 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni045C
-Encoding: 1116 1116 501
+Encoding: 1116 1116 489
 GlifName: uni045C_
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 474 1082 N 1 0 0 1 0 0 2
+Refer: 462 1082 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 12 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -77766,18 +76975,18 @@ s."
 EndChar
 
 StartChar: uni04BB
-Encoding: 1211 1211 502
+Encoding: 1211 1211 490
 GlifName: uni04B_B_
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 258 104 N 1 0 0 1 0 0 2
+Refer: 250 104 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04C0
-Encoding: 1216 1216 503
+Encoding: 1216 1216 491
 GlifName: uni04C_0
 Width: 575
 VWidth: 0
@@ -77788,15 +76997,15 @@ Refer: 49 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04E2
-Encoding: 1250 1250 504
+Encoding: 1250 1250 492
 GlifName: uni04E_2
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 440 1048 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 428 1048 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77806,15 +77015,15 @@ s."
 EndChar
 
 StartChar: uni04E3
-Encoding: 1251 1251 505
+Encoding: 1251 1251 493
 GlifName: uni04E_3
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 472 1080 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 0 2
+Refer: 460 1080 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77824,15 +77033,15 @@ s."
 EndChar
 
 StartChar: uni04EE
-Encoding: 1262 1262 506
+Encoding: 1262 1262 494
 GlifName: uni04E_E_
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 451 1059 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 200 2
+Refer: 439 1059 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77842,15 +77051,15 @@ s."
 EndChar
 
 StartChar: uni04EF
-Encoding: 1263 1263 507
+Encoding: 1263 1263 495
 GlifName: uni04E_F_
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 483 1091 N 1 0 0 1 0 0 2
-Refer: 294 175 N 1 0 0 1 0 0 2
+Refer: 471 1091 N 1 0 0 1 0 0 2
+Refer: 282 175 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -77860,7 +77069,7 @@ s."
 EndChar
 
 StartChar: uni180E
-Encoding: 6158 6158 508
+Encoding: 6158 6158 496
 GlifName: uni180E_
 Width: 575
 VWidth: 0
@@ -77876,7 +77085,7 @@ s."
 EndChar
 
 StartChar: uni2000
-Encoding: 8192 8192 509
+Encoding: 8192 8192 497
 GlifName: uni2000
 Width: 575
 VWidth: 0
@@ -77892,7 +77101,7 @@ s."
 EndChar
 
 StartChar: uni2001
-Encoding: 8193 8193 510
+Encoding: 8193 8193 498
 GlifName: uni2001
 Width: 575
 VWidth: 0
@@ -77908,7 +77117,7 @@ s."
 EndChar
 
 StartChar: uni2002
-Encoding: 8194 8194 511
+Encoding: 8194 8194 499
 GlifName: uni2002
 Width: 575
 VWidth: 0
@@ -77924,7 +77133,7 @@ s."
 EndChar
 
 StartChar: uni2003
-Encoding: 8195 8195 512
+Encoding: 8195 8195 500
 GlifName: uni2003
 Width: 575
 VWidth: 0
@@ -77940,7 +77149,7 @@ s."
 EndChar
 
 StartChar: uni2004
-Encoding: 8196 8196 513
+Encoding: 8196 8196 501
 GlifName: uni2004
 Width: 575
 VWidth: 0
@@ -77956,7 +77165,7 @@ s."
 EndChar
 
 StartChar: uni2005
-Encoding: 8197 8197 514
+Encoding: 8197 8197 502
 GlifName: uni2005
 Width: 575
 VWidth: 0
@@ -77972,7 +77181,7 @@ s."
 EndChar
 
 StartChar: uni2006
-Encoding: 8198 8198 515
+Encoding: 8198 8198 503
 GlifName: uni2006
 Width: 575
 VWidth: 0
@@ -77988,7 +77197,7 @@ s."
 EndChar
 
 StartChar: uni2007
-Encoding: 8199 8199 516
+Encoding: 8199 8199 504
 GlifName: uni2007
 Width: 575
 VWidth: 0
@@ -78004,7 +77213,7 @@ s."
 EndChar
 
 StartChar: uni2008
-Encoding: 8200 8200 517
+Encoding: 8200 8200 505
 GlifName: uni2008
 Width: 575
 VWidth: 0
@@ -78020,7 +77229,7 @@ s."
 EndChar
 
 StartChar: uni2009
-Encoding: 8201 8201 518
+Encoding: 8201 8201 506
 GlifName: uni2009
 Width: 575
 VWidth: 0
@@ -78036,7 +77245,7 @@ s."
 EndChar
 
 StartChar: uni200A
-Encoding: 8202 8202 519
+Encoding: 8202 8202 507
 GlifName: uni200A_
 Width: 575
 VWidth: 0
@@ -78052,7 +77261,7 @@ s."
 EndChar
 
 StartChar: uni200B
-Encoding: 8203 8203 520
+Encoding: 8203 8203 508
 GlifName: uni200B_
 Width: 575
 VWidth: 0
@@ -78068,7 +77277,7 @@ s."
 EndChar
 
 StartChar: uni202F
-Encoding: 8239 8239 521
+Encoding: 8239 8239 509
 GlifName: uni202F_
 Width: 575
 VWidth: 0
@@ -78084,7 +77293,7 @@ s."
 EndChar
 
 StartChar: uni205F
-Encoding: 8287 8287 522
+Encoding: 8287 8287 510
 GlifName: uni205F_
 Width: 575
 VWidth: 0
@@ -78100,7 +77309,7 @@ s."
 EndChar
 
 StartChar: uni2113
-Encoding: 8467 8467 523
+Encoding: 8467 8467 511
 GlifName: uni2113
 Width: 575
 VWidth: 0
@@ -78142,16 +77351,16 @@ s."
 EndChar
 
 StartChar: uni2150
-Encoding: 8528 8528 524
+Encoding: 8528 8528 512
 GlifName: uni2150
 Width: 588
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 374 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 362 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78169,16 +77378,16 @@ s."
 EndChar
 
 StartChar: uni2151
-Encoding: 8529 8529 525
+Encoding: 8529 8529 513
 GlifName: uni2151
 Width: 580
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 301 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 289 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78196,7 +77405,7 @@ s."
 EndChar
 
 StartChar: uni2152
-Encoding: 8530 8530 526
+Encoding: 8530 8530 514
 GlifName: uni2152
 Width: 565
 VWidth: 0
@@ -78226,8 +77435,8 @@ SplineSet
  127 409 l 257
  193 409 l 257
 EndSplineSet
-Refer: 322 -1 N 1 0 0 1 80 -400 2
-Refer: 722 -1 N 1 0 0 1 300 0 2
+Refer: 310 -1 N 1 0 0 1 80 -400 2
+Refer: 710 -1 N 1 0 0 1 300 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78245,16 +77454,16 @@ s."
 EndChar
 
 StartChar: uni2153
-Encoding: 8531 8531 527
+Encoding: 8531 8531 515
 GlifName: uni2153
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 396 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 384 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78272,16 +77481,16 @@ s."
 EndChar
 
 StartChar: uni2154
-Encoding: 8532 8532 528
+Encoding: 8532 8532 516
 GlifName: uni2154
 Width: 563
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 406 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 396 -1 N 1 0 0 1 325 0 2
+Refer: 394 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 384 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78299,16 +77508,16 @@ s."
 EndChar
 
 StartChar: uni2155
-Encoding: 8533 8533 529
+Encoding: 8533 8533 517
 GlifName: uni2155
 Width: 577
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 235 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 229 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78326,16 +77535,16 @@ s."
 EndChar
 
 StartChar: uni2156
-Encoding: 8534 8534 530
+Encoding: 8534 8534 518
 GlifName: uni2156
 Width: 565
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 406 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 235 -1 N 1 0 0 1 325 0 2
+Refer: 394 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 229 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78353,16 +77562,16 @@ s."
 EndChar
 
 StartChar: uni2157
-Encoding: 8535 8535 531
+Encoding: 8535 8535 519
 GlifName: uni2157
 Width: 577
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 398 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 235 -1 N 1 0 0 1 325 0 2
+Refer: 386 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 229 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78380,16 +77589,16 @@ s."
 EndChar
 
 StartChar: uni2158
-Encoding: 8536 8536 532
+Encoding: 8536 8536 520
 GlifName: uni2158
 Width: 567
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 243 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 235 -1 N 1 0 0 1 325 0 2
+Refer: 237 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 229 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78407,16 +77616,16 @@ s."
 EndChar
 
 StartChar: uni2159
-Encoding: 8537 8537 533
+Encoding: 8537 8537 521
 GlifName: uni2159
 Width: 579
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 322 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 381 -1 N 1 0 0 1 325 0 2
+Refer: 310 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 369 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78434,16 +77643,16 @@ s."
 EndChar
 
 StartChar: uni215A
-Encoding: 8538 8538 534
+Encoding: 8538 8538 522
 GlifName: uni215A_
 Width: 577
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 237 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 381 -1 N 1 0 0 1 325 0 2
+Refer: 231 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 369 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78461,7 +77670,7 @@ s."
 EndChar
 
 StartChar: uni215F
-Encoding: 8543 8543 535
+Encoding: 8543 8543 523
 GlifName: uni215F_
 Width: 493
 VWidth: 0
@@ -78517,16 +77726,16 @@ s."
 EndChar
 
 StartChar: uni2189
-Encoding: 8585 8585 536
+Encoding: 8585 8585 524
 GlifName: uni2189
 Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 724 -1 N 1 0 0 1 0 0 2
-Refer: 244 8260 N 1 0 0 1 250 0 2
-Refer: 396 -1 N 1 0 0 1 325 0 2
+Refer: 712 -1 N 1 0 0 1 0 0 2
+Refer: 238 8260 N 1 0 0 1 250 0 2
+Refer: 384 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78544,7 +77753,7 @@ s."
 EndChar
 
 StartChar: uni2206
-Encoding: 8710 8710 537
+Encoding: 8710 8710 525
 GlifName: uni2206
 Width: 575
 VWidth: 0
@@ -78573,7 +77782,7 @@ s."
 EndChar
 
 StartChar: uni2215
-Encoding: 8725 8725 538
+Encoding: 8725 8725 526
 GlifName: uni2215
 Width: 575
 VWidth: 0
@@ -78600,14 +77809,14 @@ s."
 EndChar
 
 StartChar: uni2219
-Encoding: 8729 8729 539
+Encoding: 8729 8729 527
 GlifName: uni2219
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 171 8226 N 1 0 0 1 0 0 2
+Refer: 168 8226 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -78617,7 +77826,7 @@ s."
 EndChar
 
 StartChar: uni2501
-Encoding: 9473 9473 540
+Encoding: 9473 9473 528
 GlifName: uni2501
 Width: 575
 VWidth: 0
@@ -78640,7 +77849,7 @@ s."
 EndChar
 
 StartChar: uni2502
-Encoding: 9474 9474 541
+Encoding: 9474 9474 529
 GlifName: uni2502
 Width: 575
 VWidth: 0
@@ -78663,7 +77872,7 @@ s."
 EndChar
 
 StartChar: uni2503
-Encoding: 9475 9475 542
+Encoding: 9475 9475 530
 GlifName: uni2503
 Width: 575
 VWidth: 0
@@ -78686,7 +77895,7 @@ s."
 EndChar
 
 StartChar: uni2504
-Encoding: 9476 9476 543
+Encoding: 9476 9476 531
 GlifName: uni2504
 Width: 575
 VWidth: 0
@@ -78719,7 +77928,7 @@ s."
 EndChar
 
 StartChar: uni2505
-Encoding: 9477 9477 544
+Encoding: 9477 9477 532
 GlifName: uni2505
 Width: 575
 VWidth: 0
@@ -78752,7 +77961,7 @@ s."
 EndChar
 
 StartChar: uni2506
-Encoding: 9478 9478 545
+Encoding: 9478 9478 533
 GlifName: uni2506
 Width: 575
 VWidth: 0
@@ -78785,7 +77994,7 @@ s."
 EndChar
 
 StartChar: uni2507
-Encoding: 9479 9479 546
+Encoding: 9479 9479 534
 GlifName: uni2507
 Width: 575
 VWidth: 0
@@ -78818,7 +78027,7 @@ s."
 EndChar
 
 StartChar: uni2508
-Encoding: 9480 9480 547
+Encoding: 9480 9480 535
 GlifName: uni2508
 Width: 575
 VWidth: 0
@@ -78856,7 +78065,7 @@ s."
 EndChar
 
 StartChar: uni2509
-Encoding: 9481 9481 548
+Encoding: 9481 9481 536
 GlifName: uni2509
 Width: 575
 VWidth: 0
@@ -78894,7 +78103,7 @@ s."
 EndChar
 
 StartChar: uni250A
-Encoding: 9482 9482 549
+Encoding: 9482 9482 537
 GlifName: uni250A_
 Width: 575
 VWidth: 0
@@ -78937,7 +78146,7 @@ s."
 EndChar
 
 StartChar: uni250B
-Encoding: 9483 9483 550
+Encoding: 9483 9483 538
 GlifName: uni250B_
 Width: 575
 VWidth: 0
@@ -78980,7 +78189,7 @@ s."
 EndChar
 
 StartChar: uni250C
-Encoding: 9484 9484 551
+Encoding: 9484 9484 539
 GlifName: uni250C_
 Width: 575
 VWidth: 0
@@ -79008,7 +78217,7 @@ s."
 EndChar
 
 StartChar: uni250D
-Encoding: 9485 9485 552
+Encoding: 9485 9485 540
 GlifName: uni250D_
 Width: 575
 VWidth: 0
@@ -79036,7 +78245,7 @@ s."
 EndChar
 
 StartChar: uni250E
-Encoding: 9486 9486 553
+Encoding: 9486 9486 541
 GlifName: uni250E_
 Width: 575
 VWidth: 0
@@ -79064,7 +78273,7 @@ s."
 EndChar
 
 StartChar: uni250F
-Encoding: 9487 9487 554
+Encoding: 9487 9487 542
 GlifName: uni250F_
 Width: 575
 VWidth: 0
@@ -79092,7 +78301,7 @@ s."
 EndChar
 
 StartChar: uni2510
-Encoding: 9488 9488 555
+Encoding: 9488 9488 543
 GlifName: uni2510
 Width: 575
 VWidth: 0
@@ -79120,7 +78329,7 @@ s."
 EndChar
 
 StartChar: uni2511
-Encoding: 9489 9489 556
+Encoding: 9489 9489 544
 GlifName: uni2511
 Width: 575
 VWidth: 0
@@ -79148,7 +78357,7 @@ s."
 EndChar
 
 StartChar: uni2512
-Encoding: 9490 9490 557
+Encoding: 9490 9490 545
 GlifName: uni2512
 Width: 575
 VWidth: 0
@@ -79176,7 +78385,7 @@ s."
 EndChar
 
 StartChar: uni2513
-Encoding: 9491 9491 558
+Encoding: 9491 9491 546
 GlifName: uni2513
 Width: 575
 VWidth: 0
@@ -79204,7 +78413,7 @@ s."
 EndChar
 
 StartChar: uni2514
-Encoding: 9492 9492 559
+Encoding: 9492 9492 547
 GlifName: uni2514
 Width: 575
 VWidth: 0
@@ -79232,7 +78441,7 @@ s."
 EndChar
 
 StartChar: uni2515
-Encoding: 9493 9493 560
+Encoding: 9493 9493 548
 GlifName: uni2515
 Width: 575
 VWidth: 0
@@ -79260,7 +78469,7 @@ s."
 EndChar
 
 StartChar: uni2516
-Encoding: 9494 9494 561
+Encoding: 9494 9494 549
 GlifName: uni2516
 Width: 575
 VWidth: 0
@@ -79288,7 +78497,7 @@ s."
 EndChar
 
 StartChar: uni2517
-Encoding: 9495 9495 562
+Encoding: 9495 9495 550
 GlifName: uni2517
 Width: 575
 VWidth: 0
@@ -79316,7 +78525,7 @@ s."
 EndChar
 
 StartChar: uni2518
-Encoding: 9496 9496 563
+Encoding: 9496 9496 551
 GlifName: uni2518
 Width: 575
 VWidth: 0
@@ -79344,7 +78553,7 @@ s."
 EndChar
 
 StartChar: uni2519
-Encoding: 9497 9497 564
+Encoding: 9497 9497 552
 GlifName: uni2519
 Width: 575
 VWidth: 0
@@ -79372,7 +78581,7 @@ s."
 EndChar
 
 StartChar: uni251A
-Encoding: 9498 9498 565
+Encoding: 9498 9498 553
 GlifName: uni251A_
 Width: 575
 VWidth: 0
@@ -79400,7 +78609,7 @@ s."
 EndChar
 
 StartChar: uni251B
-Encoding: 9499 9499 566
+Encoding: 9499 9499 554
 GlifName: uni251B_
 Width: 575
 VWidth: 0
@@ -79428,7 +78637,7 @@ s."
 EndChar
 
 StartChar: uni251C
-Encoding: 9500 9500 567
+Encoding: 9500 9500 555
 GlifName: uni251C_
 Width: 575
 VWidth: 0
@@ -79456,7 +78665,7 @@ s."
 EndChar
 
 StartChar: uni251D
-Encoding: 9501 9501 568
+Encoding: 9501 9501 556
 GlifName: uni251D_
 Width: 575
 VWidth: 0
@@ -79484,7 +78693,7 @@ s."
 EndChar
 
 StartChar: uni251E
-Encoding: 9502 9502 569
+Encoding: 9502 9502 557
 GlifName: uni251E_
 Width: 575
 VWidth: 0
@@ -79517,7 +78726,7 @@ s."
 EndChar
 
 StartChar: uni251F
-Encoding: 9503 9503 570
+Encoding: 9503 9503 558
 GlifName: uni251F_
 Width: 575
 VWidth: 0
@@ -79550,7 +78759,7 @@ s."
 EndChar
 
 StartChar: uni2520
-Encoding: 9504 9504 571
+Encoding: 9504 9504 559
 GlifName: uni2520
 Width: 575
 VWidth: 0
@@ -79578,7 +78787,7 @@ s."
 EndChar
 
 StartChar: uni2521
-Encoding: 9505 9505 572
+Encoding: 9505 9505 560
 GlifName: uni2521
 Width: 575
 VWidth: 0
@@ -79611,7 +78820,7 @@ s."
 EndChar
 
 StartChar: uni2522
-Encoding: 9506 9506 573
+Encoding: 9506 9506 561
 GlifName: uni2522
 Width: 575
 VWidth: 0
@@ -79644,7 +78853,7 @@ s."
 EndChar
 
 StartChar: uni2523
-Encoding: 9507 9507 574
+Encoding: 9507 9507 562
 GlifName: uni2523
 Width: 575
 VWidth: 0
@@ -79672,7 +78881,7 @@ s."
 EndChar
 
 StartChar: uni2524
-Encoding: 9508 9508 575
+Encoding: 9508 9508 563
 GlifName: uni2524
 Width: 575
 VWidth: 0
@@ -79700,7 +78909,7 @@ s."
 EndChar
 
 StartChar: uni2525
-Encoding: 9509 9509 576
+Encoding: 9509 9509 564
 GlifName: uni2525
 Width: 575
 VWidth: 0
@@ -79728,7 +78937,7 @@ s."
 EndChar
 
 StartChar: uni2526
-Encoding: 9510 9510 577
+Encoding: 9510 9510 565
 GlifName: uni2526
 Width: 575
 VWidth: 0
@@ -79761,7 +78970,7 @@ s."
 EndChar
 
 StartChar: uni2527
-Encoding: 9511 9511 578
+Encoding: 9511 9511 566
 GlifName: uni2527
 Width: 575
 VWidth: 0
@@ -79794,7 +79003,7 @@ s."
 EndChar
 
 StartChar: uni2528
-Encoding: 9512 9512 579
+Encoding: 9512 9512 567
 GlifName: uni2528
 Width: 575
 VWidth: 0
@@ -79822,7 +79031,7 @@ s."
 EndChar
 
 StartChar: uni2529
-Encoding: 9513 9513 580
+Encoding: 9513 9513 568
 GlifName: uni2529
 Width: 575
 VWidth: 0
@@ -79855,7 +79064,7 @@ s."
 EndChar
 
 StartChar: uni252A
-Encoding: 9514 9514 581
+Encoding: 9514 9514 569
 GlifName: uni252A_
 Width: 575
 VWidth: 0
@@ -79888,7 +79097,7 @@ s."
 EndChar
 
 StartChar: uni252B
-Encoding: 9515 9515 582
+Encoding: 9515 9515 570
 GlifName: uni252B_
 Width: 575
 VWidth: 0
@@ -79916,7 +79125,7 @@ s."
 EndChar
 
 StartChar: uni252C
-Encoding: 9516 9516 583
+Encoding: 9516 9516 571
 GlifName: uni252C_
 Width: 575
 VWidth: 0
@@ -79944,7 +79153,7 @@ s."
 EndChar
 
 StartChar: uni252D
-Encoding: 9517 9517 584
+Encoding: 9517 9517 572
 GlifName: uni252D_
 Width: 575
 VWidth: 0
@@ -79977,7 +79186,7 @@ s."
 EndChar
 
 StartChar: uni252E
-Encoding: 9518 9518 585
+Encoding: 9518 9518 573
 GlifName: uni252E_
 Width: 575
 VWidth: 0
@@ -80010,7 +79219,7 @@ s."
 EndChar
 
 StartChar: uni252F
-Encoding: 9519 9519 586
+Encoding: 9519 9519 574
 GlifName: uni252F_
 Width: 575
 VWidth: 0
@@ -80038,7 +79247,7 @@ s."
 EndChar
 
 StartChar: uni2530
-Encoding: 9520 9520 587
+Encoding: 9520 9520 575
 GlifName: uni2530
 Width: 575
 VWidth: 0
@@ -80066,7 +79275,7 @@ s."
 EndChar
 
 StartChar: uni2531
-Encoding: 9521 9521 588
+Encoding: 9521 9521 576
 GlifName: uni2531
 Width: 575
 VWidth: 0
@@ -80099,7 +79308,7 @@ s."
 EndChar
 
 StartChar: uni2532
-Encoding: 9522 9522 589
+Encoding: 9522 9522 577
 GlifName: uni2532
 Width: 575
 VWidth: 0
@@ -80132,7 +79341,7 @@ s."
 EndChar
 
 StartChar: uni2533
-Encoding: 9523 9523 590
+Encoding: 9523 9523 578
 GlifName: uni2533
 Width: 575
 VWidth: 0
@@ -80160,7 +79369,7 @@ s."
 EndChar
 
 StartChar: uni2534
-Encoding: 9524 9524 591
+Encoding: 9524 9524 579
 GlifName: uni2534
 Width: 575
 VWidth: 0
@@ -80188,7 +79397,7 @@ s."
 EndChar
 
 StartChar: uni2535
-Encoding: 9525 9525 592
+Encoding: 9525 9525 580
 GlifName: uni2535
 Width: 575
 VWidth: 0
@@ -80221,7 +79430,7 @@ s."
 EndChar
 
 StartChar: uni2536
-Encoding: 9526 9526 593
+Encoding: 9526 9526 581
 GlifName: uni2536
 Width: 575
 VWidth: 0
@@ -80254,7 +79463,7 @@ s."
 EndChar
 
 StartChar: uni2537
-Encoding: 9527 9527 594
+Encoding: 9527 9527 582
 GlifName: uni2537
 Width: 575
 VWidth: 0
@@ -80282,7 +79491,7 @@ s."
 EndChar
 
 StartChar: uni2538
-Encoding: 9528 9528 595
+Encoding: 9528 9528 583
 GlifName: uni2538
 Width: 575
 VWidth: 0
@@ -80310,7 +79519,7 @@ s."
 EndChar
 
 StartChar: uni2539
-Encoding: 9529 9529 596
+Encoding: 9529 9529 584
 GlifName: uni2539
 Width: 575
 VWidth: 0
@@ -80343,7 +79552,7 @@ s."
 EndChar
 
 StartChar: uni253A
-Encoding: 9530 9530 597
+Encoding: 9530 9530 585
 GlifName: uni253A_
 Width: 575
 VWidth: 0
@@ -80376,7 +79585,7 @@ s."
 EndChar
 
 StartChar: uni253B
-Encoding: 9531 9531 598
+Encoding: 9531 9531 586
 GlifName: uni253B_
 Width: 575
 VWidth: 0
@@ -80404,7 +79613,7 @@ s."
 EndChar
 
 StartChar: uni253C
-Encoding: 9532 9532 599
+Encoding: 9532 9532 587
 GlifName: uni253C_
 Width: 575
 VWidth: 0
@@ -80432,7 +79641,7 @@ s."
 EndChar
 
 StartChar: uni253D
-Encoding: 9533 9533 600
+Encoding: 9533 9533 588
 GlifName: uni253D_
 Width: 575
 VWidth: 0
@@ -80465,7 +79674,7 @@ s."
 EndChar
 
 StartChar: uni253E
-Encoding: 9534 9534 601
+Encoding: 9534 9534 589
 GlifName: uni253E_
 Width: 575
 VWidth: 0
@@ -80498,7 +79707,7 @@ s."
 EndChar
 
 StartChar: uni253F
-Encoding: 9535 9535 602
+Encoding: 9535 9535 590
 GlifName: uni253F_
 Width: 575
 VWidth: 0
@@ -80526,7 +79735,7 @@ s."
 EndChar
 
 StartChar: uni2540
-Encoding: 9536 9536 603
+Encoding: 9536 9536 591
 GlifName: uni2540
 Width: 575
 VWidth: 0
@@ -80559,7 +79768,7 @@ s."
 EndChar
 
 StartChar: uni2541
-Encoding: 9537 9537 604
+Encoding: 9537 9537 592
 GlifName: uni2541
 Width: 575
 VWidth: 0
@@ -80592,7 +79801,7 @@ s."
 EndChar
 
 StartChar: uni2542
-Encoding: 9538 9538 605
+Encoding: 9538 9538 593
 GlifName: uni2542
 Width: 575
 VWidth: 0
@@ -80620,7 +79829,7 @@ s."
 EndChar
 
 StartChar: uni2543
-Encoding: 9539 9539 606
+Encoding: 9539 9539 594
 GlifName: uni2543
 Width: 575
 VWidth: 0
@@ -80658,7 +79867,7 @@ s."
 EndChar
 
 StartChar: uni2544
-Encoding: 9540 9540 607
+Encoding: 9540 9540 595
 GlifName: uni2544
 Width: 575
 VWidth: 0
@@ -80696,7 +79905,7 @@ s."
 EndChar
 
 StartChar: uni2545
-Encoding: 9541 9541 608
+Encoding: 9541 9541 596
 GlifName: uni2545
 Width: 575
 VWidth: 0
@@ -80734,7 +79943,7 @@ s."
 EndChar
 
 StartChar: uni2546
-Encoding: 9542 9542 609
+Encoding: 9542 9542 597
 GlifName: uni2546
 Width: 575
 VWidth: 0
@@ -80772,7 +79981,7 @@ s."
 EndChar
 
 StartChar: uni2547
-Encoding: 9543 9543 610
+Encoding: 9543 9543 598
 GlifName: uni2547
 Width: 575
 VWidth: 0
@@ -80805,7 +80014,7 @@ s."
 EndChar
 
 StartChar: uni2548
-Encoding: 9544 9544 611
+Encoding: 9544 9544 599
 GlifName: uni2548
 Width: 575
 VWidth: 0
@@ -80838,7 +80047,7 @@ s."
 EndChar
 
 StartChar: uni2549
-Encoding: 9545 9545 612
+Encoding: 9545 9545 600
 GlifName: uni2549
 Width: 575
 VWidth: 0
@@ -80871,7 +80080,7 @@ s."
 EndChar
 
 StartChar: uni254A
-Encoding: 9546 9546 613
+Encoding: 9546 9546 601
 GlifName: uni254A_
 Width: 575
 VWidth: 0
@@ -80904,7 +80113,7 @@ s."
 EndChar
 
 StartChar: uni254B
-Encoding: 9547 9547 614
+Encoding: 9547 9547 602
 GlifName: uni254B_
 Width: 575
 VWidth: 0
@@ -80932,7 +80141,7 @@ s."
 EndChar
 
 StartChar: uni254C
-Encoding: 9548 9548 615
+Encoding: 9548 9548 603
 GlifName: uni254C_
 Width: 575
 VWidth: 0
@@ -80960,7 +80169,7 @@ s."
 EndChar
 
 StartChar: uni254D
-Encoding: 9549 9549 616
+Encoding: 9549 9549 604
 GlifName: uni254D_
 Width: 575
 VWidth: 0
@@ -80988,7 +80197,7 @@ s."
 EndChar
 
 StartChar: uni254E
-Encoding: 9550 9550 617
+Encoding: 9550 9550 605
 GlifName: uni254E_
 Width: 575
 VWidth: 0
@@ -81016,7 +80225,7 @@ s."
 EndChar
 
 StartChar: uni254F
-Encoding: 9551 9551 618
+Encoding: 9551 9551 606
 GlifName: uni254F_
 Width: 575
 VWidth: 0
@@ -81044,7 +80253,7 @@ s."
 EndChar
 
 StartChar: uni2550
-Encoding: 9552 9552 619
+Encoding: 9552 9552 607
 GlifName: uni2550
 Width: 575
 VWidth: 0
@@ -81072,7 +80281,7 @@ s."
 EndChar
 
 StartChar: uni2551
-Encoding: 9553 9553 620
+Encoding: 9553 9553 608
 GlifName: uni2551
 Width: 575
 VWidth: 0
@@ -81100,7 +80309,7 @@ s."
 EndChar
 
 StartChar: uni2552
-Encoding: 9554 9554 621
+Encoding: 9554 9554 609
 GlifName: uni2552
 Width: 575
 VWidth: 0
@@ -81133,7 +80342,7 @@ s."
 EndChar
 
 StartChar: uni2553
-Encoding: 9555 9555 622
+Encoding: 9555 9555 610
 GlifName: uni2553
 Width: 575
 VWidth: 0
@@ -81166,7 +80375,7 @@ s."
 EndChar
 
 StartChar: uni2554
-Encoding: 9556 9556 623
+Encoding: 9556 9556 611
 GlifName: uni2554
 Width: 575
 VWidth: 0
@@ -81204,7 +80413,7 @@ s."
 EndChar
 
 StartChar: uni2555
-Encoding: 9557 9557 624
+Encoding: 9557 9557 612
 GlifName: uni2555
 Width: 575
 VWidth: 0
@@ -81237,7 +80446,7 @@ s."
 EndChar
 
 StartChar: uni2556
-Encoding: 9558 9558 625
+Encoding: 9558 9558 613
 GlifName: uni2556
 Width: 575
 VWidth: 0
@@ -81270,7 +80479,7 @@ s."
 EndChar
 
 StartChar: uni2557
-Encoding: 9559 9559 626
+Encoding: 9559 9559 614
 GlifName: uni2557
 Width: 575
 VWidth: 0
@@ -81308,7 +80517,7 @@ s."
 EndChar
 
 StartChar: uni2558
-Encoding: 9560 9560 627
+Encoding: 9560 9560 615
 GlifName: uni2558
 Width: 575
 VWidth: 0
@@ -81341,7 +80550,7 @@ s."
 EndChar
 
 StartChar: uni2559
-Encoding: 9561 9561 628
+Encoding: 9561 9561 616
 GlifName: uni2559
 Width: 575
 VWidth: 0
@@ -81374,7 +80583,7 @@ s."
 EndChar
 
 StartChar: uni255A
-Encoding: 9562 9562 629
+Encoding: 9562 9562 617
 GlifName: uni255A_
 Width: 575
 VWidth: 0
@@ -81412,7 +80621,7 @@ s."
 EndChar
 
 StartChar: uni255B
-Encoding: 9563 9563 630
+Encoding: 9563 9563 618
 GlifName: uni255B_
 Width: 575
 VWidth: 0
@@ -81445,7 +80654,7 @@ s."
 EndChar
 
 StartChar: uni255C
-Encoding: 9564 9564 631
+Encoding: 9564 9564 619
 GlifName: uni255C_
 Width: 575
 VWidth: 0
@@ -81478,7 +80687,7 @@ s."
 EndChar
 
 StartChar: uni255D
-Encoding: 9565 9565 632
+Encoding: 9565 9565 620
 GlifName: uni255D_
 Width: 575
 VWidth: 0
@@ -81516,7 +80725,7 @@ s."
 EndChar
 
 StartChar: uni255E
-Encoding: 9566 9566 633
+Encoding: 9566 9566 621
 GlifName: uni255E_
 Width: 575
 VWidth: 0
@@ -81549,7 +80758,7 @@ s."
 EndChar
 
 StartChar: uni255F
-Encoding: 9567 9567 634
+Encoding: 9567 9567 622
 GlifName: uni255F_
 Width: 575
 VWidth: 0
@@ -81582,7 +80791,7 @@ s."
 EndChar
 
 StartChar: uni2560
-Encoding: 9568 9568 635
+Encoding: 9568 9568 623
 GlifName: uni2560
 Width: 575
 VWidth: 0
@@ -81625,7 +80834,7 @@ s."
 EndChar
 
 StartChar: uni2561
-Encoding: 9569 9569 636
+Encoding: 9569 9569 624
 GlifName: uni2561
 Width: 575
 VWidth: 0
@@ -81658,7 +80867,7 @@ s."
 EndChar
 
 StartChar: uni2562
-Encoding: 9570 9570 637
+Encoding: 9570 9570 625
 GlifName: uni2562
 Width: 575
 VWidth: 0
@@ -81691,7 +80900,7 @@ s."
 EndChar
 
 StartChar: uni2563
-Encoding: 9571 9571 638
+Encoding: 9571 9571 626
 GlifName: uni2563
 Width: 575
 VWidth: 0
@@ -81734,7 +80943,7 @@ s."
 EndChar
 
 StartChar: uni2564
-Encoding: 9572 9572 639
+Encoding: 9572 9572 627
 GlifName: uni2564
 Width: 575
 VWidth: 0
@@ -81767,7 +80976,7 @@ s."
 EndChar
 
 StartChar: uni2565
-Encoding: 9573 9573 640
+Encoding: 9573 9573 628
 GlifName: uni2565
 Width: 575
 VWidth: 0
@@ -81800,7 +81009,7 @@ s."
 EndChar
 
 StartChar: uni2566
-Encoding: 9574 9574 641
+Encoding: 9574 9574 629
 GlifName: uni2566
 Width: 575
 VWidth: 0
@@ -81843,7 +81052,7 @@ s."
 EndChar
 
 StartChar: uni2567
-Encoding: 9575 9575 642
+Encoding: 9575 9575 630
 GlifName: uni2567
 Width: 575
 VWidth: 0
@@ -81876,7 +81085,7 @@ s."
 EndChar
 
 StartChar: uni2568
-Encoding: 9576 9576 643
+Encoding: 9576 9576 631
 GlifName: uni2568
 Width: 575
 VWidth: 0
@@ -81909,7 +81118,7 @@ s."
 EndChar
 
 StartChar: uni2569
-Encoding: 9577 9577 644
+Encoding: 9577 9577 632
 GlifName: uni2569
 Width: 575
 VWidth: 0
@@ -81952,7 +81161,7 @@ s."
 EndChar
 
 StartChar: uni256A
-Encoding: 9578 9578 645
+Encoding: 9578 9578 633
 GlifName: uni256A_
 Width: 575
 VWidth: 0
@@ -81985,7 +81194,7 @@ s."
 EndChar
 
 StartChar: uni256B
-Encoding: 9579 9579 646
+Encoding: 9579 9579 634
 GlifName: uni256B_
 Width: 575
 VWidth: 0
@@ -82018,7 +81227,7 @@ s."
 EndChar
 
 StartChar: uni256C
-Encoding: 9580 9580 647
+Encoding: 9580 9580 635
 GlifName: uni256C_
 Width: 575
 VWidth: 0
@@ -82076,7 +81285,7 @@ s."
 EndChar
 
 StartChar: uni256D
-Encoding: 9581 9581 648
+Encoding: 9581 9581 636
 GlifName: uni256D_
 Width: 575
 VWidth: 0
@@ -82103,7 +81312,7 @@ s."
 EndChar
 
 StartChar: uni256E
-Encoding: 9582 9582 649
+Encoding: 9582 9582 637
 GlifName: uni256E_
 Width: 575
 VWidth: 0
@@ -82130,7 +81339,7 @@ s."
 EndChar
 
 StartChar: uni256F
-Encoding: 9583 9583 650
+Encoding: 9583 9583 638
 GlifName: uni256F_
 Width: 575
 VWidth: 0
@@ -82157,7 +81366,7 @@ s."
 EndChar
 
 StartChar: uni2570
-Encoding: 9584 9584 651
+Encoding: 9584 9584 639
 GlifName: uni2570
 Width: 575
 VWidth: 0
@@ -82184,7 +81393,7 @@ s."
 EndChar
 
 StartChar: uni2571
-Encoding: 9585 9585 652
+Encoding: 9585 9585 640
 GlifName: uni2571
 Width: 575
 VWidth: 0
@@ -82209,7 +81418,7 @@ s."
 EndChar
 
 StartChar: uni2572
-Encoding: 9586 9586 653
+Encoding: 9586 9586 641
 GlifName: uni2572
 Width: 575
 VWidth: 0
@@ -82234,7 +81443,7 @@ s."
 EndChar
 
 StartChar: uni2573
-Encoding: 9587 9587 654
+Encoding: 9587 9587 642
 GlifName: uni2573
 Width: 575
 VWidth: 0
@@ -82266,7 +81475,7 @@ s."
 EndChar
 
 StartChar: uni2574
-Encoding: 9588 9588 655
+Encoding: 9588 9588 643
 GlifName: uni2574
 Width: 575
 VWidth: 0
@@ -82289,7 +81498,7 @@ s."
 EndChar
 
 StartChar: uni2575
-Encoding: 9589 9589 656
+Encoding: 9589 9589 644
 GlifName: uni2575
 Width: 575
 VWidth: 0
@@ -82312,7 +81521,7 @@ s."
 EndChar
 
 StartChar: uni2576
-Encoding: 9590 9590 657
+Encoding: 9590 9590 645
 GlifName: uni2576
 Width: 575
 VWidth: 0
@@ -82335,7 +81544,7 @@ s."
 EndChar
 
 StartChar: uni2577
-Encoding: 9591 9591 658
+Encoding: 9591 9591 646
 GlifName: uni2577
 Width: 575
 VWidth: 0
@@ -82358,7 +81567,7 @@ s."
 EndChar
 
 StartChar: uni2578
-Encoding: 9592 9592 659
+Encoding: 9592 9592 647
 GlifName: uni2578
 Width: 575
 VWidth: 0
@@ -82381,7 +81590,7 @@ s."
 EndChar
 
 StartChar: uni2579
-Encoding: 9593 9593 660
+Encoding: 9593 9593 648
 GlifName: uni2579
 Width: 575
 VWidth: 0
@@ -82404,7 +81613,7 @@ s."
 EndChar
 
 StartChar: uni257A
-Encoding: 9594 9594 661
+Encoding: 9594 9594 649
 GlifName: uni257A_
 Width: 575
 VWidth: 0
@@ -82427,7 +81636,7 @@ s."
 EndChar
 
 StartChar: uni257B
-Encoding: 9595 9595 662
+Encoding: 9595 9595 650
 GlifName: uni257B_
 Width: 575
 VWidth: 0
@@ -82450,7 +81659,7 @@ s."
 EndChar
 
 StartChar: uni257C
-Encoding: 9596 9596 663
+Encoding: 9596 9596 651
 GlifName: uni257C_
 Width: 575
 VWidth: 0
@@ -82478,7 +81687,7 @@ s."
 EndChar
 
 StartChar: uni257D
-Encoding: 9597 9597 664
+Encoding: 9597 9597 652
 GlifName: uni257D_
 Width: 575
 VWidth: 0
@@ -82506,7 +81715,7 @@ s."
 EndChar
 
 StartChar: uni257E
-Encoding: 9598 9598 665
+Encoding: 9598 9598 653
 GlifName: uni257E_
 Width: 575
 VWidth: 0
@@ -82534,7 +81743,7 @@ s."
 EndChar
 
 StartChar: uni257F
-Encoding: 9599 9599 666
+Encoding: 9599 9599 654
 GlifName: uni257F_
 Width: 575
 VWidth: 0
@@ -82562,7 +81771,7 @@ s."
 EndChar
 
 StartChar: uni2581
-Encoding: 9601 9601 667
+Encoding: 9601 9601 655
 GlifName: uni2581
 Width: 575
 VWidth: 0
@@ -82585,7 +81794,7 @@ s."
 EndChar
 
 StartChar: uni2582
-Encoding: 9602 9602 668
+Encoding: 9602 9602 656
 GlifName: uni2582
 Width: 575
 VWidth: 0
@@ -82608,7 +81817,7 @@ s."
 EndChar
 
 StartChar: uni2583
-Encoding: 9603 9603 669
+Encoding: 9603 9603 657
 GlifName: uni2583
 Width: 575
 VWidth: 0
@@ -82631,7 +81840,7 @@ s."
 EndChar
 
 StartChar: uni2585
-Encoding: 9605 9605 670
+Encoding: 9605 9605 658
 GlifName: uni2585
 Width: 575
 VWidth: 0
@@ -82654,7 +81863,7 @@ s."
 EndChar
 
 StartChar: uni2586
-Encoding: 9606 9606 671
+Encoding: 9606 9606 659
 GlifName: uni2586
 Width: 575
 VWidth: 0
@@ -82677,7 +81886,7 @@ s."
 EndChar
 
 StartChar: uni2587
-Encoding: 9607 9607 672
+Encoding: 9607 9607 660
 GlifName: uni2587
 Width: 575
 VWidth: 0
@@ -82700,7 +81909,7 @@ s."
 EndChar
 
 StartChar: uni2589
-Encoding: 9609 9609 673
+Encoding: 9609 9609 661
 GlifName: uni2589
 Width: 575
 VWidth: 0
@@ -82723,7 +81932,7 @@ s."
 EndChar
 
 StartChar: uni258A
-Encoding: 9610 9610 674
+Encoding: 9610 9610 662
 GlifName: uni258A_
 Width: 575
 VWidth: 0
@@ -82746,7 +81955,7 @@ s."
 EndChar
 
 StartChar: uni258B
-Encoding: 9611 9611 675
+Encoding: 9611 9611 663
 GlifName: uni258B_
 Width: 575
 VWidth: 0
@@ -82769,7 +81978,7 @@ s."
 EndChar
 
 StartChar: uni258D
-Encoding: 9613 9613 676
+Encoding: 9613 9613 664
 GlifName: uni258D_
 Width: 575
 VWidth: 0
@@ -82792,7 +82001,7 @@ s."
 EndChar
 
 StartChar: uni258E
-Encoding: 9614 9614 677
+Encoding: 9614 9614 665
 GlifName: uni258E_
 Width: 575
 VWidth: 0
@@ -82815,7 +82024,7 @@ s."
 EndChar
 
 StartChar: uni258F
-Encoding: 9615 9615 678
+Encoding: 9615 9615 666
 GlifName: uni258F_
 Width: 575
 VWidth: 0
@@ -82838,7 +82047,7 @@ s."
 EndChar
 
 StartChar: uni2594
-Encoding: 9620 9620 679
+Encoding: 9620 9620 667
 GlifName: uni2594
 Width: 575
 VWidth: 0
@@ -82861,7 +82070,7 @@ s."
 EndChar
 
 StartChar: uni2595
-Encoding: 9621 9621 680
+Encoding: 9621 9621 668
 GlifName: uni2595
 Width: 575
 VWidth: 0
@@ -82884,7 +82093,7 @@ s."
 EndChar
 
 StartChar: uni2596
-Encoding: 9622 9622 681
+Encoding: 9622 9622 669
 GlifName: uni2596
 Width: 575
 VWidth: 0
@@ -82907,7 +82116,7 @@ s."
 EndChar
 
 StartChar: uni2597
-Encoding: 9623 9623 682
+Encoding: 9623 9623 670
 GlifName: uni2597
 Width: 575
 VWidth: 0
@@ -82930,7 +82139,7 @@ s."
 EndChar
 
 StartChar: uni2598
-Encoding: 9624 9624 683
+Encoding: 9624 9624 671
 GlifName: uni2598
 Width: 575
 VWidth: 0
@@ -82953,7 +82162,7 @@ s."
 EndChar
 
 StartChar: uni2599
-Encoding: 9625 9625 684
+Encoding: 9625 9625 672
 GlifName: uni2599
 Width: 575
 VWidth: 0
@@ -82981,7 +82190,7 @@ s."
 EndChar
 
 StartChar: uni259A
-Encoding: 9626 9626 685
+Encoding: 9626 9626 673
 GlifName: uni259A_
 Width: 575
 VWidth: 0
@@ -83009,7 +82218,7 @@ s."
 EndChar
 
 StartChar: uni259B
-Encoding: 9627 9627 686
+Encoding: 9627 9627 674
 GlifName: uni259B_
 Width: 575
 VWidth: 0
@@ -83037,7 +82246,7 @@ s."
 EndChar
 
 StartChar: uni259C
-Encoding: 9628 9628 687
+Encoding: 9628 9628 675
 GlifName: uni259C_
 Width: 575
 VWidth: 0
@@ -83065,7 +82274,7 @@ s."
 EndChar
 
 StartChar: uni259D
-Encoding: 9629 9629 688
+Encoding: 9629 9629 676
 GlifName: uni259D_
 Width: 575
 VWidth: 0
@@ -83088,7 +82297,7 @@ s."
 EndChar
 
 StartChar: uni259E
-Encoding: 9630 9630 689
+Encoding: 9630 9630 677
 GlifName: uni259E_
 Width: 575
 VWidth: 0
@@ -83116,7 +82325,7 @@ s."
 EndChar
 
 StartChar: uni259F
-Encoding: 9631 9631 690
+Encoding: 9631 9631 678
 GlifName: uni259F_
 Width: 575
 VWidth: 0
@@ -83144,7 +82353,7 @@ s."
 EndChar
 
 StartChar: uniE0A0
-Encoding: 57504 57504 691
+Encoding: 57504 57504 679
 GlifName: uniE_0A_0
 Width: 575
 VWidth: 0
@@ -83194,7 +82403,7 @@ Comment: "+AAoA    uniE0A0+AAoA  "
 EndChar
 
 StartChar: uniE0A1
-Encoding: 57505 57505 692
+Encoding: 57505 57505 680
 GlifName: uniE_0A_1
 Width: 575
 VWidth: 0
@@ -83463,7 +82672,7 @@ Comment: "+AAoA    uniE0A1+AAoA  "
 EndChar
 
 StartChar: uniE0A2
-Encoding: 57506 57506 693
+Encoding: 57506 57506 681
 GlifName: uniE_0A_2
 Width: 575
 VWidth: 0
@@ -83511,7 +82720,7 @@ Comment: "+AAoA    uniE0A2+AAoA  "
 EndChar
 
 StartChar: uniE0B0
-Encoding: 57520 57520 694
+Encoding: 57520 57520 682
 GlifName: uniE_0B_0
 Width: 575
 VWidth: 0
@@ -83535,7 +82744,7 @@ Comment: "+AAoA    uniE0B0+AAoA  "
 EndChar
 
 StartChar: uniE0B1
-Encoding: 57521 57521 695
+Encoding: 57521 57521 683
 GlifName: uniE_0B_1
 Width: 575
 VWidth: 0
@@ -83567,7 +82776,7 @@ Comment: "+AAoA    uniE0B1+AAoA  "
 EndChar
 
 StartChar: uniE0B2
-Encoding: 57522 57522 696
+Encoding: 57522 57522 684
 GlifName: uniE_0B_2
 Width: 575
 VWidth: 0
@@ -83591,7 +82800,7 @@ Comment: "+AAoA    uniE0B2+AAoA  "
 EndChar
 
 StartChar: uniE0B3
-Encoding: 57523 57523 697
+Encoding: 57523 57523 685
 GlifName: uniE_0B_3
 Width: 575
 VWidth: 0
@@ -83624,7 +82833,7 @@ Comment: "+AAoA    uniE0B3+AAoA  "
 EndChar
 
 StartChar: uniFEFF
-Encoding: 65279 65279 698
+Encoding: 65279 65279 686
 GlifName: uniF_E_F_F_
 Width: 575
 VWidth: 0
@@ -83640,15 +82849,15 @@ s."
 EndChar
 
 StartChar: uogonek
-Encoding: 371 371 699
+Encoding: 371 371 687
 GlifName: uogonek
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 313 731 N 1 0 0 1 165 0 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 301 731 N 1 0 0 1 165 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -83658,7 +82867,7 @@ s."
 EndChar
 
 StartChar: upblock
-Encoding: 9600 9600 700
+Encoding: 9600 9600 688
 GlifName: upblock
 Width: 575
 VWidth: 0
@@ -83681,14 +82890,14 @@ s."
 EndChar
 
 StartChar: upsilon
-Encoding: 965 965 701
+Encoding: 965 965 689
 GlifName: upsilon
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
+Refer: 396 117 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -83698,15 +82907,15 @@ s."
 EndChar
 
 StartChar: uring
-Encoding: 367 367 702
+Encoding: 367 367 690
 GlifName: uring
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 408 117 N 1 0 0 1 0 0 2
-Refer: 364 730 N 1 0 0 1 0 50 2
+Refer: 396 117 N 1 0 0 1 0 0 2
+Refer: 352 730 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -83716,7 +82925,7 @@ s."
 EndChar
 
 StartChar: v
-Encoding: 118 118 703
+Encoding: 118 118 691
 GlifName: v
 Width: 575
 VWidth: 0
@@ -84756,7 +83965,7 @@ sss."
 EndChar
 
 StartChar: w
-Encoding: 119 119 704
+Encoding: 119 119 692
 GlifName: w
 Width: 575
 VWidth: 0
@@ -86977,14 +86186,14 @@ sss."
 EndChar
 
 StartChar: wacute
-Encoding: 7811 7811 705
+Encoding: 7811 7811 693
 GlifName: wacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 704 119 N 1 0 0 1 0 0 2
+Refer: 692 119 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -86995,15 +86204,15 @@ s."
 EndChar
 
 StartChar: wcircumflex
-Encoding: 373 373 706
+Encoding: 373 373 694
 GlifName: wcircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 704 119 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 692 119 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -87013,15 +86222,15 @@ s."
 EndChar
 
 StartChar: wdieresis
-Encoding: 7813 7813 707
+Encoding: 7813 7813 695
 GlifName: wdieresis
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 704 119 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 50 2
+Refer: 692 119 N 1 0 0 1 0 0 2
+Refer: 192 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -87031,15 +86240,15 @@ s."
 EndChar
 
 StartChar: wgrave
-Encoding: 7809 7809 708
+Encoding: 7809 7809 696
 GlifName: wgrave
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 704 119 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 50 2
+Refer: 692 119 N 1 0 0 1 0 0 2
+Refer: 243 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -87049,7 +86258,7 @@ s."
 EndChar
 
 StartChar: x
-Encoding: 120 120 709
+Encoding: 120 120 697
 GlifName: x
 Width: 575
 VWidth: 0
@@ -89207,7 +88416,7 @@ sss."
 EndChar
 
 StartChar: xi
-Encoding: 958 958 710
+Encoding: 958 958 698
 GlifName: xi
 Width: 575
 VWidth: 0
@@ -89247,7 +88456,7 @@ s."
 EndChar
 
 StartChar: y
-Encoding: 121 121 711
+Encoding: 121 121 699
 GlifName: y
 Width: 575
 VWidth: 0
@@ -90060,14 +89269,14 @@ sss."
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 712
+Encoding: 253 253 700
 GlifName: yacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 711 121 N 1 0 0 1 0 0 2
+Refer: 699 121 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -90078,15 +89287,15 @@ s."
 EndChar
 
 StartChar: ycircumflex
-Encoding: 375 375 713
+Encoding: 375 375 701
 GlifName: ycircumflex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 711 121 N 1 0 0 1 0 0 2
-Refer: 182 710 N 1 0 0 1 0 50 2
+Refer: 699 121 N 1 0 0 1 0 0 2
+Refer: 179 710 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -90096,15 +89305,15 @@ s."
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 714
+Encoding: 255 255 702
 GlifName: ydieresis
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 711 121 N 1 0 0 1 0 0 2
-Refer: 195 168 N 1 0 0 1 0 50 2
+Refer: 699 121 N 1 0 0 1 0 0 2
+Refer: 192 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -90114,7 +89323,7 @@ s."
 EndChar
 
 StartChar: yen
-Encoding: 165 165 715
+Encoding: 165 165 703
 GlifName: yen
 Width: 575
 VWidth: 0
@@ -90169,15 +89378,15 @@ s."
 EndChar
 
 StartChar: ygrave
-Encoding: 7923 7923 716
+Encoding: 7923 7923 704
 GlifName: ygrave
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 711 121 N 1 0 0 1 0 0 2
-Refer: 249 96 N 1 0 0 1 0 50 2
+Refer: 699 121 N 1 0 0 1 0 0 2
+Refer: 243 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -90187,7 +89396,7 @@ s."
 EndChar
 
 StartChar: z
-Encoding: 122 122 717
+Encoding: 122 122 705
 GlifName: z
 Width: 575
 VWidth: 0
@@ -90226,14 +89435,14 @@ s."
 EndChar
 
 StartChar: zacute
-Encoding: 378 378 718
+Encoding: 378 378 706
 GlifName: zacute
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 717 122 N 1 0 0 1 0 0 2
+Refer: 705 122 N 1 0 0 1 0 0 2
 Refer: 141 180 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -90244,15 +89453,15 @@ s."
 EndChar
 
 StartChar: zcaron
-Encoding: 382 382 719
+Encoding: 382 382 707
 GlifName: zcaron
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 717 122 N 1 0 0 1 0 0 2
-Refer: 175 711 N 1 0 0 1 0 50 2
+Refer: 705 122 N 1 0 0 1 0 0 2
+Refer: 172 711 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -90262,15 +89471,15 @@ s."
 EndChar
 
 StartChar: zdotaccent
-Encoding: 380 380 720
+Encoding: 380 380 708
 GlifName: zdotaccent
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 717 122 N 1 0 0 1 0 0 2
-Refer: 200 729 N 1 0 0 1 3 50 2
+Refer: 705 122 N 1 0 0 1 0 0 2
+Refer: 197 729 N 1 0 0 1 3 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -90280,7 +89489,7 @@ s."
 EndChar
 
 StartChar: zero
-Encoding: 48 48 721
+Encoding: 48 48 709
 GlifName: zero
 Width: 575
 VWidth: 0
@@ -91519,7 +90728,7 @@ sss."
 EndChar
 
 StartChar: zero.dnom
-Encoding: 65588 -1 722
+Encoding: 65588 -1 710
 GlifName: zero.dnom
 Width: 250
 VWidth: 0
@@ -91789,14 +90998,14 @@ sss."
 EndChar
 
 StartChar: zero.hex
-Encoding: 65589 -1 723
+Encoding: 65589 -1 711
 GlifName: zero.hex
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 721 48 N 1 0 0 1 0 0 2
+Refer: 709 48 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -91806,14 +91015,14 @@ s."
 EndChar
 
 StartChar: zero.numr
-Encoding: 65590 -1 724
+Encoding: 65590 -1 712
 GlifName: zero.numr
 Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 722 -1 N 1 0 0 1 0 400 2
+Refer: 710 -1 N 1 0 0 1 0 400 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.Export
 p1
@@ -91834,7 +91043,7 @@ s."
 EndChar
 
 StartChar: zeta
-Encoding: 950 950 725
+Encoding: 950 950 713
 GlifName: zeta
 Width: 575
 VWidth: 0
