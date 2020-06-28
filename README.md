@@ -1,18 +1,29 @@
-# mononoki
-#### a font for programming and code review
+# Fork of the font Mononoki
+Original repository: https://github.com/madmalik/mononoki
 
-for a closer look [http://madmalik.github.io/mononoki/](http://madmalik.github.io/mononoki/)
+## Goals of this fork
+The goal of this fork is to "improve" the mononoki font by changing it to use 
+my preferences:
+* Make the "m" similar to Ubuntu Mono "m"
+* Decrease width of "n" similar to Ubuntu Mono
+  - Change glyphs dependent on "n" correspondingly: "h", "r", "u", "k"
+* Increase width of "o" similar to Ubuntu Mono
+  - Change glyphs dependent on "o" correspondingly: "O", "e", "s"
+* Increase width of "s" similar to Ubuntu Mono
+  - Study the relation of width from "s" to "S" in other Fonts
+* Use "l" glyph for the "i" well
+* Increase height of middle line in "a" to line up with "e"
+* Decrese width of "w" to be more similar in width with "m"
+* Fix missing UTF-8 glyphs: ä, ö, ü
+  - This problem happens when creating a file with the macOS finder 
+    conaining ä, ö, ü: When using iTerm the file name is not printed in the 
+    Mononoki-Font.
 
-## installation
-[download mononoki.zip](https://github.com/madmalik/mononoki/releases/download/1.2/mononoki.zip) and unpack it
-* [OS X](http://support.apple.com/kb/HT2509)
-* [Windows](http://windows.microsoft.com/en-us/windows-vista/install-or-uninstall-fonts)
-* Linux/Unix - distro dependent, i hope you know how to install it
+## Further experiments/provide more options
+* Lower the bar of "f" similar to Consolas
+* Create a build pipeline (with the source being FontForge .sfd files)
+  - Use ttfautohint
+* Bold currently increases the height of glyphs a little to much for my taste.
 
-## old version
-if you prefer the predecessor to mononoki, please look into the branch monoOne
-
-
-## credit
-
-Box drawing characters created with [box drawing](https://github.com/adobe-type-tools/box-drawing)
+## Fork specific problems to solve
+* FontForge does not have a tool to create rounded edges
