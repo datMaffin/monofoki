@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1593469517
+ModificationTime: 1593469742
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -6773,7 +6773,7 @@ Encoding: 81 81 90
 GlifName: Q_
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
