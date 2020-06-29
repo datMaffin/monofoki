@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1593467080
+ModificationTime: 1593468258
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1557,7 +1557,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 24 24 13
+WinInfo: 0 24 13
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -22286,7 +22286,7 @@ Encoding: 97 97 136
 GlifName: a
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HWO
 AnchorPoint: "ogonek" 518 5 basechar 0
 AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
@@ -22300,19 +22300,19 @@ SplineSet
  135 428 147 422 163 425 c 256
  193 431 223 435 254 435 c 256
  336 435 385 407 385 319 c 258
- 385 279 l 257
- 288 279 l 258
- 148 279 77 210 77 134 c 256
- 77 58 149 -10 285 -10 c 256
+ 385 314 l 257
+ 288 314 l 258
+ 148 314 77 232 77 154 c 256
+ 77 76 149 -10 285 -10 c 256
  334 -10 388 -5 446 2 c 256
  462 4 470 13 470 29 c 258
  470 319 l 258
-385 202 m 257
+385 237 m 257
  385 71 l 257
  352 68 320 65 291 65 c 256
- 205 65 163 96 163 133 c 256
- 163 170 205 202 288 202 c 258
- 385 202 l 257
+ 205 65 163 114 163 153 c 256
+ 163 192 205 237 288 237 c 258
+ 385 237 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -23212,7 +23212,7 @@ Encoding: 225 225 138
 GlifName: aacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -23230,7 +23230,7 @@ Encoding: 259 259 139
 GlifName: abreve
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -23248,7 +23248,7 @@ Encoding: 226 226 140
 GlifName: acircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -23466,7 +23466,7 @@ Encoding: 228 228 142
 GlifName: adieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -23529,7 +23529,7 @@ Encoding: 224 224 144
 GlifName: agrave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -23586,7 +23586,7 @@ Encoding: 257 257 146
 GlifName: amacron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -29035,7 +29035,7 @@ Encoding: 261 261 148
 GlifName: aogonek
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -29071,7 +29071,7 @@ Encoding: 229 229 150
 GlifName: aring
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -36889,7 +36889,7 @@ Encoding: 227 227 155
 GlifName: atilde
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 136 97 N 1 0 0 1 0 0 2
@@ -50586,7 +50586,7 @@ Encoding: 105 105 255
 GlifName: i
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -75752,7 +75752,7 @@ Encoding: 1072 1072 452
 GlifName: uni0430
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "top" 288 500 basechar 0
 LayerCount: 2
 Fore
