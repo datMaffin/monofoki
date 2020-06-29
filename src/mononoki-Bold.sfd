@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1593380021
+ModificationTime: 1593466631
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1558,7 +1558,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 408 24 13
+WinInfo: 24 24 13
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -11890,12 +11890,12 @@ Encoding: 305 305 199
 GlifName: dotlessi
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "ogonek" 517 10 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 570 basechar 0
+AnchorPoint: "top" 268 570 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 340 97 m 257
  340 485 l 257
@@ -11915,6 +11915,27 @@ SplineSet
  500 62 l 257
  500 82 485 97 465 97 c 257
  340 97 l 257
+EndSplineSet
+Fore
+SplineSet
+504 44 m 257
+ 496 70 l 257
+ 495 71 l 257
+ 488 89 471 97 452 94 c 257
+ 428 88 405 87 389 87 c 256
+ 336 88 320 107 320 160 c 258
+ 320 485 l 258
+ 320 506 305 520 285 520 c 258
+ 113 520 l 258
+ 93 520 78 506 78 485 c 258
+ 78 459 l 258
+ 78 439 93 424 113 424 c 258
+ 215 424 l 257
+ 215 160 l 258
+ 215 46 271 -10 389 -10 c 256
+ 409 -10 441 -9 479 0 c 256
+ 501 5 511 26 503 45 c 257
+ 504 44 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -14405,19 +14426,19 @@ Encoding: 105 105 255
 GlifName: i
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-240 780 m 257
- 220 780 205 765 205 745 c 257
- 205 679 l 257
- 205 659 220 644 240 644 c 257
- 305 644 l 257
- 326 644 340 659 340 679 c 257
- 340 745 l 257
- 340 766 325 780 305 780 c 257
- 240 780 l 257
+220 780 m 257
+ 200 780 185 765 185 745 c 257
+ 185 679 l 257
+ 185 659 200 644 220 644 c 257
+ 285 644 l 257
+ 306 644 320 659 320 679 c 257
+ 320 745 l 257
+ 320 766 305 780 285 780 c 257
+ 220 780 l 257
 EndSplineSet
 Refer: 199 305 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -14433,7 +14454,7 @@ Encoding: 237 237 256
 GlifName: iacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 305 N 1 0 0 1 0 0 2
@@ -14451,7 +14472,7 @@ Encoding: 238 238 257
 GlifName: icircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 305 N 1 0 0 1 0 0 2
@@ -14469,7 +14490,7 @@ Encoding: 239 239 258
 GlifName: idieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 305 N 1 0 0 1 0 0 2
@@ -14487,7 +14508,7 @@ Encoding: 236 236 259
 GlifName: igrave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 305 N 1 0 0 1 0 0 2
@@ -14563,7 +14584,7 @@ Encoding: 299 299 261
 GlifName: imacron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 305 N 1 0 0 1 0 0 2
@@ -14659,12 +14680,11 @@ Encoding: 303 303 264
 GlifName: iogonek
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 199 305 N 1 0 0 1 0 0 2
-Refer: 197 729 N 1 0 0 1 3 70 2
-Refer: 301 731 N 1 0 0 1 164 5 2
+Refer: 301 731 N 1 0 0 1 87.5 -37.0199 2
+Refer: 255 105 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -22841,7 +22861,7 @@ Encoding: 1110 1110 487
 GlifName: uni0456
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 255 105 N 1 0 0 1 0 0 2
