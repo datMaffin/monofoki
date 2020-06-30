@@ -31,4 +31,5 @@ my preferences:
 * FontForge does not have a tool to create rounded edges
 
 ## Other TODOs
-- [ ] Fix directions of glyphs in FontForge
+- [x] Fix directions of glyphs in FontForge
+- [ ] .ttf fonts wont work on macOS (otf is working)

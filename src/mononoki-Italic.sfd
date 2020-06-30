@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: mononoki-fork-Italic
 FullName: mononoki fork Italic
-FamilyName: mononoki-fork
+FamilyName: mononoki fork
 Weight: Regular
 Copyright: 
 Version: 1.1
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1593520423
+ModificationTime: 1593520900
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5

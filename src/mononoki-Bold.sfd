@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: mononoki-fork-Bold
 FullName: mononoki fork Bold
-FamilyName: mononoki-fork
+FamilyName: mononoki fork
 Weight: Bold
 Copyright: 
 Version: 1.1
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1593520423
+ModificationTime: 1593520914
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
