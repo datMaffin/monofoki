@@ -4,7 +4,7 @@ Original repository: https://github.com/madmalik/mononoki
 ## Goals of this fork
 The goal of this fork is to "improve" the mononoki font by changing it to use 
 my preferences:
-- [ ] Make the "m" similar to Ubuntu Mono "m"
+- [x] Make the "m" similar to Ubuntu Mono "m"
 - [ ] Decrease width of "n" similar to Ubuntu Mono
   + Change glyphs dependent on "n" correspondingly: "h", "r", "u", "k"
 - [ ] Increase width of "o" similar to Ubuntu Mono
