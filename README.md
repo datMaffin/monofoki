@@ -15,11 +15,13 @@ my preferences:
 - [x] Increase height of middle line in "a" to line up with "e"
   - [ ] May need further refinement
 - [ ] Italic "J" and BoldItalic "J" have different shapes
-- [ ] Decrese width of "w" to be more similar in width with "m"
-- [ ] Fix missing UTF-8 glyphs: ä, ö, ü
+- [ ] Decrease width of "w" to be more similar in width with "m"
+- [x] Fix missing UTF-8 glyphs: ä, ö, ü
   + This problem happens when creating a file with the macOS finder 
     conaining ä, ö, ü: When using iTerm the file name is not printed in the 
     Mononoki-Font.
+  + The **fix** was: Add zero width glyph COMBINING DIARESIS (Nr. 776) with 
+    diaresis in negative space.
 
 ## Further experiments/provide more options
 * Lower the bar of "f" similar to Consolas

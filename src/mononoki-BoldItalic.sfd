@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380042
-ModificationTime: 1593789030
+ModificationTime: 1593819046
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1551,20 +1551,19 @@ aVuniE0B3
 p750
 as."
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 24 13
+WinInfo: 600 24 13
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
 StemSnapV 5 [105]
 EndPrivate
 AnchorClass2: "bottomright"""  "topright"""  "center"""  "topleft"""  "top"""  "bottom"""  "ogonek""" 
-BeginChars: 65591 714
+BeginChars: 65591 715
 
 StartChar: A
 Encoding: 65 65 0
@@ -22601,6 +22600,16 @@ SplineSet
  499 570 l 257
  342 360 l 257
 EndSplineSet
+EndChar
+
+StartChar: uni0308
+Encoding: 776 776 714
+Width: 0
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 191 168 N 1 0 0 1 -575 0 2
 EndChar
 EndChars
 EndSplineFont
