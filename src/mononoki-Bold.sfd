@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1593522574
+ModificationTime: 1593785223
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1560,7 +1560,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 21 10
+WinInfo: 399 21 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -15161,7 +15161,7 @@ Encoding: 109 109 280
 GlifName: m
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "top" 288 570 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
@@ -23292,15 +23292,6 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-237 0 m 258
- 202 0 l 258
- 186 0 177 9 177 25 c 258
- 177 280 l 258
- 177 295 188 305 203 305 c 258
- 237 305 l 258
- 253 305 262 296 262 280 c 258
- 262 25 l 258
- 262 9 254 0 237 0 c 258
 313 150 m 256
  313 254 354 310 430 310 c 256
  506 310 548 254 548 150 c 256
@@ -23314,14 +23305,14 @@ SplineSet
  409 234 398 204 398 150 c 256
   PathStart: -2
 237 0 m 258
- 254 0 262 9 262 25 c 258
- 262 280 l 258
- 262 296 253 305 237 305 c 258
- 203 305 l 258
- 188 305 177 295 177 280 c 258
- 177 25 l 258
- 177 9 186 0 202 0 c 258
- 237 0 l 258
+ 202 0 l 258
+ 186 0 177 9 177 25 c 258
+ 177 280 l 258
+ 177 295 188 305 203 305 c 258
+ 237 305 l 258
+ 253 305 262 296 262 280 c 258
+ 262 25 l 258
+ 262 9 254 0 237 0 c 258
 87 450 m 258
  52 450 l 258
  36 450 27 459 27 475 c 258
