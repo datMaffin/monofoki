@@ -32,4 +32,5 @@ my preferences:
 
 ## Other TODOs
 - [x] Fix directions of glyphs in FontForge
-- [ ] .ttf fonts wont work on macOS (otf is working)
+- [x] .ttf fonts wont work on macOS (otf is working)
+- [ ] Macos is still complaining about the name table

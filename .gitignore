@@ -5,16 +5,18 @@
 *.sfd-*
 *.sfd~
 
-# No Binaries
-
-*.ttf
-*.ttc
-*.otf
-*.woff
-*.pfb
-*.pfa
-*.pt3
-*.suit
+# I now want to push binaries as well!
+#
+# # No Binaries
+# 
+# *.ttf
+# *.ttc
+# *.otf
+# *.woff
+# *.pfb
+# *.pfa
+# *.pt3
+# *.suit
 
 ### macOS ###
 # General
