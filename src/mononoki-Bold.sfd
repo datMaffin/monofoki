@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1593788726
+ModificationTime: 1593816784
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1560,7 +1560,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 21 10
+WinInfo: 21 21 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -8700,32 +8700,32 @@ GlifName: a
 Width: 575
 VWidth: 0
 Flags: HW
-AnchorPoint: "ogonek" 518 5 basechar 0
-AnchorPoint: "top" 288 570 basechar 0
+AnchorPoint: "ogonek" 524 5 basechar 0
+AnchorPoint: "top" 291 570 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-375 237 m 257
- 288 237 l 257
- 210 237 173 203 173 163 c 257
- 172 121 210 85 291 85 c 257
- 317 85 345 87 375 90 c 257
- 375 237 l 257
-480 329 m 257
- 480 39 l 257
- 480 19 467 5 447 2 c 257
- 389 -5 334 -10 285 -10 c 257
- 146 -10 69 58 67 162 c 257
- 67 267 145 334 288 334 c 257
- 375 334 l 257
- 375 339 l 257
- 375 404 347 434 274 434 c 257
- 251 434 206 432 165 425 c 257
+381 237 m 257
+ 291 237 l 257
+ 213 237 173 203 173 163 c 257
+ 172 121 213 85 294 85 c 257
+ 320 85 351 87 381 90 c 257
+ 381 237 l 257
+486 329 m 257
+ 486 39 l 257
+ 486 19 473 5 453 2 c 257
+ 395 -5 337 -10 288 -10 c 257
+ 149 -10 69 58 67 162 c 257
+ 67 267 148 334 291 334 c 257
+ 381 334 l 257
+ 381 339 l 257
+ 381 404 350 434 277 434 c 257
+ 254 434 206 432 165 425 c 257
  146 422 126 431 123 452 c 257
  120 479 l 257
  118 498 126 515 147 519 c 257
- 185 526 228 530 274 530 c 257
- 417 530 480 468 480 329 c 257
+ 185 526 231 530 277 530 c 257
+ 420 530 486 468 486 329 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
