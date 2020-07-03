@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380042
-ModificationTime: 1593785391
+ModificationTime: 1593789030
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1557,7 +1557,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 312 24 13
+WinInfo: 0 24 13
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -3484,21 +3484,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-108 467 m 258
- 134 630 230 730 362 730 c 256
- 493 730 558 629 533 467 c 258
- 499 253 l 258
- 473 91 376 -10 245 -10 c 256
- 113 -10 48 90 74 253 c 258
- 108 467 l 258
+101 467 m 258
+ 127 630 230 730 362 730 c 256
+ 493 730 565 629 540 467 c 258
+ 506 253 l 258
+ 480 91 376 -10 245 -10 c 256
+ 113 -10 41 90 67 253 c 258
+ 101 467 l 258
   PathStart: -2
-179 253 m 258
- 163 153 196 86 260 86 c 256
- 323 86 378 153 394 253 c 258
- 428 467 l 258
- 444 567 410 634 347 634 c 256
- 283 634 229 567 213 467 c 258
- 179 253 l 258
+172 253 m 258
+ 156 153 196 86 260 86 c 256
+ 323 86 385 153 401 253 c 258
+ 435 467 l 258
+ 451 567 410 634 347 634 c 256
+ 283 634 222 567 206 467 c 258
+ 172 253 l 258
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -3558,7 +3558,7 @@ Encoding: 211 211 76
 GlifName: O_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3576,7 +3576,7 @@ Encoding: 212 212 77
 GlifName: O_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3594,7 +3594,7 @@ Encoding: 214 214 78
 GlifName: O_dieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3612,7 +3612,7 @@ Encoding: 210 210 79
 GlifName: O_grave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3630,7 +3630,7 @@ Encoding: 336 336 80
 GlifName: O_hungarumlaut
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3648,7 +3648,7 @@ Encoding: 332 332 81
 GlifName: O_macron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3666,7 +3666,7 @@ Encoding: 927 927 82
 GlifName: O_micron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3683,7 +3683,7 @@ Encoding: 216 216 83
 GlifName: O_slash
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -3701,7 +3701,7 @@ Encoding: 213 213 84
 GlifName: O_tilde
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
@@ -4297,23 +4297,23 @@ AnchorPoint: "bottom" 247 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-389 223 m 258
- 462 685 l 258
- 466 706 481 720 503 720 c 258
- 538 720 l 258
- 559 720 571 706 567 685 c 258
- 494 223 l 258
- 470 68 396 -10 255 -10 c 256
- 134 -10 64 48 64 161 c 256
- 64 180 66 201 69 223 c 258
- 142 685 l 258
- 146 706 161 720 183 720 c 258
- 218 720 l 258
- 239 720 251 706 247 685 c 258
- 174 223 l 258
- 171 202 169 185 169 169 c 256
- 169 108 206 86 270 86 c 256
- 350 86 373 120 389 223 c 258
+396 223 m 258
+ 469 685 l 258
+ 473 706 488 720 510 720 c 258
+ 545 720 l 258
+ 566 720 578 706 574 685 c 258
+ 501 223 l 258
+ 477 68 396 -10 255 -10 c 256
+ 134 -10 57 48 57 161 c 256
+ 57 180 59 201 62 223 c 258
+ 135 685 l 258
+ 139 706 154 720 176 720 c 258
+ 211 720 l 258
+ 232 720 244 706 240 685 c 258
+ 167 223 l 258
+ 164 202 162 185 162 169 c 256
+ 162 108 206 86 270 86 c 256
+ 350 86 380 120 396 223 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -4328,7 +4328,7 @@ Encoding: 218 218 107
 GlifName: U_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4346,7 +4346,7 @@ Encoding: 364 364 108
 GlifName: U_breve
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4364,7 +4364,7 @@ Encoding: 219 219 109
 GlifName: U_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4382,7 +4382,7 @@ Encoding: 220 220 110
 GlifName: U_dieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4400,7 +4400,7 @@ Encoding: 217 217 111
 GlifName: U_grave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4418,7 +4418,7 @@ Encoding: 368 368 112
 GlifName: U_hungarumlaut
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4436,7 +4436,7 @@ Encoding: 362 362 113
 GlifName: U_macron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4454,7 +4454,7 @@ Encoding: 370 370 114
 GlifName: U_ogonek
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -4489,7 +4489,7 @@ Encoding: 366 366 116
 GlifName: U_ring
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 106 85 N 1 0 0 1 0 0 2
@@ -7122,24 +7122,24 @@ AnchorPoint: "top" 351 570 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-463 91 m 258
- 469 67 l 258
- 474 46 464 29 444 21 c 256
- 393 1 338 -10 285 -10 c 256
- 147 -10 70 67 70 198 c 256
- 70 367 176 530 335 530 c 256
- 441 530 510 453 510 341 c 256
- 510 324 508 312 502 272 c 256
- 499 251 482 237 461 237 c 258
- 177 237 l 257
- 176 229 176 221 176 214 c 256
- 176 130 217 88 301 88 c 256
- 340 88 375 95 421 110 c 257
- 443 118 458 111 463 91 c 258
-407 334 m 257
- 410 392 375 434 321 434 c 256
- 269 434 220 393 201 334 c 257
- 407 334 l 257
+467 91 m 258
+ 473 67 l 258
+ 478 46 468 29 448 21 c 256
+ 397 1 338 -10 285 -10 c 256
+ 147 -10 63 67 63 198 c 256
+ 63 367 176 530 335 530 c 256
+ 441 530 517 453 517 341 c 256
+ 517 324 515 312 509 272 c 256
+ 506 251 489 237 468 237 c 258
+ 170 237 l 257
+ 169 229 169 221 169 214 c 256
+ 169 130 217 88 301 88 c 256
+ 340 88 379 95 425 110 c 257
+ 447 118 462 111 467 91 c 258
+414 334 m 257
+ 417 392 375 434 321 434 c 256
+ 269 434 213 393 194 334 c 257
+ 414 334 l 257
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -7201,7 +7201,7 @@ Encoding: 233 233 201
 GlifName: eacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -7219,7 +7219,7 @@ Encoding: 283 283 202
 GlifName: ecaron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -7237,7 +7237,7 @@ Encoding: 234 234 203
 GlifName: ecircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -7255,7 +7255,7 @@ Encoding: 235 235 204
 GlifName: edieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -7273,7 +7273,7 @@ Encoding: 279 279 205
 GlifName: edotaccent
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -7291,7 +7291,7 @@ Encoding: 232 232 206
 GlifName: egrave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -7467,7 +7467,7 @@ Encoding: 275 275 212
 GlifName: emacron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -7584,7 +7584,7 @@ Encoding: 281 281 216
 GlifName: eogonek
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
@@ -10157,17 +10157,17 @@ AnchorPoint: "center" 288 260 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-69 199 m 256
- 69 386 182 532 332 532 c 256
- 442 532 506 456 506 325 c 256
- 506 163 416 -12 250 -12 c 256
- 137 -12 69 67 69 199 c 256
+62 199 m 256
+ 62 386 182 532 332 532 c 256
+ 442 532 513 456 513 325 c 256
+ 513 163 416 -12 250 -12 c 256
+ 137 -12 62 67 62 199 c 256
   PathStart: -2
-175 210 m 256
- 175 129 205 85 259 85 c 256
- 352 85 400 212 400 310 c 256
- 400 392 371 435 317 435 c 256
- 223 435 175 308 175 210 c 256
+168 210 m 256
+ 168 129 205 85 259 85 c 256
+ 352 85 407 212 407 310 c 256
+ 407 392 371 435 317 435 c 256
+ 223 435 168 308 168 210 c 256
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -10183,7 +10183,7 @@ Encoding: 243 243 296
 GlifName: oacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -10201,7 +10201,7 @@ Encoding: 244 244 297
 GlifName: ocircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -10219,7 +10219,7 @@ Encoding: 246 246 298
 GlifName: odieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -10311,7 +10311,7 @@ Encoding: 242 242 301
 GlifName: ograve
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -10329,7 +10329,7 @@ Encoding: 337 337 302
 GlifName: ohungarumlaut
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -10347,7 +10347,7 @@ Encoding: 333 333 303
 GlifName: omacron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -10416,7 +10416,7 @@ Encoding: 959 959 305
 GlifName: omicron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -10773,7 +10773,7 @@ Encoding: 245 245 317
 GlifName: otilde
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -14335,7 +14335,7 @@ Encoding: 1054 1054 433
 GlifName: uni041E_
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "top" 361 720 basechar 0
 LayerCount: 2
 Fore
@@ -15145,7 +15145,7 @@ Encoding: 1077 1077 456
 GlifName: uni0435
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "top" 329 520 basechar 0
 LayerCount: 2
 Fore
@@ -15512,7 +15512,7 @@ Encoding: 1086 1086 465
 GlifName: uni043E_
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
@@ -16126,7 +16126,7 @@ Encoding: 1105 1105 483
 GlifName: uni0451
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 456 1077 N 1 0 0 1 0 0 2
