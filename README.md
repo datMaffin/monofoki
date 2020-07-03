@@ -7,7 +7,7 @@ my preferences:
 - [x] Make the "m" similar to Ubuntu Mono "m"
 - [ ] Decrease width of "n" similar to Ubuntu Mono
   + Change glyphs dependent on "n" correspondingly: "h", "r", "u", "k"
-- [ ] Increase width of "o" similar to Ubuntu Mono
+- [x] Increase width of "o" similar to Ubuntu Mono
   + Change glyphs dependent on "o" correspondingly: "O", "e", "U", "Q"
 - [ ] Increase width of "s" similar to Ubuntu Mono
   + Study the relation of width from "s" to "S" in other Fonts
