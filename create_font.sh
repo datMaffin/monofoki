@@ -2,17 +2,32 @@
 
 mkdir -p export
 
-fontforge -c 'open("src/mononoki-Regular.sfd").generate("export/mononoki-Regular.ttf")'
-fontforge -c 'open("src/mononoki-Italic.sfd").generate("export/mononoki-Italic.ttf")'
-fontforge -c 'open("src/mononoki-Bold.sfd").generate("export/mononoki-Bold.ttf")'
-fontforge -c 'open("src/mononoki-BoldItalic.sfd").generate("export/mononoki-BoldItalic.ttf")'
+function generate {
+  source=$1
+  export=$2
 
-ttfautohint export/mononoki-Regular.ttf export/mononoki-Regular-hinted.ttf
-ttfautohint export/mononoki-Italic.ttf export/mononoki-Italic-hinted.ttf
-ttfautohint export/mononoki-Bold.ttf export/mononoki-Bold-hinted.ttf
-ttfautohint export/mononoki-BoldItalic.ttf export/mononoki-BoldItalic-hinted.ttf
+  fontforge << END
+font = fontforge.open("$source")
+for glyph in font.glyphs():
+  glyph.unlinkRef()
+  glyph.removeOverlap()
+  glyph.round()
+font.generate("$export")
+END
 
-fontforge -c 'open("src/mononoki-Regular.sfd").generate("export/mononoki-Regular.otf")'
-fontforge -c 'open("src/mononoki-Italic.sfd").generate("export/mononoki-Italic.otf")'
-fontforge -c 'open("src/mononoki-Bold.sfd").generate("export/mononoki-Bold.otf")'
-fontforge -c 'open("src/mononoki-BoldItalic.sfd").generate("export/mononoki-BoldItalic.otf")'
+}
+
+generate 'src/mononoki-Regular.sfd' 'export/mononoki-Regular.ttf'
+generate 'src/mononoki-Italic.sfd' 'export/mononoki-Italic.ttf'
+generate 'src/mononoki-Bold.sfd' 'export/mononoki-Bold.ttf'
+generate 'src/mononoki-BoldItalic.sfd' 'export/mononoki-BoldItalic.ttf'
+
+ttfautohint --reference=export/mononoki-Regular.ttf export/mononoki-Regular.ttf export/mononoki-Regular-hinted.ttf
+ttfautohint --reference=export/mononoki-Italic.ttf export/mononoki-Italic.ttf export/mononoki-Italic-hinted.ttf
+ttfautohint --reference=export/mononoki-Regular.ttf export/mononoki-Bold.ttf export/mononoki-Bold-hinted.ttf
+ttfautohint --reference=export/mononoki-Italic.ttf export/mononoki-BoldItalic.ttf export/mononoki-BoldItalic-hinted.ttf
+
+generate 'src/mononoki-Regular.sfd' 'export/mononoki-Regular.otf'
+generate 'src/mononoki-Italic.sfd' 'export/mononoki-Italic.otf'
+generate 'src/mononoki-Bold.sfd' 'export/mononoki-Bold.otf'
+generate 'src/mononoki-BoldItalic.sfd' 'export/mononoki-BoldItalic.otf'
