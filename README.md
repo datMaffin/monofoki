@@ -37,3 +37,5 @@ my preferences:
 - [x] Fix directions of glyphs in FontForge
 - [x] .ttf fonts wont work on macOS (otf is working)
 - [ ] Macos is still complaining about the name table
+- [ ] FontForge tutorial says to change layers to quadratic before exporting 
+      font as ttfs
