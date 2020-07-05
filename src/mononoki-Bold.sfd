@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1593818540
+ModificationTime: 1593948545
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1559,7 +1559,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 84 21 10
+WinInfo: 0 21 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -28602,7 +28602,7 @@ VWidth: 0
 Flags: HW
 AnchorPoint: "top" 288 570 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 555 484 m 257
  535 30 l 257
@@ -28628,6 +28628,33 @@ SplineSet
  451 506 465 520 485 520 c 258
  519 520 l 258
  539 520 555 504 555 484 c 257
+EndSplineSet
+Fore
+SplineSet
+540 484 m 257
+ 520 30 l 257
+ 520 8 506 -5 483 -5 c 258
+ 467 -5 l 258
+ 435 -5 412 9 399 37 c 258
+ 288 289 l 257
+ 177 37 l 258
+ 164 9 141 -5 109 -5 c 258
+ 93 -5 l 258
+ 71 -5 57 7 56 30 c 258
+ 36 483 l 258
+ 35 504 51 520 72 520 c 258
+ 106 520 l 258
+ 126 520 140 506 141 485 c 258
+ 155 188 l 257
+ 236 366 l 258
+ 243 382 256 390 274 390 c 258
+ 302 390 l 258
+ 320 390 333 382 340 366 c 258
+ 421 188 l 257
+ 435 485 l 258
+ 436 506 450 520 470 520 c 258
+ 504 520 l 258
+ 524 520 540 504 540 484 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -29056,7 +29083,7 @@ Encoding: 7811 7811 692
 GlifName: wacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
@@ -29074,7 +29101,7 @@ Encoding: 373 373 693
 GlifName: wcircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
@@ -29092,7 +29119,7 @@ Encoding: 7813 7813 694
 GlifName: wdieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
@@ -29110,7 +29137,7 @@ Encoding: 7809 7809 695
 GlifName: wgrave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
