@@ -15,7 +15,7 @@ my preferences:
 - [x] Increase height of middle line in "a" to line up with "e"
   - [ ] May need further refinement
 - [ ] Italic "J" and BoldItalic "J" have different shapes
-- [ ] Decrease width of "w" to be more similar in width with "m"
+- [x] Decrease width of "w" to be more similar in width with "m"
 - [x] Fix missing UTF-8 glyphs: ä, ö, ü
   + This problem happens when creating a file with the macOS finder 
     conaining ä, ö, ü: When using iTerm the file name is not printed in the 
