@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1593818820
+ModificationTime: 1594060513
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1550,12 +1550,13 @@ aVuniE0B3
 p749
 as."
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 624 24 13
+WinInfo: 19 19 7
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -11330,27 +11331,27 @@ AnchorPoint: "top" 408 620 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-245 725 m 258
- 200 437 l 257
- 252 485 311 510 372 510 c 256
- 439 510 501 481 501 359 c 256
- 501 336 499 309 494 278 c 258
- 454 25 l 258
- 452 9 442 0 425 0 c 258
- 390 0 l 258
- 374 0 367 9 369 25 c 258
- 409 278 l 258
- 413 304 415 326 415 344 c 256
- 415 421 381 434 343 434 c 256
- 291 434 239 405 186 349 c 257
- 134 25 l 258
- 132 9 121 0 105 0 c 258
- 70 0 l 258
- 54 0 47 9 49 25 c 258
- 159 720 l 258
- 162 736 171 750 187 750 c 258
- 224 750 l 258
- 240 750 248 741 245 725 c 258
+249 725 m 258
+ 204 437 l 257
+ 256 485 311 510 372 510 c 256
+ 439 510 497 481 497 359 c 256
+ 497 336 495 309 490 278 c 258
+ 450 25 l 258
+ 448 9 438 0 421 0 c 258
+ 386 0 l 258
+ 370 0 363 9 365 25 c 258
+ 405 278 l 258
+ 409 304 411 326 411 344 c 256
+ 411 421 381 434 343 434 c 256
+ 291 434 243 405 190 349 c 257
+ 138 25 l 258
+ 136 9 125 0 109 0 c 258
+ 74 0 l 258
+ 58 0 51 9 53 25 c 258
+ 163 720 l 258
+ 166 736 175 750 191 750 c 258
+ 228 750 l 258
+ 244 750 252 741 249 725 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -11365,7 +11366,7 @@ Encoding: 293 293 250
 GlifName: hcircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 249 104 N 1 0 0 1 0 0 2
@@ -13258,35 +13259,34 @@ Encoding: 107 107 267
 GlifName: k
 Width: 575
 VWidth: 0
-Flags: HW
-AnchorPoint: "top" 328 550 basechar 0
-AnchorPoint: "bottom" 248 0 basechar 0
+Flags: HWO
+AnchorPoint: "top" 330 550 basechar 0
+AnchorPoint: "bottom" 250 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 360 510 m 256
  452 510 487 465 478 407 c 256
- 468 346 410 271 318 220 c 257
+ 468 346 414 271 322 220 c 257
  467 31 l 257
  481 15 472 0 449 0 c 258
  391 0 l 258
  378 0 370 4 362 13 c 257
- 215 203 l 257
- 204 215 209 228 225 238 c 256
- 320 295 379 355 384 392 c 257
+ 219 203 l 257
+ 208 215 213 228 229 238 c 256
+ 324 295 379 355 384 392 c 257
  389 421 366 433 331 433 c 256
- 290 433 234 417 193 396 c 257
- 134 25 l 258
- 132 9 121 0 105 0 c 258
- 70 0 l 258
- 54 0 47 9 49 25 c 258
- 160 725 l 258
- 163 741 173 750 189 750 c 258
- 224 750 l 258
- 240 750 248 741 245 725 c 258
- 204 466 l 257
- 252 494 310 510 360 510 c 256
-  PathStart: -2
+ 290 433 238 417 197 396 c 257
+ 138 25 l 258
+ 136 9 125 0 109 0 c 258
+ 74 0 l 258
+ 58 0 51 9 53 25 c 258
+ 164 725 l 258
+ 167 741 177 750 193 750 c 258
+ 228 750 l 258
+ 244 750 252 741 249 725 c 258
+ 208 466 l 257
+ 256 494 310 510 360 510 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -14644,25 +14644,25 @@ AnchorPoint: "bottom" 248 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-206 475 m 258
- 200 437 l 257
- 252 485 311 510 362 510 c 256
- 452 510 525 469 494 278 c 258
- 454 25 l 258
- 452 9 442 0 425 0 c 258
- 390 0 l 258
- 374 0 367 9 369 25 c 258
- 409 278 l 258
- 431 414 390 434 332 434 c 256
- 291 434 239 405 186 349 c 257
- 134 25 l 258
- 132 9 121 0 105 0 c 258
- 70 0 l 258
- 54 0 47 9 49 25 c 258
- 120 470 l 258
- 122 486 132 500 148 500 c 258
- 185 500 l 258
- 201 500 208 491 206 475 c 258
+210 475 m 258
+ 204 437 l 257
+ 256 485 311 510 362 510 c 256
+ 452 510 521 469 490 278 c 258
+ 450 25 l 258
+ 448 9 438 0 421 0 c 258
+ 386 0 l 258
+ 370 0 363 9 365 25 c 258
+ 405 278 l 258
+ 427 414 390 434 332 434 c 256
+ 291 434 243 405 190 349 c 257
+ 138 25 l 258
+ 136 9 125 0 109 0 c 258
+ 74 0 l 258
+ 58 0 51 9 53 25 c 258
+ 124 470 l 258
+ 126 486 136 500 152 500 c 258
+ 189 500 l 258
+ 205 500 212 491 210 475 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -15860,7 +15860,7 @@ Encoding: 324 324 285
 GlifName: nacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 284 110 N 1 0 0 1 0 0 2
@@ -15878,7 +15878,7 @@ Encoding: 328 328 286
 GlifName: ncaron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 284 110 N 1 0 0 1 0 0 2
@@ -16068,7 +16068,7 @@ Encoding: 241 241 292
 GlifName: ntilde
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 284 110 N 1 0 0 1 0 0 2
@@ -18443,23 +18443,23 @@ AnchorPoint: "bottom" 248 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-206 475 m 258
- 200 437 l 257
- 252 485 311 510 362 510 c 256
- 440 510 505 479 501 348 c 256
- 501 332 491 323 475 323 c 258
- 440 323 l 258
- 423 323 415 332 415 349 c 256
- 415 422 378 434 332 434 c 256
- 291 434 239 405 186 349 c 257
- 134 25 l 258
- 132 9 121 0 105 0 c 258
- 70 0 l 258
- 54 0 47 9 49 25 c 258
- 120 470 l 258
- 122 486 132 500 148 500 c 258
- 185 500 l 258
- 201 500 208 491 206 475 c 258
+210 475 m 258
+ 204 437 l 257
+ 256 485 311 510 362 510 c 256
+ 440 510 501 479 497 348 c 256
+ 497 332 487 323 471 323 c 258
+ 436 323 l 258
+ 419 323 411 332 411 349 c 256
+ 411 422 378 434 332 434 c 256
+ 291 434 243 405 190 349 c 257
+ 138 25 l 258
+ 136 9 125 0 109 0 c 258
+ 74 0 l 258
+ 58 0 51 9 53 25 c 258
+ 124 470 l 258
+ 126 486 136 500 152 500 c 258
+ 189 500 l 258
+ 205 500 212 491 210 475 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -18474,7 +18474,7 @@ Encoding: 341 341 346
 GlifName: racute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 345 114 N 1 0 0 1 0 0 2
@@ -18530,7 +18530,7 @@ Encoding: 345 345 348
 GlifName: rcaron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 345 114 N 1 0 0 1 0 0 2
@@ -20168,32 +20168,32 @@ GlifName: u
 Width: 575
 VWidth: 0
 Flags: HW
-AnchorPoint: "ogonek" 477 10 basechar 0
+AnchorPoint: "ogonek" 473 10 basechar 0
 AnchorPoint: "top" 328 550 basechar 0
-AnchorPoint: "topright" 595 500 basechar 0
+AnchorPoint: "topright" 591 500 basechar 0
 AnchorPoint: "bottom" 248 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-368 25 m 258
- 374 63 l 257
- 322 15 263 -10 212 -10 c 256
- 122 -10 49 31 80 222 c 258
- 120 475 l 258
- 122 491 132 500 149 500 c 258
- 184 500 l 258
- 200 500 207 491 205 475 c 258
- 165 222 l 258
- 143 86 184 66 242 66 c 256
- 283 66 335 95 388 151 c 257
- 440 475 l 258
- 442 491 453 500 469 500 c 258
- 504 500 l 258
- 520 500 527 491 525 475 c 258
- 454 30 l 258
- 452 14 442 0 426 0 c 258
- 389 0 l 258
- 373 0 366 9 368 25 c 258
+364 25 m 258
+ 370 63 l 257
+ 318 15 263 -10 212 -10 c 256
+ 122 -10 53 31 84 222 c 258
+ 124 475 l 258
+ 126 491 136 500 153 500 c 258
+ 188 500 l 258
+ 204 500 211 491 209 475 c 258
+ 169 222 l 258
+ 147 86 184 66 242 66 c 256
+ 283 66 331 95 384 151 c 257
+ 436 475 l 258
+ 438 491 449 500 465 500 c 258
+ 500 500 l 258
+ 516 500 523 491 521 475 c 258
+ 450 30 l 258
+ 448 14 438 0 422 0 c 258
+ 385 0 l 258
+ 369 0 362 9 364 25 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -20564,7 +20564,7 @@ Encoding: 250 250 396
 GlifName: uacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -20582,7 +20582,7 @@ Encoding: 365 365 397
 GlifName: ubreve
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -20600,7 +20600,7 @@ Encoding: 251 251 398
 GlifName: ucircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -20618,7 +20618,7 @@ Encoding: 252 252 399
 GlifName: udieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -20636,7 +20636,7 @@ Encoding: 249 249 400
 GlifName: ugrave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -20654,7 +20654,7 @@ Encoding: 369 369 401
 GlifName: uhungarumlaut
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -20672,7 +20672,7 @@ Encoding: 363 363 402
 GlifName: umacron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -23327,7 +23327,7 @@ Encoding: 1211 1211 489
 GlifName: uni04B_B_
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 249 104 N 1 0 0 1 0 0 2
@@ -28959,7 +28959,7 @@ Encoding: 371 371 686
 GlifName: uogonek
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -29000,7 +29000,7 @@ Encoding: 965 965 688
 GlifName: upsilon
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -29017,7 +29017,7 @@ Encoding: 367 367 689
 GlifName: uring
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
@@ -31808,7 +31808,7 @@ StartChar: uni0308
 Encoding: 776 776 714
 Width: 0
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 191 168 N 1 0 0 1 -575 0 2
