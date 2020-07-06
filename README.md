@@ -5,7 +5,7 @@ Original repository: https://github.com/madmalik/mononoki
 The goal of this fork is to "improve" the mononoki font by changing it to use 
 my preferences:
 - [x] Make the "m" similar to Ubuntu Mono "m"
-- [ ] Decrease width of "n" similar to Ubuntu Mono
+- [x] Decrease width of "n" similar to Ubuntu Mono
   + Change glyphs dependent on "n" correspondingly: "h", "r", "u", "k"
 - [x] Increase width of "o" similar to Ubuntu Mono
   + Change glyphs dependent on "o" correspondingly: "O", "e", "U", "Q"
@@ -36,6 +36,6 @@ my preferences:
 ## Other TODOs
 - [x] Fix directions of glyphs in FontForge
 - [x] .ttf fonts wont work on macOS (otf is working)
-- [ ] Macos is still complaining about the name table
+- [ ] macOS is still complaining about the name table
 - [ ] FontForge tutorial says to change layers to quadratic before exporting 
       font as ttfs
