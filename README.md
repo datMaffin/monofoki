@@ -39,3 +39,5 @@ my preferences:
 - [ ] macOS is still complaining about the name table
 - [ ] FontForge tutorial says to change layers to quadratic before exporting 
       font as ttfs
+- [ ] Issues with back- and frontticks: for some reason they get wrongly
+      rendered on top of the letter infront.
