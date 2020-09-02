@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380042
-ModificationTime: 1599007910
+ModificationTime: 1599011537
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1557,7 +1557,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 19 19 7
+WinInfo: 0 20 8
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -1565,7 +1565,7 @@ StemSnapV 5 [105]
 EndPrivate
 TeXData: 1 0 432138 588800 294400 196266 532480 1048576 196266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottomright"""  "topright"""  "center"""  "topleft"""  "top"""  "bottom"""  "ogonek""" 
-BeginChars: 65591 715
+BeginChars: 65591 724
 
 StartChar: A
 Encoding: 65 65 0
@@ -22612,6 +22612,96 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 191 168 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: gravecomb
+Encoding: 768 768 715
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 242 96 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: acutecomb
+Encoding: 769 769 716
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 140 180 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0302
+Encoding: 770 770 717
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 178 710 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: tildecomb
+Encoding: 771 771 718
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 388 732 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0306
+Encoding: 774 774 719
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 165 728 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0307
+Encoding: 775 775 720
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 196 729 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030A
+Encoding: 778 778 721
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 351 730 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030B
+Encoding: 779 779 722
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 252 733 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030C
+Encoding: 780 780 723
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 171 711 N 1 0 0 1 -575 0 2
 EndChar
 EndChars
 EndSplineFont

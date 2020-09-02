@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1599007924
+ModificationTime: 1599010741
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1559,14 +1559,14 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 21 21 12
+WinInfo: 0 21 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
 StemSnapV 4 [85]
 EndPrivate
 AnchorClass2: "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 715
+BeginChars: 65591 724
 
 StartChar: A
 Encoding: 65 65 0
@@ -3137,7 +3137,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 140 180 S 1 0 0 1 0 200 2
 Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -3232,7 +3232,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 0 200 2
+Refer: 242 96 S 1 0 0 1 0 200 2
 Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -70463,21 +70463,21 @@ AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
 Fore
 SplineSet
-121 585 m 258
- 108 594 l 258
- 94 603 92 615 102 629 c 256
- 136 673 175 698 214 698 c 256
- 238 698 271 685 307 661 c 256
- 330 646 351 638 368 638 c 256
- 387 638 405 647 420 664 c 257
- 430 676 442 678 455 670 c 258
- 468 661 l 258
- 482 651 484 639 473 626 c 256
- 439 581 399 557 361 557 c 256
- 338 557 305 570 269 593 c 256
- 245 608 221 616 203 616 c 256
- 187 616 171 607 156 591 c 256
- 146 579 133 577 121 585 c 258
+121 585 m 262
+ 108 594 l 262
+ 94 603 92 615 102 629 c 260
+ 136 673 175 698 214 698 c 260
+ 238 698 271 685 307 661 c 260
+ 330 646 351 638 368 638 c 260
+ 387 638 405 647 420 664 c 261
+ 430 676 442 678 455 670 c 262
+ 468 661 l 262
+ 482 651 484 639 473 626 c 260
+ 439 581 399 557 361 557 c 260
+ 338 557 305 570 269 593 c 260
+ 245 608 221 616 203 616 c 260
+ 187 616 171 607 156 591 c 260
+ 146 579 133 577 121 585 c 262
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
@@ -91709,6 +91709,96 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 191 168 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: gravecomb
+Encoding: 768 768 715
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 242 96 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: acutecomb
+Encoding: 769 769 716
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 140 180 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0302
+Encoding: 770 770 717
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 178 710 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: tildecomb
+Encoding: 771 771 718
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 388 732 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0306
+Encoding: 774 774 719
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 165 728 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0307
+Encoding: 775 775 720
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 196 729 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030A
+Encoding: 778 778 721
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 351 730 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030C
+Encoding: 780 780 722
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 171 711 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030B
+Encoding: 779 779 723
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 252 733 N 1 0 0 1 -575 0 2
 EndChar
 EndChars
 EndSplineFont

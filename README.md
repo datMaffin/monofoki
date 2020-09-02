@@ -12,8 +12,10 @@ my preferences:
   + [x] Also need to check size relation to "C", "c" and "G".
         Looks ok... "O" is a little bit wider than "C" and "G". "C" and "G" 
         have the same width. May increase width of "C" and "G" a little bit.
-- [ ] Increase width of "s" similar to Ubuntu Mono
-  + Study the relation of width from "s" to "S" in other Fonts
+- [x] Increase width of "s" similar to Ubuntu Mono
+  + Study the relation of width from "s" to "S" in other Fonts.
+    Fonts vary in  their relation. Decided on mononoki "s" looks perfectly 
+    fine.
 - [x] Use "l" glyph for the "i" well
 - [x] Increase height of middle line in "a" to line up with "e"
   - [ ] May need further refinement
@@ -44,3 +46,4 @@ my preferences:
       font as ttfs
 - [ ] Issues with back- and frontticks: for some reason they get wrongly
       rendered on top of the letter infront.
+      - [X] Try adding all combining accents (from UTF 0x300 onward).

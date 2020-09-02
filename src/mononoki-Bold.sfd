@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1599007967
+ModificationTime: 1599011647
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1560,14 +1560,14 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 21 21 10
+WinInfo: 0 21 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
 StemSnapV 5 [105]
 EndPrivate
 AnchorClass2: "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 715
+BeginChars: 65591 724
 
 StartChar: A
 Encoding: 65 65 0
@@ -2694,7 +2694,7 @@ Encoding: 193 193 3
 GlifName: A_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -3470,7 +3470,7 @@ Encoding: 262 262 18
 GlifName: C_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 16 67 N 1 0 0 1 0 0 2
@@ -4138,7 +4138,7 @@ Encoding: 201 201 29
 GlifName: E_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 27 69 N 1 0 0 1 0 0 2
@@ -4736,7 +4736,7 @@ Encoding: 205 205 50
 GlifName: I_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 48 73 N 1 0 0 1 0 0 2
@@ -5237,7 +5237,7 @@ Encoding: 313 313 62
 GlifName: L_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 61 76 N 1 0 0 1 0 0 2
@@ -6256,7 +6256,7 @@ Encoding: 323 323 70
 GlifName: N_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 69 78 N 1 0 0 1 0 0 2
@@ -6804,7 +6804,7 @@ Encoding: 340 340 91
 GlifName: R_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 90 82 N 1 0 0 1 0 0 2
@@ -6896,7 +6896,7 @@ Encoding: 346 346 95
 GlifName: S_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
@@ -7693,7 +7693,7 @@ Encoding: 7810 7810 119
 GlifName: W_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
@@ -8516,7 +8516,7 @@ Encoding: 221 221 126
 GlifName: Y_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
@@ -8628,7 +8628,7 @@ Encoding: 377 377 131
 GlifName: Z_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 130 90 N 1 0 0 1 0 0 2
@@ -9328,15 +9328,6 @@ SplineSet
  461 623 456 611 440 606 c 258
  219 531 l 258
  204 526 193 530 185 544 c 257
-185 544 m 257
- 193 530 204 526 219 531 c 258
- 440 606 l 258
- 456 611 461 623 454 638 c 258
- 433 684 l 258
- 426 699 414 703 400 696 c 258
- 190 595 l 258
- 175 588 171 577 177 562 c 257
- 185 544 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -10823,7 +10814,7 @@ Encoding: 263 263 170
 GlifName: cacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 168 99 N 1 0 0 1 0 0 2
@@ -18086,7 +18077,7 @@ Encoding: 347 347 354
 GlifName: sacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
@@ -20563,7 +20554,7 @@ Encoding: 1027 1027 413
 GlifName: uni0403
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 422 1043 N 1 0 0 1 0 0 2
@@ -20632,7 +20623,7 @@ Encoding: 1036 1036 418
 GlifName: uni040C_
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 429 1050 N 1 0 0 1 0 0 2
@@ -22790,7 +22781,7 @@ Encoding: 1107 1107 484
 GlifName: uni0453
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 454 1075 N 1 0 0 1 0 0 2
@@ -22841,7 +22832,7 @@ Encoding: 1116 1116 488
 GlifName: uni045C_
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 461 1082 N 1 0 0 1 0 0 2
@@ -30293,7 +30284,7 @@ Encoding: 253 253 699
 GlifName: yacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 698 121 N 1 0 0 1 0 0 2
@@ -30458,7 +30449,7 @@ Encoding: 378 378 705
 GlifName: zacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 704 122 N 1 0 0 1 0 0 2
@@ -30708,6 +30699,96 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 191 168 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: gravecomb
+Encoding: 768 768 715
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 242 96 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0302
+Encoding: 770 770 716
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 178 710 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: tildecomb
+Encoding: 771 771 717
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 388 732 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0306
+Encoding: 774 774 718
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 165 728 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0307
+Encoding: 775 775 719
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 196 729 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030B
+Encoding: 779 779 720
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 252 733 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030A
+Encoding: 778 778 721
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 351 730 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni030C
+Encoding: 780 780 722
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 171 711 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: acutecomb
+Encoding: 769 769 723
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 140 180 N 1 0 0 1 -575 0 2
 EndChar
 EndChars
 EndSplineFont
