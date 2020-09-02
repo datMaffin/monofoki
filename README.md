@@ -9,7 +9,9 @@ my preferences:
   + Change glyphs dependent on "n" correspondingly: "h", "r", "u", "k"
 - [x] Increase width of "o" similar to Ubuntu Mono
   + Change glyphs dependent on "o" correspondingly: "O", "e", "U", "Q"
-  + [ ] Also need to check size relation to "C", "c" and "G".
+  + [x] Also need to check size relation to "C", "c" and "G".
+        Looks ok... "O" is a little bit wider than "C" and "G". "C" and "G" 
+        have the same width. May increase width of "C" and "G" a little bit.
 - [ ] Increase width of "s" similar to Ubuntu Mono
   + Study the relation of width from "s" to "S" in other Fonts
 - [x] Use "l" glyph for the "i" well
