@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380021
-ModificationTime: 1594060128
+ModificationTime: 1599007967
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -46,7 +46,7 @@ OS2XHeight: 520
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Matthias Tellen" "" "" "" "" "" "" "mononoki" "Bold"
+LangName: 1033
 PickledDataWithLists: "(dp0
 VGSDimensionPlugin.Dimensions
 p1
@@ -1560,7 +1560,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 21 10
+WinInfo: 21 21 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -17478,7 +17478,7 @@ Encoding: 114 114 345
 GlifName: r
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "top" 288 570 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
