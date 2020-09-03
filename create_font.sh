@@ -8,10 +8,23 @@ function generate {
 
   fontforge - << END
 font = fontforge.open("$source")
+
+if "$source"[-3:] == "ttf":
+  layers = font.layers
+  for layer_name in layers:
+    layers[layer_name].is_quadratic = True
+
 for glyph in font.glyphs():
   glyph.unlinkRef()
   glyph.removeOverlap()
   glyph.round()
+  glyph.addExtrema("all")
+  if glyph.validate() & 0x8 == 0x8:
+    glyph.correctDirection()
+  glyph.removeOverlap()
+  glyph.round()
+  glyph.addExtrema("all")
+
 font.generate("$export")
 END
 

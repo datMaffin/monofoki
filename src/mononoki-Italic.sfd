@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1599091695
+ModificationTime: 1599093219
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1556,7 +1556,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 495 15 14
+WinInfo: 0 15 14
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -19312,10 +19312,32 @@ Encoding: 47 47 371
 GlifName: slash
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Back
+SplineSet
+389 682 m 258
+ 106 -144 l 258
+ 102 -158 108 -170 123 -177 c 258
+ 157 -193 l 258
+ 172 -200 184 -196 188 -182 c 258
+ 471 644 l 258
+ 475 658 469 670 454 677 c 258
+ 420 693 l 258
+ 405 700 393 696 389 682 c 258
+EndSplineSet
 Fore
-Refer: 157 92 N -1 0 0 1 575 0 2
+SplineSet
+414 682 m 258
+ 418 696 430 700 445 693 c 258
+ 479 677 l 258
+ 494 670 500 658 496 644 c 258
+ 163 -182 l 258
+ 159 -196 147 -200 132 -193 c 258
+ 98 -177 l 258
+ 83 -170 77 -158 81 -144 c 258
+ 414 682 l 258
+EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
