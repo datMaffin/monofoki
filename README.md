@@ -16,7 +16,7 @@ my preferences:
   + Study the relation of width from "s" to "S" in other Fonts.
     Fonts vary in  their relation. Decided on mononoki "s" looks perfectly 
     fine.
-- [x] Use "l" glyph for the "i" well
+- [x] Use "l" glyph for the "i" as well
 - [x] Increase height of middle line in "a" to line up with "e"
   - [ ] May need further refinement
 - [x] Italic "J" and BoldItalic "J" have different shapes
@@ -46,4 +46,5 @@ my preferences:
       font as ttfs
 - [ ] Issues with back- and frontticks: for some reason they get wrongly
       rendered on top of the letter infront.
-      - [X] Try adding all combining accents (from UTF 0x300 onward).
+      Adding all combining accents (from UTF 0x300 onward) did not resolve
+      this issue.
