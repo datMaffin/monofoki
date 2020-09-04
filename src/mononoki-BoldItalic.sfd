@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380042
-ModificationTime: 1599255915
+ModificationTime: 1599257421
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1557,7 +1557,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 330 15 9
+WinInfo: 0 15 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -3059,6 +3059,25 @@ Flags: HW
 AnchorPoint: "top" 361 720 basechar 0
 AnchorPoint: "bottom" 247 0 basechar 0
 LayerCount: 2
+Back
+SplineSet
+268 700 m 258
+ 536 700 l 258
+ 553 700 560 692 557 675 c 258
+ 494 275 l 258
+ 459 52 328 -10 164 -10 c 256
+ 134 -10 88 -8 36 3 c 256
+ 20 6 15 17 22 33 c 258
+ 33 59 l 258
+ 39 75 51 81 67 78 c 256
+ 112 69 155 67 176 67 c 256
+ 332 67 390 153 409 275 c 258
+ 464 624 l 257
+ 256 624 l 258
+ 240 624 233 632 235 649 c 258
+ 239 675 l 258
+ 242 691 252 700 268 700 c 258
+EndSplineSet
 Fore
 SplineSet
 258 720 m 257
@@ -3066,12 +3085,12 @@ SplineSet
  558 720 570 705 567 685 c 257
  503 280 l 257
  469 64 333 -10 204 -10 c 257
- 152 -10 100 0 55 21 c 257
- 37 28 33 48 44 67 c 257
- 58 91 l 257
- 68 109 89 118 105 110 c 257
- 147 95 180 88 220 88 c 257
- 304 88 374 131 397 280 c 257
+ 152 -10 97.345703125 -10.619140625 41 9 c 256
+ 20.2233482686 16.2342703956 20 28 27 49 c 262
+ 37 80 l 258
+ 44 100 51.5078125 102.592773438 72 98 c 256
+ 130.752929688 84.8330078125 180.015860429 82.8736862093 220 84 c 256
+ 291 86 374 131 397 280 c 257
  451 622 l 257
  242 622 l 257
  222 622 210 637 213 657 c 257
@@ -3091,7 +3110,7 @@ Encoding: 308 308 58
 GlifName: J_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 57 74 N 1 0 0 1 0 0 2
@@ -13946,7 +13965,7 @@ Encoding: 1032 1032 417
 GlifName: uni0408
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 57 74 N 1 0 0 1 0 0 2

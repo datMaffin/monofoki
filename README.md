@@ -19,7 +19,7 @@ my preferences:
 - [x] Use "l" glyph for the "i" well
 - [x] Increase height of middle line in "a" to line up with "e"
   - [ ] May need further refinement
-- [ ] Italic "J" and BoldItalic "J" have different shapes
+- [x] Italic "J" and BoldItalic "J" have different shapes
 - [x] Decrease width of "w" to be more similar in width with "m"
   - [ ] May need further refinement
 - [x] Fix missing UTF-8 glyphs: ä, ö, ü
