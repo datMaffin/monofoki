@@ -30,20 +30,20 @@ END
 
 }
 
-generate 'src/mononoki-Regular.sfd' 'export/mononoki-Regular.ttf'
-generate 'src/mononoki-Italic.sfd' 'export/mononoki-Italic.ttf'
-generate 'src/mononoki-Bold.sfd' 'export/mononoki-Bold.ttf'
-generate 'src/mononoki-BoldItalic.sfd' 'export/mononoki-BoldItalic.ttf'
+generate 'src/mononoki-Regular.sfd' 'export/MononokiFork-Regular.ttf'
+generate 'src/mononoki-Italic.sfd' 'export/MononokiFork-Italic.ttf'
+generate 'src/mononoki-Bold.sfd' 'export/MononokiFork-Bold.ttf'
+generate 'src/mononoki-BoldItalic.sfd' 'export/MononokiFork-BoldItalic.ttf'
 
 if [[ "$*" == --hint ]]
 then
-  ttfautohint --reference=export/mononoki-Regular.ttf export/mononoki-Regular.ttf export/mononoki-Regular-hinted.ttf
-  ttfautohint --reference=export/mononoki-Italic.ttf export/mononoki-Italic.ttf export/mononoki-Italic-hinted.ttf
-  ttfautohint --reference=export/mononoki-Regular.ttf export/mononoki-Bold.ttf export/mononoki-Bold-hinted.ttf
-  ttfautohint --reference=export/mononoki-Italic.ttf export/mononoki-BoldItalic.ttf export/mononoki-BoldItalic-hinted.ttf
+  ttfautohint --reference=export/MononokiFork-Regular.ttf export/MononokiFork-Regular.ttf export/MononokiFork-Regular-hinted.ttf
+  ttfautohint --reference=export/MononokiFork-Italic.ttf export/MononokiFork-Italic.ttf export/MononokiFork-Italic-hinted.ttf
+  ttfautohint --reference=export/MononokiFork-Regular.ttf export/MononokiFork-Bold.ttf export/MononokiFork-Bold-hinted.ttf
+  ttfautohint --reference=export/MononokiFork-Italic.ttf export/MononokiFork-BoldItalic.ttf export/MononokiFork-BoldItalic-hinted.ttf
 fi
 
-generate 'src/mononoki-Regular.sfd' 'export/mononoki-Regular.otf'
-generate 'src/mononoki-Italic.sfd' 'export/mononoki-Italic.otf'
-generate 'src/mononoki-Bold.sfd' 'export/mononoki-Bold.otf'
-generate 'src/mononoki-BoldItalic.sfd' 'export/mononoki-BoldItalic.otf'
+generate 'src/mononoki-Regular.sfd' 'export/MononokiFork-Regular.otf'
+generate 'src/mononoki-Italic.sfd' 'export/MononokiFork-Italic.otf'
+generate 'src/mononoki-Bold.sfd' 'export/MononokiFork-Bold.otf'
+generate 'src/mononoki-BoldItalic.sfd' 'export/MononokiFork-BoldItalic.otf'

@@ -1,10 +1,10 @@
 SplineFontDB: 3.2
-FontName: mononoki-fork-BoldItalic
-FullName: mononoki fork BoldItalic
-FamilyName: mononoki fork
+FontName: MononokiFork-BoldItalic
+FullName: Mononoki Fork BoldItalic
+FamilyName: MononokiFork
 Weight: Bold
-Copyright: 
-Version: 1.1
+Copyright: Modifications:\nCopyright (c) 2020, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2017, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+Version: 2.0
 ItalicAngle: -9
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380042
-ModificationTime: 1599094143
+ModificationTime: 1599255915
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1557,7 +1557,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 330 15 14
+WinInfo: 330 15 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
