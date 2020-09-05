@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1599255607
+ModificationTime: 1599347404
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1553,20 +1553,19 @@ aVuniE0B3
 p750
 as."
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 21 12
+WinInfo: 9366 21 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
 StemSnapV 4 [85]
 EndPrivate
 AnchorClass2: "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 724
+BeginChars: 65591 725
 
 StartChar: A
 Encoding: 65 65 0
@@ -86727,7 +86726,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 180 50 2
+Refer: 191 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -86745,7 +86744,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 180 50 2
+Refer: 242 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
 p1
@@ -91728,6 +91727,21 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 252 733 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: SF100000
+Encoding: 9472 9472 724
+Width: 575
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+596 346 m 1
+ 596 304 l 1
+ -21 304 l 1
+ -21 346 l 1
+ 596 346 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
