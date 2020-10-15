@@ -28,6 +28,9 @@ my preferences:
     Mononoki-Font.
   + The **fix** was: Add zero width glyph COMBINING DIARESIS (Nr. 776) with 
     diaresis in negative space.
+- [ ] Reduce bold italic "r" stem width to equal all other letters stem widths
+- [ ] TTF autohinted bold italic "o" is too high
+- [ ] Put "E" and "F" middle stroke ontu the same height
 
 ## Further experiments/provide more options
 * Lower the bar of "f" similar to Consolas
