@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1599347494
+ModificationTime: 1604011636
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -1555,7 +1555,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 9443 19 11
+WinInfo: 0 19 11
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -8592,7 +8592,7 @@ SplineSet
  467 38 462 26 446 20 c 256
  395 0 338 -10 287 -10 c 256
  176 -10 73 45 73 189 c 256
- 73 354 183 510 333 510 c 256
+ 73 354 183 510 333 510 c 260
  423 510 507 448 507 331 c 256
  507 310 504 292 499 262 c 256
  496 246 486 237 470 237 c 258
@@ -16169,7 +16169,7 @@ Encoding: 111 111 295
 GlifName: o
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 AnchorPoint: "bottom" 248 0 basechar 0
 AnchorPoint: "ogonek" 477 10 basechar 0
 AnchorPoint: "top" 328 550 basechar 0
@@ -16179,16 +16179,16 @@ LayerCount: 2
 Fore
 SplineSet
 72 189 m 256
- 72 347 171 512 332 512 c 256
- 426 512 503 452 503 315 c 256
- 503 155 410 -12 250 -12 c 256
- 155 -12 72 49 72 189 c 256
+ 72 347 171 510 332 510 c 256
+ 426 510 503 452 503 315 c 256
+ 503 155 410 -10 250 -10 c 256
+ 155 -10 72 49 72 189 c 256
   PathStart: -2
 158 200 m 256
- 158 111 201 65 259 65 c 256
- 359 65 417 200 417 300 c 256
- 417 390 375 435 317 435 c 256
- 216 435 158 300 158 200 c 256
+ 158 111 201 66 259 66 c 256
+ 359 66 417 200 417 300 c 256
+ 417 390 375 434 317 434 c 256
+ 216 434 158 300 158 200 c 256
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0

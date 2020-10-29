@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593380042
-ModificationTime: 1603894602
+ModificationTime: 1604011539
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -7134,7 +7134,7 @@ Encoding: 101 101 199
 GlifName: e
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 AnchorPoint: "ogonek" 499 10 basechar 0
 AnchorPoint: "bottom" 259 0 basechar 0
 AnchorPoint: "top" 351 570 basechar 0
@@ -10176,17 +10176,15 @@ LayerCount: 2
 Fore
 SplineSet
 62 199 m 256
- 62 386 182 532 332 532 c 256
- 442 532 513 456 513 325 c 256
- 513 163 416 -12 250 -12 c 256
- 137 -12 62 67 62 199 c 256
-  PathStart: -2
+ 62 386 182 530 332 530 c 256
+ 442 530 513 456 513 325 c 256
+ 513 163 416 -10 250 -10 c 256
+ 137 -10 62 67 62 199 c 256
 168 210 m 256
- 168 129 205 85 259 85 c 256
- 352 85 407 212 407 310 c 256
- 407 392 371 435 317 435 c 256
- 223 435 168 308 168 210 c 256
-  PathStart: -2
+ 168 129 205 86 259 86 c 256
+ 352 86 407 212 407 310 c 256
+ 407 392 371 434 317 434 c 256
+ 223 434 168 308 168 210 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange
@@ -11691,7 +11689,7 @@ Encoding: 114 114 345
 GlifName: r
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "bottom" 247 0 basechar 0
 AnchorPoint: "top" 329 570 basechar 0
 LayerCount: 2
