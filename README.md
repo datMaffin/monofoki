@@ -31,7 +31,7 @@ my preferences:
 - [x] Reduce bold italic "r" stem width to equal all other letters stem widths
 - [x] TTF autohinted bold italic "o" is too high (turned out to be an exclusive 
       Java/Intellij Idea issue; probably not related to TTF autohinted)
-- [ ] Put "E" and "F" middle stroke ontu the same height
+- [x] CANCELED: Put "E" and "F" middle stroke ontu the same height
 
 ## Further experiments/provide more options
 * Lower the bar of "f" similar to Consolas
