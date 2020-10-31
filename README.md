@@ -47,7 +47,8 @@ my preferences:
 - [x] macOS is still complaining about the name table
 - [X] FontForge tutorial says to change layers to quadratic before exporting 
       font as ttfs
-- [ ] Issues with back- and frontticks: for some reason they get wrongly
+- [x] Issues with back- and frontticks: for some reason they get wrongly
       rendered on top of the letter infront.
       Adding all combining accents (from UTF 0x300 onward) did not resolve
       this issue.
+      For all affected glyphs set "OT Glyph Class" to "Base Glyph"
