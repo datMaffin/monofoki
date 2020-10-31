@@ -29,7 +29,8 @@ my preferences:
   + The **fix** was: Add zero width glyph COMBINING DIARESIS (Nr. 776) with 
     diaresis in negative space.
 - [x] Reduce bold italic "r" stem width to equal all other letters stem widths
-- [ ] TTF autohinted bold italic "o" is too high
+- [x] TTF autohinted bold italic "o" is too high (turned out to be an exclusive 
+      Java/Intellij Idea issue; probably not related to TTF autohinted)
 - [ ] Put "E" and "F" middle stroke ontu the same height
 
 ## Further experiments/provide more options
@@ -51,4 +52,5 @@ my preferences:
       rendered on top of the letter infront.
       Adding all combining accents (from UTF 0x300 onward) did not resolve
       this issue.
+      Solution (Fix) was:
       For all affected glyphs set "OT Glyph Class" to "Base Glyph"
