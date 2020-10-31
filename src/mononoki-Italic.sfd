@@ -1555,7 +1555,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 19 11
+WinInfo: 684 19 11
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -5088,6 +5088,7 @@ Encoding: 180 180 140
 GlifName: acute
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 353 500 mark 0
 LayerCount: 2
@@ -6229,6 +6230,7 @@ Encoding: 728 728 165
 GlifName: breve
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2
@@ -6409,6 +6411,7 @@ Encoding: 711 711 171
 GlifName: caron
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2
@@ -6618,6 +6621,7 @@ Encoding: 710 710 178
 GlifName: circumflex
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2
@@ -8233,6 +8237,7 @@ Encoding: 168 168 191
 GlifName: dieresis
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2
@@ -8483,6 +8488,7 @@ Encoding: 729 729 196
 GlifName: dotaccent
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 325 500 mark 0
 LayerCount: 2
@@ -11115,6 +11121,7 @@ Encoding: 96 96 242
 GlifName: grave
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2
@@ -11409,6 +11416,7 @@ Encoding: 733 733 252
 GlifName: hungarumlaut
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 331 500 mark 0
 LayerCount: 2
@@ -14552,6 +14560,7 @@ Encoding: 175 175 281
 GlifName: macron
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2
@@ -16169,7 +16178,7 @@ Encoding: 111 111 295
 GlifName: o
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "bottom" 248 0 basechar 0
 AnchorPoint: "ogonek" 477 10 basechar 0
 AnchorPoint: "top" 328 550 basechar 0
@@ -16303,6 +16312,7 @@ Encoding: 731 731 300
 GlifName: ogonek
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "ogonek" 314 5 mark 0
 LayerCount: 2
@@ -18645,6 +18655,7 @@ Encoding: 730 730 351
 GlifName: ring
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2
@@ -19942,6 +19953,7 @@ Encoding: 732 732 388
 GlifName: tilde
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 328 500 mark 0
 LayerCount: 2

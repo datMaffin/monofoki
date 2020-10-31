@@ -1559,7 +1559,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 11
+WinInfo: 600 20 11
 BeginPrivate: 3
 BlueValues 31 [-15 0 520 536 720 736 770 786]
 StemSnapH 4 [98]
@@ -9313,6 +9313,7 @@ Encoding: 180 180 140
 GlifName: acute
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
@@ -10652,6 +10653,7 @@ Encoding: 728 728 165
 GlifName: breve
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
@@ -10831,6 +10833,7 @@ Encoding: 711 711 171
 GlifName: caron
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
@@ -10918,6 +10921,7 @@ Encoding: 184 184 175
 GlifName: cedilla
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "bottom" 302 0 mark 0
 LayerCount: 2
@@ -11037,6 +11041,7 @@ Encoding: 710 710 178
 GlifName: circumflex
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
@@ -11533,6 +11538,7 @@ Encoding: 168 168 191
 GlifName: dieresis
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
@@ -11784,6 +11790,7 @@ Encoding: 729 729 196
 GlifName: dotaccent
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 285 500 mark 0
 LayerCount: 2
@@ -11899,7 +11906,7 @@ Encoding: 101 101 199
 GlifName: e
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "ogonek" 518 5 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 AnchorPoint: "top" 288 570 basechar 0
@@ -14016,6 +14023,7 @@ Encoding: 96 96 242
 GlifName: grave
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
@@ -14310,6 +14318,7 @@ Encoding: 733 733 252
 GlifName: hungarumlaut
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 291 500 mark 0
 LayerCount: 2
@@ -15196,6 +15205,7 @@ Encoding: 175 175 281
 GlifName: macron
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
@@ -16105,6 +16115,7 @@ Encoding: 731 731 300
 GlifName: ogonek
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "ogonek" 353 5 mark 0
 LayerCount: 2
@@ -17978,6 +17989,7 @@ Encoding: 730 730 351
 GlifName: ring
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
@@ -19654,6 +19666,7 @@ Encoding: 732 732 388
 GlifName: tilde
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
