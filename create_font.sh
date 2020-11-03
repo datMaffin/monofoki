@@ -37,10 +37,10 @@ generate 'src/mononoki-BoldItalic.sfd' 'export/MononokiFork-BoldItalic.ttf'
 
 if [[ "$*" == --hint ]]
 then
-  ttfautohint --reference=export/MononokiFork-Regular.ttf export/MononokiFork-Regular.ttf export/MononokiFork-Regular-hinted.ttf
-  ttfautohint --reference=export/MononokiFork-Italic.ttf export/MononokiFork-Italic.ttf export/MononokiFork-Italic-hinted.ttf
-  ttfautohint --reference=export/MononokiFork-Regular.ttf export/MononokiFork-Bold.ttf export/MononokiFork-Bold-hinted.ttf
-  ttfautohint --reference=export/MononokiFork-Italic.ttf export/MononokiFork-BoldItalic.ttf export/MononokiFork-BoldItalic-hinted.ttf
+  ttfautohint export/MononokiFork-Regular.ttf export/MononokiFork-Regular-hinted.ttf
+  ttfautohint export/MononokiFork-Italic.ttf export/MononokiFork-Italic-hinted.ttf
+  ttfautohint export/MononokiFork-Bold.ttf export/MononokiFork-Bold-hinted.ttf
+  ttfautohint export/MononokiFork-BoldItalic.ttf export/MononokiFork-BoldItalic-hinted.ttf
 fi
 
 generate 'src/mononoki-Regular.sfd' 'export/MononokiFork-Regular.otf'
