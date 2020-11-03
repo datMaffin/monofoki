@@ -18,11 +18,11 @@ Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 StyleMap: 0x0040
 FSType: 0
-OS2Version: 0
+OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1604011601
+ModificationTime: 1604438267
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
