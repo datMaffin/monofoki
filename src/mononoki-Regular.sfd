@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610839092
+ModificationTime: 1610840248
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 8 11
+WinInfo: 64 8 11
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -8994,17 +8994,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-433 270 m 257
+432 270 m 257
  499 270 l 258
  515 270 524 261 524 245 c 258
  524 218 l 258
  524 202 515 193 499 193 c 258
- 433 193 l 257
- 433 25 l 258
- 433 9 424 0 408 0 c 258
- 373 0 l 258
- 356 0 348 9 348 25 c 258
- 348 193 l 257
+ 432 193 l 257
+ 432 25 l 258
+ 432 9 423 0 407 0 c 258
+ 372 0 l 258
+ 356 0 347 9 347 25 c 258
+ 347 193 l 257
  228 193 l 257
  228 25 l 258
  228 9 219 0 203 0 c 258
@@ -9013,39 +9013,38 @@ SplineSet
  143 193 l 257
  76 193 l 258
  60 193 51 202 51 218 c 258
- 51 244 l 258
+ 51 245 l 258
  51 261 60 270 76 270 c 258
  143 270 l 257
  143 424 l 257
  76 424 l 258
  60 424 51 433 51 449 c 258
  51 475 l 258
- 51 492 60 501 76 501 c 258
+ 51 491 60 501 76 501 c 258
  143 501 l 257
  143 675 l 258
  143 691 152 700 168 700 c 258
  203 700 l 258
- 219 700 228 692 228 675 c 258
+ 219 700 228 691 228 675 c 258
  228 501 l 257
- 348 501 l 257
- 348 675 l 258
- 348 691 356 700 373 700 c 258
- 408 700 l 258
- 424 700 433 692 433 675 c 258
- 433 501 l 257
+ 347 501 l 257
+ 347 675 l 258
+ 347 691 356 700 372 700 c 258
+ 407 700 l 258
+ 423 700 432 691 432 675 c 258
+ 432 501 l 257
  499 501 l 258
  515 501 524 492 524 476 c 258
  524 449 l 258
  524 433 515 424 499 424 c 258
- 433 424 l 257
- 433 270 l 257
+ 432 424 l 257
+ 432 270 l 257
 228 424 m 257
  228 270 l 257
- 348 270 l 257
- 348 424 l 257
+ 347 270 l 257
+ 347 424 l 257
  228 424 l 257
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10393,7 +10392,7 @@ Encoding: 34 34 336
 GlifName: quotedbl
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
