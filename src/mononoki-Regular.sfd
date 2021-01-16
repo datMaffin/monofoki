@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610836747
+ModificationTime: 1610839092
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -6659,7 +6659,7 @@ Encoding: 33 33 222
 GlifName: exclam
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -10393,30 +10393,29 @@ Encoding: 34 34 336
 GlifName: quotedbl
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 146 750 m 258
  201 750 l 258
- 217 750 226 741 225 725 c 258
+ 217 750 227 740 226 724 c 258
  213 437 l 258
- 212 421 203 413 187 413 c 258
- 160 413 l 258
- 144 413 135 421 134 437 c 258
- 121 725 l 258
- 121 741 129 750 146 750 c 258
-375 750 m 258
- 430 750 l 258
- 446 750 455 741 454 725 c 258
+ 212 421 204 413 188 413 c 258
+ 159 413 l 258
+ 143 413 135 421 134 437 c 258
+ 121 724 l 258
+ 120 740 130 750 146 750 c 258
+374 750 m 258
+ 429 750 l 258
+ 445 750 455 740 454 724 c 258
  441 437 l 258
- 441 421 432 413 416 413 c 258
- 388 413 l 258
- 372 413 364 421 363 437 c 258
- 350 725 l 258
- 349 741 358 750 375 750 c 258
+ 440 421 432 413 416 413 c 258
+ 387 413 l 258
+ 371 413 363 421 362 437 c 258
+ 349 724 l 258
+ 348 740 358 750 374 750 c 258
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
