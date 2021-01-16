@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1604438267
+ModificationTime: 1610836747
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 651 21 12
+WinInfo: 0 8 11
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -6659,30 +6659,29 @@ Encoding: 33 33 222
 GlifName: exclam
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 260 700 m 258
  315 700 l 258
- 332 700 340 691 340 675 c 258
+ 331 700 340 691 340 675 c 258
  330 230 l 258
- 330 214 320 205 304 205 c 258
- 271 205 l 258
- 255 205 246 214 246 230 c 258
+ 330 214 321 205 305 205 c 258
+ 270 205 l 258
+ 254 205 245 214 245 230 c 258
  235 675 l 258
  235 691 244 700 260 700 c 258
 330 62 m 258
  330 15 l 258
- 330 -2 322 -10 305 -10 c 258
+ 330 -1 321 -10 305 -10 c 258
  270 -10 l 258
- 254 -10 245 -2 245 15 c 258
+ 254 -10 245 -1 245 15 c 258
  245 62 l 258
  245 78 254 87 270 87 c 258
  305 87 l 258
- 322 87 330 78 330 62 c 258
+ 321 87 330 78 330 62 c 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -6701,7 +6700,6 @@ LayerCount: 2
 Fore
 Refer: 222 33 N 1 0 0 1 -100 0 2
 Refer: 222 33 N 1 0 0 1 100 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -6719,7 +6717,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 222 33 N 1 0 0 -1 0 500 2
-Validated: 25
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
