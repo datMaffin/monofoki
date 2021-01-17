@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610896433
+ModificationTime: 1610896819
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -7380,19 +7380,19 @@ Encoding: 45 45 253
 GlifName: hyphen
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-50 237 m 258
- 54 263 l 258
- 57 280 67 289 83 289 c 258
- 506 289 l 258
- 522 289 530 280 527 264 c 258
- 523 237 l 258
- 520 221 510 212 494 212 c 258
- 71 212 l 258
- 55 212 47 221 50 237 c 258
+80 272 m 258
+ 63 272 56 281 59 297 c 258
+ 63 324 l 258
+ 66 341 76 349 92 349 c 258
+ 515 349 l 258
+ 532 349 539 340 536 324 c 258
+ 532 297 l 258
+ 529 280 519 272 503 272 c 258
+ 80 272 l 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -8249,7 +8249,7 @@ Encoding: 8722 8722 282
 GlifName: minus
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 253 45 N 1 0 0 1 0 0 2
@@ -9719,7 +9719,7 @@ SplineSet
  261 349 l 257
  288 525 l 258
  291 542 301 550 317 550 c 258
- 352 550 l 262
+ 352 550 l 258
  369 550 376 541 373 525 c 258
  346 349 l 257
  515 349 l 258

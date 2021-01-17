@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610896159
+ModificationTime: 1610896742
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -59,6 +59,12 @@ BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
 StemSnapV 4 [85]
 EndPrivate
+Grid
+-650 272 m 25
+ 1300 272 l 1049
+-651 349 m 1
+ 1300 349 l 1049
+EndSplineSet
 AnchorClass2: "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek""" 
 BeginChars: 65591 725
 
@@ -7761,21 +7767,20 @@ Encoding: 45 45 253
 GlifName: hyphen
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-52 237 m 258
- 52 263 l 258
- 52 280 61 289 77 289 c 258
- 500 289 l 258
- 516 289 525 280 525 264 c 258
- 525 237 l 258
- 525 221 516 212 500 212 c 258
- 77 212 l 258
- 61 212 52 221 52 237 c 258
+76 272 m 258
+ 60 272 51 281 51 297 c 258
+ 51 324 l 258
+ 51 340 60 349 76 349 c 258
+ 499 349 l 258
+ 515 349 524 340 524 324 c 258
+ 524 297 l 258
+ 524 281 515 272 499 272 c 258
+ 76 272 l 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8696,11 +8701,10 @@ Encoding: 8722 8722 282
 GlifName: minus
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 253 45 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
