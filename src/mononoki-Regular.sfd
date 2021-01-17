@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610898026
+ModificationTime: 1610899441
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9392,9 +9392,9 @@ Fore
 SplineSet
 362 77 m 257
  465 77 l 258
- 482 77 490 68 490 52 c 258
+ 481 77 490 68 490 52 c 258
  490 25 l 258
- 490 9 482 0 465 0 c 258
+ 490 9 481 0 465 0 c 258
  110 0 l 258
  94 0 85 9 85 25 c 258
  85 52 l 258
@@ -9404,14 +9404,13 @@ SplineSet
  110 520 l 258
  94 520 85 529 85 545 c 258
  85 572 l 258
- 85 588 94 597 110 597 c 256
+ 85 588 94 597 110 597 c 259
  208 597 262 618 289 680 c 256
  295 694 304 700 318 700 c 258
  337 700 l 258
  353 700 362 691 362 675 c 258
  362 77 l 257
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: one.dnom
@@ -9476,7 +9475,6 @@ SplineSet
  537 900 546 891 546 875 c 258
 EndSplineSet
 Refer: 306 49 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -21783,26 +21781,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-55 350 m 256
- 55 572 144 710 288 710 c 256
- 431 710 520 572 520 350 c 256
- 520 128 431 -10 288 -10 c 256
- 144 -10 55 128 55 350 c 256
+55 350 m 259
+ 55 572 144 710 288 710 c 259
+ 431 710 520 572 520 350 c 259
+ 520 128 431 -10 288 -10 c 259
+ 144 -10 55 128 55 350 c 259
   PathStart: -2
 409 528 m 257
- 384 596 342 634 288 634 c 256
- 197 634 140 525 140 350 c 256
+ 384 596 342 634 288 634 c 259
+ 197 634 140 525 140 350 c 259
  140 319 142 291 145 264 c 257
  409 528 l 257
   PathStart: -2
 167 174 m 257
- 192 106 234 67 288 67 c 256
- 379 67 435 176 435 350 c 256
+ 192 106 234 67 288 67 c 259
+ 379 67 435 176 435 350 c 259
  435 381 433 410 430 437 c 257
  167 174 l 257
   PathStart: -2
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: zero.dnom
@@ -21841,11 +21838,10 @@ Encoding: 65589 -1 710
 GlifName: zero.hex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 708 48 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
