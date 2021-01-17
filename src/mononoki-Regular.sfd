@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610900054
+ModificationTime: 1610900607
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -6899,34 +6899,33 @@ Encoding: 53 53 227
 GlifName: five
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 210 431 m 257
  263 431 l 258
- 415 431 493 357 493 211 c 256
- 493 65 410 -10 246 -10 c 256
+ 415 431 493 357 493 211 c 259
+ 493 65 410 -10 246 -10 c 259
  204 -10 162 -5 125 4 c 256
  109 8 104 20 108 35 c 258
  116 63 l 258
  120 78 131 83 147 79 c 256
- 177 72 210 68 246 68 c 256
- 353 68 407 116 407 211 c 256
+ 177 72 210 68 246 68 c 259
+ 353 68 407 116 407 211 c 259
  407 306 358 354 263 354 c 258
- 199 354 l 257
- 149 361 l 258
- 133 363 126 373 127 389 c 258
+ 199 354 l 259
+ 182.780455543 354 149 361 149 361 c 258
+ 133 364 126 373 127 389 c 258
  149 677 l 258
  150 692 160 700 176 700 c 258
  431 700 l 258
- 448 700 456 692 456 675 c 258
+ 447 700 456 691 456 675 c 258
  456 649 l 258
- 456 633 448 624 431 624 c 258
+ 456 633 447 624 431 624 c 258
  225 624 l 257
  210 431 l 257
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: five.dnom
@@ -7003,7 +7002,6 @@ SplineSet
  537 900 546 891 546 875 c 258
 EndSplineSet
 Refer: 227 53 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
