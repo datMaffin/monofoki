@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610900607
+ModificationTime: 1610900862
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -6899,7 +6899,7 @@ Encoding: 53 53 227
 GlifName: five
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8825,11 +8825,10 @@ Encoding: 57 57 287
 GlifName: nine
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 367 54 N -1 0 0 -1 553 704 2
-Validated: 1
 EndChar
 
 StartChar: nine.dnom
@@ -8901,7 +8900,6 @@ SplineSet
  537 900 546 891 546 875 c 258
 EndSplineSet
 Refer: 287 57 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -11374,24 +11372,23 @@ LayerCount: 2
 Fore
 SplineSet
 435 672 m 258
- 429 644 l 257
+ 429 644 l 258
  425 629 415 622 399 625 c 256
- 372 630 349 632 332 632 c 256
+ 372 630 349 632 332 632 c 259
  252 632 162 586 144 402 c 257
- 198 419 243 429 285 429 c 256
- 402 429 496 349 496 220 c 256
- 496 78 411 -10 283 -10 c 256
- 141 -10 53 95 53 326 c 256
- 53 571 161 710 330 710 c 256
+ 198 419 243 429 285 429 c 259
+ 402 429 496 349 496 220 c 259
+ 496 78 411 -10 283 -10 c 259
+ 141 -10 53 95 53 326 c 259
+ 53 571 161 710 330 710 c 259
  354 710 384 707 415 702 c 256
  431 699 438 688 435 672 c 258
 139 317 m 257
- 139 134 208 68 286 68 c 256
- 354 68 410 118 410 220 c 256
- 410 301 359 351 281 351 c 256
+ 139 134 208 68 286 68 c 259
+ 354 68 410 118 410 220 c 259
+ 410 301 359 351 281 351 c 259
  253 351 201 349 139 317 c 257
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: six.dnom
@@ -11463,7 +11460,6 @@ SplineSet
  393 900 402 891 402 875 c 258
 EndSplineSet
 Refer: 367 54 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
