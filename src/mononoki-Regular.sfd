@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610905877
+ModificationTime: 1610906956
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 40 8 12
+WinInfo: 36 9 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -4112,7 +4112,6 @@ LayerCount: 2
 Fore
 Refer: 151 126 N 1 0 0 1 0 150 2
 Refer: 151 126 N 1 0 0 1 0 -150 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -4183,21 +4182,20 @@ Fore
 SplineSet
 486 308 m 258
  515 308 l 258
- 530 308 538 299 538 282 c 256
- 538 190 493 140 412 140 c 256
+ 530 308 538 299 538 282 c 259
+ 538 190 493 140 412 140 c 259
  368 140 315 169 261 223 c 256
- 221 263 187 284 164 284 c 256
- 133 284 116 260 116 215 c 256
+ 221 263 187 284 164 284 c 259
+ 133 284 116 260 116 215 c 259
  116 201 107 193 89 193 c 258
  61 193 l 258
- 46 193 37 202 37 219 c 256
- 37 310 82 361 164 361 c 256
+ 46 193 37 202 37 219 c 259
+ 37 310 82 361 164 361 c 259
  207 361 261 331 315 277 c 256
- 354 238 388 216 412 216 c 256
- 442 216 459 241 459 286 c 256
+ 354 238 388 216 412 216 c 259
+ 442 216 459 241 459 286 c 259
  459 300 469 308 486 308 c 258
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -10838,11 +10836,11 @@ Encoding: 115 115 353
 GlifName: s
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 AnchorPoint: "top" 288 550 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 436 469 m 258
  429 443 l 258
@@ -10864,7 +10862,26 @@ SplineSet
  325 510 369 508 417 499 c 256
  433 496 440 485 436 469 c 258
 EndSplineSet
-Validated: 33
+Fore
+SplineSet
+436 469 m 258
+ 429 443 l 258
+ 425 428 415 422 399 425 c 256
+ 356 432 326.018512172 434 299 434 c 259
+ 238.966675921 434 191 410 191 371 c 259
+ 191 255 469 347 469 146 c 259
+ 469 55 395 -10 259 -10 c 259
+ 227 -10 180 -8 124 1 c 256
+ 107 4 100 15 104 31 c 258
+ 110 57 l 257
+ 113 73 123 79 139 77 c 257
+ 191 68 236 67 259 67 c 259
+ 340 67 384 99.9886378307 384 144 c 259
+ 384 269.103261723 106 174.876301266 106 371 c 259
+ 106 449 174 510 299 510 c 259
+ 325 510 369 508 417 499 c 256
+ 433 496 440 485 436 469 c 258
+EndSplineSet
 EndChar
 
 StartChar: sacute
@@ -10877,7 +10894,6 @@ LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 0 50 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10896,7 +10912,6 @@ LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
 Refer: 171 711 N 1 0 0 1 0 50 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10910,12 +10925,11 @@ Encoding: 351 351 356
 GlifName: scedilla
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
 Refer: 175 184 N 1 0 0 1 6 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10934,7 +10948,6 @@ LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
 Refer: 178 710 N 1 0 0 1 0 50 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15055,11 +15068,10 @@ Encoding: 1109 1109 485
 GlifName: uni0455
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: afii10103

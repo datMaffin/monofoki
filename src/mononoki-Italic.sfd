@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610906457
+ModificationTime: 1610907007
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 9 9 12
+WinInfo: 36 9 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -2531,7 +2531,7 @@ Encoding: 83 83 94
 GlifName: S_
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 AnchorPoint: "top" 449 694 basechar 0
 AnchorPoint: "bottom" 208 0 basechar 0
 LayerCount: 2
@@ -3847,7 +3847,7 @@ Encoding: 8776 8776 148
 GlifName: approxequal
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 151 126 N 1 0 0 1 25 150 2
@@ -3923,16 +3923,16 @@ SplineSet
 495 308 m 258
  524 308 l 258
  539 308 546 299 543 282 c 256
- 528 190 476 140 395 140 c 256
+ 528 190 476 140 395 140 c 259
  351 140 302 169 257 223 c 256
- 223 263 192 284 169 284 c 256
+ 223 263 192 284 169 284 c 259
  138 284 118 260 110 215 c 256
  108 201 98 193 80 193 c 258
  52 193 l 258
  37 193 29 202 32 219 c 256
- 47 310 100 361 182 361 c 256
+ 47 310 100 361 182 361 c 259
  225 361 274 331 319 277 c 256
- 352 238 383 216 407 216 c 256
+ 352 238 383 216 407 216 c 259
  437 216 458 241 465 286 c 256
  467 300 478 308 495 308 c 258
 EndSplineSet
@@ -4292,7 +4292,7 @@ Encoding: 125 125 162
 GlifName: braceright
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 161 123 N -1 0 0 -1 586 572 2
@@ -10384,7 +10384,7 @@ Flags: HW
 AnchorPoint: "top" 328 550 basechar 0
 AnchorPoint: "bottom" 248 0 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 471 469 m 258
  460 443 l 258
@@ -10406,6 +10406,26 @@ SplineSet
  366 510 410 508 456 499 c 256
  472 496 477 485 471 469 c 258
 EndSplineSet
+Fore
+SplineSet
+471 469 m 258
+ 460 443 l 258
+ 453 428 442 422 427 425 c 256
+ 385 432 355.018512172 434 328 434 c 259
+ 268.966111427 434 209 409 209 366 c 259
+ 209 261.995192419 455 340.025712397 455 165 c 259
+ 455 56 346 -10 218 -10 c 259
+ 186 -10 139 -8 85 1 c 256
+ 68 4 63 15 69 31 c 258
+ 79 57 l 258
+ 85 73 96 79 112 77 c 256
+ 162 68 207 67 230 67 c 259
+ 305 67 368 99 368 153 c 259
+ 368 264.004504413 123 183.925611707 123 352 c 259
+ 123 450 224 510 340 510 c 259
+ 366 510 410 508 456 499 c 256
+ 472 496 477 485 471 469 c 258
+EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10419,7 +10439,7 @@ Encoding: 347 347 354
 GlifName: sacute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
@@ -10437,7 +10457,7 @@ Encoding: 353 353 355
 GlifName: scaron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
@@ -10455,7 +10475,7 @@ Encoding: 351 351 356
 GlifName: scedilla
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
@@ -10473,7 +10493,7 @@ Encoding: 349 349 357
 GlifName: scircumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
@@ -14616,7 +14636,7 @@ Encoding: 1109 1109 485
 GlifName: uni0455
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 2
