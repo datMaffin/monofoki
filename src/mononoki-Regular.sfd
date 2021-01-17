@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610899645
+ModificationTime: 1610899823
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -11921,29 +11921,28 @@ SplineSet
 123 637 m 258
  115 665 l 258
  111 680 116 692 132 696 c 256
- 168 705 208 710 248 710 c 256
- 365 710 480 663 480 531 c 256
+ 168 705 208 710 248 710 c 259
+ 365 710 480 663 480 531 c 259
  480 452 438 403 366 364 c 257
- 429 335 490 272 490 177 c 256
- 490 42 366 -10 243 -10 c 256
+ 429 335 490 272 490 177 c 259
+ 490 42 366 -10 243 -10 c 259
  201 -10 159 -5 122 4 c 256
  106 8 101 20 105 35 c 258
  113 63 l 258
  117 78 128 83 144 79 c 256
- 174 72 207 68 243 68 c 256
- 341 68 404 102 404 189 c 256
+ 174 72 207 68 243 68 c 259
+ 341 68 404 102 404 189 c 259
  404 269 340 324 250 324 c 258
  199 324 l 258
  183 324 174 333 174 349 c 258
  174 376 l 258
  174 392 183 401 199 401 c 258
  250 401 l 258
- 338 401 394 443 394 526 c 256
- 394 605 339 632 248 632 c 256
+ 338 401 394 443 394 526 c 259
+ 394 605 339 632 248 632 c 259
  215 632 184 628 154 621 c 256
  138 617 127 622 123 637 c 258
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: three.dnom
@@ -12022,7 +12021,6 @@ SplineSet
  537 900 546 891 546 875 c 258
 EndSplineSet
 Refer: 382 51 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -13133,13 +13131,12 @@ Encoding: 1047 1047 426
 GlifName: uni0417
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "top" 288 700 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 382 51 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
