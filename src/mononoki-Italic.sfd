@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610901525
+ModificationTime: 1610901905
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4835,24 +4835,24 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-278 500 m 258
- 378 500 l 258
- 394 500 401 492 399 475 c 258
- 384 385 l 258
- 382 369 371 360 355 360 c 258
- 255 360 l 258
- 239 360 232 369 234 385 c 258
- 249 475 l 258
- 251 492 261 500 278 500 c 258
-221 140 m 258
- 321 140 l 258
- 337 140 344 132 342 115 c 258
- 327 25 l 258
- 325 9 314 0 298 0 c 258
- 198 0 l 258
- 182 0 175 9 177 25 c 258
- 192 115 l 258
- 194 132 204 140 221 140 c 258
+279 500 m 258
+ 379 500 l 258
+ 396 500 403 491 400 475 c 258
+ 385 385 l 258
+ 382 368 372 360 356 360 c 258
+ 256 360 l 258
+ 239 360 232 369 235 385 c 258
+ 250 475 l 258
+ 253 492 263 500 279 500 c 258
+220 140 m 258
+ 320 140 l 258
+ 337 140 344 131 341 115 c 258
+ 326 25 l 258
+ 323 8 313 0 297 0 c 258
+ 197 0 l 258
+ 180 0 173 9 176 25 c 258
+ 191 115 l 258
+ 194 132 204 140 220 140 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -5860,7 +5860,7 @@ Encoding: 56 56 207
 GlifName: eight
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
