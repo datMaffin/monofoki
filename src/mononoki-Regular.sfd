@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610899441
+ModificationTime: 1610899645
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -12229,18 +12229,17 @@ SplineSet
  93 -1 84 8 84 24 c 258
  84 48 l 258
  84 183 189 256 259 309 c 256
- 343 375 410 429 410 514 c 256
- 410 598 354 632 265 632 c 256
+ 343 375 410 429 410 514 c 259
+ 410 598 354 632 265 632 c 259
  224 632 185 624 140 608 c 256
  124 603 113 608 107 623 c 258
  98 649 l 258
  92 664 97 675 112 681 c 256
- 160 699 214 710 265 710 c 256
- 387 710 496 653 496 514 c 256
+ 160 699 214 710 265 710 c 259
+ 387 710 496 653 496 514 c 259
  496 391 400 317 312 248 c 256
  242 194 177 144 170 77 c 257
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: two.dnom
@@ -12304,7 +12303,6 @@ SplineSet
  394 900 402 891 402 875 c 258
 EndSplineSet
 Refer: 390 50 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
