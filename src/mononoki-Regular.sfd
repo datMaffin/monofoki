@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610904255
+ModificationTime: 1610904563
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 16 8 12
+WinInfo: 40 8 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -4611,19 +4611,18 @@ SplineSet
  470 -102 l 258
  486 -102 495 -111 495 -127 c 258
  495 -153 l 258
- 495 -170 487 -178 470 -178 c 258
+ 495 -169 486 -178 470 -178 c 258
  175 -178 l 258
- 159 -178 150 -170 150 -153 c 258
+ 159 -178 150 -169 150 -153 c 258
  150 725 l 258
  150 741 159 750 175 750 c 258
  470 750 l 258
- 486 750 495 742 495 725 c 258
+ 486 750 495 741 495 725 c 258
  495 699 l 258
- 495 682 487 674 470 674 c 258
+ 495 683 486 674 470 674 c 258
  235 674 l 257
  235 -102 l 257
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -4637,27 +4636,10 @@ Encoding: 93 93 164
 GlifName: bracketright
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
-SplineSet
-105 750 m 258
- 400 750 l 258
- 416 750 425 742 425 725 c 258
- 425 -153 l 258
- 425 -169 417 -178 400 -178 c 258
- 105 -178 l 258
- 89 -178 80 -170 80 -153 c 258
- 80 -127 l 258
- 80 -110 89 -102 105 -102 c 258
- 340 -102 l 257
- 340 674 l 257
- 105 674 l 258
- 89 674 80 683 80 699 c 258
- 80 725 l 258
- 80 742 89 750 105 750 c 258
-EndSplineSet
-Validated: 1
+Refer: 163 91 N -1 0 0 1 574 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
