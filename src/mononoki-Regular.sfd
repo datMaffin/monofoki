@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610899823
+ModificationTime: 1610900054
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -7124,12 +7124,12 @@ Fore
 SplineSet
 431 221 m 257
  485 221 l 258
- 502 221 510 212 510 196 c 258
+ 501 221 510 212 510 196 c 258
  510 170 l 258
- 510 154 502 145 485 145 c 258
+ 510 154 501 145 485 145 c 258
  430 145 l 257
  430 25 l 258
- 430 9 422 0 405 0 c 258
+ 430 9 421 0 405 0 c 258
  370 0 l 258
  354 0 346 9 346 25 c 258
  346 145 l 257
@@ -7149,7 +7149,6 @@ SplineSet
  422 417 431 408 431 392 c 258
  431 221 l 257
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: four.dnom
@@ -7221,7 +7220,6 @@ SplineSet
  249 900 258 891 258 875 c 258
 EndSplineSet
 Refer: 233 52 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
