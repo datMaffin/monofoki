@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610841265
+ModificationTime: 1610844061
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 9 12
+WinInfo: 9 9 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -2529,25 +2529,45 @@ Flags: HW
 AnchorPoint: "top" 449 694 basechar 0
 AnchorPoint: "bottom" 208 0 basechar 0
 LayerCount: 2
+Back
+SplineSet
+531 652 m 258
+ 517 625 l 258
+ 510 610 498 605 484 611 c 256
+ 451 624 415 634 377 634 c 259
+ 294 634 210 586 210 511 c 259
+ 210 463 242 419 316 403 c 256
+ 446 375 507 307 507 220 c 259
+ 507 78 363 -10 209 -10 c 259
+ 161 -10 107 0 65 20 c 256
+ 51 26 48 38 57 53 c 258
+ 72 78 l 258
+ 80 93 92 98 106 92 c 264
+ 150.201684494 73.0564209313 192 69 226 69 c 259
+ 323 69 419 118 419 204 c 259
+ 419 256 382 299 295 318 c 256
+ 171 345 122 415 122 493 c 259
+ 122 623 248 710 389 710 c 259
+ 432 710 486 701 525 683 c 256
+ 538 676 538 668 531 652 c 258
+EndSplineSet
 Fore
 SplineSet
 531 652 m 258
  517 625 l 258
  510 610 498 605 484 611 c 256
- 451 624 415 634 377 634 c 256
- 294 634 210 586 210 511 c 256
- 210 463 242 419 316 403 c 256
- 446 375 507 307 507 220 c 256
- 507 84 357 -10 209 -10 c 256
+ 451 624 415 634 377 634 c 259
+ 294 634 210 586 210 511 c 259
+ 210 344.807340716 507 442 507 220 c 259
+ 507 78 363 -10 209 -10 c 259
  161 -10 107 0 65 20 c 256
  51 26 48 38 57 53 c 258
- 71 77 l 258
- 79 92 91 97 105 91 c 257
- 141 75 192 69 226 69 c 256
- 323 69 419 118 419 204 c 256
- 419 256 382 299 295 318 c 256
- 171 345 122 415 122 493 c 256
- 122 623 248 710 389 710 c 256
+ 72 78 l 258
+ 80 93 92 98 106 92 c 264
+ 150.201684494 73.0564209313 192 69 226 69 c 259
+ 323 69 419 118 419 204 c 259
+ 419 368.003048752 122 267.920014217 122 493 c 259
+ 122 623 248 710 389 710 c 259
  432 710 486 701 525 683 c 256
  538 676 538 668 531 652 c 258
 EndSplineSet
@@ -2564,7 +2584,7 @@ Encoding: 346 346 95
 GlifName: S_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
@@ -2582,7 +2602,7 @@ Encoding: 352 352 96
 GlifName: S_caron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
@@ -2600,7 +2620,7 @@ Encoding: 350 350 97
 GlifName: S_cedilla
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
@@ -2618,7 +2638,7 @@ Encoding: 348 348 98
 GlifName: S_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
@@ -5470,7 +5490,7 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
+Back
 SplineSet
 507 187 m 256
  507 78 416 10 289 -6 c 257
@@ -5501,7 +5521,40 @@ SplineSet
  246 534 174 502 174 431 c 256
  174 372 223 352 303 343 c 256
  436 328 507 280 507 187 c 256
-  PathStart: -1
+EndSplineSet
+Fore
+SplineSet
+300 601 m 17
+ 327 775 l 258
+ 329.646444122 792.054862119 340 800 356 800 c 258
+ 391 800 l 258
+ 408 800 415 791 412 775 c 258
+ 385 601 l 257
+ 300 601 l 17
+295 28 m 17
+ 268 -140 l 258
+ 265.260742188 -157.041992188 255 -165 239 -165 c 258
+ 204 -165 l 258
+ 187 -165 180 -156 183 -140 c 258
+ 210 28 l 257
+ 295 28 l 17
+515 590 m 2
+ 501 563 l 2
+ 494 548 482 543 468 549 c 0
+ 435 562 399 572 361 572 c 3
+ 278 572 194 524 194 449 c 3
+ 194 315.807617188 507 396 507 220 c 3
+ 507 78 355 -10 201 -10 c 3
+ 153 -10 107 0 65 20 c 0
+ 51 26 48 38 57 53 c 2
+ 72 78 l 2
+ 80 93 92 98 106 92 c 0
+ 150.201684494 73.0564209313 192 69 226 69 c 3
+ 323 69 419 118 419 204 c 3
+ 419 322.003048752 106 238.919921875 106 431 c 3
+ 106 561 232 648 373 648 c 3
+ 416 648 470 639 509 621 c 0
+ 522 614 522 606 515 590 c 2
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -8522,7 +8575,7 @@ Encoding: 35 35 294
 GlifName: numbersign
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -12321,7 +12374,7 @@ Encoding: 1029 1029 414
 GlifName: uni0405
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2

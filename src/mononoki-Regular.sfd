@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610840248
+ModificationTime: 1610844100
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64 8 11
+WinInfo: 16 8 11
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -2764,7 +2764,7 @@ Flags: HW
 AnchorPoint: "top" 288 696 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 467 652 m 258
  458 625 l 258
@@ -2786,7 +2786,26 @@ SplineSet
  359 710 415 701 456 683 c 256
  471 676 472 668 467 652 c 258
 EndSplineSet
-Validated: 33
+Fore
+SplineSet
+467 652 m 258
+ 458 625 l 258
+ 452 610 442 605 427 611 c 256
+ 392.330680362 624.867727855 354 634 316 634 c 259
+ 239 634 168 593 168 524 c 259
+ 168 347.759101286 514 439 514 195 c 259
+ 514 64 389 -10 250 -10 c 259
+ 202 -10 147 0 101 20 c 256
+ 86 26 82 38 88 53 c 258
+ 98 78 l 258
+ 104 93 115 98 130 92 c 256
+ 169 76 221 69 255 69 c 259
+ 348 69 428 113 428 190 c 259
+ 428 365.002976164 82 267.997942396 82 521 c 259
+ 82 646 196 710 316 710 c 259
+ 359 710 415 701 456 683 c 256
+ 471 676 473 667 467 652 c 258
+EndSplineSet
 EndChar
 
 StartChar: Sacute
@@ -2798,8 +2817,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 196 2
-Validated: 1
+Refer: 140 180 N 1 0 0 1 36 196 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2817,8 +2835,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 196 2
-Validated: 1
+Refer: 171 711 N 1 0 0 1 36 196 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2836,8 +2853,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 175 184 N 1 0 0 1 6 0 2
-Validated: 5
+Refer: 175 184 N 1 0 0 1 42 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2855,8 +2871,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 196 2
-Validated: 1
+Refer: 178 710 N 1 0 0 1 36 196 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5798,15 +5813,15 @@ Width: 575
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
+Back
 SplineSet
 288 343 m 256
  437 326 518 270 518 166 c 256
  518 69 452 10 330 -6 c 257
  330 -175 l 258
- 330 -191 322 -200 305 -200 c 258
+ 330 -191 321 -200 305 -200 c 258
  270 -200 l 258
- 254 -200 245 -192 245 -175 c 258
+ 254 -200 245 -191 245 -175 c 258
  245 -10 l 257
  206 -9 140 -7 82 3 c 256
  66 6 59 17 62 33 c 257
@@ -5818,9 +5833,9 @@ SplineSet
  141 282 60 323 60 438 c 256
  60 537 124 595 245 607 c 257
  245 775 l 258
- 245 792 254 800 270 800 c 258
+ 245 791 254 800 270 800 c 258
  305 800 l 258
- 321 800 330 792 330 775 c 258
+ 321 800 330 791 330 775 c 258
  330 609 l 257
  365 608 412 605 454 598 c 257
  470 594 477 583 473 567 c 258
@@ -5829,9 +5844,41 @@ SplineSet
  385 532 321 534 297 534 c 256
  198 534 145 502 145 439 c 256
  145 376 200 353 288 343 c 256
-  PathStart: -2
 EndSplineSet
-Validated: 33
+Fore
+SplineSet
+330 28 m 17
+ 330 -140 l 258
+ 330 -156 321 -165 305 -165 c 258
+ 270 -165 l 258
+ 254 -165 245 -156 245 -140 c 258
+ 245 28 l 257
+ 330 28 l 17
+330 601 m 9
+ 245 601 l 257
+ 245 775 l 258
+ 245 791 254 800 270 800 c 258
+ 305 800 l 258
+ 321 800 330 791 330 775 c 258
+ 330 601 l 9
+467 590 m 258
+ 458 563 l 258
+ 452 548 442 543 427 549 c 256
+ 392.331054688 562.868164062 354 572 316 572 c 259
+ 239 572 168 531 168 462 c 259
+ 168 316.758789062 514 393 514 195 c 259
+ 514 64 389 -10 250 -10 c 259
+ 202 -10 147 0 101 20 c 256
+ 86 26 82 38 88 53 c 258
+ 98 78 l 258
+ 104 93 115 98 130 92 c 256
+ 169 76 221 69 255 69 c 259
+ 348 69 428 113 428 190 c 259
+ 428 319.002976164 82 236.998046875 82 459 c 259
+ 82 584 196 648 316 648 c 259
+ 359 648 415 639 456 621 c 256
+ 471 614 473 605 467 590 c 258
+EndSplineSet
 EndChar
 
 StartChar: dotaccent
@@ -12800,7 +12847,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 94 83 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: afii10055
