@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610892899
+ModificationTime: 1610893170
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9850,20 +9850,19 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-171 275 m 256
+171 275 m 259
  171 74 288 -75 452 -108 c 256
  468 -111 475 -122 471 -138 c 258
  465 -166 l 258
  462 -182 451 -188 435 -185 c 256
- 229 -143 85 37 85 275 c 256
+ 229 -143 85 37 85 275 c 259
  85 513 229 693 435 735 c 256
  451 738 462 732 465 716 c 258
  471 688 l 258
  475 672 468 661 452 658 c 256
- 288 625 171 476 171 275 c 256
+ 288 625 171 476 171 275 c 259
   PathStart: -2
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: parenright
@@ -9871,24 +9870,23 @@ Encoding: 41 41 321
 GlifName: parenright
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 104 -138 m 258
  100 -122 107 -111 123 -108 c 256
- 287 -75 404 74 404 275 c 256
+ 287 -75 404 74 404 275 c 259
  404 476 287 625 123 658 c 256
  107 661 100 672 104 688 c 258
  110 716 l 258
  113 732 124 738 140 735 c 256
- 346 693 490 513 490 275 c 256
+ 346 693 490 513 490 275 c 259
  490 37 346 -143 140 -185 c 256
  124 -188 113 -182 110 -166 c 258
  104 -138 l 258
   PathStart: -2
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: partialdiff
