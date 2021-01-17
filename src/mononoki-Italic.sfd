@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610895737
+ModificationTime: 1610896433
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4871,19 +4871,19 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-221 140 m 258
- 321 140 l 258
- 337 140 344 132 342 115 c 258
- 323 -2 l 258
- 295 -181 218 -247 39 -247 c 256
- 23 -247 16 -239 18 -223 c 258
- 22 -196 l 258
- 25 -180 34 -171 50 -171 c 256
- 169 -171 220 -125 238 0 c 257
- 198 0 l 258
- 182 0 175 9 177 25 c 258
- 192 115 l 258
- 194 132 204 140 221 140 c 258
+322 -2 m 273
+ 294 -181 217 -247 38 -247 c 259
+ 21 -247 14 -238 17 -222 c 258
+ 21 -196 l 258
+ 24 -179 34 -171 50 -171 c 259
+ 167 -171 219 -125 237 0 c 265
+ 197 0 l 258
+ 180 0 173 9 176 25 c 258
+ 191 115 l 258
+ 194 132 204 140 220 140 c 258
+ 320 140 l 258
+ 337 140 344 131 341 115 c 258
+ 322 -2 l 273
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
