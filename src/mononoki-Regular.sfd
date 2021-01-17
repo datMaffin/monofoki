@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610902676
+ModificationTime: 1610904165
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -6712,20 +6712,20 @@ SplineSet
  315 700 l 258
  331 700 340 691 340 675 c 258
  330 230 l 258
- 330 214 321 205 305 205 c 258
+ 330 214 321 205 305 205 c 262
  270 205 l 258
  254 205 245 214 245 230 c 258
  235 675 l 258
  235 691 244 700 260 700 c 258
-330 62 m 258
- 330 15 l 258
- 330 -1 321 -10 305 -10 c 258
- 270 -10 l 258
- 254 -10 245 -1 245 15 c 258
- 245 62 l 258
- 245 78 254 87 270 87 c 258
- 305 87 l 258
- 321 87 330 78 330 62 c 258
+330 72 m 258
+ 330 25 l 258
+ 330 9 321 0 305 0 c 258
+ 270 0 l 258
+ 254 0 245 9 245 25 c 258
+ 245 72 l 258
+ 245 88 254 97 270 97 c 258
+ 305 97 l 258
+ 321 97 330 88 330 72 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -7458,21 +7458,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-135 562 m 258
- 460 318 l 258
- 486 299 501 274 501 250 c 256
- 501 226 486 201 460 182 c 258
- 136 -62 l 258
- 124 -71 110 -71 100 -58 c 258
- 81 -35 l 258
- 71 -22 72 -10 85 0 c 258
- 417 250 l 257
- 85 500 l 258
- 72 510 71 522 81 535 c 258
- 100 558 l 258
- 110 571 123 571 135 562 c 258
+135 623 m 258
+ 460 379 l 258
+ 486 360 501 335 501 311 c 256
+ 501 287 486 262 460 243 c 258
+ 136 -1 l 258
+ 124 -10 110 -10 100 3 c 258
+ 81 26 l 258
+ 71 39 72 51 85 61 c 258
+ 417 311 l 257
+ 85 561 l 258
+ 72 571 71 583 81 596 c 258
+ 100 619 l 258
+ 110 632 123 632 135 623 c 258
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: greaterequal
@@ -8441,11 +8440,10 @@ Encoding: 60 60 274
 GlifName: less
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 243 62 N -1 0 0 1 575 0 2
-Validated: 25
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10370,33 +10368,32 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
+243 72 m 258
+ 243 25 l 258
+ 243 9 234 0 218 0 c 258
+ 183 0 l 258
+ 167 0 158 9 158 25 c 258
+ 158 72 l 258
+ 158 88 167 97 183 97 c 258
+ 218 97 l 258
+ 234 97 243 88 243 72 c 258
 65 651 m 258
  65 675 l 258
- 65 691 74 700 90 700 c 256
- 377 698 500 593 500 495 c 256
+ 65 691 74 700 90 700 c 259
+ 377.006968557 700 500 593 500 495 c 259
  500 392 402 327 244 327 c 258
  243 327 l 257
  243 230 l 258
- 243 214 234 205 218 205 c 258
+ 243 214 234 205 218 205 c 262
  183 205 l 258
  167 205 158 214 158 230 c 258
  158 376 l 258
  158 392 167 401 183 401 c 258
  244 401 l 258
- 349 401 414 437 414 495 c 256
+ 349 401 414 437 414 495 c 259
  414 574 289 625 90 626 c 256
  74 626 65 635 65 651 c 258
-158 25 m 258
- 158 72 l 258
- 158 88 167 97 183 97 c 258
- 218 97 l 258
- 234 97 243 88 243 72 c 258
- 243 25 l 258
- 243 8 234 0 218 0 c 258
- 183 0 l 258
- 167 0 158 8 158 25 c 258
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: questiondown
@@ -10404,11 +10401,10 @@ Encoding: 191 191 335
 GlifName: questiondown
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 334 63 N -1 0 0 -1 583 500 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
