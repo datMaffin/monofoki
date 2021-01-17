@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610891054
+ModificationTime: 1610892899
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -10623,15 +10623,14 @@ Fore
 SplineSet
 260 750 m 258
  315 750 l 258
- 332 750 340 741 340 725 c 258
+ 331 750 341 740 340 724 c 258
  327 437 l 258
  326 421 318 413 302 413 c 258
- 274 413 l 258
- 258 413 249 421 248 437 c 258
- 236 725 l 258
- 235 741 244 750 260 750 c 258
+ 273 413 l 258
+ 257 413 249 421 248 437 c 258
+ 235 724 l 258
+ 234 740 244 750 260 750 c 258
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
