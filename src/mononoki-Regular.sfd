@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610893170
+ModificationTime: 1610893406
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4200,38 +4200,37 @@ Encoding: 42 42 152
 GlifName: asterisk
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 519 345 m 258
  530 311 l 258
- 535 296 529 285 514 280 c 258
+ 535 296 530 285 514 280 c 258
  373 234 l 257
  473 94 l 258
- 482 81 480 68 468 59 c 257
- 439 39 l 257
- 426 29 414 31 404 44 c 258
+ 482 81 481 68 468 59 c 258
+ 439 39 l 258
+ 426 30 414 31 404 44 c 258
  287 206 l 257
- 171 44 l 257
- 160 31 148 29 135 38 c 258
+ 171 44 l 258
+ 161 31 148 29 135 38 c 258
  106 59 l 258
  93 68 92 81 101 94 c 258
  203 234 l 257
  61 280 l 258
- 46 285 40 296 45 311 c 258
+ 45 285 40 296 45 311 c 258
  56 345 l 258
  61 360 72 366 88 361 c 258
  245 309 l 257
  245 475 l 258
- 245 492 254 500 270 500 c 258
+ 245 491 254 500 270 500 c 258
  305 500 l 258
- 321 500 330 492 330 475 c 258
+ 321 500 330 491 330 475 c 258
  330 309 l 257
  487 361 l 258
  503 366 514 360 519 345 c 258
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: at
@@ -9870,7 +9869,7 @@ Encoding: 41 41 321
 GlifName: parenright
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet

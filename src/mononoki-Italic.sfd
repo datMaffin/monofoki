@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610893186
+ModificationTime: 1610893587
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3943,7 +3943,7 @@ Encoding: 42 42 152
 GlifName: asterisk
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -3952,8 +3952,8 @@ SplineSet
  542 296 535 285 519 280 c 258
  370 234 l 257
  448 94 l 258
- 455 81 451 68 438 59 c 257
- 406 39 l 257
+ 455 81 451 68 438 59 c 258
+ 406 39 l 258
  391 29 379 31 371 44 c 258
  280 206 l 257
  138 44 l 257
@@ -9361,7 +9361,7 @@ Encoding: 40 40 320
 GlifName: parenleft
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
