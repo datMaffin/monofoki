@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610896742
+ModificationTime: 1610898026
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4395,17 +4395,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-120 682 m 258
- 533 -144 l 258
- 540 -158 536 -170 522 -177 c 258
- 490 -193 l 258
- 476 -200 464 -196 457 -182 c 258
- 44 644 l 258
- 37 658 41 670 55 677 c 258
- 87 693 l 258
- 101 700 113 696 120 682 c 258
+71 662 m 258
+ 64 676 69 688 83 695 c 258
+ 110 708 l 258
+ 124 715 136 711 143 697 c 258
+ 495 -25 l 258
+ 502 -39 497 -51 483 -58 c 258
+ 456 -71 l 258
+ 442 -78 430 -74 423 -60 c 258
+ 71 662 l 258
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7767,7 +7766,7 @@ Encoding: 45 45 253
 GlifName: hyphen
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -9042,17 +9041,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-432 270 m 257
+432 270 m 261
  499 270 l 258
  515 270 524 261 524 245 c 258
  524 218 l 258
  524 202 515 193 499 193 c 258
- 432 193 l 257
- 432 25 l 258
- 432 9 423 0 407 0 c 258
- 372 0 l 258
- 356 0 347 9 347 25 c 258
- 347 193 l 257
+ 432 193 l 261
+ 432 25 l 262
+ 432 9 423 0 407 0 c 262
+ 372 0 l 262
+ 356 0 347 9 347 25 c 262
+ 347 193 l 261
  228 193 l 257
  228 25 l 258
  228 9 219 0 203 0 c 258
@@ -9075,22 +9074,22 @@ SplineSet
  203 700 l 258
  219 700 228 691 228 675 c 258
  228 501 l 257
- 347 501 l 257
- 347 675 l 258
- 347 691 356 700 372 700 c 258
- 407 700 l 258
- 423 700 432 691 432 675 c 258
- 432 501 l 257
+ 347 501 l 261
+ 347 675 l 262
+ 347 691 356 700 372 700 c 262
+ 407 700 l 262
+ 423 700 432 691 432 675 c 262
+ 432 501 l 261
  499 501 l 258
  515 501 524 492 524 476 c 258
  524 449 l 258
  524 433 515 424 499 424 c 258
- 432 424 l 257
- 432 270 l 257
+ 432 424 l 261
+ 432 270 l 261
 228 424 m 257
  228 270 l 257
- 347 270 l 257
- 347 424 l 257
+ 347 270 l 261
+ 347 424 l 261
  228 424 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -11517,7 +11516,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 157 92 N -1 0 0 1 575 0 2
-Validated: 25
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
