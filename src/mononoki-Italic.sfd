@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610970573
+ModificationTime: 1610970884
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2245,17 +2245,17 @@ SplineSet
  556 360 418 260 247 260 c 258
  172 260 l 257
  134 25 l 258
- 132 9 122 0 105 0 c 258
+ 131 8 121 0 105 0 c 258
  70 0 l 258
- 54 0 47 9 49 25 c 258
+ 53 0 46 9 49 25 c 258
  152 675 l 258
- 155 691 165 700 181 700 c 258
-184 336 m 257
- 259 336 l 258
- 379 336 470 402 470 495 c 256
+ 155 692 165 700 181 700 c 258
+184 337 m 257
+ 259 337 l 258
+ 379 337 470 402 470 495 c 256
  470 569 419 624 304 624 c 258
  229 624 l 257
- 184 336 l 257
+ 184 337 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -2434,7 +2434,7 @@ Encoding: 82 82 90
 GlifName: R_
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -2446,20 +2446,20 @@ SplineSet
  325 312 l 257
  180 312 l 257
  134 25 l 258
- 132 9 121 0 105 0 c 258
+ 131 8 121 0 105 0 c 258
  70 0 l 258
- 54 0 47 9 49 25 c 258
+ 53 0 46 9 49 25 c 258
  152 675 l 258
  155 692 165 700 181 700 c 258
  339 700 l 258
- 476 700 544 631 544 537 c 256
+ 476 700 544 631 544 537 c 259
  544 454 489 370 411 335 c 257
-192 389 m 261
+192 389 m 257
  290 389 l 258
- 383 389 457 446 457 520 c 256
+ 383 389 457 446 457 520 c 259
  457 575 417 624 327 624 c 258
  229 624 l 257
- 192 389 l 261
+ 192 389 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -2474,7 +2474,7 @@ Encoding: 340 340 91
 GlifName: R_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 90 82 N 1 0 0 1 0 0 2
@@ -2492,7 +2492,7 @@ Encoding: 344 344 92
 GlifName: R_caron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 90 82 N 1 0 0 1 0 0 2
@@ -2510,7 +2510,7 @@ Encoding: 929 929 93
 GlifName: R_ho
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 85 80 N 1 0 0 1 0 0 2
@@ -12853,7 +12853,7 @@ Encoding: 1056 1056 435
 GlifName: uni0420
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 85 80 N 1 0 0 1 0 0 2

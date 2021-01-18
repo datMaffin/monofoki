@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610970524
+ModificationTime: 1610970821
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2424,23 +2424,22 @@ Fore
 SplineSet
 110 700 m 258
  245 700 l 258
- 427 700 517 596 517 480 c 256
+ 427 700 517 596 517 480 c 259
  517 361 425 260 245 260 c 258
  170 260 l 257
  170 25 l 258
- 170 9 162 0 145 0 c 258
+ 170 9 161 0 145 0 c 258
  110 0 l 258
  94 0 85 9 85 25 c 258
  85 675 l 258
  85 691 94 700 110 700 c 258
-170 336 m 257
- 245 336 l 258
- 373 336 432 404 432 480 c 256
+170 337 m 257
+ 245 337 l 258
+ 373 337 432 404 432 480 c 259
  432 556 372 624 245 624 c 258
  170 624 l 257
- 170 336 l 257
+ 170 337 l 257
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2630,18 +2629,17 @@ SplineSet
  110 0 l 258
  94 0 85 9 85 25 c 258
  85 675 l 258
- 85 692 94 700 110 700 c 258
+ 85 691 94 700 110 700 c 258
  268 700 l 258
- 421 700 500 615 500 506 c 256
+ 421 700 500 615 500 506 c 259
  500 434 463 367 398 335 c 257
-170 389 m 261
+170 389 m 257
  268 389 l 258
- 369 389 415 448 415 506 c 256
+ 369 389 415 448 415 506 c 259
  415 565 367 624 268 624 c 258
  170 624 l 257
- 170 389 l 261
+ 170 389 l 257
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: Racute
@@ -2654,7 +2652,6 @@ LayerCount: 2
 Fore
 Refer: 90 82 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2673,7 +2670,6 @@ LayerCount: 2
 Fore
 Refer: 90 82 N 1 0 0 1 0 0 2
 Refer: 171 711 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2691,7 +2687,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 85 80 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -13222,7 +13217,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 85 80 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: afii10035
