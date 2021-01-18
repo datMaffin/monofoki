@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610966980
+ModificationTime: 1610967415
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -495,18 +495,18 @@ SplineSet
  438 87 448 82 452 67 c 258
  458 43 l 258
  462 28 456 16 440 10 c 256
- 390 -10 342 -20 297 -20 c 256
+ 390 -10 342 -20 297 -20 c 259
  194 -20 85 33 85 207 c 256
  85 246 90 280 107 390 c 256
- 147 640 295 710 413 710 c 256
+ 147 640 295 710 413 710 c 259
  458 710 502 700 546 680 c 256
  560 674 562 662 554 647 c 258
  540 623 l 258
  532 608 520 603 506 609 c 256
- 464 625 430 632 399 632 c 256
+ 464 625 430 632 399 632 c 259
  320 632 224 586 193 390 c 256
  176 286 172 253 172 217 c 256
- 172 91 241 58 308 58 c 256
+ 172 91 241 58 308 58 c 259
  339 58 376 65 422 81 c 256
   PathStart: -2
 EndSplineSet
@@ -560,7 +560,7 @@ Encoding: 262 262 18
 GlifName: C_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 16 67 N 1 0 0 1 0 0 2
@@ -578,7 +578,7 @@ Encoding: 268 268 19
 GlifName: C_caron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 16 67 N 1 0 0 1 0 0 2
@@ -596,7 +596,7 @@ Encoding: 199 199 20
 GlifName: C_cedilla
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 16 67 N 1 0 0 1 0 0 2
@@ -614,7 +614,7 @@ Encoding: 264 264 21
 GlifName: C_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 16 67 N 1 0 0 1 0 0 2
@@ -1210,7 +1210,7 @@ Fore
 SplineSet
 365 389 m 258
  497 389 l 258
- 513 389 521 380 518 364 c 258
+ 514 389 521 380 518 364 c 258
  467 41 l 258
  465 27 457 17 443 11 c 256
  391 -10 342 -20 297 -20 c 256
@@ -1275,7 +1275,7 @@ Encoding: 284 284 45
 GlifName: G_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 43 71 N 1 0 0 1 0 0 2
@@ -2458,12 +2458,12 @@ SplineSet
  339 700 l 258
  476 700 544 631 544 537 c 256
  544 454 489 370 411 335 c 257
-192 389 m 257
+192 389 m 261
  290 389 l 258
  383 389 457 446 457 520 c 256
  457 575 417 624 327 624 c 258
  229 624 l 257
- 192 389 l 257
+ 192 389 l 261
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -12868,7 +12868,7 @@ Encoding: 1057 1057 436
 GlifName: uni0421
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "bottomright" 515 0 basechar 0
 LayerCount: 2
 Fore
