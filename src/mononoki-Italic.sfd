@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610970884
+ModificationTime: 1610971093
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2434,7 +2434,7 @@ Encoding: 82 82 90
 GlifName: R_
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2675,25 +2675,25 @@ Encoding: 84 84 100
 GlifName: T_
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 621 675 m 258
  617 649 l 258
- 615 633 604 624 588 624 c 258
+ 614 632 604 624 588 624 c 258
  389 624 l 257
  294 25 l 258
- 292 9 282 0 265 0 c 258
+ 291 8 281 0 265 0 c 258
  230 0 l 258
- 214 0 207 9 209 25 c 258
+ 213 0 206 9 209 25 c 258
  304 624 l 257
- 105 624 l 258
- 89 624 83 633 85 649 c 258
+ 106 624 l 258
+ 89 624 82 633 85 649 c 258
  89 675 l 258
- 92 691 101 700 118 700 c 258
+ 92 692 102 700 118 700 c 258
  600 700 l 258
- 616 700 624 692 621 675 c 258
+ 617 700 624 691 621 675 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -2708,7 +2708,7 @@ Encoding: 932 932 101
 GlifName: T_au
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 100 84 N 1 0 0 1 0 0 2
@@ -2725,7 +2725,7 @@ Encoding: 358 358 102
 GlifName: T_bar
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 100 84 N 1 0 0 1 0 0 2
@@ -2743,7 +2743,7 @@ Encoding: 356 356 103
 GlifName: T_caron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 100 84 N 1 0 0 1 0 0 2
@@ -12120,7 +12120,7 @@ Encoding: 354 354 406
 GlifName: uni0162
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 100 84 N 1 0 0 1 0 0 2
@@ -12882,7 +12882,7 @@ Encoding: 1058 1058 437
 GlifName: uni0422
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "bottomright" 515 0 basechar 0
 LayerCount: 2
 Fore
