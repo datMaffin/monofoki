@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610907007
+ModificationTime: 1610966707
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -83,21 +83,21 @@ SplineSet
  523 28 l 258
  525 11 514 0 497 0 c 258
  461 0 l 258
- 446 0 439 7 437 22 c 257
+ 446 0 438 7 437 22 c 258
  419 220 l 257
  147 220 l 257
- 66 22 l 257
- 61 7 49 0 34 0 c 258
+ 66 22 l 258
+ 60 7 49 0 34 0 c 258
  -1 0 l 258
  -19 0 -25 11 -18 28 c 258
  224 621 l 258
- 248 679 296 710 355 710 c 256
+ 248 679 296 710 355 710 c 259
  414 710 464 679 469 621 c 258
 306 607 m 257
  178 296 l 257
  412 296 l 257
  384 607 l 258
- 382 625 366 634 349 634 c 256
+ 382 625 366 634 349 634 c 259
  332 634 312 625 306 607 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -200,7 +200,7 @@ Encoding: 193 193 3
 GlifName: A_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -218,7 +218,7 @@ Encoding: 258 258 4
 GlifName: A_breve
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -236,7 +236,7 @@ Encoding: 194 194 5
 GlifName: A_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -254,7 +254,7 @@ Encoding: 196 196 6
 GlifName: A_dieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -272,7 +272,7 @@ Encoding: 192 192 7
 GlifName: A_grave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -290,7 +290,7 @@ Encoding: 913 913 8
 GlifName: A_lpha
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -307,7 +307,7 @@ Encoding: 256 256 9
 GlifName: A_macron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -325,7 +325,7 @@ Encoding: 260 260 10
 GlifName: A_ogonek
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -343,7 +343,7 @@ Encoding: 197 197 11
 GlifName: A_ring
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -361,7 +361,7 @@ Encoding: 195 195 12
 GlifName: A_tilde
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
@@ -2531,7 +2531,7 @@ Encoding: 83 83 94
 GlifName: S_
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "top" 449 694 basechar 0
 AnchorPoint: "bottom" 208 0 basechar 0
 LayerCount: 2
@@ -12423,7 +12423,7 @@ Encoding: 1040 1040 419
 GlifName: uni0410
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
