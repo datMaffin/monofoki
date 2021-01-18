@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610969531
+ModificationTime: 1610970407
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1835,31 +1835,30 @@ Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-570 705 m 258
- 588 705 596 696 593 680 c 258
- 510 26 l 258
- 508 11 494 0 479 0 c 258
+572 700 m 258
+ 590 700 597 691 594 675 c 258
+ 510 25 l 258
+ 508 10 494 0 479 0 c 258
  445 0 l 258
- 430 0 423 11 425 26 c 258
+ 430 0 423 10 425 25 c 258
  488 540 l 257
  342 318 l 258
  334 305 324 300 310 300 c 258
  282 300 l 258
  268 300 260 305 256 318 c 258
  180 540 l 257
- 81 26 l 258
- 78 11 66 0 51 0 c 258
+ 81 25 l 258
+ 78 10 67 0 52 0 c 258
  17 0 l 258
- 2 0 -7 11 -4 26 c 258
- 119 680 l 258
- 122 696 132 705 150 705 c 258
- 166 705 l 258
- 194 705 211 694 219 669 c 258
+ 2 0 -7 10 -4 25 c 258
+ 120 675 l 258
+ 123 691 132 700 150 700 c 258
+ 168 700 l 258
+ 196 700 213 689 221 664 c 258
  312 399 l 257
- 489 669 l 258
- 505 694 526 705 554 705 c 258
- 570 705 l 258
-  PathStart: -2
+ 489 664 l 258
+ 505 689 526 700 554 700 c 258
+ 572 700 l 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -1895,25 +1894,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-518 705 m 258
- 552 705 l 258
- 567 705 576 694 574 679 c 258
- 470 25 l 258
- 468 9 457 0 439 0 c 258
+519 700 m 258
+ 554 700 l 258
+ 571 700 578 692 575 676 c 258
+ 470 25 l 262
+ 467 8 457 0 441 0 c 258
  423 0 l 258
- 395 0 379 11 370 36 c 258
+ 395 0 379 11 370 36 c 262
  198 527 l 257
- 119 26 l 258
- 116 11 104 0 89 0 c 258
+ 119 25 l 262
+ 116 8 106 0 90 0 c 258
  55 0 l 258
- 40 0 31 11 34 26 c 258
- 137 680 l 258
- 140 696 150 705 168 705 c 258
- 184 705 l 258
- 212 705 229 694 237 669 c 258
+ 38 0 31 9 34 25 c 262
+ 137 675 l 258
+ 140 692 150 700 166 700 c 258
+ 186 700 l 258
+ 214 700 231 689 239 664 c 258
  408 169 l 257
- 489 679 l 258
- 491 694 503 705 518 705 c 258
+ 490 675 l 258
+ 492 690 504 700 519 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -1928,7 +1927,7 @@ Encoding: 323 323 70
 GlifName: N_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 69 78 N 1 0 0 1 0 0 2
@@ -1946,7 +1945,7 @@ Encoding: 327 327 71
 GlifName: N_caron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 69 78 N 1 0 0 1 0 0 2
@@ -1964,7 +1963,7 @@ Encoding: 209 209 72
 GlifName: N_tilde
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 69 78 N 1 0 0 1 0 0 2
@@ -1982,7 +1981,7 @@ Encoding: 925 925 73
 GlifName: N_u
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 69 78 N 1 0 0 1 0 0 2
