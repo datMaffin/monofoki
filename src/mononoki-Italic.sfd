@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610970407
+ModificationTime: 1610970573
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1831,7 +1831,7 @@ Encoding: 77 77 67
 GlifName: M_
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2003,21 +2003,19 @@ LayerCount: 2
 Fore
 SplineSet
 111 457 m 256
- 137 624 238 710 356 710 c 256
+ 137 624 238 710 356 710 c 259
  458 710 535 644 535 519 c 256
  535 480 529 456 496 243 c 256
- 470 78 370 -10 252 -10 c 256
+ 470 78 370 -10 252 -10 c 259
  155 -10 77 48 72 162 c 256
  70 214 77 246 111 457 c 256
-  PathStart: -2
 159 172 m 256
- 166 104 214 66 264 66 c 256
- 329 66 393 131 411 243 c 256
+ 166 104 214 67 264 67 c 259
+ 329 67 393 131 411 243 c 256
  443 443 449 475 449 503 c 256
- 449 587 399 634 344 634 c 256
+ 449 587 399 634 344 634 c 259
  279 634 214 569 196 457 c 256
  161 237 155 215 159 172 c 256
-  PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d

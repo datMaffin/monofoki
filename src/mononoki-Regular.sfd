@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610970174
+ModificationTime: 1610970524
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1989,7 +1989,7 @@ Encoding: 77 77 67
 GlifName: M_
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2150,20 +2150,20 @@ LayerCount: 2
 Fore
 SplineSet
 75 457 m 258
- 75 624 170 710 288 710 c 256
+ 75 624 170 710 288 710 c 259
  406 710 500 622 500 457 c 258
  500 243 l 258
- 500 78 406 -10 288 -10 c 256
+ 500 78 406 -10 288 -10 c 259
  170 -10 75 76 75 243 c 258
  75 457 l 258
   PathStart: -2
-160 243 m 258
- 160 131 223 66 288 66 c 256
- 353 66 415 131 415 243 c 258
+160 244 m 258
+ 160 132 223 67 288 67 c 259
+ 353 67 415 132 415 244 c 258
  415 457 l 258
- 415 569 353 634 288 634 c 256
+ 415 569 353 634 288 634 c 259
  223 634 160 569 160 457 c 258
- 160 243 l 258
+ 160 244 l 258
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
