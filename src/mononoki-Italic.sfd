@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610968869
+ModificationTime: 1610969004
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1582,20 +1582,20 @@ Fore
 SplineSet
 268 700 m 258
  536 700 l 258
- 553 700 560 692 557 675 c 258
+ 553 700 560 691 557 675 c 258
  494 275 l 258
- 459 52 328 -10 164 -10 c 256
+ 459 52 328 -10 164 -10 c 259
  134 -10 88 -8 36 3 c 256
  20 6 15 17 22 33 c 258
  33 59 l 258
  39 75 51 81 67 78 c 256
- 112 69 155 67 176 67 c 256
+ 112 69 155 67 176 67 c 259
  332 67 390 153 409 275 c 258
  464 624 l 257
  256 624 l 258
- 240 624 233 632 235 649 c 258
+ 239 624 232 633 235 649 c 258
  239 675 l 258
- 242 691 252 700 268 700 c 258
+ 242 692 252 700 268 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -1610,7 +1610,7 @@ Encoding: 308 308 58
 GlifName: J_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 57 74 N 1 0 0 1 0 0 2
@@ -12393,7 +12393,7 @@ Encoding: 1032 1032 417
 GlifName: uni0408
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 57 74 N 1 0 0 1 0 0 2
