@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610971695
+ModificationTime: 1610971839
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3369,7 +3369,7 @@ Encoding: 90 90 130
 GlifName: Z_
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -3377,22 +3377,22 @@ SplineSet
  191 217 l 258
  159 190 136 141 123 77 c 257
  458 77 l 258
- 474 77 481 68 479 52 c 258
+ 475 77 482 68 479 52 c 258
  474 25 l 258
- 472 9 461 0 445 0 c 258
+ 471 8 461 0 445 0 c 258
  50 0 l 258
- 34 0 27 9 29 25 c 258
+ 33 0 26 9 29 25 c 258
  34 55 l 258
  48 142 87 216 143 265 c 258
  420 504 l 258
  449 529 472 571 483 624 c 257
  180 624 l 258
- 164 624 157 633 159 649 c 258
+ 163 624 156 633 159 649 c 258
  163 675 l 258
  166 692 176 700 192 700 c 258
  556 700 l 258
- 573 700 580 692 577 675 c 258
- 573 645 l 258
+ 573 700 580 691 577 675 c 258
+ 573 645 l 257
  561 572 523 504 466 455 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -3408,7 +3408,7 @@ Encoding: 377 377 131
 GlifName: Z_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 130 90 N 1 0 0 1 0 0 2
@@ -3426,7 +3426,7 @@ Encoding: 381 381 132
 GlifName: Z_caron
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 130 90 N 1 0 0 1 0 0 2
@@ -3444,7 +3444,7 @@ Encoding: 379 379 133
 GlifName: Z_dotaccent
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 130 90 N 1 0 0 1 0 0 2
@@ -3462,7 +3462,7 @@ Encoding: 918 918 134
 GlifName: Z_eta
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 130 90 N 1 0 0 1 0 0 2
