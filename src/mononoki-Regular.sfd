@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610971516
+ModificationTime: 1610971624
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -698,7 +698,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 123 88 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3178,7 +3177,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3354,37 +3352,36 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-528 671 m 257
+528 671 m 258
  393 390 l 258
  386 376 372 364 355 357 c 257
- 372 351 386 338 393 325 c 257
+ 372 351 386 338 393 325 c 258
  535 30 l 258
  543 12 536 0 517 0 c 258
  486 0 l 258
  472 0 462 6 456 18 c 258
  318 295 l 258
- 308 315 298 325 288 325 c 256
- 277 325 267 315 258 295 c 257
+ 308 315 298 325 288 325 c 259
+ 277 325 267 315 258 295 c 258
  119 18 l 258
  113 6 104 0 90 0 c 258
  59 0 l 258
  40 0 32 12 40 30 c 258
  183 325 l 258
  189 338 204 351 220 357 c 257
- 204 364 189 376 183 390 c 257
+ 204 364 189 376 183 390 c 258
  47 671 l 258
  39 688 46 700 66 700 c 258
  97 700 l 258
  111 700 120 695 126 682 c 258
  258 419 l 258
- 267 400 277 390 288 390 c 256
+ 267 400 277 390 288 390 c 259
  298 390 308 399 318 419 c 258
  449 682 l 258
  455 695 465 700 479 700 c 258
- 510 700 l 258
- 529 700 537 688 528 671 c 257
+ 510 700 l 262
+ 529 700 537 688 528 671 c 258
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: Xi
@@ -3459,12 +3456,11 @@ SplineSet
  80 700 l 258
  94 700 103 695 109 682 c 258
  245 410 l 258
- 255 391 270 380 288 380 c 256
+ 255 391 270 380 288 380 c 259
  306 380 321 391 330 410 c 258
  466 682 l 258
  472 695 482 700 496 700 c 258
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: Yacute
@@ -3477,7 +3473,6 @@ LayerCount: 2
 Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3496,7 +3491,6 @@ LayerCount: 2
 Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
 Refer: 178 710 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3515,7 +3509,6 @@ LayerCount: 2
 Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
 Refer: 191 168 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3534,7 +3527,6 @@ LayerCount: 2
 Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
 Refer: 242 96 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -13342,7 +13334,6 @@ AnchorPoint: "bottomright" 555 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 123 88 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
