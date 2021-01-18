@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610969372
+ModificationTime: 1610969531
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1831,14 +1831,14 @@ Encoding: 77 77 67
 GlifName: M_
 Width: 575
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 570 705 m 258
- 588 705 596 696 593 680 c 257
- 510 26 l 257
- 507 11 494 0 479 0 c 258
+ 588 705 596 696 593 680 c 258
+ 510 26 l 258
+ 508 11 494 0 479 0 c 258
  445 0 l 258
  430 0 423 11 425 26 c 258
  488 540 l 257
@@ -1848,7 +1848,7 @@ SplineSet
  268 300 260 305 256 318 c 258
  180 540 l 257
  81 26 l 258
- 77 11 66 0 51 0 c 258
+ 78 11 66 0 51 0 c 258
  17 0 l 258
  2 0 -7 11 -4 26 c 258
  119 680 l 258
@@ -1874,7 +1874,7 @@ Encoding: 924 924 68
 GlifName: M_u
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 67 77 N 1 0 0 1 0 0 2
@@ -3081,7 +3081,7 @@ Encoding: 87 87 118
 GlifName: W_
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 67 77 N -1 0 0 -1 607 700 2
@@ -3098,7 +3098,7 @@ Encoding: 7810 7810 119
 GlifName: W_acute
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
@@ -3116,7 +3116,7 @@ Encoding: 372 372 120
 GlifName: W_circumflex
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
@@ -3134,7 +3134,7 @@ Encoding: 7812 7812 121
 GlifName: W_dieresis
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
@@ -3152,7 +3152,7 @@ Encoding: 7808 7808 122
 GlifName: W_grave
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
@@ -12775,7 +12775,7 @@ Encoding: 1052 1052 431
 GlifName: uni041C_
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 67 77 N 1 0 0 1 0 0 2

@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610969258
+ModificationTime: 1610969469
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1823,7 +1823,7 @@ Encoding: 76 76 61
 GlifName: L_
 Width: 575
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "top" 288 700 basechar 0
 AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
@@ -1994,8 +1994,8 @@ LayerCount: 2
 Fore
 SplineSet
 498 705 m 258
- 516 705 525 696 525 680 c 257
- 545 26 l 257
+ 516 705 525 696 525 680 c 258
+ 545 26 l 258
  545 11 534 0 519 0 c 258
  485 0 l 258
  470 0 461 11 460 26 c 258
@@ -2017,9 +2017,7 @@ SplineSet
  423 669 l 258
  435 694 454 705 482 705 c 258
  498 705 l 258
-  PathStart: -2
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Mu
@@ -2031,7 +2029,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 67 77 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -13148,7 +13145,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 67 77 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: afii10031
