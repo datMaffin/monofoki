@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1610966707
+ModificationTime: 1610966980
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -383,28 +383,28 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-66 25 m 257
+66 25 m 258
  161 624 l 257
  123 624 l 258
- 106 624 100 633 102 649 c 258
+ 106 624 99 633 102 649 c 258
  106 675 l 258
- 109 691 118 700 135 700 c 257
+ 109 692 119 700 135 700 c 258
  315 700 l 258
- 435 700 519 658 519 553 c 256
+ 435 700 519 658 519 553 c 259
  519 476 473 404 401 370 c 257
- 469 346 507 289 507 213 c 256
+ 469 346 507 289 507 213 c 259
  507 75 382 0 224 0 c 258
  87 0 l 258
- 71 0 64 9 66 25 c 257
+ 70 0 63 9 66 25 c 258
 246 624 m 257
  211 403 l 257
  268 403 l 258
- 370 403 442 448 442 527 c 256
+ 370 403 442 448 442 527 c 259
  442 591 394 624 303 624 c 258
  246 624 l 257
 160 77 m 257
  237 77 l 258
- 348 77 431 121 431 215 c 256
+ 348 77 431 121 431 215 c 259
  431 299 362 326 276 326 c 258
  199 326 l 257
  160 77 l 257
@@ -468,7 +468,7 @@ Encoding: 914 914 15
 GlifName: B_eta
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 13 66 N 1 0 0 1 0 0 2
@@ -12478,7 +12478,7 @@ Encoding: 1042 1042 421
 GlifName: uni0412
 Width: 575
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 13 66 N 1 0 0 1 0 0 2

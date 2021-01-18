@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610966731
+ModificationTime: 1610966856
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -409,30 +409,29 @@ SplineSet
 102 25 m 258
  102 624 l 257
  64 624 l 258
- 47 624 39 633 39 649 c 258
+ 48 624 39 633 39 649 c 258
  39 675 l 258
- 39 691 47 700 64 700 c 258
+ 39 691 48 700 64 700 c 258
  244 700 l 258
- 406 700 473 606 473 521 c 256
+ 406 700 473 606 473 521 c 259
  473 453 430 395 382 370 c 257
- 463 341 513 271 513 196 c 256
+ 463 341 513 271 513 196 c 259
  513 96 424 0 264 0 c 258
  127 0 l 258
  111 0 102 9 102 25 c 258
 187 624 m 257
  187 403 l 257
  244 403 l 258
- 344 403 398 452 398 511 c 256
+ 344 403 398 452 398 511 c 259
  398 564 354 624 244 624 c 258
  187 624 l 257
 187 77 m 257
  264 77 l 258
- 380 77 437 139 437 201 c 256
+ 380 77 437 139 437 201 c 259
  437 263 380 326 264 326 c 258
  187 326 l 257
  187 77 l 257
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -521,7 +520,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 13 66 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12891,7 +12889,6 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 13 66 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: afii10020
