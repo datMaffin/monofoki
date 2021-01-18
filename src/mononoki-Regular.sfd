@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610987093
+ModificationTime: 1610990123
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 40 10 12
+WinInfo: 132 12 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -67,8 +67,8 @@ Grid
  1300 349 l 1049
 EndSplineSet
 TeXData: 1 0 0 588800 294400 196266 512000 1048576 196266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "mark-ogonek" "'mark' Mark Positioning lookup 0-1" "mark-bottom" "'mark' Mark Positioning lookup 0-1" "mark-top" "'mark' Mark Positioning lookup 0-1" "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 729
+AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-1" "mark-ogonek" "'mark' Mark Positioning lookup 0-1" "mark-bottom" "'mark' Mark Positioning lookup 0-1" "mark-top" "'mark' Mark Positioning lookup 0-1" "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek""" 
+BeginChars: 65591 734
 
 StartChar: A
 Encoding: 65 65 0
@@ -78,7 +78,7 @@ VWidth: 0
 Flags: HMW
 AnchorPoint: "mark-ogonek" 524 0 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -301,7 +301,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 Refer: 242 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -405,26 +405,25 @@ Encoding: 66 66 13
 GlifName: B_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 77<187 364.568> 326 77<187 342.563> 624 76<39.105 102 187 336.968>
-VStem: 102 85<77 326 403 624> 398 75<451.765 572.684> 437 76<138.906 264.505>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-102 25 m 258xf4
+102 25 m 258
  102 624 l 257
  64 624 l 258
  48 624 39 633 39 649 c 258
  39 675 l 258
  39 691 48 700 64 700 c 258
  244 700 l 258
- 406 700 473 606 473 521 c 259xf8
+ 406 700 473 606 473 521 c 259
  473 453 430 395 382 370 c 257
  463 341 513 271 513 196 c 259
  513 96 424 0 264 0 c 258
  127 0 l 258
- 111 0 102 9 102 25 c 258xf4
+ 111 0 102 9 102 25 c 258
 187 624 m 257
  187 403 l 257
  244 403 l 258
@@ -433,7 +432,7 @@ SplineSet
  187 624 l 257
 187 77 m 257
  264 77 l 258
- 380 77 437 139 437 201 c 259xf4
+ 380 77 437 139 437 201 c 259
  437 263 380 326 264 326 c 258
  187 326 l 257
  187 77 l 257
@@ -539,12 +538,9 @@ Encoding: 67 67 16
 GlifName: C_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 78<256.595 447.122> 632 78<256.595 447.122>
-VStem: 85 86<172.377 527.623>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
-AnchorPoint: "bottom" 328 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -719,12 +715,9 @@ Encoding: 68 68 23
 GlifName: D_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 77<187 317.871> 624 76<39.105 102 187 307.328>
-VStem: 102 85<77 623> 432 87<190.231 502.236>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "center" 288 350 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -861,9 +854,9 @@ GlifName: E_
 Width: 575
 VWidth: 0
 Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-ogonek" 483 0 basechar 0
 AnchorPoint: "mark-bottom" 288 -0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1255,9 +1248,8 @@ Encoding: 70 70 41
 GlifName: F_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<102 153> 292 77<170 493.895> 624 76<170 515.895>
-VStem: 85 85<0.10498 292 369 624>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
@@ -1367,12 +1359,9 @@ Encoding: 71 71 43
 GlifName: G_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 78<256.595 413.527> 312 77<318.105 415> 632 78<256.595 447.122>
-VStem: 85 86<172.377 527.623> 415 85<74.4717 312>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
-AnchorPoint: "bottom" 328 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1456,14 +1445,9 @@ Encoding: 72 72 46
 GlifName: H_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<85 136 439 490> 333 77<153 422> 680 20G<85 136 439 490>
-VStem: 68 85<0.10498 333 410 699.895> 422 85<0.10498 333 410 699.895>
-AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
-AnchorPoint: "topleft" 20 700 basechar 0
-AnchorPoint: "center" 288 350 basechar 0
+Flags: HMW
+AnchorPoint: "mark-bottom" 288 -0 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1521,11 +1505,9 @@ GlifName: I_
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "mark-ogonek" 456 0 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
-AnchorPoint: "topleft" 20 700 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
+AnchorPoint: "mark-ogonek" 456 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1743,30 +1725,28 @@ Encoding: 74 74 57
 GlifName: J_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 78<128.257 322.256> 20 71<90.7706 168.661> 624 76<160.105 404>
-VStem: 404 86<158.774 624>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-185 700 m 258xb0
+185 700 m 258
  465 700 l 258
  481 700 490 691 490 675 c 258
  490 270 l 258
- 490 60 368 -10 243 -10 c 259xb0
+ 490 60 368 -10 243 -10 c 259
  196 -10 144 0 97 20 c 256
  82 26 78 38 84 53 c 258
  94 77 l 258
- 100 92 111 97 126 91 c 256x70
+ 100 92 111 97 126 91 c 256
  170 75 206 68 237 68 c 259
  316 68 404 114 404 270 c 258
  404 624 l 257
  185 624 l 258
  169 624 160 633 160 649 c 258
  160 675 l 258
- 160 691 169 700 185 700 c 258xb0
+ 160 691 169 700 185 700 c 258
 EndSplineSet
 EndChar
 
@@ -1793,12 +1773,9 @@ Encoding: 75 75 59
 GlifName: K_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<102 153 436 505.5> 680 20G<102 153 420.5 490.5>
-VStem: 85 85<0.10498 323 399 699.895>
-AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+Flags: HMW
+AnchorPoint: "mark-bottom" 288 -0 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1849,12 +1826,10 @@ Encoding: 76 76 61
 GlifName: L_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 77<170 553.895> 680 20G<102 153>
-VStem: 85 85<77 699.895>
+Flags: HMW
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+AnchorPoint: "mark-topright" 390 700 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2018,29 +1993,28 @@ Encoding: 77 77 67
 GlifName: M_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<49.5 98.5 477.5 526.5> 680 20G<69 109 467 507>
-VStem: 31 85<0.284271 230.686> 51 83<442.398 540> 442 83<442.398 540> 460 85<0.284271 230.686>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-498 700 m 258xd0
- 516 700 525 691 525 675 c 258xd8
+498 700 m 258
+ 516 700 525 691 525 675 c 258
  545 26 l 258
  545 11 534 0 519 0 c 258
  485 0 l 258
- 470 0 461 11 460 26 c 258xc4
+ 470 0 461 11 460 26 c 258
  442 540 l 257
  331 318 l 258
  325 305 316 300 302 300 c 258
  274 300 l 258
  260 300 251 305 245 318 c 258
- 134 540 l 257xd8
+ 134 540 l 257
  116 26 l 258
  115 11 106 0 91 0 c 258
  57 0 l 258
- 42 0 31 11 31 26 c 258xe0
+ 42 0 31 11 31 26 c 258
  51 675 l 258
  51 691 60 700 78 700 c 258
  95 700 l 258
@@ -2048,7 +2022,7 @@ SplineSet
  288 399 l 257
  422 664 l 258
  434 689 453 700 481 700 c 258
- 498 700 l 258xd0
+ 498 700 l 258
 EndSplineSet
 EndChar
 
@@ -2074,9 +2048,8 @@ Encoding: 78 78 69
 GlifName: N_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<86 137 449 489> 680 20G<86 126 438 489>
-VStem: 69 85<0.10498 527> 421 85<169 699.895>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
@@ -2179,11 +2152,9 @@ Encoding: 79 79 74
 GlifName: O_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 77<224.34 351.477> 634 76<224.34 351.477>
-VStem: 75 85<145.087 554.913> 415 85<142.296 558.704>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2388,7 +2359,6 @@ GlifName: O_slash
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2424,7 +2394,6 @@ SplineSet
  234 78 260 66 288 66 c 256
  353 66 405 131 405 243 c 258
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2456,9 +2425,8 @@ Encoding: 80 80 85
 GlifName: P_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<102 153> 260 77<170 350.45> 624 76<170 351.251>
-VStem: 85 85<0.10498 260 337 624> 432 85<408.79 553.271>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
@@ -2630,7 +2598,7 @@ GlifName: Q_
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 700 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2652,12 +2620,9 @@ Encoding: 82 82 90
 GlifName: R_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<102 153 484 542.5> 312 77<170 315> 624 76<170 357.731>
-VStem: 85 85<0.10498 312 389 624> 415 85<441.015 570.282>
+Flags: HMW
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2744,12 +2709,9 @@ Encoding: 83 83 94
 GlifName: S_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 79<132.075 356.568> 20 72<94.7706 173.568> 634 76<226.319 425.216>
-VStem: 82 86<465.828 581.225> 428 86<127.626 247.879>
+Flags: HMW
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 696 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -2775,23 +2737,23 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-467 652 m 258xb8
+467 652 m 258
  458 625 l 258
  452 610 442 605 427 611 c 256
  392.330680362 624.867727855 354 634 316 634 c 259
  239 634 168 593 168 524 c 259
  168 347.759101286 514 439 514 195 c 259
- 514 64 389 -10 250 -10 c 259xb8
+ 514 64 389 -10 250 -10 c 259
  202 -10 147 0 101 20 c 256
  86 26 82 38 88 53 c 258
  98 78 l 258
- 104 93 115 98 130 92 c 256x78
+ 104 93 115 98 130 92 c 256
  169 76 221 69 255 69 c 259
  348 69 428 113 428 190 c 259
  428 365.002976164 82 267.997942396 82 521 c 259
  82 646 196 710 316 710 c 259
  359 710 415 701 456 683 c 256
- 471 676 473 667 467 652 c 258xb8
+ 471 676 473 667 467 652 c 258
 EndSplineSet
 EndChar
 
@@ -2890,13 +2852,9 @@ Encoding: 84 84 100
 GlifName: T_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<262 313> 624 76<22.105 245 330 553.895>
-VStem: 245 85<0.10498 624>
-AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "center" 288 350 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
+Flags: HMW
+AnchorPoint: "mark-bottom" 288 -0 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3050,9 +3008,9 @@ GlifName: U_
 Width: 575
 VWidth: 0
 Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 AnchorPoint: "mark-ogonek" 355 3 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
 AnchorPoint: "topright" 555 700 basechar 0
 LayerCount: 2
 Fore
@@ -3259,11 +3217,9 @@ Encoding: 86 86 117
 GlifName: V_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 76<250.725 325.27> 680 20G<30 81.5 493.5 545.5>
+Flags: HMW
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "ogonek" 517 690 basechar 0
-AnchorPoint: "top" 288 0 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3290,11 +3246,9 @@ Encoding: 87 87 118
 GlifName: W_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 20G<69 109 467 507> 679 21G<49.5 98.5 477.5 526.5>
-VStem: 31 85<469.314 699.716> 51 83<160 257.602> 442 83<160 257.602> 460 85<469.314 699.716>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -3404,8 +3358,8 @@ Encoding: 88 88 123
 GlifName: X_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<49.5 97 479 526.5> 325 65<261.856 313.781> 680 20G<56 104 472 519.5>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
@@ -3493,11 +3447,9 @@ Encoding: 89 89 125
 GlifName: Y_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<262 313> 680 20G<33.5 87 489 542>
-VStem: 245 85<0.10498 323.996>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3601,9 +3553,8 @@ Encoding: 90 90 130
 GlifName: Z_
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 77<150 509.895> 624 76<96.105 424>
-VStem: 65 85<77 180.85>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
@@ -3711,7 +3662,7 @@ VWidth: 0
 Flags: MW
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 AnchorPoint: "mark-ogonek" 445 5 basechar 0
-AnchorPoint: "top" 291 550 basechar 0
+AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3860,7 +3811,6 @@ Width: 575
 VWidth: 0
 GlyphClass: 2
 Flags: HMW
-AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3874,7 +3824,6 @@ SplineSet
  219 531 l 258
  204 526 193 530 185 544 c 257
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: adieresis
@@ -4268,30 +4217,28 @@ Encoding: 98 98 155
 GlifName: b
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 78<171.109 334.254> 429 73<170 235.968> 436 74<171.102 329.549> 730 20G<102 153>
-VStem: 85 85<72.6494 432.544 502 749.895> 404 86<140.941 357.688>
+Flags: HMW
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-98 19 m 257xbc
+98 19 m 257
  90 23 85 31 85 40 c 258
  85 725 l 258
  85 741 94 750 110 750 c 258
  145 750 l 258
  161 750 170 741 170 725 c 258
- 170 502 l 257xdc
+ 170 502 l 257
  195 507 221 510 247 510 c 259
  373 510 490 440 490 250 c 259
  490 60 373 -10 247 -10 c 259
- 196 -10 145 0 98 19 c 257xbc
-237 436 m 259xbc
- 215 436 192 433 170 429 c 257xdc
+ 196 -10 145 0 98 19 c 257
+237 436 m 259
+ 215 436 192 433 170 429 c 257
  170 77 l 257
  196 71 220 68 247 68 c 259
  336 68 404 114 404 250 c 259
- 404 395 325 436 237 436 c 259xbc
+ 404 395 325 436 237 436 c 259
 EndSplineSet
 EndChar
 
@@ -4688,12 +4635,9 @@ Encoding: 99 99 168
 GlifName: c
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 78<240.746 446.7> 432 78<240.746 446.722>
-VStem: 85 86<140.941 359.059>
-AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+Flags: HMW
+AnchorPoint: "mark-bottom" 288 -0 basechar 0
+AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4884,7 +4828,6 @@ Width: 575
 VWidth: 0
 GlyphClass: 2
 Flags: HMW
-AnchorPoint: "bottom" 282 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4909,7 +4852,6 @@ SplineSet
  295 13 l 258
  314 12 321 1 313 -17 c 258
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5224,13 +5166,9 @@ Encoding: 100 100 183
 GlifName: d
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 78<240.746 403.891> 429 73<339.032 405> 436 74<245.451 403.898> 730 20G<422 473>
-VStem: 85 86<140.941 357.688> 405 85<72.6494 432.544 502 749.895>
+Flags: HMW
+AnchorPoint: "mark-topright" 490 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "topright" 565 500 basechar 0
-AnchorPoint: "top" 409 520 basechar 0
-AnchorPoint: "center" 288 250 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5528,10 +5466,7 @@ GlifName: dieresis
 Width: 575
 VWidth: 0
 GlyphClass: 2
-Flags: MW
-HStem: 604 96<142.105 226.895 349.105 433.895>
-VStem: 142 85<604.105 699.895> 349 85<604.105 699.895>
-AnchorPoint: "top" 288 500 mark 0
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -5811,8 +5746,6 @@ Width: 575
 VWidth: 0
 GlyphClass: 2
 Flags: MW
-HStem: 604 96<242.105 326.906>
-VStem: 242 85<604.105 699.895>
 AnchorPoint: "top" 285 500 mark 0
 LayerCount: 2
 Fore
@@ -5842,7 +5775,7 @@ GlifName: dotbelowcomb
 Width: 575
 VWidth: 0
 GlyphClass: 4
-Flags: MW
+Flags: HMW
 AnchorPoint: "mark-bottom" 284 0 mark 0
 LayerCount: 2
 Fore
@@ -5860,11 +5793,9 @@ Encoding: 305 305 198
 GlifName: dotlessi
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 77<327.336 475.27> 424 76<88.105 225>
-VStem: 225 85<82.4152 424>
+Flags: HMW
+AnchorPoint: "mark-bottom" 288 0 basechar 0
 AnchorPoint: "mark-ogonek" 460 25 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
 AnchorPoint: "top" 268 550 basechar 0
 LayerCount: 2
 Back
@@ -5914,10 +5845,10 @@ Encoding: 101 101 199
 GlifName: e
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 AnchorPoint: "mark-ogonek" 464 25 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6689,11 +6620,8 @@ Encoding: 102 102 225
 GlifName: f
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<213 264> 424 76<75.105 196 282 469.895> 685 78<313.344 485.033>
-VStem: 196 85<0.10498 424 500 649.167>
-AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "bottom" 520 266 basechar 0
+Flags: HMW
+AnchorPoint: "mark-bottom" 239 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7191,7 +7119,7 @@ GlifName: g
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 289 550 basechar 0
+AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7357,7 +7285,6 @@ Width: 575
 VWidth: 0
 GlyphClass: 2
 Flags: HMW
-AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7372,7 +7299,6 @@ SplineSet
  385 595 l 258
   PathStart: -2
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7456,34 +7382,33 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-114 250 m 257
- 301 63 l 258
- 312 52 312 39 300 28 c 258
- 277 7 l 258
- 265 -3 253 -3 241 8 c 258
- 65 185 l 258
- 46 204 30 223 30 250 c 256
- 30 277 46 297 65 316 c 258
- 241 492 l 258
- 253 504 265 504 277 493 c 258
- 300 473 l 258
- 312 462 312 449 301 437 c 258
- 114 250 l 257
-350 250 m 257
- 537 63 l 258
- 549 52 549 39 536 28 c 258
- 513 7 l 258
- 501 -3 489 -3 478 8 c 258
- 301 185 l 258
- 282 204 266 223 266 250 c 256
- 266 277 282 297 301 316 c 258
- 478 492 l 258
- 489 504 501 504 513 493 c 258
- 536 473 l 258
- 549 462 549 449 537 437 c 258
- 350 250 l 257
+114 311 m 257
+ 301 124 l 258
+ 312 113 312 100 300 89 c 258
+ 277 68 l 258
+ 265 58 253 58 241 69 c 258
+ 65 246 l 258
+ 46 265 30 284 30 311 c 256
+ 30 338 46 358 65 377 c 258
+ 241 553 l 258
+ 253 565 265 565 277 554 c 258
+ 300 534 l 258
+ 312 523 312 510 301 498 c 258
+ 114 311 l 257
+350 311 m 257
+ 537 124 l 258
+ 549 113 549 100 536 89 c 258
+ 513 68 l 258
+ 501 58 489 58 478 69 c 258
+ 301 246 l 258
+ 282 265 266 284 266 311 c 256
+ 266 338 282 358 301 377 c 258
+ 478 553 l 258
+ 489 565 501 565 513 554 c 258
+ 536 534 l 258
+ 549 523 549 510 537 498 c 258
+ 350 311 l 257
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7497,11 +7422,10 @@ Encoding: 187 187 246
 GlifName: guillemotright
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 245 171 N -1 0 0 1 575 0 2
-Validated: 25
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7565,12 +7489,9 @@ Encoding: 104 104 249
 GlifName: h
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<106 157 418 469> 434 76<174 365.329> 731 20G<106 149>
-VStem: 89 85<0.10498 430.807 505 749.895> 401 85<0.10498 396.262>
+Flags: HMW
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "center" 288 250 basechar 0
-AnchorPoint: "top" 388 620 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7735,7 +7656,7 @@ SplineSet
  195 735 l 258
  195 751 204 760 220 760 c 258
 EndSplineSet
-Refer: 198 305 N 1 0 0 1 0 0 3
+Refer: 198 305 S 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iacute
@@ -8015,7 +7936,6 @@ GlifName: j
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "bottom" 587 50 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8071,11 +7991,8 @@ Encoding: 107 107 267
 GlifName: k
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<106 157 424.5 500.5> 236 49<174 203.996> 480 20G<404.5 480.5> 730 20G<106 157>
-VStem: 89 85<0.10498 236 285 749.895>
+Flags: HMW
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 290 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8154,12 +8071,10 @@ Encoding: 108 108 269
 GlifName: l
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 77<327.336 475.27> 674 76<88.105 225>
-VStem: 225 85<82.4152 674>
+Flags: HMW
+AnchorPoint: "mark-topright" 390 700 basechar 0
+AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 328 699 basechar 0
-AnchorPoint: "topright" 565 500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8550,8 +8465,8 @@ GlifName: m
 Width: 575
 VWidth: 0
 Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8591,7 +8506,6 @@ Width: 575
 VWidth: 0
 GlyphClass: 2
 Flags: HMW
-AnchorPoint: "top" 288 500 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8605,7 +8519,6 @@ SplineSet
  169 624 l 258
  153 624 144 632 144 649 c 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8699,11 +8612,9 @@ Encoding: 110 110 284
 GlifName: n
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<106 157 418 469> 434 76<175.634 365.329>
-VStem: 89 85<0.10498 431.375> 401 85<0.10498 396.262>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9046,11 +8957,9 @@ Encoding: 111 111 295
 GlifName: o
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 76<224.957 351.144> 434 76<224.957 351.144>
-VStem: 75 85<139.793 360.207> 415 85<139.793 360.207>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9180,7 +9089,6 @@ Width: 575
 VWidth: 0
 GlyphClass: 2
 Flags: MW
-VStem: 231 85<-142.396 -5.34191>
 AnchorPoint: "ogonek" 353 5 mark 0
 LayerCount: 2
 Fore
@@ -9613,24 +9521,20 @@ GlifName: ordmasculine
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-143 530 m 256
- 143 643 201 715 290 715 c 256
- 378 715 433 644 433 530 c 256
- 433 416 378 345 290 345 c 256
- 201 345 143 417 143 530 c 256
-  PathStart: -2
-219 530 m 256
- 219 459 246 417 288 417 c 256
- 330 417 356 458 356 530 c 256
- 356 602 330 643 288 643 c 256
- 246 643 219 601 219 530 c 256
-  PathStart: -2
+143 530 m 259
+ 143 643 201 715 290 715 c 259
+ 378 715 433 644 433 530 c 259
+ 433 416 378 345 290 345 c 259
+ 201 345 143 417 143 530 c 259
+219 530 m 259
+ 219 459 246 417 288 417 c 259
+ 330 417 356 458 356 530 c 259
+ 356 602 330 643 288 643 c 259
+ 246 643 219 601 219 530 c 259
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9645,7 +9549,6 @@ GlifName: oslash
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9679,7 +9582,6 @@ SplineSet
  247 74 l 257
   PathStart: -2
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9712,8 +9614,7 @@ GlifName: p
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 550 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
 Refer: 155 98 N 1 0 0 -1 0 500 2
@@ -10256,8 +10157,7 @@ GlifName: q
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 500 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
+AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
 Refer: 155 98 N -1 0 -0 -1 575 500 2
@@ -10528,11 +10428,9 @@ Encoding: 114 114 345
 GlifName: r
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<106 157> 434 76<175.634 375.031>
-VStem: 89 85<0.10498 431.375> 401 85<323.105 406.692>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10799,11 +10697,9 @@ Encoding: 115 115 353
 GlifName: s
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 77<116.903 350.531> 1 76<109.593 257.489> 434 76<215.012 423.681>
-VStem: 106 85<328.592 409.995> 384 85<97.5516 189.82>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -10829,23 +10725,23 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-436 469 m 258xb8
+436 469 m 258
  429 443 l 258
  425 428 415 422 399 425 c 256
  356 432 326.018512172 434 299 434 c 259
  238.966675921 434 191 410 191 371 c 259
  191 255 469 347 469 146 c 259
- 469 55 395 -10 259 -10 c 259xb8
+ 469 55 395 -10 259 -10 c 259
  227 -10 180 -8 124 1 c 256
  107 4 100 15 104 31 c 258
  110 57 l 257
- 113 73 123 79 139 77 c 257x78
+ 113 73 123 79 139 77 c 257
  191 68 236 67 259 67 c 259
  340 67 384 99.9886378307 384 144 c 259
  384 269.103261723 106 174.876301266 106 371 c 259
  106 449 174 510 299 510 c 259
  325 510 369 508 417 499 c 256
- 433 496 440 485 436 469 c 258xb8
+ 433 496 440 485 436 469 c 258
 EndSplineSet
 EndChar
 
@@ -11539,19 +11435,15 @@ Encoding: 116 116 375
 GlifName: t
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 78<303.129 475.186> 10 72<369.642 479.044> 424 76<85.105 186 271 459.895>
-VStem: 186 85<102.641 424 500 659.895>
+Flags: HMW
+AnchorPoint: "mark-topright" 440 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 500 basechar 0
-AnchorPoint: "topright" 555 500 basechar 0
-AnchorPoint: "center" 288 300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-476 68 m 257xb0
+476 68 m 257
  487 42 l 258
- 493 27 489 15 473 10 c 257x70
+ 493 27 489 15 473 10 c 257
  440 -2 403 -10 368 -10 c 259
  273 -10 186 43 186 204 c 258
  186 424 l 257
@@ -11571,9 +11463,9 @@ SplineSet
  460 433 451 424 435 424 c 258
  271 424 l 257
  271 204 l 258
- 271 96 310 68 368 68 c 259xb0
- 393 68 416 72 443 82 c 256x70
- 458 88 469 83 476 68 c 257xb0
+ 271 96 310 68 368 68 c 259
+ 393 68 416 72 443 82 c 256
+ 458 88 469 83 476 68 c 257
 EndSplineSet
 EndChar
 
@@ -11778,8 +11670,6 @@ GlifName: thorn
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 550 basechar 0
-AnchorPoint: "bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11804,7 +11694,6 @@ SplineSet
  405 384 373 435 259 435 c 256
  241 435 209 435 170 432 c 257
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12265,10 +12154,10 @@ Encoding: 117 117 395
 GlifName: u
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 AnchorPoint: "mark-ogonek" 451 5 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 Refer: 284 110 N -1 0 -0 -1 575 500 2
@@ -12698,7 +12587,6 @@ LayerCount: 2
 Fore
 Refer: 422 1043 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -14979,7 +14867,6 @@ LayerCount: 2
 Fore
 Refer: 454 1075 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 12 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15031,7 +14918,6 @@ LayerCount: 2
 Fore
 Refer: 461 1082 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 12 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15067,12 +14953,11 @@ Encoding: 1250 1250 491
 GlifName: uni04E_2
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 427 1048 N 1 0 0 1 0 0 2
 Refer: 281 175 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15086,12 +14971,11 @@ Encoding: 1251 1251 492
 GlifName: uni04E_3
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 459 1080 N 1 0 0 1 0 0 2
 Refer: 281 175 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15105,12 +14989,11 @@ Encoding: 1262 1262 493
 GlifName: uni04E_E_
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 438 1059 N 1 0 0 1 0 0 2
 Refer: 281 175 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -21118,8 +21001,8 @@ Encoding: 118 118 690
 GlifName: v
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -10 76<250.725 325.27> 480 20G<80.5 132.5 443.5 494.5>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
@@ -21147,11 +21030,9 @@ Encoding: 119 119 691
 GlifName: w
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -5 21G<84 123 453 492> 480 20G<64.5 113.5 462.5 511.5>
-VStem: 46 85<337.808 499.716> 445 85<337.808 499.716>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -21286,8 +21167,8 @@ Encoding: 120 120 696
 GlifName: x
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 21G<97.5 147 429 478> 225 64<261.964 314.033> 480 20G<104.5 154 422 471.5>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 LayerCount: 2
 Fore
@@ -21371,7 +21252,7 @@ GlifName: y
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "top" 288 550 basechar 0
+AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21532,10 +21413,9 @@ Encoding: 122 122 704
 GlifName: z
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: 0 77<171 489.895> 424 76<106.105 404>
+Flags: HMW
+AnchorPoint: "mark-top" 288 500 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "top" 288 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21809,6 +21689,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 490 mark 0
 LayerCount: 2
 Fore
 Refer: 191 168 N 1 0 0 1 0 0 3
@@ -21820,6 +21701,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
 Refer: 242 96 N 1 0 0 1 0 0 3
@@ -21831,6 +21713,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
 Refer: 140 180 N 1 0 0 1 0 0 3
@@ -21842,6 +21725,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
 Refer: 178 710 N 1 0 0 1 0 0 3
@@ -21853,6 +21737,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
 Refer: 388 732 N 1 0 0 1 0 0 3
@@ -21864,6 +21749,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
 Refer: 165 728 N 1 0 0 1 0 0 3
@@ -21875,6 +21761,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 490 mark 0
 LayerCount: 2
 Fore
 Refer: 196 729 N 1 0 0 1 0 0 3
@@ -21886,6 +21773,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
 Refer: 351 730 N 1 0 0 1 0 0 3
@@ -21897,9 +21785,10 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
-Refer: 171 711 S 1 0 0 1 0 0 3
+Refer: 171 711 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni030B
@@ -21908,6 +21797,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 445 mark 0
 LayerCount: 2
 Fore
 Refer: 252 733 N 1 0 0 1 0 0 3
@@ -21944,6 +21834,7 @@ Width: 575
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
+AnchorPoint: "mark-top" 287 490 mark 0
 LayerCount: 2
 Fore
 Refer: 281 175 N 1 0 0 1 0 0 3
@@ -21953,9 +21844,7 @@ StartChar: uni0324
 Encoding: 804 804 727
 Width: 575
 VWidth: 0
-Flags: MW
-HStem: -171 96<142.105 226.895 349.105 433.895>
-VStem: 142 85<-170.895 -75.105> 349 85<-170.895 -75.105>
+Flags: HMW
 AnchorPoint: "mark-bottom" 284 0 mark 0
 LayerCount: 2
 Fore
@@ -21967,11 +21856,65 @@ Encoding: 808 808 728
 Width: 575
 VWidth: 0
 Flags: MW
-VStem: 231 85<-142.396 -5.34191>
 AnchorPoint: "mark-ogonek" 300 20 mark 0
 LayerCount: 2
 Fore
 Refer: 300 731 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii57929
+Encoding: 700 700 729
+Width: 575
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 344 39 S 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni02BB
+Encoding: 699 699 730
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 344 39 N 1 0 0 -1 0 1163 3
+EndChar
+
+StartChar: uni0315
+Encoding: 789 789 731
+Width: 575
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mark-topright" 190 700 mark 0
+LayerCount: 2
+Fore
+Refer: 729 700 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0312
+Encoding: 786 786 732
+Width: 575
+VWidth: 0
+GlyphClass: 4
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 730 699 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0327
+Encoding: 807 807 733
+Width: 575
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mark-bottom" 284 0 mark 0
+LayerCount: 2
+Fore
+Refer: 175 184 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
