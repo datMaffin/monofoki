@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1610967389
+ModificationTime: 1610967524
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -727,16 +727,15 @@ SplineSet
  111 0 102 9 102 25 c 258
  102 624 l 257
  64 624 l 258
- 47 624 39 633 39 649 c 258
+ 48 624 39 633 39 649 c 258
  39 675 l 258
- 39 691 47 700 64 700 c 258
+ 39 691 48 700 64 700 c 258
 432 330 m 258
  432 370 l 258
  432 536 367 623 187 623 c 257
  187 77 l 257
  360 77 432 147 432 330 c 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -820,7 +819,6 @@ LayerCount: 2
 Fore
 Refer: 23 68 N 1 0 0 1 0 0 2
 Refer: 171 711 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -839,7 +837,6 @@ LayerCount: 2
 Fore
 Refer: 23 68 N 1 0 0 1 0 0 2
 Refer: 281 175 N 1 0 0 1 0 200 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
