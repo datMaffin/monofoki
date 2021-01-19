@@ -18,10 +18,10 @@ my preferences:
     fine.
 - [x] Use "l" glyph for the "i" as well
 - [x] Increase height of middle line in "a" to line up with "e"
-  - [ ] May need further refinement
+  - [x] May need further refinement
 - [x] Italic "J" and BoldItalic "J" have different shapes
 - [x] Decrease width of "w" to be more similar in width with "m"
-  - [ ] May need further refinement
+  - [x] May need further refinement
 - [x] Fix missing UTF-8 glyphs: ä, ö, ü
   + This problem happens when creating a file with the macOS finder 
     conaining ä, ö, ü: When using iTerm the file name is not printed in the 
@@ -47,7 +47,7 @@ my preferences:
 - [x] Fix directions of glyphs in FontForge
 - [x] .ttf fonts wont work on macOS (otf is working)
 - [x] macOS is still complaining about the name table
-- [X] FontForge tutorial says to change layers to quadratic before exporting 
+- [x] FontForge tutorial says to change layers to quadratic before exporting 
       font as ttfs
 - [x] Issues with back- and frontticks: for some reason they get wrongly
       rendered on top of the letter infront.
