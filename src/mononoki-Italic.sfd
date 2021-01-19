@@ -3,7 +3,7 @@ FontName: MononokiFork-Italic
 FullName: Mononoki Fork Italic
 FamilyName: MononokiFork
 Weight: Regular
-Copyright: Modifications:\nCopyright (c) 2020, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2017, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+Copyright: Modifications:\nCopyright (c) 2020-2021, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2017, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 Version: 2.0
 ItalicAngle: -9
 UnderlinePosition: 0
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1611061806
+ModificationTime: 1611067011
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 672 21 15
+WinInfo: 640 20 8
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -2217,7 +2217,7 @@ Encoding: 216 216 83
 GlifName: O_slash
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
