@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1611063770
+ModificationTime: 1611064690
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -75,7 +75,7 @@ GlifName: A_
 Width: 575
 VWidth: 0
 Flags: W
-AnchorPoint: "mark-ogonek" 524 0 basechar 0
+AnchorPoint: "mark-ogonek" 527 0 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
@@ -3348,7 +3348,7 @@ VWidth: 0
 Flags: W
 AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
-AnchorPoint: "mark-ogonek" 355 3 basechar 0
+AnchorPoint: "mark-ogonek" 355 5 basechar 0
 AnchorPoint: "topright" 555 700 basechar 0
 LayerCount: 2
 Fore
@@ -8664,7 +8664,7 @@ SplineSet
  182.5 722.5 l 2
  182.5 731.663948788 184.80716652 740.419189933 190.44258701 747.371981446 c 0
 EndSplineSet
-Refer: 198 305 S 1 0 0 1 0 0 3
+Refer: 198 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iacute
