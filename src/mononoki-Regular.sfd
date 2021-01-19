@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1611013042
+ModificationTime: 1611014619
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 39 13 12
+WinInfo: 156 13 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -2353,7 +2353,7 @@ Encoding: 216 216 83
 GlifName: O_slash
 Width: 575
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
@@ -3002,7 +3002,7 @@ Encoding: 85 85 106
 GlifName: U_
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "mark-top" 288 700 basechar 0
 AnchorPoint: "mark-bottom" 288 0 basechar 0
 AnchorPoint: "mark-ogonek" 355 5 basechar 0
