@@ -38,6 +38,7 @@ my preferences:
 * Create a build pipeline (with the source being FontForge .sfd files)
   - Use ttfautohint
 * Bold currently increases the height of glyphs a little to much for my taste.
+  - Bold is now auto generated: Generate the bold sfd's from the regular sfd's with the `script_helper/generate_bold_sfd.sh` script.
 
 ## Fork specific problems to solve
 * FontForge does not have a tool to create rounded edges
