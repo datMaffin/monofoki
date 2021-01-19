@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1611015138
+ModificationTime: 1611015212
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 136 17 12
+WinInfo: 221 17 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -67,7 +67,7 @@ Grid
  1300 349 l 1049
 EndSplineSet
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 734
+BeginChars: 65591 752
 
 StartChar: A
 Encoding: 65 65 0
@@ -205,8 +205,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 6 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -223,8 +223,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 165 728 N 1 0 0 1 31 200 2
+Refer: 719 774 N 1 0 0 1 12 255 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -241,8 +241,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 31 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -259,8 +259,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 31 200 2
+Refer: 714 776 N 1 0 0 1 5 210 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -277,8 +277,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 31 200 2
+Refer: 715 768 N 1 0 0 1 12 255 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -312,8 +312,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 31 200 2
+Refer: 726 772 N 1 0 0 1 5 210 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -330,8 +330,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 300 731 N 1 0 0 1 165 5 2
+Refer: 728 808 N 1 0 0 1 224 -20 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -348,8 +348,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 351 730 N 1 0 0 1 31 200 2
+Refer: 721 778 N 1 0 0 1 12 255 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -366,8 +366,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 0 65 N 1 0 0 1 0 0 2
-Refer: 388 732 N 1 0 0 1 31 200 2
+Refer: 718 771 N 1 0 0 1 12 255 2
+Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -566,8 +566,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 16 67 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 6 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -584,8 +584,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 16 67 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 31 200 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -602,8 +602,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 16 67 N 1 0 0 1 0 0 2
-Refer: 175 184 N 1 0 0 1 46 0 2
+Refer: 733 807 N 1 0 0 1 1 0 2
+Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -620,8 +620,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 16 67 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 31 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -738,8 +738,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 23 68 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 -69 200 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 23 68 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -862,8 +862,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -880,8 +880,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 200 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -898,8 +898,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -916,8 +916,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 0 200 2
+Refer: 714 776 N 1 0 0 1 5 210 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -934,8 +934,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 196 729 N 1 0 0 1 3 200 2
+Refer: 720 775 N 1 0 0 1 5 210 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -952,8 +952,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 0 200 2
+Refer: 715 768 N 1 0 0 1 12 255 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -970,8 +970,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 0 200 2
+Refer: 726 772 N 1 0 0 1 5 210 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -988,8 +988,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 69 N 1 0 0 1 0 0 2
-Refer: 300 731 N 1 0 0 1 165 -4 2
+Refer: 728 808 N 1 0 0 1 179 -20 2
+Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1287,8 +1287,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 43 71 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 31 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 43 71 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1346,8 +1346,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 46 72 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 31 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 46 72 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1459,8 +1459,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 48 73 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 6 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1477,8 +1477,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 48 73 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 31 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1495,8 +1495,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 48 73 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 31 200 2
+Refer: 714 776 N 1 0 0 1 5 210 2
+Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1513,8 +1513,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 48 73 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 31 200 2
+Refer: 715 768 N 1 0 0 1 12 255 2
+Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1531,8 +1531,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 48 73 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 31 200 2
+Refer: 726 772 N 1 0 0 1 5 210 2
+Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1549,8 +1549,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 48 73 N 1 0 0 1 0 0 2
-Refer: 300 731 N 1 0 0 1 163 5 2
+Refer: 728 808 N 1 0 0 1 153 -20 2
+Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1620,8 +1620,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 57 74 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 31 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 57 74 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1731,8 +1731,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 61 76 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 61 76 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1783,8 +1783,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
+Refer: 732 789 N 1 0 0 1 199 0 2
 Refer: 61 76 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1801,8 +1801,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 61 76 N 1 0 0 1 0 0 2
-Refer: 325 183 N 1 0 0 1 100 50 2
+Refer: 325 183 N 1 0 0 1 97 90 2
+Refer: 61 76 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1947,8 +1947,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 69 78 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 69 78 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1965,8 +1965,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 69 78 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 200 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 69 78 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -1983,8 +1983,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 69 78 N 1 0 0 1 0 0 2
-Refer: 388 732 N 1 0 0 1 0 200 2
+Refer: 718 771 N 1 0 0 1 12 255 2
+Refer: 69 78 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2096,8 +2096,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 74 79 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2114,8 +2114,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 74 79 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2132,8 +2132,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 74 79 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 0 200 2
+Refer: 714 776 N 1 0 0 1 5 210 2
+Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2150,8 +2150,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 74 79 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 0 200 2
+Refer: 715 768 N 1 0 0 1 12 255 2
+Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2168,8 +2168,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 74 79 N 1 0 0 1 0 0 2
-Refer: 252 733 N 1 0 0 1 -3 200 2
+Refer: 722 779 N 1 0 0 1 12 255 2
+Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2186,8 +2186,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 74 79 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 0 200 2
+Refer: 726 772 N 1 0 0 1 5 210 2
+Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2239,8 +2239,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 74 79 N 1 0 0 1 0 0 2
-Refer: 388 732 N 1 0 0 1 0 200 2
+Refer: 718 771 N 1 0 0 1 12 255 2
+Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2501,8 +2501,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 90 82 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 90 82 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2519,8 +2519,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 90 82 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 200 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 90 82 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2613,8 +2613,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 96 194 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2631,8 +2631,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 121 194 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2649,8 +2649,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 175 184 N 1 0 0 1 6 0 2
+Refer: 733 807 N 1 0 0 1 1 0 2
+Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2667,8 +2667,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 94 83 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 121 194 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2772,8 +2772,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 100 84 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 200 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 100 84 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2894,8 +2894,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 6 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2912,8 +2912,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 165 728 N 1 0 0 1 31 200 2
+Refer: 719 774 N 1 0 0 1 12 255 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2930,8 +2930,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 31 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2948,8 +2948,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 31 200 2
+Refer: 714 776 N 1 0 0 1 5 210 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2966,8 +2966,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 31 200 2
+Refer: 715 768 N 1 0 0 1 12 255 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -2984,8 +2984,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 252 733 N 1 0 0 1 28 200 2
+Refer: 722 779 N 1 0 0 1 12 255 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3002,8 +3002,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 31 200 2
+Refer: 726 772 N 1 0 0 1 5 210 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3020,8 +3020,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 300 731 N 1 0 0 1 163 5 2
+Refer: 728 808 N 1 0 0 1 63 -15 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3055,8 +3055,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 106 85 N 1 0 0 1 0 0 2
-Refer: 351 730 N 1 0 0 1 31 200 2
+Refer: 721 778 N 1 0 0 1 12 255 2
+Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3145,8 +3145,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 118 87 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 118 87 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3333,8 +3333,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 125 89 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 125 89 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3351,8 +3351,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 125 89 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 200 2
+Refer: 717 770 N 1 0 0 1 12 255 2
+Refer: 125 89 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3369,8 +3369,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 125 89 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 0 200 2
+Refer: 714 776 N 1 0 0 1 5 210 2
+Refer: 125 89 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3446,8 +3446,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 130 90 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 0 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 130 90 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3464,8 +3464,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 130 90 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 200 2
+Refer: 723 780 N 1 0 0 1 12 255 2
+Refer: 130 90 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3482,8 +3482,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 130 90 N 1 0 0 1 0 0 2
-Refer: 196 729 N 1 0 0 1 3 200 2
+Refer: 720 775 N 1 0 0 1 5 210 2
+Refer: 130 90 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3592,8 +3592,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -15 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3610,8 +3610,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 165 728 N 1 0 0 1 10 50 2
+Refer: 719 774 N 1 0 0 1 -18 55 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3628,8 +3628,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 10 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3675,8 +3675,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 10 50 2
+Refer: 714 776 N 1 0 0 1 -25 10 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3738,8 +3738,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 10 50 2
+Refer: 715 768 N 1 0 0 1 -18 55 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3795,8 +3795,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 10 50 2
+Refer: 726 772 N 1 0 0 1 -25 10 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3863,8 +3863,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 300 731 N 1 0 0 1 163 5 2
+Refer: 728 808 N 1 0 0 1 154 -20 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -3899,8 +3899,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 351 730 N 1 0 0 1 10 50 2
+Refer: 721 778 N 1 0 0 1 -18 55 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -4068,8 +4068,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 135 97 N 1 0 0 1 0 0 2
-Refer: 388 732 N 1 0 0 1 10 50 2
+Refer: 718 771 N 1 0 0 1 -18 55 2
+Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -4569,8 +4569,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 168 99 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 13 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -4622,8 +4622,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 168 99 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 38 50 2
+Refer: 723 780 N 1 0 0 1 -18 55 2
+Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -4640,8 +4640,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 168 99 N 1 0 0 1 0 0 2
-Refer: 175 184 N 1 0 0 1 46 0 2
+Refer: 733 807 N 1 0 0 1 1 0 2
+Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -4658,8 +4658,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 168 99 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 38 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5184,8 +5184,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
+Refer: 732 789 N 1 0 0 1 298 0 2
 Refer: 183 100 N 1 0 0 1 0 0 2
-Refer: 342 8217 N 1 0 0 1 -100 110 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5824,8 +5824,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -9 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5842,8 +5842,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 16 50 2
+Refer: 723 780 N 1 0 0 1 -18 55 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5860,8 +5860,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 16 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5878,8 +5878,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 16 50 2
+Refer: 714 776 N 1 0 0 1 -25 10 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5896,8 +5896,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 196 729 N 1 0 0 1 19 50 2
+Refer: 720 775 N 1 0 0 1 -25 10 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -5914,8 +5914,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 16 50 2
+Refer: 715 768 N 1 0 0 1 -18 55 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -6090,8 +6090,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 16 50 2
+Refer: 726 772 N 1 0 0 1 -25 10 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -6207,8 +6207,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 199 101 N 1 0 0 1 0 0 2
-Refer: 300 731 N 1 0 0 1 126 0 2
+Refer: 728 808 N 1 0 0 1 166 5 2
+Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7056,8 +7056,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 238 103 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 10 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 238 103 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7388,8 +7388,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 249 104 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 80 120 2
+Refer: 717 770 N 1 0 0 1 12.1534 269.593 2
+Refer: 249 104 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7521,8 +7521,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 198 305 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -13 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7539,8 +7539,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 198 305 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 12 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7557,8 +7557,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 198 305 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 12 50 2
+Refer: 714 776 N 1 0 0 1 -25 10 2
+Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7575,8 +7575,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 198 305 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 12 50 2
+Refer: 715 768 N 1 0 0 1 -18 55 2
+Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7651,8 +7651,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 198 305 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 12 50 2
+Refer: 726 772 N 1 0 0 1 -25 10 2
+Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7745,9 +7745,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 198 305 N 1 0 0 1 0 0 2
-Refer: 196 729 N 1 0 0 1 15 50 2
-Refer: 300 731 N 1 0 0 1 186 5 2
+Refer: 728 808 N 1 0 0 1 160 5 2
+Refer: 254 105 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7839,11 +7838,11 @@ Encoding: 309 309 266
 GlifName: jcircumflex
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 408 567 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 100 100 2
+Refer: 717 770 N 1 0 0 1 -6.13671 31.5932 2
+Refer: 408 567 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8033,30 +8032,8 @@ AnchorPoint: "topright" 595 500 basechar 0
 AnchorPoint: "center" 288 250 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-455 57 m 257
- 459 31 l 257
- 463 16 455 4 437 0 c 256
- 399 -9 368 -10 348 -10 c 256
- 250 -10 205 27 205 107 c 256
- 205 120 207 134 209 150 c 258
- 272 555 l 258
- 274 566 275 575 275 584 c 256
- 275 622 255 638 207 638 c 256
- 191 638 166 637 140 631 c 257
- 124 628 115 633 111 648 c 257
- 107 674 l 257
- 104 689 112 701 129 705 c 256
- 168 714 199 715 219 715 c 256
- 316 715 361 679 361 600 c 256
- 361 586 360 571 357 555 c 258
- 294 150 l 258
- 292 140 292 131 292 122 c 256
- 292 84 310 68 360 67 c 256
- 376 67 400 68 426 74 c 257
- 443 77 452 72 455 57 c 257
-EndSplineSet
-Refer: 140 180 N 1 0 0 1 -22 200 2
+Refer: 716 769 N 1 0 0 1 12 255 2
+Refer: 269 108 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8108,30 +8085,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-SplineSet
-455 57 m 257
- 459 31 l 257
- 463 16 455 4 437 0 c 256
- 399 -9 368 -10 348 -10 c 256
- 250 -10 205 27 205 107 c 256
- 205 120 207 134 209 150 c 258
- 272 555 l 258
- 274 566 275 575 275 584 c 256
- 275 622 255 638 207 638 c 256
- 191 638 166 637 140 631 c 257
- 124 628 115 633 111 648 c 257
- 107 674 l 257
- 104 689 112 701 129 705 c 256
- 168 714 199 715 219 715 c 256
- 316 715 361 679 361 600 c 256
- 361 586 360 571 357 555 c 258
- 294 150 l 258
- 292 140 292 131 292 122 c 256
- 292 84 310 68 360 67 c 256
- 376 67 400 68 426 74 c 257
- 443 77 452 72 455 57 c 257
-EndSplineSet
-Refer: 171 711 N 1 0 0 1 -30 200 2
+Refer: 732 789 N 1 0 0 1 199 0 2
+Refer: 269 108 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8148,14 +8103,15 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 269 108 N 1 0 0 1 0 0 2
-Refer: 325 183 N 1 0 0 1 180 50 2
+Refer: 325 183 N 1 0 0 1 172 90 2
+Refer: 269 108 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
 V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
+Decomposition: "l+ALcA"
 EndChar
 
 StartChar: less
@@ -8502,8 +8458,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 284 110 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -25 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 284 110 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8520,8 +8476,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 284 110 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 50 2
+Refer: 723 780 N 1 0 0 1 -18 55 2
+Refer: 284 110 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8710,8 +8666,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 284 110 N 1 0 0 1 0 0 2
-Refer: 388 732 N 1 0 0 1 0 50 2
+Refer: 718 771 N 1 0 0 1 -18 55 2
+Refer: 284 110 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8845,8 +8801,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 295 111 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -25 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8863,8 +8819,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 295 111 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8881,8 +8837,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 295 111 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 0 50 2
+Refer: 714 776 N 1 0 0 1 -25 10 2
+Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8975,8 +8931,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 295 111 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 0 50 2
+Refer: 715 768 N 1 0 0 1 -18 55 2
+Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -8993,8 +8949,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 295 111 N 1 0 0 1 0 0 2
-Refer: 252 733 N 1 0 0 1 -3 50 2
+Refer: 722 779 N 1 0 0 1 -18 55 2
+Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9011,8 +8967,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 295 111 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 0 50 2
+Refer: 726 772 N 1 0 0 1 -25 10 2
+Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9438,8 +9394,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 295 111 N 1 0 0 1 0 0 2
-Refer: 388 732 N 1 0 0 1 0 50 2
+Refer: 718 771 N 1 0 0 1 -18 55 2
+Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10348,8 +10304,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 345 114 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -25 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 345 114 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10404,8 +10360,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 345 114 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 50 2
+Refer: 723 780 N 1 0 0 1 -18 55 2
+Refer: 345 114 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10635,8 +10591,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 353 115 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -25 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10653,8 +10609,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 353 115 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 50 2
+Refer: 723 780 N 1 0 0 1 -18 55 2
+Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10671,8 +10627,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 353 115 N 1 0 0 1 0 0 2
-Refer: 175 184 N 1 0 0 1 46 0 2
+Refer: 733 807 N 1 0 0 1 1 0 2
+Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10689,8 +10645,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 353 115 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -11491,8 +11447,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
+Refer: 732 789 N 1 0 0 1 249 0 2
 Refer: 375 116 N 1 0 0 1 0 0 2
-Refer: 342 8217 N 1 0 0 1 121 100 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12117,8 +12073,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -25 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12135,8 +12091,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 165 728 N 1 0 0 1 0 50 2
+Refer: 719 774 N 1 0 0 1 -18 55 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12153,8 +12109,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12171,8 +12127,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 0 50 2
+Refer: 714 776 N 1 0 0 1 -25 10 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12189,8 +12145,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 242 96 N 1 0 0 1 0 50 2
+Refer: 715 768 N 1 0 0 1 -18 55 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12207,8 +12163,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 252 733 N 1 0 0 1 -3 50 2
+Refer: 722 779 N 1 0 0 1 -18 55 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12225,8 +12181,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 281 175 N 1 0 0 1 0 50 2
+Refer: 726 772 N 1 0 0 1 -25 10 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12317,8 +12273,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 100 84 N 1 0 0 1 0 0 2
-Refer: 175 184 N 1 0 0 1 -14 0 2
+Refer: 733 807 N 1 0 0 1 1 0 2
+Refer: 100 84 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -12335,8 +12291,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 375 116 N 1 0 0 1 0 0 2
-Refer: 175 184 N 1 0 0 1 46 0 2
+Refer: 733 807 N 1 0 0 1 1 0 2
+Refer: 375 116 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -20540,8 +20496,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 300 731 N 1 0 0 1 163 5 2
+Refer: 728 808 N 1 0 0 1 149 -20 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -20598,8 +20554,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
-Refer: 351 730 N 1 0 0 1 0 50 2
+Refer: 721 778 N 1 0 0 1 -18 55 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -20697,8 +20653,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 691 119 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 691 119 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -20866,8 +20822,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 698 121 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -25 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 698 121 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -20884,8 +20840,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 698 121 N 1 0 0 1 0 0 2
-Refer: 178 710 N 1 0 0 1 0 50 2
+Refer: 717 770 N 1 0 0 1 -18 55 2
+Refer: 698 121 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -20902,8 +20858,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 698 121 N 1 0 0 1 0 0 2
-Refer: 191 168 N 1 0 0 1 0 50 2
+Refer: 714 776 N 1 0 0 1 -25 10 2
+Refer: 698 121 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -21032,8 +20988,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 704 122 N 1 0 0 1 0 0 2
-Refer: 140 180 N 1 0 0 1 -25 50 2
+Refer: 716 769 N 1 0 0 1 -18 55 2
+Refer: 704 122 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -21050,8 +21006,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 704 122 N 1 0 0 1 0 0 2
-Refer: 171 711 N 1 0 0 1 0 50 2
+Refer: 723 780 N 1 0 0 1 -18 55 2
+Refer: 704 122 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -21068,8 +21024,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 704 122 N 1 0 0 1 0 0 2
-Refer: 196 729 N 1 0 0 1 3 50 2
+Refer: 720 775 N 1 0 0 1 -25 10 2
+Refer: 704 122 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -21484,6 +21440,186 @@ AnchorPoint: "mark-bottom" 247 0 mark 0
 LayerCount: 2
 Fore
 Refer: 175 184 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Cdotaccent
+Encoding: 266 266 734
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 720 775 N 1 0 0 1 5 210 2
+Refer: 16 67 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: cdotaccent
+Encoding: 267 267 735
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 720 775 N 1 0 0 1 -25 10 2
+Refer: 168 99 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ebreve
+Encoding: 276 276 736
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 12 255 2
+Refer: 27 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ebreve
+Encoding: 277 277 737
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 -18 55 2
+Refer: 199 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Gbreve
+Encoding: 286 286 738
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 12 255 2
+Refer: 43 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gbreve
+Encoding: 287 287 739
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 -18 55 2
+Refer: 238 103 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Gdotaccent
+Encoding: 288 288 740
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 720 775 N 1 0 0 1 5 210 2
+Refer: 43 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gdotaccent
+Encoding: 289 289 741
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 720 775 N 1 0 0 1 -25 10 2
+Refer: 238 103 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gcommaaccent
+Encoding: 291 291 742
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 731 786 N 1 0 0 1 54.1349 158 2
+Refer: 238 103 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Itilde
+Encoding: 296 296 743
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 718 771 N 1 0 0 1 12 255 2
+Refer: 48 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: itilde
+Encoding: 297 297 744
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 718 771 N 1 0 0 1 -18 55 2
+Refer: 198 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ibreve
+Encoding: 300 300 745
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 12 255 2
+Refer: 48 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ibreve
+Encoding: 301 301 746
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 -18 55 2
+Refer: 198 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Idotaccent
+Encoding: 304 304 747
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 720 775 N 1 0 0 1 5 210 2
+Refer: 48 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Obreve
+Encoding: 334 334 748
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 12 255 2
+Refer: 74 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: obreve
+Encoding: 335 335 749
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 719 774 N 1 0 0 1 -18 55 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Utilde
+Encoding: 360 360 750
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 718 771 N 1 0 0 1 12 255 2
+Refer: 106 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: utilde
+Encoding: 361 361 751
+Width: 575
+Flags: H
+LayerCount: 2
+Fore
+Refer: 718 771 N 1 0 0 1 -18 55 2
+Refer: 395 117 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
