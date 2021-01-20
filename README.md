@@ -28,6 +28,7 @@ my preferences:
     Mononoki-Font.
   + The **fix** was: Add zero width glyph COMBINING DIARESIS (Nr. 776) with 
     diaresis in negative space.
+  + Setting all the combining characters to "mark" and having them in the regular (positive) space also seemed to work
 - [x] Reduce bold italic "r" stem width to equal all other letters stem widths
 - [x] TTF autohinted bold italic "o" is too high (turned out to be an exclusive 
       Java/Intellij Idea issue; probably not related to TTF autohinted)
