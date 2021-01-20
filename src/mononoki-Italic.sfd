@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1611104113
+ModificationTime: 1611186594
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1170 18 13
+WinInfo: 7686 18 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -66,7 +66,7 @@ Grid
  1300 349 l 1049
 EndSplineSet
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 846
+BeginChars: 65591 847
 
 StartChar: A
 Encoding: 65 65 0
@@ -2625,9 +2625,9 @@ EndSplineSet
 Fore
 SplineSet
 531 652 m 258
- 517 625 l 258
- 510 610 498 605 484 611 c 256
- 451 624 415 634 377 634 c 259
+ 517 625 l 262
+ 510 610 498 605 484 611 c 260
+ 451 624 415 634 377 634 c 263
  294 634 210 586 210 511 c 259
  210 344.807340716 507 442 507 220 c 259
  507 78 363 -10 209 -10 c 259
@@ -2910,16 +2910,16 @@ Fore
 SplineSet
 406 213 m 258
  479 675 l 258
- 482 692 492 700 508 700 c 258
- 543 700 l 258
+ 482 692 492 700 508 700 c 262
+ 543 700 l 262
  560 700 567 691 564 675 c 258
  491 213 l 258
  465 46 377 -10 259 -10 c 259
  157 -10 67 32 67 152 c 259
  67 171 69 191 72 213 c 258
  145 675 l 258
- 148 692 158 700 174 700 c 258
- 209 700 l 258
+ 148 692 158 700 174 700 c 262
+ 209 700 l 262
  226 700 233 691 230 675 c 258
  157 213 l 258
  154 192 152 174 152 159 c 259
@@ -22356,6 +22356,39 @@ LayerCount: 2
 Fore
 Refer: 714 776 N 1 0 0 1 2 10 2
 Refer: 478 1099 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1E9E
+Encoding: 7838 7838 846
+Width: 531
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+188 479 m 258
+ 116 25 l 258
+ 113 9 104 0 89 0 c 258
+ 56 0 l 258
+ 41 0 34 9 37 25 c 258
+ 109 479 l 258
+ 131 616 208 710 325 710 c 259
+ 406.024414062 710 457 676 482 651 c 0
+ 486 647 489 639 488 632 c 2
+ 485 613 l 2
+ 483 603 474.856445312 595.258789062 466 590 c 0
+ 444.50390625 577.236328125 369 522.731445312 369 469 c 259
+ 369 376 469 349.00390625 469 214 c 259
+ 469 76.314453125 333 1 207 1 c 259
+ 191 1 184 9 187 26 c 258
+ 191 52 l 258
+ 194 68 203 78 218 78 c 259
+ 316 78 389 134.247070312 389 201 c 259
+ 389 305 290 323.939453125 290 456 c 259
+ 290 558.189453125 395 619 395 619 c 1
+ 386 626 360.009765625 634 315 634 c 259
+ 253 634 202 566 188 479 c 258
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
