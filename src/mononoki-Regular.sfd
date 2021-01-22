@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1611244435
+ModificationTime: 1611278597
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 44 22 15
+WinInfo: 75 15 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -103,9 +103,9 @@ SplineSet
  271 634 253 625 249 607 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:44:34 +0000
+V2016-06-09 18:44:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -162,9 +162,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -213,9 +213,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -231,9 +231,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:43:47 +0000
+V2016-06-09 18:43:47 +0000\\u000d
 p2
 s."
 EndChar
@@ -249,9 +249,9 @@ Fore
 Refer: 719 774 N 1 0 0 1 1 255 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -267,9 +267,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -285,9 +285,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -303,9 +303,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 255 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -321,9 +321,9 @@ LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 20:33:54 +0000
+V2015-12-22 20:33:54 +0000\\u000d
 p2
 s."
 EndChar
@@ -339,9 +339,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 210 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -357,9 +357,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 227 -20 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:39:42 +0000
+V2015-12-22 14:39:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -375,9 +375,9 @@ Fore
 Refer: 721 778 N 1 0 0 1 1 255 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:35:41 +0000
+V2016-05-30 08:35:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -393,9 +393,9 @@ Fore
 Refer: 718 771 N 1 0 0 1 1 255 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -438,9 +438,9 @@ SplineSet
  187 77 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -509,9 +509,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -527,9 +527,9 @@ LayerCount: 2
 Fore
 Refer: 13 66 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -615,9 +615,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -633,9 +633,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:35:19 +0000
+V2016-05-30 08:35:19 +0000\\u000d
 p2
 s."
 EndChar
@@ -651,9 +651,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:35:19 +0000
+V2016-05-30 08:35:19 +0000\\u000d
 p2
 s."
 EndChar
@@ -669,9 +669,9 @@ Fore
 Refer: 733 807 N 1 0 0 1 4 0 2
 Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-03-01 15:52:32 +0000
+V2015-03-01 15:52:32 +0000\\u000d
 p2
 s."
 EndChar
@@ -687,9 +687,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 16 67 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:35:19 +0000
+V2016-05-30 08:35:19 +0000\\u000d
 p2
 s."
 EndChar
@@ -705,9 +705,9 @@ LayerCount: 2
 Fore
 Refer: 123 88 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -742,9 +742,9 @@ SplineSet
  360 77 432 147 432 330 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:46:00 +0000
+V2016-06-09 18:46:00 +0000\\u000d
 p2
 s."
 EndChar
@@ -807,9 +807,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -825,9 +825,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 23 68 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:40:06 +0000
+V2015-12-22 14:40:06 +0000\\u000d
 p2
 s."
 EndChar
@@ -843,9 +843,9 @@ Fore
 Refer: 23 68 N 1 0 0 1 0 0 2
 Refer: 281 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:40:07 +0000
+V2015-12-22 14:40:07 +0000\\u000d
 p2
 s."
 EndChar
@@ -885,9 +885,9 @@ SplineSet
  170 77 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -955,9 +955,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -973,9 +973,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:12 +0000
+V2015-12-22 15:51:12 +0000\\u000d
 p2
 s."
 EndChar
@@ -991,9 +991,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:13 +0000
+V2015-12-22 15:51:13 +0000\\u000d
 p2
 s."
 EndChar
@@ -1009,9 +1009,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:14 +0000
+V2015-12-22 15:51:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -1027,9 +1027,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:14 +0000
+V2015-12-22 15:51:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -1045,9 +1045,9 @@ Fore
 Refer: 720 775 N 1 0 0 1 1 210 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:14 +0000
+V2015-12-22 15:51:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -1063,9 +1063,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 255 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:14 +0000
+V2015-12-22 15:51:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -1081,9 +1081,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 210 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:14 +0000
+V2015-12-22 15:51:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -1099,9 +1099,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 183 -20 2
 Refer: 27 69 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 15:51:15 +0000
+V2015-12-22 15:51:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -1117,9 +1117,9 @@ LayerCount: 2
 Fore
 Refer: 27 69 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -1135,9 +1135,9 @@ LayerCount: 2
 Fore
 Refer: 46 72 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -1183,9 +1183,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -1237,9 +1237,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:04:06 +0000
+V2015-12-22 14:04:06 +0000\\u000d
 p2
 s."
 EndChar
@@ -1275,9 +1275,9 @@ SplineSet
  85 691 94 700 110 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -1348,9 +1348,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -1416,9 +1416,9 @@ SplineSet
  70 692 79 700 95 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:37 +0000
+V2015-12-22 16:32:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -1434,9 +1434,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 43 71 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:37:19 +0000
+V2016-05-30 08:37:19 +0000\\u000d
 p2
 s."
 EndChar
@@ -1475,9 +1475,9 @@ SplineSet
  422 691 431 700 447 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -1493,9 +1493,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 46 72 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:38:43 +0000
+V2016-05-30 08:38:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -1535,9 +1535,9 @@ SplineSet
  95 691 104 700 120 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -1589,9 +1589,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -1607,9 +1607,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -1625,9 +1625,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -1643,9 +1643,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -1661,9 +1661,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 255 2
 Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -1679,9 +1679,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 210 2
 Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -1697,9 +1697,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 156 -20 2
 Refer: 48 73 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:39:37 +0000
+V2016-05-30 08:39:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -1715,9 +1715,9 @@ LayerCount: 2
 Fore
 Refer: 48 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -1763,9 +1763,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 57 74 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -1817,9 +1817,9 @@ LayerCount: 2
 Fore
 Refer: 59 75 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -1851,9 +1851,9 @@ SplineSet
  170 77 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -1869,9 +1869,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 61 76 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:28 +0000
+V2015-12-22 16:24:28 +0000\\u000d
 p2
 s."
 EndChar
@@ -1904,9 +1904,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:18:02 +0000
+V2015-12-22 12:18:02 +0000\\u000d
 p2
 s."
 EndChar
@@ -1922,9 +1922,9 @@ Fore
 Refer: 731 789 N 1 0 0 1 200 0 2
 Refer: 61 76 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:29 +0000
+V2015-12-22 16:24:29 +0000\\u000d
 p2
 s."
 EndChar
@@ -1940,9 +1940,9 @@ Fore
 Refer: 325 183 N 1 0 0 1 83 90 2
 Refer: 61 76 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:30 +0000
+V2015-12-22 16:24:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -1982,9 +1982,9 @@ SplineSet
  170 77 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -2038,9 +2038,9 @@ LayerCount: 2
 Fore
 Refer: 67 77 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2089,9 +2089,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 69 78 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:35 +0000
+V2015-12-22 16:24:35 +0000\\u000d
 p2
 s."
 EndChar
@@ -2107,9 +2107,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 69 78 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:36 +0000
+V2015-12-22 16:24:36 +0000\\u000d
 p2
 s."
 EndChar
@@ -2125,9 +2125,9 @@ Fore
 Refer: 718 771 N 1 0 0 1 1 255 2
 Refer: 69 78 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:36 +0000
+V2015-12-22 16:24:36 +0000\\u000d
 p2
 s."
 EndChar
@@ -2143,9 +2143,9 @@ LayerCount: 2
 Fore
 Refer: 69 78 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2179,9 +2179,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -2224,9 +2224,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -2242,9 +2242,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:39 +0000
+V2015-12-22 16:24:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -2260,9 +2260,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:40 +0000
+V2015-12-22 16:24:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -2278,9 +2278,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:40 +0000
+V2015-12-22 16:24:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -2296,9 +2296,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 255 2
 Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:40 +0000
+V2015-12-22 16:24:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -2314,9 +2314,9 @@ Fore
 Refer: 723 779 N 1 0 0 1 1 255 2
 Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:40 +0000
+V2015-12-22 16:24:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -2332,9 +2332,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 210 2
 Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:41 +0000
+V2015-12-22 16:24:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -2350,9 +2350,9 @@ LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2399,9 +2399,9 @@ SplineSet
  353 66 405 131 405 243 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -2417,9 +2417,9 @@ Fore
 Refer: 718 771 N 1 0 0 1 1 255 2
 Refer: 74 79 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:24:41 +0000
+V2015-12-22 16:24:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -2454,9 +2454,9 @@ SplineSet
  170 337 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -2511,9 +2511,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:22:42 +0000
+V2015-12-22 12:22:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -2545,9 +2545,9 @@ SplineSet
  85 692 94 700 110 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:20:26 +0000
+V2015-12-22 12:20:26 +0000\\u000d
 p2
 s."
 EndChar
@@ -2589,9 +2589,9 @@ SplineSet
  435 691 444 700 460 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:24:48 +0000
+V2015-12-22 12:24:48 +0000\\u000d
 p2
 s."
 EndChar
@@ -2666,9 +2666,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 90 82 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:28:55 +0000
+V2015-12-22 16:28:55 +0000\\u000d
 p2
 s."
 EndChar
@@ -2684,9 +2684,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 90 82 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:28:56 +0000
+V2015-12-22 16:28:56 +0000\\u000d
 p2
 s."
 EndChar
@@ -2702,9 +2702,9 @@ LayerCount: 2
 Fore
 Refer: 85 80 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2773,9 +2773,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-21 21:19:15 +0000
+V2015-12-21 21:19:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2791,9 +2791,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-21 21:19:15 +0000
+V2015-12-21 21:19:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2809,9 +2809,9 @@ Fore
 Refer: 733 807 N 1 0 0 1 4 0 2
 Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-21 21:19:15 +0000
+V2015-12-21 21:19:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2827,9 +2827,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 94 83 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:10:45 +0000
+V2016-05-30 08:10:45 +0000\\u000d
 p2
 s."
 EndChar
@@ -2845,9 +2845,9 @@ LayerCount: 2
 Fore
 Refer: 374 8721 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:32:22 +0000
+V2016-05-30 08:32:22 +0000\\u000d
 p2
 s."
 EndChar
@@ -2880,9 +2880,9 @@ SplineSet
  545 700 554 691 554 675 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -2898,9 +2898,9 @@ LayerCount: 2
 Fore
 Refer: 100 84 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -2916,9 +2916,9 @@ Fore
 Refer: 100 84 N 1 0 0 1 0 0 2
 Refer: 281 175 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:05 +0000
+V2015-12-22 16:29:05 +0000\\u000d
 p2
 s."
 EndChar
@@ -2934,9 +2934,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 100 84 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:06 +0000
+V2015-12-22 16:29:06 +0000\\u000d
 p2
 s."
 EndChar
@@ -2963,9 +2963,9 @@ SplineSet
 EndSplineSet
 Refer: 74 79 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:32:14 +0000
+V2016-05-30 08:32:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -3002,9 +3002,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -3051,9 +3051,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3069,9 +3069,9 @@ Fore
 Refer: 719 774 N 1 0 0 1 1 255 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:31:51 +0000
+V2016-05-30 08:31:51 +0000\\u000d
 p2
 s."
 EndChar
@@ -3087,9 +3087,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3105,9 +3105,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3123,9 +3123,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 255 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3141,9 +3141,9 @@ Fore
 Refer: 723 779 N 1 0 0 1 1 255 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3159,9 +3159,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 210 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3177,9 +3177,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 55 -15 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3195,9 +3195,9 @@ LayerCount: 2
 Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:24:15 +0000
+V2016-05-23 16:24:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -3213,9 +3213,9 @@ Fore
 Refer: 721 778 N 1 0 0 1 1 255 2
 Refer: 106 85 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:15:42 +0000
+V2016-05-30 08:15:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -3300,9 +3300,9 @@ Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:16 +0000
+V2015-12-22 16:29:16 +0000\\u000d
 p2
 s."
 EndChar
@@ -3318,9 +3318,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 118 87 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:17 +0000
+V2015-12-22 16:29:17 +0000\\u000d
 p2
 s."
 EndChar
@@ -3336,9 +3336,9 @@ Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
 Refer: 191 168 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:17 +0000
+V2015-12-22 16:29:17 +0000\\u000d
 p2
 s."
 EndChar
@@ -3354,9 +3354,9 @@ Fore
 Refer: 118 87 N 1 0 0 1 0 0 2
 Refer: 242 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:17 +0000
+V2015-12-22 16:29:17 +0000\\u000d
 p2
 s."
 EndChar
@@ -3443,9 +3443,9 @@ SplineSet
  59 68 68 77 84 77 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:18:54 +0000
+V2015-12-22 12:18:54 +0000\\u000d
 p2
 s."
 EndChar
@@ -3495,9 +3495,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 125 89 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:25 +0000
+V2015-12-22 16:29:25 +0000\\u000d
 p2
 s."
 EndChar
@@ -3513,9 +3513,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 125 89 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:27 +0000
+V2015-12-22 16:29:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -3531,9 +3531,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 125 89 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:27 +0000
+V2015-12-22 16:29:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -3549,9 +3549,9 @@ Fore
 Refer: 125 89 N 1 0 0 1 0 0 2
 Refer: 242 96 N 1 0 0 1 0 200 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:27 +0000
+V2015-12-22 16:29:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -3602,9 +3602,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 130 90 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:28 +0000
+V2015-12-22 16:29:28 +0000\\u000d
 p2
 s."
 EndChar
@@ -3620,9 +3620,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 255 2
 Refer: 130 90 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:30 +0000
+V2015-12-22 16:29:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -3638,9 +3638,9 @@ Fore
 Refer: 720 775 N 1 0 0 1 1 210 2
 Refer: 130 90 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:30 +0000
+V2015-12-22 16:29:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -3656,9 +3656,9 @@ LayerCount: 2
 Fore
 Refer: 130 90 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:15:37 +0000
+V2015-12-22 12:15:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -3752,9 +3752,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -3770,9 +3770,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 12:16:15 +0000
+V2016-05-22 12:16:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -3788,9 +3788,9 @@ Fore
 Refer: 719 774 N 1 0 0 1 1 55 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:35 +0000
+V2015-12-22 16:29:35 +0000\\u000d
 p2
 s."
 EndChar
@@ -3806,9 +3806,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 12:16:15 +0000
+V2016-05-22 12:16:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -3836,9 +3836,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 10 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:36 +0000
+V2015-12-22 16:29:36 +0000\\u000d
 p2
 s."
 EndChar
@@ -3882,9 +3882,9 @@ SplineSet
  150 98 188 73 240 67 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -3900,9 +3900,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 55 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 12:16:15 +0000
+V2016-05-22 12:16:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -3940,9 +3940,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:26:38 +0000
+V2015-12-22 12:26:38 +0000\\u000d
 p2
 s."
 EndChar
@@ -3958,9 +3958,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 10 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 12:16:15 +0000
+V2016-05-22 12:16:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -4021,9 +4021,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 145 -15 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:36 +0000
+V2015-12-22 16:29:36 +0000\\u000d
 p2
 s."
 EndChar
@@ -4039,9 +4039,9 @@ Fore
 Refer: 151 126 N 1 0 0 1 0 150 2
 Refer: 151 126 N 1 0 0 1 0 -150 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:06:11 +0000
+V2015-12-22 14:06:11 +0000\\u000d
 p2
 s."
 EndChar
@@ -4057,9 +4057,9 @@ Fore
 Refer: 721 778 N 1 0 0 1 1 55 2
 Refer: 135 97 S 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 12:16:15 +0000
+V2016-05-22 12:16:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -4090,9 +4090,9 @@ SplineSet
  18 474 17 487 29 499 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:26:04 +0000
+V2015-12-22 14:26:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -4204,9 +4204,9 @@ Fore
 Refer: 718 771 N 1 0 0 1 1 55 2
 Refer: 135 97 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:37 +0000
+V2015-12-22 16:29:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -4299,9 +4299,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -4326,9 +4326,9 @@ SplineSet
  71 662 l 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:37 +0000
+V2015-12-22 16:32:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -4353,9 +4353,9 @@ SplineSet
  245 691 254 700 270 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:56 +0000
+V2015-12-22 16:32:56 +0000\\u000d
 p2
 s."
 EndChar
@@ -4398,9 +4398,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:27:37 +0000
+V2015-12-22 12:27:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -4422,9 +4422,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -4479,9 +4479,9 @@ LayerCount: 2
 Fore
 Refer: 161 123 N -1 0 0 1 576 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-03 09:15:51 +0000
+V2016-06-03 09:15:51 +0000\\u000d
 p2
 s."
 EndChar
@@ -4512,9 +4512,9 @@ SplineSet
  235 -102 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:51:23 +0000
+V2015-12-22 13:51:23 +0000\\u000d
 p2
 s."
 EndChar
@@ -4529,9 +4529,9 @@ LayerCount: 2
 Fore
 Refer: 163 91 S -1 0 0 1 574 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:51:43 +0000
+V2015-12-22 13:51:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -4559,9 +4559,9 @@ SplineSet
  398 692 407 699 423 696 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:39 +0000
+V2015-12-22 16:32:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -4595,9 +4595,9 @@ SplineSet
  245 741 254 750 270 750 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:22:08 +0000
+V2015-12-22 14:22:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -4620,9 +4620,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:38 +0000
+V2015-12-22 16:32:38 +0000\\u000d
 p2
 s."
 EndChar
@@ -4703,9 +4703,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -4721,9 +4721,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 12:16:15 +0000
+V2016-05-22 12:16:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -4755,9 +4755,9 @@ SplineSet
  106 639 103 652 113 665 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-18 20:16:32 +0000
+V2016-05-18 20:16:32 +0000\\u000d
 p2
 s."
 EndChar
@@ -4773,9 +4773,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 55 2
 Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:48 +0000
+V2015-12-22 16:29:48 +0000\\u000d
 p2
 s."
 EndChar
@@ -4791,9 +4791,9 @@ Fore
 Refer: 733 807 N 1 0 0 1 4 0 2
 Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:48 +0000
+V2015-12-22 16:29:48 +0000\\u000d
 p2
 s."
 EndChar
@@ -4809,9 +4809,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 168 99 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:10:30 +0000
+V2016-05-30 08:10:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -4848,9 +4848,9 @@ SplineSet
  314 12 321 1 313 -17 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:40 +0000
+V2015-12-22 16:32:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -4881,9 +4881,9 @@ SplineSet
 EndSplineSet
 Refer: 168 99 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:01:47 +0000
+V2015-12-22 14:01:47 +0000\\u000d
 p2
 s."
 EndChar
@@ -4930,9 +4930,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:54:05 +0000
+V2015-12-22 12:54:05 +0000\\u000d
 p2
 s."
 EndChar
@@ -4964,9 +4964,9 @@ SplineSet
  152 538 140 540 129 552 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:40 +0000
+V2015-12-22 16:32:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -5000,9 +5000,9 @@ SplineSet
  212 131 221 140 237 140 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 20:53:35 +0000
+V2015-12-22 20:53:35 +0000\\u000d
 p2
 s."
 EndChar
@@ -5031,9 +5031,9 @@ SplineSet
  362 -2 l 273
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 20:53:49 +0000
+V2015-12-22 20:53:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -5093,9 +5093,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:24:21 +0000
+V2015-12-22 14:24:21 +0000\\u000d
 p2
 s."
 EndChar
@@ -5147,9 +5147,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:02:18 +0000
+V2015-12-22 14:02:18 +0000\\u000d
 p2
 s."
 EndChar
@@ -5246,9 +5246,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -5286,9 +5286,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:26:24 +0000
+V2015-12-22 14:26:24 +0000\\u000d
 p2
 s."
 EndChar
@@ -5338,9 +5338,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:32:11 +0000
+V2015-12-22 14:32:11 +0000\\u000d
 p2
 s."
 EndChar
@@ -5356,9 +5356,9 @@ Fore
 Refer: 731 789 N 1 0 0 1 300 0 2
 Refer: 183 100 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -5374,9 +5374,9 @@ Fore
 Refer: 183 100 N 1 0 0 1 0 0 2
 Refer: 281 175 N 1 0 0 1 121 20 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:33:40 +0000
+V2015-12-22 14:33:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -5404,9 +5404,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:37:06 +0000
+V2016-05-30 08:37:06 +0000\\u000d
 p2
 s."
 EndChar
@@ -5445,9 +5445,9 @@ SplineSet
  502 632 493 623 477 623 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:32:37 +0000
+V2016-05-30 08:32:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -5482,9 +5482,9 @@ SplineSet
  425 700 434 691 434 675 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:41 +0000
+V2015-12-22 16:32:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -5527,9 +5527,9 @@ SplineSet
  94 272 85 281 85 297 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:06:58 +0000
+V2015-12-22 14:06:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -5625,9 +5625,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -5649,9 +5649,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -5752,9 +5752,9 @@ SplineSet
  319 700 327 691 327 675 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:41 +0000
+V2015-12-22 16:32:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -5771,9 +5771,9 @@ LayerCount: 2
 Fore
 Refer: 196 729 N 1 0 0 1 0 -775 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:33:09 +0000
+V2015-12-22 14:33:09 +0000\\u000d
 p2
 s."
 EndChar
@@ -5861,9 +5861,9 @@ SplineSet
  415 314 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -5928,9 +5928,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -5946,9 +5946,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:57 +0000
+V2015-12-22 16:29:57 +0000\\u000d
 p2
 s."
 EndChar
@@ -5964,9 +5964,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 55 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:58 +0000
+V2015-12-22 16:29:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -5982,9 +5982,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:58 +0000
+V2015-12-22 16:29:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -6000,9 +6000,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 10 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:58 +0000
+V2015-12-22 16:29:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -6018,9 +6018,9 @@ Fore
 Refer: 720 775 N 1 0 0 1 1 10 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:58 +0000
+V2015-12-22 16:29:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -6036,9 +6036,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 55 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:58 +0000
+V2015-12-22 16:29:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -6133,9 +6133,9 @@ SplineSet
 EndSplineSet
 Refer: 207 56 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:40:53 +0000
+V2016-02-10 13:40:53 +0000\\u000d
 p2
 s."
 EndChar
@@ -6164,9 +6164,9 @@ Refer: 324 46 N 0.683 0 0 0.683 262 1 2
 Refer: 324 46 N 0.683 0 0 0.683 -80 1 2
 Refer: 324 46 N 0.683 0 0 0.683 91 1 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:42:15 +0000
+V2015-12-22 13:42:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -6182,9 +6182,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 10 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:59 +0000
+V2015-12-22 16:29:59 +0000\\u000d
 p2
 s."
 EndChar
@@ -6210,9 +6210,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 17:00:36 +0000
+V2016-05-22 17:00:36 +0000\\u000d
 p2
 s."
 EndChar
@@ -6226,39 +6226,38 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-559 481 m 258
- 475 397 l 257
- 497 362 510 320 510 275 c 256
- 510 149 412 50 288 50 c 256
- 242 50 200 63 165 87 c 257
- 85 7 l 258
- 74 -5 62 -5 50 7 c 258
- 22 35 l 258
- 11 47 11 59 22 70 c 258
- 102 150 l 257
- 78 185 65 228 65 275 c 256
- 65 401 163 500 288 500 c 256
- 335 500 378 486 413 461 c 257
- 496 544 l 258
- 508 556 520 556 531 544 c 258
- 559 516 l 258
- 571 505 571 493 559 481 c 258
-164 212 m 257
- 351 399 l 257
- 332 409 311 415 288 415 c 256
- 211 415 149 353 149 275 c 256
- 149 252 154 231 164 212 c 257
-413 335 m 257
- 227 149 l 257
- 245 140 266 136 288 136 c 256
- 365 136 426 197 426 275 c 256
- 426 297 421 317 413 335 c 257
+559 518 m 258
+ 475 434 l 257
+ 497 399 510 357 510 312 c 259
+ 510 186 412 87 288 87 c 259
+ 242 87 200 100 165 124 c 257
+ 85 44 l 258
+ 74 32 62 32 50 44 c 258
+ 22 72 l 258
+ 11 84 11 96 22 107 c 258
+ 102 187 l 257
+ 78 222 65 265 65 312 c 259
+ 65 438 163 537 288 537 c 259
+ 335 537 378 523 413 498 c 257
+ 496 581 l 258
+ 508 593 520 593 531 581 c 258
+ 559 553 l 258
+ 571 542 571 530 559 518 c 258
+164 249 m 257
+ 351 436 l 257
+ 332 446 311 452 288 452 c 259
+ 211 452 149 390 149 312 c 259
+ 149 289 154 268 164 249 c 257
+413 372 m 257
+ 227 186 l 257
+ 245 177 266 173 288 173 c 259
+ 365 173 426 234 426 312 c 259
+ 426 334 421 354 413 372 c 257
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:07:55 +0000
+V2015-12-22 14:07:55 +0000\\u000d
 p2
 s."
 EndChar
@@ -6284,9 +6283,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 12:19:24 +0000
+V2016-05-22 12:19:24 +0000\\u000d
 p2
 s."
 EndChar
@@ -6302,9 +6301,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 164 5 2
 Refer: 199 101 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:59 +0000
+V2015-12-22 16:29:59 +0000\\u000d
 p2
 s."
 EndChar
@@ -6343,9 +6342,9 @@ SplineSet
  477 74 487 68 491 53 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:32:45 +0000
+V2016-05-30 08:32:45 +0000\\u000d
 p2
 s."
 EndChar
@@ -6389,39 +6388,38 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-480 60 m 258
- 95 60 l 258
- 79 60 70 69 70 85 c 258
- 70 112 l 258
- 70 128 79 137 95 137 c 258
- 480 137 l 258
- 497 137 505 128 505 112 c 258
- 505 85 l 258
- 505 69 497 60 480 60 c 258
-480 212 m 258
- 95 212 l 258
- 79 212 70 221 70 237 c 258
- 70 264 l 258
- 70 280 79 289 95 289 c 258
- 480 289 l 258
- 497 289 505 280 505 264 c 258
- 505 237 l 258
- 505 221 497 212 480 212 c 258
-480 363 m 258
- 95 363 l 258
- 79 363 70 372 70 388 c 258
- 70 415 l 258
- 70 431 79 440 95 440 c 258
- 480 440 l 258
- 497 440 505 431 505 415 c 258
- 505 388 l 258
- 505 372 497 363 480 363 c 258
+480 120 m 258
+ 95 120 l 258
+ 79 120 70 129 70 145 c 258
+ 70 172 l 258
+ 70 188 79 197 95 197 c 258
+ 480 197 l 258
+ 497 197 505 188 505 172 c 258
+ 505 145 l 258
+ 505 129 497 120 480 120 c 258
+480 272 m 258
+ 95 272 l 258
+ 79 272 70 281 70 297 c 258
+ 70 324 l 258
+ 70 340 79 349 95 349 c 258
+ 480 349 l 258
+ 497 349 505 340 505 324 c 258
+ 505 297 l 258
+ 505 281 497 272 480 272 c 258
+480 423 m 258
+ 95 423 l 258
+ 79 423 70 432 70 448 c 258
+ 70 475 l 258
+ 70 491 79 500 95 500 c 258
+ 480 500 l 258
+ 497 500 505 491 505 475 c 258
+ 505 448 l 258
+ 505 432 497 423 480 423 c 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:08:32 +0000
+V2015-12-22 14:08:32 +0000\\u000d
 p2
 s."
 EndChar
@@ -6454,9 +6452,9 @@ SplineSet
  94 0 85 9 85 25 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:32:52 +0000
+V2016-05-30 08:32:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -6501,9 +6499,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -6537,9 +6535,9 @@ SplineSet
  321 97 330 88 330 72 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-14 11:57:10 +0000
+V2016-02-14 11:57:10 +0000\\u000d
 p2
 s."
 EndChar
@@ -6555,9 +6553,9 @@ Fore
 Refer: 222 33 N 1 0 0 1 -100 0 2
 Refer: 222 33 N 1 0 0 1 100 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:42:59 +0000
+V2015-12-22 13:42:59 +0000\\u000d
 p2
 s."
 EndChar
@@ -6572,9 +6570,9 @@ LayerCount: 2
 Fore
 Refer: 222 33 N 1 0 0 -1 0 500 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:43:43 +0000
+V2015-12-22 13:43:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -6691,9 +6689,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -6798,9 +6796,9 @@ SplineSet
 EndSplineSet
 Refer: 227 53 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:20:16 +0000
+V2016-02-10 13:20:16 +0000\\u000d
 p2
 s."
 EndChar
@@ -6830,17 +6828,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vfive.numr
+Vfive.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vfive.numr
+Vfive.numr\\u000d
 p6
 s."
 EndChar
@@ -6882,9 +6880,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:14:05 +0000
+V2015-12-22 12:14:05 +0000\\u000d
 p2
 s."
 EndChar
@@ -6988,9 +6986,9 @@ SplineSet
 EndSplineSet
 Refer: 233 52 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:19:53 +0000
+V2016-02-10 13:19:53 +0000\\u000d
 p2
 s."
 EndChar
@@ -7018,9 +7016,9 @@ Fore
 Refer: 525 8725 N 1 0 0 1 -250 15 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:19:11 +0000
+V2016-05-30 09:19:11 +0000\\u000d
 p2
 s."
 EndChar
@@ -7102,9 +7100,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:32:29 +0000
+V2016-05-30 08:32:29 +0000\\u000d
 p2
 s."
 EndChar
@@ -7120,9 +7118,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 238 103 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:10:30 +0000
+V2016-05-30 08:10:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -7181,9 +7179,9 @@ SplineSet
  406 760 465 694 465 601 c 259
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -7210,9 +7208,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:42 +0000
+V2015-12-22 16:32:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -7276,9 +7274,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:10:07 +0000
+V2015-12-22 14:10:07 +0000\\u000d
 p2
 s."
 EndChar
@@ -7320,9 +7318,9 @@ SplineSet
  350 311 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:55:11 +0000
+V2015-12-22 13:55:11 +0000\\u000d
 p2
 s."
 EndChar
@@ -7337,9 +7335,9 @@ LayerCount: 2
 Fore
 Refer: 245 171 N -1 0 0 1 575 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:56:35 +0000
+V2015-12-22 13:56:35 +0000\\u000d
 p2
 s."
 EndChar
@@ -7349,29 +7347,28 @@ Encoding: 8249 8249 247
 GlifName: guilsinglleft
 Width: 575
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-232 250 m 257
- 419 63 l 258
- 431 52 431 39 418 28 c 258
- 395 7 l 258
- 383 -3 371 -3 360 8 c 258
- 183 185 l 258
- 164 204 148 223 148 250 c 256
- 148 277 164 297 183 316 c 258
- 360 492 l 258
- 371 504 383 504 395 493 c 258
- 418 473 l 258
- 431 462 431 449 419 437 c 258
- 232 250 l 257
+232 311 m 261
+ 419 124 l 262
+ 431 113 431 100 418 89 c 262
+ 395 68 l 262
+ 383 58 371 58 360 69 c 262
+ 183 246 l 262
+ 164 265 148 284 148 311 c 260
+ 148 338 164 358 183 377 c 262
+ 360 553 l 262
+ 371 565 383 565 395 554 c 262
+ 418 534 l 262
+ 431 523 431 510 419 498 c 262
+ 232 311 l 261
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:57:17 +0000
+V2015-12-22 13:57:17 +0000\\u000d
 p2
 s."
 EndChar
@@ -7381,15 +7378,14 @@ Encoding: 8250 8250 248
 GlifName: guilsinglright
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 247 8249 N -1 0 0 1 576 0 2
-Validated: 25
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:57:49 +0000
+V2015-12-22 13:57:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -7426,9 +7422,9 @@ SplineSet
  165 750 174 741 174 725 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -7444,9 +7440,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 255 2
 Refer: 249 104 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:12:04 +0000
+V2016-05-30 08:12:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -7471,9 +7467,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:28:00 +0000
+V2016-06-10 08:28:00 +0000\\u000d
 p2
 s."
 Comment: "+AAoA    heart+AAoA  "
@@ -7509,9 +7505,9 @@ SplineSet
  464 702 476 703 488 691 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:42 +0000
+V2015-12-22 16:32:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -7536,9 +7532,9 @@ SplineSet
  76 272 l 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:53 +0000
+V2015-12-22 16:32:53 +0000\\u000d
 p2
 s."
 EndChar
@@ -7578,9 +7574,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 -19 105 2
 Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 11:47:03 +0000
+V2016-05-23 11:47:03 +0000\\u000d
 p2
 s."
 EndChar
@@ -7596,9 +7592,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 -19 105 2
 Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:39:39 +0000
+V2015-12-22 11:39:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -7614,9 +7610,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 -19 60 2
 Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-01 14:21:44 +0000
+V2016-02-01 14:21:44 +0000\\u000d
 p2
 s."
 EndChar
@@ -7632,9 +7628,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 -19 105 2
 Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-01 14:21:44 +0000
+V2016-02-01 14:21:44 +0000\\u000d
 p2
 s."
 EndChar
@@ -7691,9 +7687,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -7709,9 +7705,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 -19 60 2
 Refer: 198 305 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:40:23 +0000
+V2015-12-22 11:40:23 +0000\\u000d
 p2
 s."
 EndChar
@@ -7725,30 +7721,83 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-156 403 m 256
- 205 403 247 373 282 315 c 257
- 310 364 346 408 409 408 c 256
- 485 408 533 347 533 249 c 256
- 533 159 482 90 413 90 c 256
- 365 90 322 123 284 187 c 257
- 253 123 216 95 161 95 c 256
- 90 95 43 156 43 249 c 256
- 43 341 89 403 156 403 c 256
-  PathStart: -2
-114 249 m 256
- 114 190 130 162 161 162 c 256
- 196 162 227 195 253 262 c 257
- 228 307 191 335 159 335 c 256
- 129 335 114 307 114 249 c 256
-  PathStart: -2
-407 157 m 256
- 443 157 462 187 462 249 c 256
- 462 299 451 341 407 341 c 256
- 370 341 340 310 310 242 c 257
- 344 184 374 157 407 157 c 256
-  PathStart: -2
+156 465 m 259
+ 205 465 247 435 282 377 c 257
+ 310 426 346 470 409 470 c 259
+ 485 470 533 409 533 311 c 259
+ 533 221 482 152 413 152 c 259
+ 365 152 322 185 284 249 c 257
+ 253 185 216 157 161 157 c 259
+ 90 157 43 218 43 311 c 259
+ 43 403 89 465 156 465 c 259
+  Spiro
+    156 465 o
+    202.622 455.094 o
+    244.706 425.553 o
+    282 377 v
+    313.335 422.848 o
+    354.343 456.803 o
+    409 470 o
+    474.871 450.594 o
+    517.771 395.707 o
+    533 311 o
+    517.253 229.848 o
+    474.724 173.182 o
+    413 152 o
+    366.711 162.904 o
+    323.625 195.451 o
+    284 249 v
+    250.592 196.745 o
+    210.4 166.61 o
+    161 157 o
+    98.9043 176.222 o
+    57.7861 229.809 o
+    43 311 o
+    57.3795 391.746 o
+    96.9762 445.556 o
+    0 0 z
+  EndSpiro
+114 311 m 259
+ 114 252 130 224 161 224 c 259
+ 196 224 227 257 253 324 c 257
+ 228 369 191 397 159 397 c 259
+ 129 397 114 369 114 311 c 259
+  Spiro
+    114 311 o
+    119.286 262.261 o
+    135.058 233.425 o
+    161 224 o
+    194.597 235.015 o
+    225.4 268.341 o
+    253 324 v
+    224.661 362.893 o
+    192.004 388.092 o
+    159 397 o
+    134.02 387.611 o
+    118.99 359.036 o
+    0 0 z
+  EndSpiro
+407 219 m 259
+ 443 219 462 249 462 311 c 259
+ 462 361 451 403 407 403 c 259
+ 370 403 340 372 310 304 c 257
+ 344 246 374 219 407 219 c 259
+  Spiro
+    407 219 o
+    437.235 229.054 o
+    455.753 259.633 o
+    462 311 o
+    457.528 357.033 o
+    440.79 390.283 o
+    407 403 o
+    372.107 392.466 o
+    340.228 359.845 o
+    310 304 v
+    342.894 256.223 o
+    374.773 228.13 o
+    0 0 z
+  EndSpiro
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: integral
@@ -7781,9 +7830,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:14:22 +0000
+V2015-12-22 14:14:22 +0000\\u000d
 p2
 s."
 EndChar
@@ -7799,9 +7848,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 160 5 2
 Refer: 254 105 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-01 14:21:44 +0000
+V2016-02-01 14:21:44 +0000\\u000d
 p2
 s."
 EndChar
@@ -7831,9 +7880,9 @@ SplineSet
  420 77 430 72 436 57 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:32:48 +0000
+V2015-12-22 12:32:48 +0000\\u000d
 p2
 s."
 EndChar
@@ -7886,9 +7935,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 7.3192 29.5932 2
 Refer: 408 567 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:12:51 +0000
+V2016-05-30 08:12:51 +0000\\u000d
 p2
 s."
 EndChar
@@ -7966,9 +8015,9 @@ SplineSet
  282 251 291 242 300 233 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:33:21 +0000
+V2015-12-22 12:33:21 +0000\\u000d
 p2
 s."
 EndChar
@@ -8004,9 +8053,9 @@ SplineSet
  470 78 481 73 486 57 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -8022,9 +8071,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 269 108 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -8070,9 +8119,9 @@ Fore
 Refer: 731 789 N 1 0 0 1 200 0 2
 Refer: 269 108 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -8088,9 +8137,9 @@ Fore
 Refer: 325 183 N 1 0 0 1 158 90 2
 Refer: 269 108 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 Decomposition: "l+ALcA"
@@ -8106,9 +8155,9 @@ LayerCount: 2
 Fore
 Refer: 243 62 N -1 0 0 1 575 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 11:58:38 +0000
+V2016-06-09 11:58:38 +0000\\u000d
 p2
 s."
 EndChar
@@ -8124,9 +8173,9 @@ Fore
 Refer: 244 8805 N -1 0 0 1 575 0 2
 Validated: 25
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:15:30 +0000
+V2015-12-22 14:15:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -8148,9 +8197,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -8178,9 +8227,9 @@ SplineSet
  85 405 94 414 110 414 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:15:53 +0000
+V2015-12-22 14:15:53 +0000\\u000d
 p2
 s."
 EndChar
@@ -8224,9 +8273,9 @@ SplineSet
  470 77 480 72 486 57 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -8262,9 +8311,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -8330,9 +8379,9 @@ SplineSet
  153 624 144 633 144 649 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:42 +0000
+V2015-12-22 16:32:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -8347,9 +8396,9 @@ LayerCount: 2
 Fore
 Refer: 253 45 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:16:08 +0000
+V2015-12-22 14:16:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -8410,9 +8459,9 @@ SplineSet
  444 522 458 522 469 511 c 262
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:16:31 +0000
+V2015-12-22 14:16:31 +0000\\u000d
 p2
 s."
 EndChar
@@ -8446,9 +8495,9 @@ SplineSet
  98 0 89 9 89 25 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -8464,9 +8513,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 284 110 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:00:48 +0000
+V2015-12-22 12:00:48 +0000\\u000d
 p2
 s."
 EndChar
@@ -8482,9 +8531,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 55 2
 Refer: 284 110 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:00:57 +0000
+V2015-12-22 12:00:57 +0000\\u000d
 p2
 s."
 EndChar
@@ -8561,9 +8610,9 @@ SplineSet
 EndSplineSet
 Refer: 287 57 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:40:56 +0000
+V2016-02-10 13:40:56 +0000\\u000d
 p2
 s."
 EndChar
@@ -8587,48 +8636,68 @@ Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
+Back
+SplineSet
+503 662 m 262
+ 510 676 505 688 491 695 c 262
+ 464 708 l 262
+ 450 715 438 711 431 697 c 262
+ 79 -25 l 262
+ 72 -39 77 -51 91 -58 c 262
+ 118 -71 l 262
+ 132 -78 144 -74 151 -60 c 262
+ 503 662 l 262
+524 412 m 258
+ 524 396 516 387 499 387 c 258
+ 361 387 l 257
+ 285 234 l 257
+ 499 234 l 258
+ 516 234 524 225 524 209 c 258
+ 524 182 l 258
+ 524 166 516 157 499 157 c 258
+ 246 157 l 257
+ 167 -2 l 258
+ 161 -14 152 -20 138 -20 c 258
+ 96 -20 l 258
+ 77 -20 70 -8 78 9 c 258
+ 152 157 l 257
+ 76 157 l 258
+ 60 157 51 166 51 182 c 258
+ 51 208 l 258
+ 51 225 60 234 76 234 c 258
+ 190 234 l 257
+ 267 387 l 257
+ 76 387 l 258
+ 60 387 51 396 51 412 c 258
+ 51 438 l 258
+ 51 455 60 464 76 464 c 258
+ 305 464 l 257
+ 384 622 l 258
+ 390 634 400 640 414 640 c 258
+ 455 640 l 258
+ 475 640 482 628 473 611 c 258
+ 400 464 l 257
+ 499 464 l 258
+ 516 464 524 455 524 439 c 258
+ 524 412 l 258
+EndSplineSet
 Fore
 SplineSet
-524 352 m 258
- 524 336 516 327 499 327 c 258
- 361 327 l 257
- 285 174 l 257
- 499 174 l 258
- 516 174 524 165 524 149 c 258
- 524 122 l 258
- 524 106 516 97 499 97 c 258
- 246 97 l 257
- 167 -62 l 258
- 161 -74 152 -80 138 -80 c 258
- 96 -80 l 258
- 77 -80 70 -68 78 -51 c 258
- 152 97 l 257
- 76 97 l 258
- 60 97 51 106 51 122 c 258
- 51 148 l 258
- 51 165 60 174 76 174 c 258
- 190 174 l 257
- 267 327 l 257
- 76 327 l 258
- 60 327 51 336 51 352 c 258
- 51 378 l 258
- 51 395 60 404 76 404 c 258
- 305 404 l 257
- 384 562 l 258
- 390 574 400 580 414 580 c 258
- 455 580 l 258
- 475 580 482 568 473 551 c 258
- 400 404 l 257
- 499 404 l 258
- 516 404 524 395 524 379 c 258
- 524 352 l 258
-  PathStart: -2
+470 594 m 258
+ 176 -10 l 258
+ 169 -24 157 -28 143 -21 c 258
+ 116 -8 l 258
+ 102 -1 97 11 104 25 c 258
+ 398 629 l 258
+ 405 643 417 647 431 640 c 258
+ 458 627 l 258
+ 472 620 477 608 470 594 c 258
 EndSplineSet
-Validated: 33
+Refer: 218 61 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:16:56 +0000
+V2015-12-22 14:16:56 +0000\\u000d
 p2
 s."
 EndChar
@@ -8644,9 +8713,9 @@ Fore
 Refer: 718 771 N 1 0 0 1 1 55 2
 Refer: 284 110 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:01:04 +0000
+V2015-12-22 12:01:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -8662,9 +8731,9 @@ LayerCount: 2
 Fore
 Refer: 690 118 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:42:54 +0000
+V2015-12-22 12:42:54 +0000\\u000d
 p2
 s."
 EndChar
@@ -8730,9 +8799,9 @@ SplineSet
  228 424 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-23 09:14:39 +0000
+V2015-12-23 09:14:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -8760,9 +8829,9 @@ SplineSet
  218 434 160 368 160 250 c 259
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -8778,9 +8847,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:47:26 +0000
+V2015-12-22 11:47:26 +0000\\u000d
 p2
 s."
 EndChar
@@ -8796,9 +8865,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:47:31 +0000
+V2015-12-22 11:47:31 +0000\\u000d
 p2
 s."
 EndChar
@@ -8814,9 +8883,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 10 2
 Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:47:36 +0000
+V2015-12-22 11:47:36 +0000\\u000d
 p2
 s."
 EndChar
@@ -8860,9 +8929,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -8890,9 +8959,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:43 +0000
+V2015-12-22 16:32:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -8908,9 +8977,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 55 2
 Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:47:41 +0000
+V2015-12-22 11:47:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -8926,9 +8995,9 @@ Fore
 Refer: 723 779 N 1 0 0 1 1 55 2
 Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:48:18 +0000
+V2015-12-22 11:48:18 +0000\\u000d
 p2
 s."
 EndChar
@@ -8944,9 +9013,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 10 2
 Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:01:12 +0000
+V2015-12-22 12:01:12 +0000\\u000d
 p2
 s."
 EndChar
@@ -8991,9 +9060,9 @@ SplineSet
  425 431 419 438 424 453 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:55:46 +0000
+V2015-12-22 12:55:46 +0000\\u000d
 p2
 s."
 EndChar
@@ -9009,9 +9078,9 @@ LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:44:01 +0000
+V2015-12-22 12:44:01 +0000\\u000d
 p2
 s."
 EndChar
@@ -9102,9 +9171,9 @@ SplineSet
 EndSplineSet
 Refer: 306 49 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:18:28 +0000
+V2016-02-10 13:18:28 +0000\\u000d
 p2
 s."
 EndChar
@@ -9142,9 +9211,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-23 09:15:15 +0000
+V2015-12-23 09:15:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -9162,17 +9231,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -9190,17 +9259,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 391 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -9218,17 +9287,17 @@ Refer: 237 8260 S 1 0 0 1 250 0 2
 Refer: 234 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -9266,9 +9335,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -9294,9 +9363,9 @@ SplineSet
  246 643 219 601 219 530 c 259
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -9342,9 +9411,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -9360,9 +9429,9 @@ Fore
 Refer: 718 771 N 1 0 0 1 1 55 2
 Refer: 295 111 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:48:57 +0000
+V2015-12-22 11:48:57 +0000\\u000d
 p2
 s."
 EndChar
@@ -9378,9 +9447,9 @@ LayerCount: 2
 Fore
 Refer: 155 98 N 1 0 0 -1 0 500 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -9416,9 +9485,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:36:51 +0000
+V2016-05-30 08:36:51 +0000\\u000d
 p2
 s."
 EndChar
@@ -9501,9 +9570,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:17:42 +0000
+V2015-12-22 14:17:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -9546,9 +9615,9 @@ SplineSet
  362 131 371 140 387 140 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:18:08 +0000
+V2015-12-22 14:18:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -9573,9 +9642,9 @@ SplineSet
  212 131 221 140 237 140 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-23 09:15:27 +0000
+V2015-12-23 09:15:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -9591,9 +9660,9 @@ LayerCount: 2
 Fore
 Refer: 324 46 N 1 0 0 1 0 240 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 20:53:09 +0000
+V2015-12-22 20:53:09 +0000\\u000d
 p2
 s."
 EndChar
@@ -9646,9 +9715,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:18:32 +0000
+V2015-12-22 14:18:32 +0000\\u000d
 p2
 s."
 EndChar
@@ -9690,9 +9759,9 @@ SplineSet
  419 77 455 116 455 210 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:48:44 +0000
+V2015-12-22 12:48:44 +0000\\u000d
 p2
 s."
 EndChar
@@ -9732,9 +9801,9 @@ SplineSet
  140 424 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:58 +0000
+V2015-12-22 16:32:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -9771,9 +9840,9 @@ SplineSet
  515 349 524 340 524 324 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:19:00 +0000
+V2015-12-22 14:19:00 +0000\\u000d
 p2
 s."
 EndChar
@@ -9820,9 +9889,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:19:26 +0000
+V2015-12-22 14:19:26 +0000\\u000d
 p2
 s."
 EndChar
@@ -9860,9 +9929,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:19:57 +0000
+V2015-12-22 14:19:57 +0000\\u000d
 p2
 s."
 EndChar
@@ -9904,9 +9973,9 @@ SplineSet
  455 492 464 500 480 500 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:55:00 +0000
+V2015-12-22 12:55:00 +0000\\u000d
 p2
 s."
 EndChar
@@ -9970,9 +10039,9 @@ LayerCount: 2
 Fore
 Refer: 334 63 N -1 0 0 -1 583 500 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:45:43 +0000
+V2015-12-22 13:45:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -10006,9 +10075,9 @@ SplineSet
  348 740 358 750 374 750 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-23 09:18:16 +0000
+V2015-12-23 09:18:16 +0000\\u000d
 p2
 s."
 EndChar
@@ -10025,9 +10094,9 @@ Refer: 343 8218 N 1 0 0 1 -100 0 2
 Refer: 343 8218 N 1 0 0 1 100 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:58:07 +0000
+V2015-12-22 13:58:07 +0000\\u000d
 p2
 s."
 EndChar
@@ -10044,9 +10113,9 @@ Refer: 343 8218 N -1 0 0 -1 660 518 2
 Refer: 343 8218 N -1 0 0 -1 460 518 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:58:31 +0000
+V2015-12-22 13:58:31 +0000\\u000d
 p2
 s."
 EndChar
@@ -10063,9 +10132,9 @@ Refer: 343 8218 N 1 0 0 1 -100 635 2
 Refer: 343 8218 N 1 0 0 1 100 635 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-04-14 08:00:04 +0000
+V2016-04-14 08:00:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -10081,9 +10150,9 @@ Fore
 Refer: 343 8218 N -1 0 0 -1 560 518 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:59:11 +0000
+V2015-12-22 13:59:11 +0000\\u000d
 p2
 s."
 EndChar
@@ -10099,9 +10168,9 @@ Fore
 Refer: 343 8218 N -1 0 0 1 560 634 2
 Validated: 25
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:00:15 +0000
+V2015-12-22 14:00:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -10117,9 +10186,9 @@ Fore
 Refer: 343 8218 N 1 0 0 1 0 635 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -10149,9 +10218,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:00:50 +0000
+V2015-12-22 14:00:50 +0000\\u000d
 p2
 s."
 EndChar
@@ -10176,9 +10245,9 @@ SplineSet
  234 740 244 750 260 750 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:46:53 +0000
+V2015-12-22 13:46:53 +0000\\u000d
 p2
 s."
 EndChar
@@ -10212,9 +10281,9 @@ SplineSet
  98 0 89 9 89 25 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -10230,9 +10299,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 345 114 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:52:52 +0000
+V2015-12-22 11:52:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -10269,9 +10338,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:20:21 +0000
+V2015-12-22 14:20:21 +0000\\u000d
 p2
 s."
 EndChar
@@ -10287,9 +10356,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 55 2
 Refer: 345 114 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:52:58 +0000
+V2015-12-22 11:52:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -10353,9 +10422,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:24:37 +0000
+V2015-12-22 14:24:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -10388,9 +10457,9 @@ SplineSet
  205 435 170 391 170 240 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:46:09 +0000
+V2015-12-22 12:46:09 +0000\\u000d
 p2
 s."
 EndChar
@@ -10420,9 +10489,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:43 +0000
+V2015-12-22 16:32:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -10444,9 +10513,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -10515,9 +10584,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:00:38 +0000
+V2015-12-22 12:00:38 +0000\\u000d
 p2
 s."
 EndChar
@@ -10533,9 +10602,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 55 2
 Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:54:41 +0000
+V2015-12-22 11:54:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -10551,9 +10620,9 @@ Fore
 Refer: 733 807 N 1 0 0 1 4 0 2
 Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 11:54:47 +0000
+V2015-12-22 11:54:47 +0000\\u000d
 p2
 s."
 EndChar
@@ -10569,9 +10638,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 353 115 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:10:30 +0000
+V2016-05-30 08:10:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -10653,9 +10722,9 @@ SplineSet
  212 541 221 550 237 550 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-23 09:18:29 +0000
+V2015-12-23 09:18:29 +0000\\u000d
 p2
 s."
 EndChar
@@ -10764,9 +10833,9 @@ SplineSet
 EndSplineSet
 Refer: 360 55 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:21:27 +0000
+V2016-02-10 13:21:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -10796,17 +10865,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vseven.numr
+Vseven.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vseven.numr
+Vseven.numr\\u000d
 p6
 s."
 EndChar
@@ -10862,9 +10931,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -10897,9 +10966,9 @@ SplineSet
  425 302 406 363 369 423 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:47:01 +0000
+V2015-12-22 12:47:01 +0000\\u000d
 p2
 s."
 EndChar
@@ -10994,9 +11063,9 @@ SplineSet
 EndSplineSet
 Refer: 367 54 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:21:08 +0000
+V2016-02-10 13:21:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -11023,9 +11092,9 @@ LayerCount: 2
 Fore
 Refer: 157 92 N -1 0 0 1 575 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -11040,9 +11109,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:01:01 +0000
+V2015-12-22 14:01:01 +0000\\u000d
 p2
 s."
 EndChar
@@ -11089,9 +11158,9 @@ SplineSet
  490 528 481 518 465 518 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:04:47 +0000
+V2015-12-22 14:04:47 +0000\\u000d
 p2
 s."
 EndChar
@@ -11130,9 +11199,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:21:09 +0000
+V2015-12-22 12:21:09 +0000\\u000d
 p2
 s."
 EndChar
@@ -11207,9 +11276,9 @@ SplineSet
  490 77 500 72 506 57 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:33:06 +0000
+V2016-05-30 08:33:06 +0000\\u000d
 p2
 s."
 EndChar
@@ -11262,9 +11331,9 @@ SplineSet
  458 88 469 83 476 68 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -11280,9 +11349,9 @@ Fore
 Refer: 731 789 N 1 0 0 1 250 0 2
 Refer: 375 116 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -11326,9 +11395,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:20:54 +0000
+V2015-12-22 14:20:54 +0000\\u000d
 p2
 s."
 EndChar
@@ -11359,9 +11428,9 @@ SplineSet
  359 67 399 150 404 311 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:52 +0000
+V2015-12-22 16:32:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -11397,9 +11466,9 @@ SplineSet
  241 435 209 435 170 432 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -11508,9 +11577,9 @@ SplineSet
 EndSplineSet
 Refer: 382 51 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:19:26 +0000
+V2016-02-10 13:19:26 +0000\\u000d
 p2
 s."
 EndChar
@@ -11540,17 +11609,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vthree.numr
+Vthree.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vthree.numr
+Vthree.numr\\u000d
 p6
 s."
 EndChar
@@ -11568,17 +11637,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 234 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vthree.numr
+Vthree.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vthree.numr
+Vthree.numr\\u000d
 p6
 s."
 EndChar
@@ -11610,9 +11679,9 @@ SplineSet
  146 579 133 577 121 585 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:44 +0000
+V2015-12-22 16:32:44 +0000\\u000d
 p2
 s."
 EndChar
@@ -11669,9 +11738,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:25:18 +0000
+V2015-12-22 14:25:18 +0000\\u000d
 p2
 s."
 EndChar
@@ -11760,9 +11829,9 @@ SplineSet
 EndSplineSet
 Refer: 390 50 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:38:37 +0000
+V2016-05-30 08:38:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -11790,9 +11859,9 @@ Fore
 Refer: 324 46 N 0.683 0 0 0.683 -10 1 2
 Refer: 324 46 N 0.683 0 0 0.683 193 1 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 13:48:56 +0000
+V2015-12-22 13:48:56 +0000\\u000d
 p2
 s."
 EndChar
@@ -11822,9 +11891,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:04:03 +0000
+V2015-12-22 12:04:03 +0000\\u000d
 p2
 s."
 EndChar
@@ -11840,9 +11909,9 @@ Fore
 Refer: 719 774 N 1 0 0 1 1 55 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:32:05 +0000
+V2016-05-30 08:32:05 +0000\\u000d
 p2
 s."
 EndChar
@@ -11858,9 +11927,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:04:18 +0000
+V2015-12-22 12:04:18 +0000\\u000d
 p2
 s."
 EndChar
@@ -11876,9 +11945,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 10 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:04:22 +0000
+V2015-12-22 12:04:22 +0000\\u000d
 p2
 s."
 EndChar
@@ -11894,9 +11963,9 @@ Fore
 Refer: 715 768 N 1 0 0 1 1 55 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:04:30 +0000
+V2015-12-22 12:04:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -11912,9 +11981,9 @@ Fore
 Refer: 723 779 N 1 0 0 1 1 55 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:04:37 +0000
+V2015-12-22 12:04:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -11930,9 +11999,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 10 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:04:43 +0000
+V2015-12-22 12:04:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -11957,9 +12026,9 @@ SplineSet
  76 -77 l 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-23 09:18:36 +0000
+V2015-12-23 09:18:36 +0000\\u000d
 p2
 s."
 EndChar
@@ -12007,9 +12076,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:32:55 +0000
+V2015-12-22 16:32:55 +0000\\u000d
 p2
 s."
 EndChar
@@ -12025,9 +12094,9 @@ Fore
 Refer: 733 807 N 1 0 0 1 4 0 2
 Refer: 100 84 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:29:06 +0000
+V2015-12-22 16:29:06 +0000\\u000d
 p2
 s."
 EndChar
@@ -12043,9 +12112,9 @@ Fore
 Refer: 733 807 N 1 0 0 1 4 0 2
 Refer: 375 116 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:30:56 +0000
+V2015-12-22 16:30:56 +0000\\u000d
 p2
 s."
 EndChar
@@ -12078,9 +12147,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:33 +0000
+V2016-06-09 18:35:33 +0000\\u000d
 p2
 s."
 EndChar
@@ -12110,9 +12179,9 @@ SplineSet
  291 625 285 625 279 607 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:15:12 +0000
+V2015-12-22 12:15:12 +0000\\u000d
 p2
 s."
 EndChar
@@ -12160,9 +12229,9 @@ SplineSet
  389 76 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:25:35 +0000
+V2015-12-22 12:25:35 +0000\\u000d
 p2
 s."
 EndChar
@@ -12199,9 +12268,9 @@ SplineSet
  405 491 413 500 430 500 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:42:40 +0000
+V2015-12-22 12:42:40 +0000\\u000d
 p2
 s."
 EndChar
@@ -12218,9 +12287,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 424 1045 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -12236,9 +12305,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 422 1043 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-29 16:25:52 +0000
+V2016-05-29 16:25:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -12278,9 +12347,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 210 2
 Refer: 415 1030 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:38:41 +0000
+V2016-05-30 08:38:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -12308,9 +12377,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 255 2
 Refer: 429 1050 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:37:58 +0000
+V2016-05-30 08:37:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -12326,9 +12395,9 @@ LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:50:22 +0000
+V2016-05-30 08:50:22 +0000\\u000d
 p2
 s."
 EndChar
@@ -12365,9 +12434,9 @@ SplineSet
  170 76 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -12408,9 +12477,9 @@ SplineSet
  554 648 l 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -12455,9 +12524,9 @@ SplineSet
  224 622 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -12473,9 +12542,9 @@ LayerCount: 2
 Fore
 Refer: 27 69 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:11:08 +0000
+V2016-05-23 13:11:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -12531,9 +12600,9 @@ SplineSet
  542 700 548 688 541 671 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:11:20 +0000
+V2016-05-23 13:11:20 +0000\\u000d
 p2
 s."
 EndChar
@@ -12549,9 +12618,9 @@ LayerCount: 2
 Fore
 Refer: 382 51 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:11:27 +0000
+V2016-05-23 13:11:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -12588,9 +12657,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:11:39 +0000
+V2016-05-23 13:11:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -12606,9 +12675,9 @@ Fore
 Refer: 719 774 N 1 0 0 1 1 255 2
 Refer: 427 1048 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:12:39 +0000
+V2016-05-23 13:12:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -12624,9 +12693,9 @@ LayerCount: 2
 Fore
 Refer: 59 75 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:37:58 +0000
+V2016-05-30 08:37:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -12660,9 +12729,9 @@ SplineSet
  501 700 510 691 510 675 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 11:38:55 +0000
+V2016-05-23 11:38:55 +0000\\u000d
 p2
 s."
 EndChar
@@ -12690,9 +12759,9 @@ LayerCount: 2
 Fore
 Refer: 46 72 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:13:25 +0000
+V2016-05-23 13:13:25 +0000\\u000d
 p2
 s."
 EndChar
@@ -12708,9 +12777,9 @@ LayerCount: 2
 Fore
 Refer: 74 79 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:13:39 +0000
+V2016-05-23 13:13:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -12742,9 +12811,9 @@ SplineSet
  78 691 87 700 103 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:13:45 +0000
+V2016-05-23 13:13:45 +0000\\u000d
 p2
 s."
 EndChar
@@ -12772,9 +12841,9 @@ LayerCount: 2
 Fore
 Refer: 16 67 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:14:02 +0000
+V2016-05-23 13:14:02 +0000\\u000d
 p2
 s."
 EndChar
@@ -12790,9 +12859,9 @@ LayerCount: 2
 Fore
 Refer: 100 84 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:14:08 +0000
+V2016-05-23 13:14:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -12831,9 +12900,9 @@ SplineSet
  427 693 436 700 451 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:14:21 +0000
+V2016-05-23 13:14:21 +0000\\u000d
 p2
 s."
 EndChar
@@ -12875,9 +12944,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:00 +0000
+V2016-05-30 10:12:00 +0000\\u000d
 p2
 s."
 EndChar
@@ -12893,9 +12962,9 @@ LayerCount: 2
 Fore
 Refer: 123 88 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 13:15:05 +0000
+V2016-05-23 13:15:05 +0000\\u000d
 p2
 s."
 EndChar
@@ -12933,9 +13002,9 @@ SplineSet
  449 700 458 691 458 675 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 12:25:17 +0000
+V2016-05-23 12:25:17 +0000\\u000d
 p2
 s."
 EndChar
@@ -12971,9 +13040,9 @@ SplineSet
  405 691 413 700 430 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:16 +0000
+V2016-05-30 10:12:16 +0000\\u000d
 p2
 s."
 EndChar
@@ -13011,9 +13080,9 @@ SplineSet
  437 691 446 700 462 700 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:51:07 +0000
+V2016-05-30 09:51:07 +0000\\u000d
 p2
 s."
 EndChar
@@ -13056,9 +13125,9 @@ SplineSet
  513 700 522 691 522 675 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-29 16:25:37 +0000
+V2016-05-29 16:25:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -13095,9 +13164,9 @@ SplineSet
  210 420 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:28 +0000
+V2016-05-30 10:12:28 +0000\\u000d
 p2
 s."
 EndChar
@@ -13137,9 +13206,9 @@ SplineSet
  287 286 248 344 140 344 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:35 +0000
+V2016-05-30 10:12:35 +0000\\u000d
 p2
 s."
 EndChar
@@ -13173,9 +13242,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:22 +0000
+V2016-05-30 10:12:22 +0000\\u000d
 p2
 s."
 EndChar
@@ -13214,9 +13283,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:43 +0000
+V2016-05-30 10:12:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -13261,9 +13330,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:53 +0000
+V2016-05-30 10:12:53 +0000\\u000d
 p2
 s."
 EndChar
@@ -13304,9 +13373,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:12:58 +0000
+V2016-05-30 10:12:58 +0000\\u000d
 p2
 s."
 EndChar
@@ -13322,9 +13391,9 @@ LayerCount: 2
 Fore
 Refer: 135 97 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:17:55 +0000
+V2016-05-23 16:17:55 +0000\\u000d
 p2
 s."
 EndChar
@@ -13360,9 +13429,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:13:07 +0000
+V2016-05-30 10:13:07 +0000\\u000d
 p2
 s."
 EndChar
@@ -13404,9 +13473,9 @@ SplineSet
  187 77 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:13:14 +0000
+V2016-05-30 10:13:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -13436,9 +13505,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-29 16:25:09 +0000
+V2016-05-29 16:25:09 +0000\\u000d
 p2
 s."
 EndChar
@@ -13482,9 +13551,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:31:25 +0000
+V2016-05-30 08:31:25 +0000\\u000d
 p2
 s."
 EndChar
@@ -13500,9 +13569,9 @@ LayerCount: 2
 Fore
 Refer: 199 101 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:21:08 +0000
+V2016-05-23 16:21:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -13559,9 +13628,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 16:22:06 +0000
+V2016-05-23 16:22:06 +0000\\u000d
 p2
 s."
 EndChar
@@ -13602,9 +13671,9 @@ SplineSet
  138 417 127 422 123 437 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:13:27 +0000
+V2016-05-30 10:13:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -13641,9 +13710,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:47:32 +0000
+V2016-05-30 07:47:32 +0000\\u000d
 p2
 s."
 EndChar
@@ -13659,9 +13728,9 @@ Fore
 Refer: 719 774 N 1 0 0 1 1 55 2
 Refer: 459 1080 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:48:42 +0000
+V2016-05-30 07:48:42 +0000\\u000d
 p2
 s."
 EndChar
@@ -13702,9 +13771,9 @@ SplineSet
  282 251 291 242 300 233 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:49:26 +0000
+V2016-05-30 07:49:26 +0000\\u000d
 p2
 s."
 EndChar
@@ -13738,9 +13807,9 @@ SplineSet
  481 500 490 491 490 475 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:50:00 +0000
+V2016-05-30 07:50:00 +0000\\u000d
 p2
 s."
 EndChar
@@ -13782,9 +13851,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:50:28 +0000
+V2016-05-30 07:50:28 +0000\\u000d
 p2
 s."
 EndChar
@@ -13822,9 +13891,9 @@ SplineSet
  422 492 431 500 447 500 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:51:04 +0000
+V2016-05-30 07:51:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -13840,9 +13909,9 @@ LayerCount: 2
 Fore
 Refer: 295 111 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 12:17:14 +0000
+V2016-05-23 12:17:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -13874,9 +13943,9 @@ SplineSet
  78 491 87 500 103 500 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:52:44 +0000
+V2016-05-30 07:52:44 +0000\\u000d
 p2
 s."
 EndChar
@@ -13904,9 +13973,9 @@ LayerCount: 2
 Fore
 Refer: 168 99 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-23 12:17:14 +0000
+V2016-05-23 12:17:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -13938,9 +14007,9 @@ SplineSet
  545 500 554 492 554 475 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:54:07 +0000
+V2016-05-30 07:54:07 +0000\\u000d
 p2
 s."
 EndChar
@@ -13956,9 +14025,9 @@ LayerCount: 2
 Fore
 Refer: 698 121 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:54:15 +0000
+V2016-05-30 07:54:15 +0000\\u000d
 p2
 s."
 EndChar
@@ -14000,9 +14069,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:13:41 +0000
+V2016-05-30 10:13:41 +0000\\u000d
 p2
 s."
 EndChar
@@ -14018,9 +14087,9 @@ LayerCount: 2
 Fore
 Refer: 696 120 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:55:04 +0000
+V2016-05-30 07:55:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -14058,9 +14127,9 @@ SplineSet
  449 500 458 491 458 475 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:56:43 +0000
+V2016-05-30 07:56:43 +0000\\u000d
 p2
 s."
 EndChar
@@ -14096,9 +14165,9 @@ SplineSet
  405 491 413 500 430 500 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:13:48 +0000
+V2016-05-30 10:13:48 +0000\\u000d
 p2
 s."
 EndChar
@@ -14136,9 +14205,9 @@ SplineSet
  437 491 446 500 462 500 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:57:20 +0000
+V2016-05-30 07:57:20 +0000\\u000d
 p2
 s."
 EndChar
@@ -14181,9 +14250,9 @@ SplineSet
  513 500 522 491 522 475 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 07:57:56 +0000
+V2016-05-30 07:57:56 +0000\\u000d
 p2
 s."
 EndChar
@@ -14220,9 +14289,9 @@ SplineSet
  240 76 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:13:59 +0000
+V2016-05-30 10:13:59 +0000\\u000d
 p2
 s."
 EndChar
@@ -14262,9 +14331,9 @@ SplineSet
  267 236 228 244 160 244 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:14:04 +0000
+V2016-05-30 10:14:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -14298,9 +14367,9 @@ SplineSet
  170 76 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:13:54 +0000
+V2016-05-30 10:13:54 +0000\\u000d
 p2
 s."
 EndChar
@@ -14338,9 +14407,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:14:08 +0000
+V2016-05-30 10:14:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -14384,9 +14453,9 @@ SplineSet
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:14:16 +0000
+V2016-05-30 10:14:16 +0000\\u000d
 p2
 s."
 EndChar
@@ -14425,9 +14494,9 @@ SplineSet
  170 312 216 289 317 289 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 10:14:21 +0000
+V2016-05-30 10:14:21 +0000\\u000d
 p2
 s."
 EndChar
@@ -14443,9 +14512,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 10 2
 Refer: 456 1077 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-29 16:27:10 +0000
+V2016-05-29 16:27:10 +0000\\u000d
 p2
 s."
 EndChar
@@ -14461,9 +14530,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 454 1075 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-29 16:25:52 +0000
+V2016-05-29 16:25:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -14513,9 +14582,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 461 1082 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:27:37 +0000
+V2016-05-30 08:27:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -14553,9 +14622,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 210 2
 Refer: 427 1048 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-29 16:25:52 +0000
+V2016-05-29 16:25:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -14571,9 +14640,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 10 2
 Refer: 459 1080 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:27:37 +0000
+V2016-05-30 08:27:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -14589,9 +14658,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 210 2
 Refer: 438 1059 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-29 16:25:52 +0000
+V2016-05-29 16:25:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -14607,9 +14676,9 @@ Fore
 Refer: 726 772 N 1 0 0 1 1 10 2
 Refer: 470 1091 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:27:37 +0000
+V2016-05-30 08:27:37 +0000\\u000d
 p2
 s."
 EndChar
@@ -14624,9 +14693,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:03 +0000
+V2016-05-22 18:18:03 +0000\\u000d
 p2
 s."
 EndChar
@@ -14641,9 +14710,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:10 +0000
+V2016-05-22 18:18:10 +0000\\u000d
 p2
 s."
 EndChar
@@ -14658,9 +14727,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:05 +0000
+V2016-05-22 18:18:05 +0000\\u000d
 p2
 s."
 EndChar
@@ -14675,9 +14744,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:12 +0000
+V2016-05-22 18:18:12 +0000\\u000d
 p2
 s."
 EndChar
@@ -14692,9 +14761,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:08 +0000
+V2016-05-22 18:18:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -14709,9 +14778,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:19:13 +0000
+V2016-05-22 18:19:13 +0000\\u000d
 p2
 s."
 EndChar
@@ -14726,9 +14795,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:16 +0000
+V2016-05-22 18:18:16 +0000\\u000d
 p2
 s."
 EndChar
@@ -14743,9 +14812,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:30 +0000
+V2016-05-22 18:18:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -14760,9 +14829,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:14 +0000
+V2016-05-22 18:18:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -14777,9 +14846,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:27 +0000
+V2016-05-22 18:18:27 +0000\\u000d
 p2
 s."
 EndChar
@@ -14794,9 +14863,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:19:10 +0000
+V2016-05-22 18:19:10 +0000\\u000d
 p2
 s."
 EndChar
@@ -14811,9 +14880,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:22 +0000
+V2016-05-22 18:18:22 +0000\\u000d
 p2
 s."
 EndChar
@@ -14828,9 +14897,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:19:20 +0000
+V2016-05-22 18:19:20 +0000\\u000d
 p2
 s."
 EndChar
@@ -14845,9 +14914,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:25 +0000
+V2016-05-22 18:18:25 +0000\\u000d
 p2
 s."
 EndChar
@@ -14862,9 +14931,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-22 18:18:01 +0000
+V2016-05-22 18:18:01 +0000\\u000d
 p2
 s."
 EndChar
@@ -14905,9 +14974,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:25:46 +0000
+V2015-12-22 14:25:46 +0000\\u000d
 p2
 s."
 EndChar
@@ -14925,17 +14994,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 361 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -14953,17 +15022,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 288 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -15002,17 +15071,17 @@ EndSplineSet
 Refer: 309 -1 N 1 0 0 1 80 -400 2
 Refer: 709 -1 N 1 0 0 1 300 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -15030,17 +15099,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 383 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:36:12 +0000
+V2015-12-22 14:36:12 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -15058,17 +15127,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 383 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vtwo.numr
+Vtwo.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vtwo.numr
+Vtwo.numr\\u000d
 p6
 s."
 EndChar
@@ -15086,17 +15155,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -15114,17 +15183,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vtwo.numr
+Vtwo.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vtwo.numr
+Vtwo.numr\\u000d
 p6
 s."
 EndChar
@@ -15142,17 +15211,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vthree.numr
+Vthree.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vthree.numr
+Vthree.numr\\u000d
 p6
 s."
 EndChar
@@ -15170,17 +15239,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vfour.numr
+Vfour.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vfour.numr
+Vfour.numr\\u000d
 p6
 s."
 EndChar
@@ -15198,17 +15267,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 368 -1 N 1 0 0 1 325 0 2
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -15226,17 +15295,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 368 -1 N 1 0 0 1 325 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vfive.numr
+Vfive.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vfive.numr
+Vfive.numr\\u000d
 p6
 s."
 EndChar
@@ -15283,17 +15352,17 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vone.numr
+Vone.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vone.numr
+Vone.numr\\u000d
 p6
 s."
 EndChar
@@ -15311,17 +15380,17 @@ Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 383 -1 N 1 0 0 1 325 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 09:30:11 +0000
+V2016-05-30 09:30:11 +0000\\u000d
 p2
-sVcom.schriftgestaltung.Glyphs.leftMetricsKey
+sVcom.schriftgestaltung.Glyphs.leftMetricsKey\\u000d
 p3
-Vzero.numr
+Vzero.numr\\u000d
 p4
-sVcom.schriftgestaltung.Glyphs.rightMetricsKey
+sVcom.schriftgestaltung.Glyphs.rightMetricsKey\\u000d
 p5
-Vzero.numr
+Vzero.numr\\u000d
 p6
 s."
 EndChar
@@ -15349,9 +15418,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:10:30 +0000
+V2015-12-22 14:10:30 +0000\\u000d
 p2
 s."
 EndChar
@@ -15377,9 +15446,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:37:28 +0000
+V2015-12-22 14:37:28 +0000\\u000d
 p2
 s."
 EndChar
@@ -15395,9 +15464,9 @@ Fore
 Refer: 167 8226 N 1 0 0 1 0 0 2
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:06:34 +0000
+V2015-12-22 14:06:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -15419,9 +15488,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15443,9 +15512,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15467,9 +15536,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15501,9 +15570,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15535,9 +15604,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15569,9 +15638,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15603,9 +15672,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15642,9 +15711,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15681,9 +15750,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15725,9 +15794,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15769,9 +15838,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15797,9 +15866,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15825,9 +15894,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15853,9 +15922,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15881,9 +15950,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15910,9 +15979,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15939,9 +16008,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15968,9 +16037,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -15997,9 +16066,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16025,9 +16094,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16053,9 +16122,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16081,9 +16150,9 @@ SplineSet
  244 304 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16109,9 +16178,9 @@ SplineSet
  244 282 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16137,9 +16206,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16165,9 +16234,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16193,9 +16262,9 @@ SplineSet
  244 304 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16221,9 +16290,9 @@ SplineSet
  244 282 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16249,9 +16318,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16277,9 +16346,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16310,9 +16379,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16343,9 +16412,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16371,9 +16440,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16404,9 +16473,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16437,9 +16506,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16465,9 +16534,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16494,9 +16563,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16523,9 +16592,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16556,9 +16625,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16589,9 +16658,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16618,9 +16687,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16651,9 +16720,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16684,9 +16753,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16713,9 +16782,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16742,9 +16811,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16775,9 +16844,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16808,9 +16877,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16837,9 +16906,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16866,9 +16935,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16899,9 +16968,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16932,9 +17001,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16961,9 +17030,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -16989,9 +17058,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17022,9 +17091,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17055,9 +17124,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17083,9 +17152,9 @@ SplineSet
  266 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17111,9 +17180,9 @@ SplineSet
  244 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17144,9 +17213,9 @@ SplineSet
  244 282 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17177,9 +17246,9 @@ SplineSet
  244 282 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17205,9 +17274,9 @@ SplineSet
  244 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17234,9 +17303,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17267,9 +17336,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17300,9 +17369,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17329,9 +17398,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17362,9 +17431,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17395,9 +17464,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17424,9 +17493,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17462,9 +17531,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17500,9 +17569,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17538,9 +17607,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17576,9 +17645,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17609,9 +17678,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17642,9 +17711,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17675,9 +17744,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17708,9 +17777,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17737,9 +17806,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17766,9 +17835,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17795,9 +17864,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17824,9 +17893,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17853,9 +17922,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17882,9 +17951,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17911,9 +17980,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17944,9 +18013,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -17978,9 +18047,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18016,9 +18085,9 @@ SplineSet
  309 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18050,9 +18119,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18083,9 +18152,9 @@ SplineSet
  309 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18122,9 +18191,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18155,9 +18224,9 @@ SplineSet
  266 261 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18188,9 +18257,9 @@ SplineSet
  309 304 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18226,9 +18295,9 @@ SplineSet
  309 347 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18259,9 +18328,9 @@ SplineSet
  266 261 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18292,9 +18361,9 @@ SplineSet
  309 304 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18330,9 +18399,9 @@ SplineSet
  223 347 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18363,9 +18432,9 @@ SplineSet
  266 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18396,9 +18465,9 @@ SplineSet
  309 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18439,9 +18508,9 @@ SplineSet
  309 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18473,9 +18542,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18507,9 +18576,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18550,9 +18619,9 @@ SplineSet
  223 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18584,9 +18653,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18618,9 +18687,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18661,9 +18730,9 @@ SplineSet
  309 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18694,9 +18763,9 @@ SplineSet
  266 368 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18727,9 +18796,9 @@ SplineSet
  309 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18770,9 +18839,9 @@ SplineSet
  309 347 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18804,9 +18873,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18838,9 +18907,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18896,9 +18965,9 @@ SplineSet
  309 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18924,9 +18993,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18952,9 +19021,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -18980,9 +19049,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19008,9 +19077,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19034,9 +19103,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19060,9 +19129,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19093,9 +19162,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19117,9 +19186,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19141,9 +19210,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19165,9 +19234,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19189,9 +19258,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19213,9 +19282,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19237,9 +19306,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19261,9 +19330,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19285,9 +19354,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19314,9 +19383,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19342,9 +19411,9 @@ SplineSet
  244 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19370,9 +19439,9 @@ SplineSet
  -21 282 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19399,9 +19468,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19423,9 +19492,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19447,9 +19516,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19471,9 +19540,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19495,9 +19564,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19519,9 +19588,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19543,9 +19612,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19567,9 +19636,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19591,9 +19660,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19615,9 +19684,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19639,9 +19708,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19663,9 +19732,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19687,9 +19756,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19711,9 +19780,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19735,9 +19804,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19759,9 +19828,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19783,9 +19852,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19807,9 +19876,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19835,9 +19904,9 @@ SplineSet
  0 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19864,9 +19933,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19892,9 +19961,9 @@ SplineSet
  0 325 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19921,9 +19990,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19945,9 +20014,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -19974,9 +20043,9 @@ SplineSet
 EndSplineSet
 Validated: 5
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -20002,9 +20071,9 @@ SplineSet
  0 -250 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -20052,9 +20121,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 16:08:20 +0000
+V2016-05-30 16:08:20 +0000\\u000d
 p2
 s."
 Comment: "+AAoA    uniE0A0+AAoA  "
@@ -20146,9 +20215,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 16:12:37 +0000
+V2016-05-30 16:12:37 +0000\\u000d
 p2
 s."
 Comment: "+AAoA    uniE0A2+AAoA  "
@@ -20171,9 +20240,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 16:16:20 +0000
+V2016-05-30 16:16:20 +0000\\u000d
 p2
 s."
 Comment: "+AAoA    uniE0B0+AAoA  "
@@ -20204,9 +20273,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 16:15:14 +0000
+V2016-05-30 16:15:14 +0000\\u000d
 p2
 s."
 Comment: "+AAoA    uniE0B1+AAoA  "
@@ -20229,9 +20298,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 16:16:01 +0000
+V2016-05-30 16:16:01 +0000\\u000d
 p2
 s."
 Comment: "+AAoA    uniE0B2+AAoA  "
@@ -20263,9 +20332,9 @@ SplineSet
 EndSplineSet
 Validated: 33
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 16:15:36 +0000
+V2016-05-30 16:15:36 +0000\\u000d
 p2
 s."
 Comment: "+AAoA    uniE0B3+AAoA  "
@@ -20281,9 +20350,9 @@ LayerCount: 2
 Fore
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-05-30 08:36:31 +0000
+V2016-05-30 08:36:31 +0000\\u000d
 p2
 s."
 EndChar
@@ -20299,9 +20368,9 @@ Fore
 Refer: 728 808 N 1 0 0 1 151 -15 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:04:52 +0000
+V2015-12-22 12:04:52 +0000\\u000d
 p2
 s."
 EndChar
@@ -20323,9 +20392,9 @@ SplineSet
 EndSplineSet
 Validated: 1
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-10 08:26:49 +0000
+V2016-06-10 08:26:49 +0000\\u000d
 p2
 s."
 EndChar
@@ -20341,9 +20410,9 @@ LayerCount: 2
 Fore
 Refer: 395 117 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:47:39 +0000
+V2015-12-22 12:47:39 +0000\\u000d
 p2
 s."
 EndChar
@@ -20359,9 +20428,9 @@ Fore
 Refer: 721 778 N 1 0 0 1 1 55 2
 Refer: 395 117 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:05:00 +0000
+V2015-12-22 12:05:00 +0000\\u000d
 p2
 s."
 EndChar
@@ -20471,9 +20540,9 @@ Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
 Refer: 140 180 N 1 0 0 1 180 50 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:05:55 +0000
+V2015-12-22 12:05:55 +0000\\u000d
 p2
 s."
 EndChar
@@ -20489,9 +20558,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 691 119 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:06:10 +0000
+V2015-12-22 12:06:10 +0000\\u000d
 p2
 s."
 EndChar
@@ -20507,9 +20576,9 @@ Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
 Refer: 191 168 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:06:14 +0000
+V2015-12-22 12:06:14 +0000\\u000d
 p2
 s."
 EndChar
@@ -20525,9 +20594,9 @@ Fore
 Refer: 691 119 N 1 0 0 1 0 0 2
 Refer: 242 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:06:19 +0000
+V2015-12-22 12:06:19 +0000\\u000d
 p2
 s."
 EndChar
@@ -20609,9 +20678,9 @@ SplineSet
  516 -171 507 -180 491 -180 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:43:54 +0000
+V2015-12-22 12:43:54 +0000\\u000d
 p2
 s."
 EndChar
@@ -20662,9 +20731,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 698 121 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:31:03 +0000
+V2015-12-22 16:31:03 +0000\\u000d
 p2
 s."
 EndChar
@@ -20680,9 +20749,9 @@ Fore
 Refer: 717 770 N 1 0 0 1 1 55 2
 Refer: 698 121 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:31:03 +0000
+V2015-12-22 16:31:03 +0000\\u000d
 p2
 s."
 EndChar
@@ -20698,9 +20767,9 @@ Fore
 Refer: 714 776 N 1 0 0 1 1 10 2
 Refer: 698 121 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:31:04 +0000
+V2015-12-22 16:31:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -20753,9 +20822,9 @@ SplineSet
  73 266 82 275 98 275 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 14:05:13 +0000
+V2015-12-22 14:05:13 +0000\\u000d
 p2
 s."
 EndChar
@@ -20771,9 +20840,9 @@ Fore
 Refer: 698 121 N 1 0 0 1 0 0 2
 Refer: 242 96 N 1 0 0 1 0 50 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:31:04 +0000
+V2015-12-22 16:31:04 +0000\\u000d
 p2
 s."
 EndChar
@@ -20810,9 +20879,9 @@ SplineSet
  171 77 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-06-09 18:35:34 +0000
+V2016-06-09 18:35:34 +0000\\u000d
 p2
 s."
 EndChar
@@ -20828,9 +20897,9 @@ Fore
 Refer: 716 769 N 1 0 0 1 1 55 2
 Refer: 704 122 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:31:07 +0000
+V2015-12-22 16:31:07 +0000\\u000d
 p2
 s."
 EndChar
@@ -20846,9 +20915,9 @@ Fore
 Refer: 722 780 N 1 0 0 1 1 55 2
 Refer: 704 122 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:31:08 +0000
+V2015-12-22 16:31:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -20864,9 +20933,9 @@ Fore
 Refer: 720 775 N 1 0 0 1 1 10 2
 Refer: 704 122 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 16:31:08 +0000
+V2015-12-22 16:31:08 +0000\\u000d
 p2
 s."
 EndChar
@@ -20942,9 +21011,9 @@ LayerCount: 2
 Fore
 Refer: 708 48 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2016-02-10 13:20:31 +0000
+V2016-02-10 13:20:31 +0000\\u000d
 p2
 s."
 EndChar
@@ -20992,9 +21061,9 @@ SplineSet
   PathStart: -1
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
-V2015-12-22 12:30:57 +0000
+V2015-12-22 12:30:57 +0000\\u000d
 p2
 s."
 EndChar
