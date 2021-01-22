@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1611278597
+ModificationTime: 1611281571
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 75 15 9
+WinInfo: 8175 15 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -4611,14 +4611,13 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-460 325 m 256
- 460 227 384 150 288 150 c 256
- 191 150 115 227 115 325 c 256
- 115 423 191 500 288 500 c 256
- 384 500 460 423 460 325 c 256
+460 311 m 259
+ 460 213 384 136 288 136 c 259
+ 191 136 115 213 115 311 c 259
+ 115 409 191 486 288 486 c 259
+ 384 486 460 409 460 311 c 259
   PathStart: -2
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -6198,17 +6197,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-0 237 m 258
- 0 263 l 258
- 0 280 9 289 25 289 c 258
- 550 289 l 258
- 566 289 575 280 575 264 c 258
- 575 237 l 258
- 575 221 566 212 550 212 c 258
- 25 212 l 258
- 9 212 0 221 0 237 c 258
+0 297 m 258
+ 0 324 l 258
+ 9.79685083058e-16 340 9 349 25 349 c 258
+ 550 349 l 258
+ 566 349 575 340 575 324 c 258
+ 575 297 l 258
+ 575 281 566 272 550 272 c 258
+ 25 272 l 258
+ 9 272 0 281 0 297 c 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -6271,17 +6269,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-150 237 m 258
- 150 263 l 258
- 150 280 159 289 175 289 c 258
- 400 289 l 258
- 416 289 425 280 425 264 c 258
- 425 237 l 258
- 425 221 416 212 400 212 c 258
- 175 212 l 258
- 159 212 150 221 150 237 c 258
+150 297 m 258
+ 150 324 l 258
+ 150 340 159 349 175 349 c 258
+ 400 349 l 258
+ 416 349 425 340 425 324 c 258
+ 425 297 l 258
+ 425 281 416 272 400 272 c 258
+ 175 272 l 258
+ 159 272 150 281 150 297 c 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7347,7 +7344,7 @@ Encoding: 8249 8249 247
 GlifName: guilsinglleft
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -15462,7 +15459,6 @@ Flags: HMW
 LayerCount: 2
 Fore
 Refer: 167 8226 N 1 0 0 1 0 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1

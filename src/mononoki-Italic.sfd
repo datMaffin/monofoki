@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1611278847
+ModificationTime: 1611281651
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 18 9
+WinInfo: 8154 18 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -4526,11 +4526,11 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-480 325 m 256
- 480 227 404 150 308 150 c 256
- 211 150 135 227 135 325 c 256
- 135 423 211 500 308 500 c 256
- 404 500 480 423 480 325 c 256
+477 311 m 259
+ 477 213 401 136 305 136 c 259
+ 208 136 132 213 132 311 c 259
+ 132 409 208 486 305 486 c 259
+ 401 486 477 409 477 311 c 259
   PathStart: -2
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -6133,15 +6133,15 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
--2 237 m 258
- 2 263 l 258
- 5 280 15 289 31 289 c 258
- 556 289 l 258
- 572 289 580 280 577 264 c 258
- 573 237 l 258
- 570 221 560 212 544 212 c 258
- 19 212 l 258
- 3 212 -5 221 -2 237 c 258
+8 297 m 258
+ 12 323 l 258
+ 15 340 25 349 41 349 c 258
+ 566 349 l 258
+ 582 349 590 340 587 324 c 258
+ 583 297 l 258
+ 580 281 570 272 554 272 c 258
+ 29 272 l 258
+ 13 272 5 281 8 297 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -6205,15 +6205,15 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-148 237 m 258
- 152 263 l 258
- 155 280 165 289 181 289 c 258
- 406 289 l 258
- 422 289 429 280 427 264 c 258
- 423 237 l 258
- 421 221 410 212 394 212 c 258
- 169 212 l 258
- 153 212 146 221 148 237 c 258
+158 297 m 258
+ 162 323 l 258
+ 165 340 175 349 191 349 c 258
+ 416 349 l 258
+ 432 349 439 340 437 324 c 258
+ 433 297 l 258
+ 431 281 420 272 404 272 c 258
+ 179 272 l 258
+ 163 272 156 281 158 297 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -15533,7 +15533,7 @@ Encoding: 8729 8729 526
 GlifName: uni2219
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 167 8226 N 1 0 0 1 0 0 2
