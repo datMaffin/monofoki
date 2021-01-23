@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1611281571
+ModificationTime: 1611429164
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8175 15 9
+WinInfo: 645 15 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -6159,9 +6159,35 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 324 46 N 0.683 0 0 0.683 262 1 2
-Refer: 324 46 N 0.683 0 0 0.683 -80 1 2
-Refer: 324 46 N 0.683 0 0 0.683 91 1 2
+SplineSet
+431 100 m 258
+ 486 100 l 258
+ 502 100 511 91 511 75 c 258
+ 511 25 l 258
+ 511 9 502 0 486 0 c 258
+ 431 0 l 258
+ 415 0 406 9 406 25 c 258
+ 406 75 l 258
+ 406 91 415 100 431 100 c 258
+260 100 m 258
+ 315 100 l 258
+ 331 100 340 91 340 75 c 258
+ 340 25 l 258
+ 340 9 331 0 315 0 c 258
+ 260 0 l 258
+ 244 0 235 9 235 25 c 258
+ 235 75 l 258
+ 235 91 244 100 260 100 c 258
+89 100 m 258
+ 144 100 l 258
+ 160 100 169 91 169 75 c 258
+ 169 25 l 258
+ 169 9 160 0 144 0 c 258
+ 89 0 l 258
+ 73 0 64 9 64 25 c 258
+ 64 75 l 258
+ 64 91 73 100 89 100 c 258
+EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -6199,7 +6225,7 @@ Fore
 SplineSet
 0 297 m 258
  0 324 l 258
- 9.79685083058e-16 340 9 349 25 349 c 258
+ 0 340 9 349 25 349 c 258
  550 349 l 258
  566 349 575 340 575 324 c 258
  575 297 l 258
@@ -6823,7 +6849,6 @@ Fore
 Refer: 230 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7007,11 +7032,10 @@ Encoding: 8260 8260 237
 GlifName: fraction
 Width: 75
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 525 8725 N 1 0 0 1 -250 15 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7348,19 +7372,19 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-232 311 m 261
- 419 124 l 262
- 431 113 431 100 418 89 c 262
- 395 68 l 262
- 383 58 371 58 360 69 c 262
- 183 246 l 262
- 164 265 148 284 148 311 c 260
- 148 338 164 358 183 377 c 262
- 360 553 l 262
- 371 565 383 565 395 554 c 262
- 418 534 l 262
- 431 523 431 510 419 498 c 262
- 232 311 l 261
+232 311 m 257
+ 419 124 l 258
+ 431 113 431 100 418 89 c 258
+ 395 68 l 258
+ 383 58 371 58 360 69 c 258
+ 183 246 l 258
+ 164 265 148 284 148 311 c 256
+ 148 338 164 358 183 377 c 258
+ 360 553 l 258
+ 371 565 383 565 395 554 c 258
+ 418 534 l 258
+ 431 523 431 510 419 498 c 258
+ 232 311 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -9195,18 +9219,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-SplineSet
-210 25 m 258
- 210 112 l 258
- 210 129 219 137 235 137 c 258
- 340 137 l 258
- 357 137 365 129 365 112 c 258
- 365 25 l 258
- 365 9 357 0 340 0 c 258
- 235 0 l 258
- 219 0 210 9 210 25 c 258
-EndSplineSet
-Validated: 1
+Refer: 324 46 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9226,7 +9239,6 @@ Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9248,13 +9260,12 @@ Encoding: 189 189 312
 GlifName: onehalf
 Width: 587
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 391 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9276,13 +9287,12 @@ Encoding: 188 188 313
 GlifName: onequarter
 Width: 585
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 S 1 0 0 1 250 0 2
 Refer: 234 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -9583,15 +9593,15 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-497 534 m 258
- 522 509 l 258
- 533 498 533 485 522 474 c 258
- 113 65 l 258
- 102 54 89 54 78 65 c 258
- 53 90 l 258
- 42 101 42 114 53 125 c 258
- 462 534 l 258
- 473 545 486 545 497 534 c 258
+497 534 m 262
+ 522 509 l 262
+ 533 498 533 485 522 474 c 262
+ 113 65 l 262
+ 102 54 89 54 78 65 c 262
+ 53 90 l 262
+ 42 101 42 114 53 125 c 262
+ 462 534 l 262
+ 473 545 486 545 497 534 c 262
 88 600 m 258
  188 600 l 258
  204 600 213 591 213 575 c 258
@@ -9671,46 +9681,57 @@ Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
+Back
+SplineSet
+41 66 m 262
+ 18 87 l 262
+ 6 98 5 110 17 122 c 262
+ 429 534 l 262
+ 440 545 452 546 464 535 c 262
+ 488 514 l 262
+ 500 503 500 490 489 479 c 262
+ 76 66 l 262
+ 65 55 53 55 41 66 c 262
+EndSplineSet
 Fore
 SplineSet
-41 66 m 258
- 18 87 l 258
- 6 98 5 110 17 122 c 258
- 429 534 l 258
- 440 545 452 546 464 535 c 258
- 488 514 l 258
- 500 503 500 490 489 479 c 258
- 76 66 l 258
- 65 55 53 55 41 66 c 258
 88 600 m 258
  188 600 l 258
- 204 600 213 592 213 575 c 258
+ 204 600 213 591 213 575 c 258
  213 485 l 258
  213 469 204 460 188 460 c 258
  88 460 l 258
  72 460 63 469 63 485 c 258
  63 575 l 258
- 63 592 71 600 88 600 c 258
+ 63 591 72 600 88 600 c 258
+461 534 m 258
+ 486 509 l 258
+ 497 498 497 485 486 474 c 258
+ 77 65 l 258
+ 66 54 53 54 42 65 c 258
+ 17 90 l 258
+ 6 101 6 114 17 125 c 258
+ 426 534 l 258
+ 437 545 450 545 461 534 c 258
 253 140 m 258
  328 140 l 258
- 344 140 353 132 353 115 c 258
+ 344 140 353 131 353 115 c 258
  353 25 l 258
  353 9 344 0 328 0 c 258
  253 0 l 258
  237 0 228 9 228 25 c 258
  228 115 l 258
- 228 132 236 140 253 140 c 258
+ 228 131 236 140 253 140 c 258
 458 140 m 258
  533 140 l 258
- 549 140 558 132 558 115 c 258
+ 549 140 558 131 558 115 c 258
  558 25 l 258
  558 9 549 0 533 0 c 258
  458 0 l 258
  442 0 433 9 433 25 c 258
  433 115 l 258
- 433 132 441 140 458 140 c 258
+ 433 131 442 140 458 140 c 258
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -10860,7 +10881,6 @@ Fore
 Refer: 363 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -11366,31 +11386,30 @@ SplineSet
  70 173 l 258
  70 189 79 198 95 198 c 258
  200 198 l 258
- 217 198 225 189 225 173 c 258
+ 216 198 225 189 225 173 c 258
  225 86 l 258
- 225 69 217 61 200 61 c 258
+ 225 70 216 61 200 61 c 258
  95 61 l 258
- 79 61 70 69 70 86 c 258
+ 79 61 70 70 70 86 c 258
 350 86 m 258
  350 173 l 258
  350 189 359 198 375 198 c 258
  480 198 l 258
- 497 198 505 189 505 173 c 258
+ 496 198 505 189 505 173 c 258
  505 86 l 258
- 505 69 497 61 480 61 c 258
+ 505 70 496 61 480 61 c 258
  375 61 l 258
- 359 61 350 69 350 86 c 258
+ 359 61 350 70 350 86 c 258
 210 388 m 258
  210 475 l 258
- 210 492 219 500 235 500 c 258
+ 210 491 219 500 235 500 c 258
  340 500 l 258
- 357 500 365 492 365 475 c 258
+ 356 500 365 491 365 475 c 258
  365 388 l 258
- 365 372 357 363 340 363 c 258
+ 365 372 356 363 340 363 c 258
  235 363 l 258
  219 363 210 372 210 388 c 258
 EndSplineSet
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -11604,7 +11623,6 @@ Fore
 Refer: 385 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 208 -1 N 1 0 0 1 325 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -11626,13 +11644,12 @@ Encoding: 190 190 387
 GlifName: threequarters
 Width: 585
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 385 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 234 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -11853,8 +11870,26 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 324 46 N 0.683 0 0 0.683 -10 1 2
-Refer: 324 46 N 0.683 0 0 0.683 193 1 2
+SplineSet
+362 100 m 258
+ 417 100 l 258
+ 433 100 442 91 442 75 c 258
+ 442 25 l 258
+ 442 9 433 0 417 0 c 258
+ 362 0 l 258
+ 346 0 337 9 337 25 c 258
+ 337 75 l 258
+ 337 91 346 100 362 100 c 258
+158 100 m 258
+ 213 100 l 258
+ 229 100 238 91 238 75 c 258
+ 238 25 l 258
+ 238 9 229 0 213 0 c 258
+ 158 0 l 258
+ 142 0 133 9 133 25 c 258
+ 133 75 l 258
+ 133 91 142 100 158 100 c 258
+EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -14983,13 +15018,12 @@ Encoding: 8528 8528 511
 GlifName: uni2150
 Width: 588
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 361 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15011,13 +15045,12 @@ Encoding: 8529 8529 512
 GlifName: uni2151
 Width: 580
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 288 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15088,13 +15121,12 @@ Encoding: 8531 8531 514
 GlifName: uni2153
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 383 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15116,13 +15148,12 @@ Encoding: 8532 8532 515
 GlifName: uni2154
 Width: 563
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 393 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 383 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15150,7 +15181,6 @@ Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15178,7 +15208,6 @@ Fore
 Refer: 393 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15206,7 +15235,6 @@ Fore
 Refer: 385 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15234,7 +15262,6 @@ Fore
 Refer: 236 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 228 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15256,13 +15283,12 @@ Encoding: 8537 8537 520
 GlifName: uni2159
 Width: 579
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 368 -1 N 1 0 0 1 325 0 2
-Validated: 5
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15290,7 +15316,6 @@ Fore
 Refer: 230 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 368 -1 N 1 0 0 1 325 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15369,13 +15394,12 @@ Encoding: 8585 8585 523
 GlifName: uni2189
 Width: 560
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 711 -1 N 1 0 0 1 0 0 2
 Refer: 237 8260 N 1 0 0 1 250 0 2
 Refer: 383 -1 N 1 0 0 1 325 0 2
-Validated: 1
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -15429,19 +15453,30 @@ Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
+Back
+SplineSet
+82 218 m 262
+ 436 572 l 262
+ 447 583 459 583 469 572 c 262
+ 492 549 l 262
+ 503 538 503 527 492 516 c 262
+ 138 162 l 262
+ 127 151 116 151 105 162 c 262
+ 82 185 l 262
+ 71 196 71 207 82 218 c 262
+EndSplineSet
 Fore
 SplineSet
-82 218 m 258
- 436 572 l 258
- 447 583 459 583 469 572 c 258
- 492 549 l 258
- 503 538 503 527 492 516 c 258
- 138 162 l 258
- 127 151 116 151 105 162 c 258
- 82 185 l 258
- 71 196 71 207 82 218 c 258
+503 584 m 258
+ 528 559 l 258
+ 539 548 539 535 528 524 c 258
+ 119 115 l 258
+ 108 104 95 104 84 115 c 258
+ 59 140 l 258
+ 48 151 48 164 59 175 c 258
+ 468 584 l 258
+ 479 595 492 595 503 584 c 258
 EndSplineSet
-Validated: 33
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
