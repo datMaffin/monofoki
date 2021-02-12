@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1612900191
+ModificationTime: 1613156240
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 18 9
+WinInfo: 8723 13 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -66,7 +66,7 @@ Grid
  1300 349 l 1049
 EndSplineSet
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65591 944
+BeginChars: 65592 945
 
 StartChar: A
 Encoding: 65 65 0
@@ -11117,7 +11117,7 @@ Encoding: 47 47 371
 GlifName: slash
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -25631,6 +25631,26 @@ Encoding: 8811 8811 943
 Width: 575
 Flags: HW
 LayerCount: 2
+EndChar
+
+StartChar: NameMe.65591
+Encoding: 65591 -1 944
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+528 592 m 258
+ 161 -8 l 258
+ 152 -22 141 -26 129 -19 c 258
+ 106 -6 l 258
+ 94 1 91 13 100 27 c 258
+ 467 627 l 258
+ 476 641 487 645 499 638 c 258
+ 522 625 l 258
+ 534 618 537 606 528 592 c 258
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
