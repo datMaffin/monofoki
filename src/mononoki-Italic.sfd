@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1613687534
+ModificationTime: 1613688154
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 26 13 9
+WinInfo: 13 13 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -7510,8 +7510,18 @@ AnchorPoint: "mark-bottom" 248 0 basechar 0
 AnchorPoint: "mark-ogonek" 423 25 basechar 0
 LayerCount: 2
 Fore
-Refer: 720 775 N 1 0 0 1 577 10 2
-Refer: 198 305 N 1 0 0 1 0 0 3
+SplineSet
+377 644 m 258
+ 312 644 l 258
+ 296 644 289 653 291 669 c 258
+ 302 735 l 258
+ 304 751 315 760 331 760 c 258
+ 396 760 l 258
+ 412 760 420 752 417 735 c 258
+ 406 669 l 258
+ 404 653 394 644 377 644 c 258
+EndSplineSet
+Refer: 198 305 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: iacute
@@ -7792,8 +7802,36 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 720 775 N 1 0 0 1 709 10 2
-Refer: 408 567 N 1 0 0 1 0 0 3
+SplineSet
+461 760 m 258
+ 526 760 l 258
+ 542 760 550 752 547 735 c 258
+ 536 669 l 258
+ 534 653 524 644 507 644 c 258
+ 442 644 l 258
+ 426 644 419 653 421 669 c 258
+ 432 735 l 258
+ 434 751 445 760 461 760 c 258
+504 365 m 259
+ 504 345 502 324 498 300 c 258
+ 469 120 l 258
+ 436 -90 308 -160 182 -160 c 259
+ 131 -160 81 -150 37 -130 c 256
+ 23 -124 21 -112 29 -97 c 258
+ 43 -73 l 258
+ 51 -58 63 -53 77 -59 c 256
+ 119 -75 153 -82 194 -82 c 259
+ 283 -82 359 -36 383 120 c 258
+ 412 300 l 258
+ 415 319 417 336 417 351 c 259
+ 417 413 389 435 333 435 c 259
+ 309 435 281 431 248 425 c 256
+ 231 422 221 429 222 445 c 258
+ 221 473 l 258
+ 221 488 229 499 246 502 c 256
+ 283 508 317 512 348 512 c 259
+ 440 512 504 478 504 365 c 259
+EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
