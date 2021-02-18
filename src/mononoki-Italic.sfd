@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1613688154
+ModificationTime: 1613688270
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 13 13 9
+WinInfo: 117 13 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -7848,7 +7848,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 717 770 N 1 0 0 1 598.863 31.5932 2
+Refer: 717 770 N 1 0 0 1 716 55 2
 Refer: 408 567 N 1 0 0 1 0 0 3
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -21822,7 +21822,7 @@ Width: 575
 Flags: H
 LayerCount: 2
 Fore
-Refer: 723 780 N 1 0 0 1 598.801 31 2
+Refer: 723 780 N 1 0 0 1 716 55 2
 Refer: 408 567 N 1 0 0 1 0 0 3
 EndChar
 
