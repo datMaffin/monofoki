@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1613171776
+ModificationTime: 1613681786
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8424 13 9
+WinInfo: 8671 13 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -7032,7 +7032,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 525 8725 N 1 0 0 1 -250 15 2
+Refer: 525 8725 S 1 0 0 1 -250 15 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
@@ -7878,7 +7878,7 @@ GlifName: iota
 Width: 575
 VWidth: 0
 Flags: HMW
-AnchorPoint: "mark-top" 288 500 basechar 0
+AnchorPoint: "mark-top" 218 500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7887,10 +7887,10 @@ SplineSet
  450 16 444 4 427 0 c 256
  390 -9 359 -10 339 -10 c 256
  225 -10 175 40 175 150 c 257
- 175 476 l 257
- 174 493 184 501 200 501 c 258
- 235 501 l 258
- 251 501 260 493 260 476 c 258
+ 175 475 l 258
+ 175 491 184 500 200 500 c 258
+ 235 500 l 258
+ 251 500 260 491 260 475 c 258
  260 150 l 258
  260 91 279 68 339 67 c 256
  355 67 379 68 404 74 c 256
@@ -15002,7 +15002,7 @@ Flags: HMW
 LayerCount: 2
 Fore
 Refer: 309 -1 N 1 0 0 1 0 0 2
-Refer: 237 8260 N 1 0 0 1 250 0 2
+Refer: 237 8260 S 1 0 0 1 250 0 2
 Refer: 361 -1 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
@@ -22456,7 +22456,7 @@ Width: 575
 Flags: H
 LayerCount: 2
 Fore
-Refer: 714 776 N 1 0 0 1 1 10 2
+Refer: 714 776 N 1 0 0 1 -69 10 2
 Refer: 264 953 N 1 0 0 1 0 0 3
 EndChar
 
@@ -23020,7 +23020,7 @@ Width: 575
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 854 8314 N 1 0 0 1 0 -400 2
+Refer: 854 8314 S 1 0 0 1 0 -400 2
 EndChar
 
 StartChar: uni208B
@@ -24180,7 +24180,7 @@ Encoding: 8708 8708 909
 Width: 575
 Flags: HW
 LayerCount: 2
-Fore
+Back
 SplineSet
 490 575 m 2
  490 25 l 2
@@ -24226,6 +24226,9 @@ SplineSet
  405 77 l 1
  405 268 l 1
 EndSplineSet
+Fore
+Refer: 944 -1 N 1 0 0 1 -26 0 2
+Refer: 908 8707 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: element
@@ -25531,7 +25534,7 @@ SplineSet
  490 25 l 2
  490 8 482 0 465 0 c 2
  356 0 l 2
- 175.053710938 0 80 121.8359375 80 311 c 259
+ 175.053710938 0 80 121.8359375 80 311 c 263
  80 500.118164062 175.07421875 622 356 622 c 2
  465 622 l 2
  482 622 490 614 490 597 c 2
