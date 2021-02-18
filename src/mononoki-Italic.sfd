@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1613689082
+ModificationTime: 1613690305
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -48,13 +48,12 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 273 13 9
+WinInfo: 10179 13 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -67,7 +66,7 @@ Grid
  1300 349 l 1049
 EndSplineSet
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65593 966
+BeginChars: 65593 969
 
 StartChar: A
 Encoding: 65 65 0
@@ -25830,6 +25829,114 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 524 8710 N -1 0 -0 -1 589.117 574 2
+EndChar
+
+StartChar: uni2982
+Encoding: 10626 10626 966
+Width: 575
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+439 690 m 0
+ 461 676 476 656 486 632 c 0
+ 496 608 498 581 493 552 c 256
+ 488 523 478 496 460 472 c 0
+ 442 448 421 428 395 414 c 0
+ 369 400 342 394 313 394 c 0
+ 282 394 257 400 234 414 c 0
+ 211 428 195 448 185 472 c 0
+ 175 496 171 523 176 552 c 256
+ 181 581 192 608 210 632 c 0
+ 228 656 250 676 277 690 c 0
+ 304 704 332 710 363 710 c 0
+ 392 710 417 704 439 690 c 0
+292 610 m 0
+ 275 595 265 576 261 552 c 256
+ 257 528 262 509 274 494 c 0
+ 286 479 303 472 326 472 c 0
+ 346 472 363 479 379 494 c 0
+ 395 509 404 528 408 552 c 256
+ 412 576 409 595 398 610 c 0
+ 387 625 371 632 351 632 c 0
+ 328 632 309 625 292 610 c 0
+375 286 m 0
+ 397 272 412 252 422 228 c 0
+ 432 204 434 177 429 148 c 256
+ 424 119 414 92 396 68 c 0
+ 378 44 357 24 331 10 c 0
+ 305 -4 278 -10 249 -10 c 0
+ 218 -10 193 -4 170 10 c 0
+ 147 24 131 44 121 68 c 0
+ 111 92 107 119 112 148 c 256
+ 117 177 128 204 146 228 c 0
+ 164 252 186 272 213 286 c 0
+ 240 300 268 306 299 306 c 0
+ 328 306 353 300 375 286 c 0
+228 206 m 0
+ 211 191 201 172 197 148 c 256
+ 193 124 198 105 210 90 c 0
+ 222 75 239 68 262 68 c 0
+ 282 68 299 75 315 90 c 0
+ 331 105 340 124 344 148 c 256
+ 348 172 345 191 334 206 c 0
+ 323 221 307 228 287 228 c 0
+ 264 228 245 221 228 206 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni27E8
+Encoding: 10216 10216 967
+Width: 575
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+582 736 m 2
+ 588 730 591 724 590 717 c 0
+ 589 712 586 706 580 700 c 2
+ 156 275 l 1
+ 445 -150 l 2
+ 449 -156 451 -162 450 -167 c 0
+ 449 -174 444 -180 436 -186 c 2
+ 407 -205 l 2
+ 402 -209 396 -211 390 -211 c 0
+ 383 -211 377 -208 372 -201 c 2
+ 61 257 l 2
+ 57 262 56 268 57 275 c 0
+ 58 282 61 288 66 293 c 2
+ 523 751 l 2
+ 530 758 537 761 544 761 c 0
+ 550 761 555 759 559 755 c 2
+ 582 736 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni27E9
+Encoding: 10217 10217 968
+Width: 575
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+169 755 m 2
+ 175 759 181 761 186 761 c 0
+ 193 761 198 758 203 751 c 2
+ 514 293 l 2
+ 518 288 521 282 520 275 c 0
+ 519 270 515 264 509 257 c 2
+ 52 -201 l 2
+ 45 -208 39 -211 32 -211 c 0
+ 26 -211 21 -209 17 -205 c 2
+ -6 -186 l 2
+ -12 -180 -15 -174 -14 -167 c 0
+ -13 -162 -11 -156 -5 -150 c 2
+ 420 275 l 1
+ 130 700 l 2
+ 126 706 125 712 126 717 c 0
+ 127 724 132 730 140 736 c 2
+ 169 755 l 2
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
