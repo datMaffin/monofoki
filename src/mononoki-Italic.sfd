@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1613156240
+ModificationTime: 1613680209
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8723 13 9
+WinInfo: 8268 13 9
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -23089,7 +23089,7 @@ Width: 575
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 854 8314 N 1 0 0 1 -95 -600 2
+Refer: 854 8314 N 1 0 0 1 -65 -400 2
 EndChar
 
 StartChar: uni208B
@@ -23098,7 +23098,7 @@ Width: 575
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 855 8315 N 1 0 0 1 -95 -600 2
+Refer: 855 8315 N 1 0 0 1 -65 -400 2
 EndChar
 
 StartChar: uni208C
@@ -23107,7 +23107,7 @@ Width: 575
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 856 8316 N 1 0 0 1 -95 -600 2
+Refer: 856 8316 N 1 0 0 1 -65 -400 2
 EndChar
 
 StartChar: uni208D
@@ -23116,7 +23116,7 @@ Width: 575
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 857 8317 N 1 0 0 1 -96 -600 2
+Refer: 857 8317 N 1 0 0 1 -65 -400 2
 EndChar
 
 StartChar: uni208E
@@ -23125,7 +23125,7 @@ Width: 575
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 858 8318 N 1 0 0 1 -95 -600 2
+Refer: 858 8318 N 1 0 0 1 -65 -400 2
 EndChar
 
 StartChar: uni2102
