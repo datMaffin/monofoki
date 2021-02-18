@@ -3,7 +3,7 @@ FontName: MononokiFork-Regular
 FullName: Mononoki Fork Regular
 FamilyName: MononokiFork
 Weight: Regular
-Copyright: Modifications:\nCopyright (c) 2020-2021, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2017, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+Copyright: Modifications:\nCopyright (c) 2020-2021, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2021, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 Version: 2.0
 ItalicAngle: 0
 UnderlinePosition: 0
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1613690120
+ModificationTime: 1613690666
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -25938,7 +25938,7 @@ EndChar
 StartChar: uni27E8
 Encoding: 10216 10216 964
 Width: 575
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
