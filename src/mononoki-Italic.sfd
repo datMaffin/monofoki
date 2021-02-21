@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1613690680
+ModificationTime: 1613931284
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 10179 13 9
+WinInfo: 676 13 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -67,7 +67,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 432138 588800 294400 196266 512000 1048576 196266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65593 969
+BeginChars: 65593 988
 
 StartChar: A
 Encoding: 65 65 0
@@ -21272,10 +21272,10 @@ Width: 0
 VWidth: 0
 GlyphClass: 4
 Flags: HMW
-AnchorPoint: "mark-top" -250 490 mark 0
+AnchorPoint: "mark-top" -288 490 mark 0
 LayerCount: 2
 Fore
-Refer: 281 175 N 1 0 0 1 -575 0 2
+Refer: 972 713 N 1 0 0 1 -575 0 2
 EndChar
 
 StartChar: uni0324
@@ -21309,7 +21309,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 344 39 N -1 0 0 -1 679.645 1163 2
+Refer: 343 8218 N -1 0 0 -1 560 518 2
 EndChar
 
 StartChar: afii57929
@@ -21319,7 +21319,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 344 39 N 1 0 0 1 0 0 2
+Refer: 343 8218 N 1 0 0 1 83 635 2
 EndChar
 
 StartChar: uni0312
@@ -21328,6 +21328,7 @@ Width: 0
 VWidth: 0
 GlyphClass: 4
 Flags: HW
+AnchorPoint: "mark-top" -288 445 mark 0
 LayerCount: 2
 Fore
 Refer: 729 699 N 1 0 0 1 -575 0 2
@@ -25938,6 +25939,221 @@ SplineSet
  127 724 132 730 140 736 c 2
  169 755 l 2
 EndSplineSet
+EndChar
+
+StartChar: uni02B9
+Encoding: 697 697 969
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 344 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02BA
+Encoding: 698 698 970
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 969 697 N 1 0 0 1 98 0 2
+Refer: 969 697 N 1 0 0 1 -96 0 2
+EndChar
+
+StartChar: afii64937
+Encoding: 701 701 971
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+390 749 m 258
+ 310 749 l 258
+ 294 749 284 741 281 724 c 258
+ 266 632 l 258
+ 249 523 263 427 359 427 c 256
+ 375 427 384 435 387 451 c 258
+ 392 478 l 258
+ 395 494 388 503 372 503 c 256
+ 333 503 333 559 346 634 c 257
+ 371 634 l 258
+ 387 634 397 643 400 659 c 258
+ 411 724 l 258
+ 414 741 407 749 390 749 c 258
+EndSplineSet
+EndChar
+
+StartChar: uni02C9
+Encoding: 713 713 972
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 281 175 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02CA
+Encoding: 714 714 973
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 140 180 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02CB
+Encoding: 715 715 974
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 242 96 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02CD
+Encoding: 717 717 975
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 972 713 N 1 0 0 1 -122 -775 2
+EndChar
+
+StartChar: uni02CE
+Encoding: 718 718 976
+Width: 575
+VWidth: -775
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 715 768 N 1 0 0 1 453 -775 2
+EndChar
+
+StartChar: uni02CF
+Encoding: 719 719 977
+Width: 575
+VWidth: -775
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 716 769 N 1 0 0 1 453 -775 2
+EndChar
+
+StartChar: uni02D7
+Encoding: 727 727 978
+Width: 575
+VWidth: -775
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 282 8722 N 1 0 0 1 -65 -424 2
+EndChar
+
+StartChar: uni0313
+Encoding: 787 787 979
+Width: 0
+VWidth: 0
+Flags: HW
+AnchorPoint: "mark-top" -288 445 mark 0
+LayerCount: 2
+Fore
+Refer: 730 700 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0314
+Encoding: 788 788 980
+Width: 0
+VWidth: 0
+Flags: HW
+AnchorPoint: "mark-top" -288 445 mark 0
+LayerCount: 2
+Fore
+Refer: 729 699 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0316
+Encoding: 790 790 981
+Width: 0
+VWidth: -775
+InSpiro: 1
+Flags: HW
+AnchorPoint: "mark-bottom" -328 0 mark 0
+LayerCount: 2
+Fore
+Refer: 976 718 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0317
+Encoding: 791 791 982
+Width: 0
+VWidth: -775
+Flags: HW
+AnchorPoint: "mark-bottom" -328 0 mark 0
+LayerCount: 2
+Fore
+Refer: 977 719 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0320
+Encoding: 800 800 983
+Width: 0
+VWidth: -775
+Flags: HW
+AnchorPoint: "mark-bottom" -328 0 mark 0
+LayerCount: 2
+Fore
+Refer: 978 727 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni0325
+Encoding: 805 805 984
+Width: 0
+VWidth: -775
+Flags: HW
+AnchorPoint: "mark-bottom" -328 0 mark 0
+LayerCount: 2
+Fore
+Refer: 985 755 N 1 0 0 1 -575 0 2
+EndChar
+
+StartChar: uni02F3
+Encoding: 755 755 985
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 351 730 N 1 0 0 1 -122 -775 2
+EndChar
+
+StartChar: uni0326
+Encoding: 806 806 986
+Width: 0
+VWidth: -775
+Flags: HW
+AnchorPoint: "mark-bottom" -328 0 mark 0
+LayerCount: 2
+Fore
+Refer: 979 787 N 1 0 0 1 -122 -775 2
+EndChar
+
+StartChar: uni0331
+Encoding: 817 817 987
+Width: 0
+VWidth: -775
+Flags: HW
+AnchorPoint: "mark-bottom" -328 0 mark 0
+LayerCount: 2
+Fore
+Refer: 975 717 N 1 0 0 1 -575 0 2
+Refer: 975 717 N 1 0 0 1 -575 0 2
 EndChar
 EndChars
 EndSplineFont
