@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1615393519
+ModificationTime: 1615402006
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 855 19 8
+WinInfo: 836 19 8
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [97]
@@ -67,7 +67,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 432138 588800 294400 196266 512000 1048576 196266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek""" 
-BeginChars: 65593 1021
+BeginChars: 65593 1022
 
 StartChar: A
 Encoding: 65 65 0
@@ -29431,6 +29431,16 @@ AnchorPoint: "mark-top" 327 500 basechar 0
 LayerCount: 2
 Fore
 Refer: 353 115 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni037E
+Encoding: 894 894 1021
+Width: 575
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 359 59 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
