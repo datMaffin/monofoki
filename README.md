@@ -1,4 +1,4 @@
-# Fork of the font Mononoki
+# Fork of the font Mononoki; *Monofoki*
 Original repository: https://github.com/madmalik/mononoki
 
 ## Goals of this fork

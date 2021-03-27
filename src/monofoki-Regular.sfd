@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: MononokiFork-Regular
-FullName: Mononoki Fork Regular
-FamilyName: MononokiFork
+FontName: Monofoki-Regular
+FullName: Monofoki Regular
+FamilyName: Monofoki
 Weight: Regular
-Copyright: Modifications:\nCopyright (c) 2020-2021, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2021, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+Copyright: Modifications:\nCopyright (c) 2020-2021, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2021, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\nhttps://scripts.sil.org/OFL
 Version: 2.0
 ItalicAngle: 0
 UnderlinePosition: 0
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1615401961
+ModificationTime: 315532800
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5

@@ -30,20 +30,20 @@ END
 
 }
 
-generate 'src/mononoki-Regular.sfd' 'export/MononokiFork-Regular.ttf'
-generate 'src/mononoki-Italic.sfd' 'export/MononokiFork-Italic.ttf'
-generate 'src/mononoki-Bold.sfd' 'export/MononokiFork-Bold.ttf'
-generate 'src/mononoki-BoldItalic.sfd' 'export/MononokiFork-BoldItalic.ttf'
+generate 'src/monofoki-Regular.sfd' 'export/Monofoki-Regular.ttf'
+generate 'src/monofoki-Italic.sfd' 'export/Monofoki-Italic.ttf'
+generate 'src/monofoki-Bold.sfd' 'export/Monofoki-Bold.ttf'
+generate 'src/monofoki-Bold-Italic.sfd' 'export/Monofoki-Bold-Italic.ttf'
 
 if [[ "$*" == --hint ]]
 then
-  ttfautohint export/MononokiFork-Regular.ttf export/MononokiFork-Regular-hinted.ttf
-  ttfautohint export/MononokiFork-Italic.ttf export/MononokiFork-Italic-hinted.ttf
-  ttfautohint export/MononokiFork-Bold.ttf export/MononokiFork-Bold-hinted.ttf
-  ttfautohint export/MononokiFork-BoldItalic.ttf export/MononokiFork-BoldItalic-hinted.ttf
+  ttfautohint export/Monofoki-Regular.ttf export/Monofoki-Regular-hinted.ttf
+  ttfautohint export/Monofoki-Italic.ttf export/Monofoki-Italic-hinted.ttf
+  ttfautohint export/Monofoki-Bold.ttf export/Monofoki-Bold-hinted.ttf
+  ttfautohint export/Monofoki-Bold-Italic.ttf export/Monofoki-Bold-Italic-hinted.ttf
 fi
 
-generate 'src/mononoki-Regular.sfd' 'export/MononokiFork-Regular.otf'
-generate 'src/mononoki-Italic.sfd' 'export/MononokiFork-Italic.otf'
-generate 'src/mononoki-Bold.sfd' 'export/MononokiFork-Bold.otf'
-generate 'src/mononoki-BoldItalic.sfd' 'export/MononokiFork-BoldItalic.otf'
+generate 'src/monofoki-Regular.sfd' 'export/Monofoki-Regular.otf'
+generate 'src/monofoki-Italic.sfd' 'export/Monofoki-Italic.otf'
+generate 'src/monofoki-Bold.sfd' 'export/Monofoki-Bold.otf'
+generate 'src/monofoki-Bold-Italic.sfd' 'export/Monofoki-Bold-Italic.otf'

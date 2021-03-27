@@ -1,4 +1,5 @@
 # How to contribute
+Written by original Mononoki author Matthias Tellen
 
 ### adding glyphs
 
