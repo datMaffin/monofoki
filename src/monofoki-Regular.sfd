@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1626607697
+ModificationTime: 1626609160
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8689,10 +8689,10 @@ Encoding: 954 954 268
 GlifName: kappa
 Width: 575
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 300 233 m 258
  502 31 l 258
@@ -8718,6 +8718,37 @@ SplineSet
  300 287 l 258
  291 278 282 269 253 260 c 257
  282 251 291 242 300 233 c 258
+EndSplineSet
+Fore
+SplineSet
+340 452 m 258
+ 200 307 l 258
+ 186.635315312 292.429479099 175 285 170 285 c 257
+ 170 476 l 258
+ 170 492 161 501 145 501 c 258
+ 110 501 l 258
+ 94 501 85 492 85 476 c 258
+ 85 25 l 258
+ 85 9 94 0 110 0 c 258
+ 145 0 l 258
+ 161 0 170 9 170 25 c 258
+ 170 236 l 257
+ 175 236 186 228 200 214 c 258
+ 400 13 l 258
+ 409 4 418 0 431 0 c 258
+ 489 0 l 258
+ 512 0 518 15 502 31 c 258
+ 300 233 l 258
+ 291 242 282 251 253 260 c 257
+ 273 272 281.836914062 279.352539062 290 289 c 258
+ 390 391 l 258
+ 412.151367188 417.1796875 435 424 452 424 c 2
+ 464 424 l 274
+ 480 424 489 433 489 449 c 258
+ 489 475 l 258
+ 489 491 480 500 464 500 c 266
+ 435 500 l 2
+ 403 500 372.63671875 487.581054688 340 452 c 258
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d
@@ -21341,7 +21372,7 @@ Encoding: 965 965 688
 GlifName: upsilon
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
