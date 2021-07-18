@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
-ModificationTime: 1626607400
+ModificationTime: 1626607697
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8494 31 12
+WinInfo: 775 31 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -11956,10 +11956,10 @@ Encoding: 8721 8721 374
 GlifName: summation
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 99 931 N 1 0 0 1 0 0 2
+Refer: 99 931 S 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d
 p1
@@ -21341,11 +21341,29 @@ Encoding: 965 965 688
 GlifName: upsilon
 Width: 575
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "mark-top" 288 500 basechar 0
 LayerCount: 2
 Fore
-Refer: 395 117 N 1 0 0 1 0 0 2
+SplineSet
+495 330 m 274
+ 495 425 471 479 417 500 c 257
+ 402 505 391 498 386 484 c 258
+ 374 453 l 257
+ 369 438 375 431 386 421 c 256
+ 403 406 410 377 410 330 c 266
+ 410 192 l 258
+ 410 98 378 66 287 66 c 259
+ 196 66 164 98 164 192 c 258
+ 164 475 l 258
+ 164 491 155 500 139 500 c 258
+ 104 500 l 258
+ 88 500 79 491 79 475 c 258
+ 79 192 l 258
+ 79 46 139 -10 287 -10 c 259
+ 435 -10 495 46 495 192 c 258
+ 495 330 l 274
+EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d
 p1
