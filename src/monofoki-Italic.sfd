@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 780 30 10
+WinInfo: 8610 30 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -11716,30 +11716,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
-SplineSet
-592 674 m 257
- 588 647 l 257
- 585 631 575 622 559 622 c 258
- 232 622 l 257
- 448 367 l 258
- 458 356 456 344 442 332 c 258
- 146 77 l 257
- 473 77 l 258
- 489 77 496 68 494 52 c 258
- 489 25 l 258
- 487 9 476 0 460 0 c 258
- 37 0 l 258
- 21 0 14 9 17 26 c 258
- 19 43 l 258
- 21 57 25 65 33 73 c 257
- 353 349 l 257
- 121 626 l 257
- 115 634 114 642 116 656 c 258
- 119 673 l 258
- 122 690 132 699 148 699 c 258
- 571 699 l 258
- 587 699 595 690 592 674 c 257
-EndSplineSet
+Refer: 99 931 S 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d
 p1
