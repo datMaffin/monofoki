@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8339 31 12
+WinInfo: 0 31 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -12631,17 +12631,17 @@ Encoding: 50 50 390
 GlifName: two
 Width: 575
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
 170 77 m 257
  489 77 l 258
  505 77 514 68 514 52 c 258
- 514 24 l 258
- 514 8 505 -1 489 -1 c 258
- 109 -1 l 258
- 93 -1 84 8 84 24 c 258
+ 514 25 l 258
+ 514 9 505 0 489 0 c 258
+ 109 0 l 258
+ 93 0 84 9 84 25 c 258
  84 48 l 258
  84 183 189 256 259 309 c 256
  343 375 410 429 410 514 c 259
@@ -26969,7 +26969,7 @@ EndChar
 StartChar: uni212F
 Encoding: 8495 8495 963
 Width: 575
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
