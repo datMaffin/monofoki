@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8494 31 12
+WinInfo: 65224 31 12
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [97]
@@ -7399,7 +7399,7 @@ EndChar
 StartChar: eight.dnom
 Encoding: 65551 -1 208
 GlifName: eight.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -7470,7 +7470,7 @@ EndChar
 StartChar: eight.numr
 Encoding: 65553 -1 210
 GlifName: eight.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -8233,7 +8233,7 @@ EndChar
 StartChar: five.dnom
 Encoding: 65558 -1 228
 GlifName: five.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -8269,7 +8269,6 @@ SplineSet
  118.626409872 226 l 1
  127 226 l 2
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: five.hex
@@ -8320,13 +8319,12 @@ EndChar
 StartChar: five.numr
 Encoding: 65560 -1 230
 GlifName: five.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 Refer: 228 -1 N 1 0 0 1 0 400 2
-Validated: 1
 EndChar
 
 StartChar: fiveeighths
@@ -8459,7 +8457,7 @@ EndChar
 StartChar: four.dnom
 Encoding: 65561 -1 234
 GlifName: four.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -8496,7 +8494,6 @@ SplineSet
  161.311315462 219.260003812 l 1
  167.679381494 225.264818626 176.443701485 229 186 229 c 2
 EndSplineSet
-Validated: 37
 EndChar
 
 StartChar: four.hex
@@ -8534,13 +8531,12 @@ EndChar
 StartChar: four.numr
 Encoding: 65563 -1 236
 GlifName: four.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 234 -1 N 1 0 0 1 0 400 2
-Validated: 5
 EndChar
 
 StartChar: fraction
@@ -10375,7 +10371,7 @@ EndChar
 StartChar: nine.dnom
 Encoding: 65570 -1 288
 GlifName: nine.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -10407,7 +10403,6 @@ SplineSet
  182.333887392 247.946612927 177.910125072 265.915190195 171.642042073 277.395273993 c 0
  163.400642748 292.489514912 152.258992424 298 135 298 c 0
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: nine.hex
@@ -10458,13 +10453,12 @@ EndChar
 StartChar: nine.numr
 Encoding: 65572 -1 290
 GlifName: nine.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 288 -1 N 1 0 0 1 0 400 2
-Validated: 1
 EndChar
 
 StartChar: notequal
@@ -11039,7 +11033,7 @@ EndChar
 StartChar: one.dnom
 Encoding: 65573 -1 307
 GlifName: one.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -11067,7 +11061,6 @@ SplineSet
  117 59 l 1
  117 240 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: one.hex
@@ -11105,13 +11098,12 @@ EndChar
 StartChar: one.numr
 Encoding: 65575 -1 309
 GlifName: one.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 307 -1 S 1 0 0 1 0 400 2
-Validated: 1
+Refer: 307 -1 N 1 0 0 1 0 400 2
 EndChar
 
 StartChar: onedotenleader
@@ -12927,7 +12919,7 @@ EndChar
 StartChar: seven.dnom
 Encoding: 65576 -1 361
 GlifName: seven.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -12954,7 +12946,6 @@ SplineSet
  21 338 l 2
  21 355.962284384 36.1041849295 370 55 370 c 2
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: seven.hex
@@ -13018,13 +13009,12 @@ EndChar
 StartChar: seven.numr
 Encoding: 65578 -1 363
 GlifName: seven.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 361 -1 N 1 0 0 1 0 400 2
-Validated: 1
 EndChar
 
 StartChar: seveneighths
@@ -13210,7 +13200,7 @@ EndChar
 StartChar: six.dnom
 Encoding: 65579 -1 368
 GlifName: six.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -13243,7 +13233,6 @@ SplineSet
  94.6655944216 104.060346682 99.0981311521 86.1051822063 105.423746417 74.6448063725 c 0
  113.729606461 59.5967400982 125.087763188 54 143 54 c 0
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: six.hex
@@ -13294,13 +13283,12 @@ EndChar
 StartChar: six.numr
 Encoding: 65581 -1 370
 GlifName: six.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 368 -1 N 1 0 0 1 0 400 2
-Validated: 1
 EndChar
 
 StartChar: slash
@@ -13779,7 +13767,7 @@ EndChar
 StartChar: three.dnom
 Encoding: 65582 -1 383
 GlifName: three.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -13814,7 +13802,6 @@ SplineSet
  110.631595153 296 95.4473711168 294.552160367 82.4297608764 291.297757807 c 0
  79.5290692271 290.572584894 76.5790264249 290.235498012 73.6342007354 290.235498012 c 0
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: three.hex
@@ -13865,13 +13852,12 @@ EndChar
 StartChar: three.numr
 Encoding: 65584 -1 385
 GlifName: three.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 383 -1 N 1 0 0 1 0 400 2
-Validated: 1
 EndChar
 
 StartChar: threeeighths
@@ -14097,7 +14083,7 @@ EndChar
 StartChar: two.dnom
 Encoding: 65585 -1 391
 GlifName: two.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -14126,7 +14112,6 @@ SplineSet
  28.7573760503 317.169213474 l 2
  27.1369612653 320.846591734 26.3676159399 324.718210179 26.3676159399 328.540098039 c 0
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: two.hex
@@ -14164,13 +14149,12 @@ EndChar
 StartChar: two.numr
 Encoding: 65587 -1 393
 GlifName: two.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 Refer: 391 -1 N 1 0 0 1 0 400 2
-Validated: 1
 EndChar
 
 StartChar: twodotenleader
@@ -23988,7 +23972,7 @@ EndChar
 StartChar: zero.dnom
 Encoding: 65588 -1 709
 GlifName: zero.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -24010,7 +23994,6 @@ SplineSet
  152.834621563 54 160.967059596 57.6958396381 168.646626237 66.2114881313 c 0
  183.725932719 82.9324933036 195.238660535 118.443121149 195.963720076 169.824357576 c 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: zero.hex
@@ -24033,13 +24016,12 @@ EndChar
 StartChar: zero.numr
 Encoding: 65590 -1 711
 GlifName: zero.numr
-Width: 250
+Width: 575
 VWidth: 0
-Flags: MW
+Flags: MWO
 LayerCount: 2
 Fore
 Refer: 709 -1 N 1 0 0 1 0 400 2
-Validated: 1
 EndChar
 
 StartChar: zeta

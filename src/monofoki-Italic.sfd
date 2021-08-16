@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 832 32 10
+WinInfo: 65280 32 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -6287,7 +6287,7 @@ EndChar
 StartChar: eight.dnom
 Encoding: 65551 -1 208
 GlifName: eight.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -6346,7 +6346,7 @@ EndChar
 StartChar: eight.numr
 Encoding: 65553 -1 210
 GlifName: eight.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -6992,7 +6992,7 @@ EndChar
 StartChar: five.dnom
 Encoding: 65558 -1 228
 GlifName: five.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -7064,7 +7064,7 @@ EndChar
 StartChar: five.numr
 Encoding: 65560 -1 230
 GlifName: five.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -7189,7 +7189,7 @@ EndChar
 StartChar: four.dnom
 Encoding: 65561 -1 234
 GlifName: four.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -7256,7 +7256,7 @@ EndChar
 StartChar: four.numr
 Encoding: 65563 -1 236
 GlifName: four.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -8902,7 +8902,7 @@ EndChar
 StartChar: nine.dnom
 Encoding: 65570 -1 288
 GlifName: nine.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -8968,7 +8968,7 @@ EndChar
 StartChar: nine.numr
 Encoding: 65572 -1 290
 GlifName: nine.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -9499,7 +9499,7 @@ EndChar
 StartChar: one.dnom
 Encoding: 65573 -1 307
 GlifName: one.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -9559,7 +9559,7 @@ EndChar
 StartChar: one.numr
 Encoding: 65575 -1 309
 GlifName: one.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -11256,7 +11256,7 @@ EndChar
 StartChar: seven.dnom
 Encoding: 65576 -1 361
 GlifName: seven.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -11334,7 +11334,7 @@ EndChar
 StartChar: seven.numr
 Encoding: 65578 -1 363
 GlifName: seven.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -11518,7 +11518,7 @@ EndChar
 StartChar: six.dnom
 Encoding: 65579 -1 368
 GlifName: six.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -11584,7 +11584,7 @@ EndChar
 StartChar: six.numr
 Encoding: 65581 -1 370
 GlifName: six.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -12046,7 +12046,7 @@ EndChar
 StartChar: three.dnom
 Encoding: 65582 -1 383
 GlifName: three.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -12120,7 +12120,7 @@ EndChar
 StartChar: three.numr
 Encoding: 65584 -1 385
 GlifName: three.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -12314,7 +12314,7 @@ EndChar
 StartChar: two.dnom
 Encoding: 65585 -1 391
 GlifName: two.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -12373,7 +12373,7 @@ EndChar
 StartChar: two.numr
 Encoding: 65587 -1 393
 GlifName: two.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -21632,7 +21632,7 @@ EndChar
 StartChar: zero.dnom
 Encoding: 65588 -1 709
 GlifName: zero.dnom
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -21676,7 +21676,7 @@ EndChar
 StartChar: zero.numr
 Encoding: 65590 -1 711
 GlifName: zero.numr
-Width: 250
+Width: 575
 VWidth: 0
 Flags: HMW
 LayerCount: 2
