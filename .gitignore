@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,fontforge,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,fontforge,vim
 
+
+### Font output ###
+*.ttf
+*.otf
+
 ### FontForge ###
 *.sfd-*
 *.sfd~
