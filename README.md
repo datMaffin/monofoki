@@ -4,8 +4,14 @@ Original repository: https://github.com/madmalik/mononoki
 ## [Specimen](script_helper/specimen.pdf)
 
 ## Goals of this fork
-The goal of this fork is to "improve" the mononoki font by changing it to use 
-my preferences:
+The goal of this fork is to change the Mononoki font to use my preferences. 
+This means that various glyphs and their dependencies were modified and that the bold style no longer has a larger height than the regular style.
+
+This version also tries to fix all the known issues and at times adds additional glyphs.
+
+**Disclaimer: I am *not* a professional in the field of type-design!**
+
+### Fundamental changes were:
 - [x] Make the "m" similar to Ubuntu Mono "m"
 - [x] Decrease width of "n" similar to Ubuntu Mono
   + Change glyphs dependent on "n" correspondingly: "h", "r", "u", "k"
@@ -36,7 +42,7 @@ my preferences:
       Java/Intellij Idea issue; probably not related to TTF autohinted)
 - [x] CANCELED: Put "E" and "F" middle stroke ontu the same height
 
-## Further experiments/provide more options
+#### Further experiments/provide more options
 * Lower the bar of "f" similar to Consolas
 * Create a build pipeline (with the source being FontForge .sfd files)
   - Use ttfautohint
