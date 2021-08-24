@@ -1,0 +1,85 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage{fontspec}
+\usepackage{fonttable}
+\usepackage{lipsum}
+
+\begin{document}
+
+\setmainfont{Monofoki-Regular.otf}[
+Path = ../export/,
+BoldFont = Monofoki-Bold.otf,
+ItalicFont = Monofoki-Italic.otf,
+BoldItalicFont  = Monofoki-Bold-Italic.otf]
+
+\section*{Regular}
+
+\noindent\AZtext\\
+\noindent\aztext\\
+\noindent Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ~~ Τ Υ Φ Χ Ψ Ω\\
+\noindent α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς τ υ φ χ ψ ω\\
+\noindent\digitstext\\
+\noindent\punctext\\
+
+\lipsum[0-1]
+~\\
+~\\
+\noindent ÄÖÜ öäü Straße STRAẞE\\
+
+\newpage
+
+\section*{Bold}
+
+\noindent\textbf{%
+\noindent\AZtext\\
+\noindent\aztext\\
+\noindent Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ~~ Τ Υ Φ Χ Ψ Ω\\
+\noindent α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς τ υ φ χ ψ ω\\
+\noindent\digitstext\\
+\noindent\punctext\\
+~
+\lipsum[0-1]
+~\\
+~\\
+\noindent ÄÖÜ öäü Straße STRAẞE\\
+}
+
+\newpage
+
+\section*{Italic}
+
+\noindent\textit{%
+\noindent\AZtext\\
+\noindent\aztext\\
+\noindent Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ~~ Τ Υ Φ Χ Ψ Ω\\
+\noindent α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς τ υ φ χ ψ ω\\
+\noindent\digitstext\\
+\noindent\punctext\\
+~
+\lipsum[0-1]
+~\\
+~\\
+\noindent ÄÖÜ öäü Straße STRAẞE\\
+}
+
+\newpage
+
+\section*{Bold-Italic}
+
+\noindent\textit{\textbf{%
+\noindent\AZtext\\
+\noindent\aztext\\
+\noindent Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ~~ Τ Υ Φ Χ Ψ Ω\\
+\noindent α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς τ υ φ χ ψ ω\\
+\noindent\digitstext\\
+\noindent\punctext\\
+~
+\lipsum[0-1]
+~\\
+~\\
+\noindent ÄÖÜ öäü Straße STRAẞE\\
+}}
+
+\newpage
+
+\end{document}

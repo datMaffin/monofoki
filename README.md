@@ -1,6 +1,8 @@
 # Fork of the font Mononoki; *Monofoki*
 Original repository: https://github.com/madmalik/mononoki
 
+## [Specimen](script_helper/specimen.pdf)
+
 ## Goals of this fork
 The goal of this fork is to "improve" the mononoki font by changing it to use 
 my preferences:
