@@ -4,7 +4,7 @@ FullName: Monofoki Italic
 FamilyName: Monofoki
 Weight: Regular
 Copyright: Modifications:\nCopyright (c) 2020-2021, Marvin Dostal\n\nOriginal author:\nCopyright (c) 2013-2021, Matthias Tellen matthias.tellen@googlemail.com\n\nLicensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\nhttps://scripts.sil.org/OFL
-Version: 2.1
+Version: 2.2
 ItalicAngle: -9
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1630440436
+ModificationTime: 315532800
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 10
+WinInfo: 64 32 10
 BeginPrivate: 3
 BlueValues 31 [-15 0 500 516 700 716 750 766]
 StemSnapH 4 [78]
@@ -1642,7 +1642,7 @@ Encoding: 75 75 59
 GlifName: K_
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "mark-top" 360 700 basechar 0
 AnchorPoint: "mark-bottom" 248 0 basechar 0
 LayerCount: 2

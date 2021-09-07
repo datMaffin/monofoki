@@ -500,4 +500,6 @@ TSWLatexianTemp*
 ### Font output ###
 *.ttf
 *.otf
+/export
+export.zip
 
