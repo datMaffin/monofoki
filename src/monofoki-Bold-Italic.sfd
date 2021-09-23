@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
-ModificationTime: 1632430153
+ModificationTime: 1632432225
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -4787,7 +4787,7 @@ Encoding: 64 64 153
 GlifName: at
 Width: 575
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -17147,7 +17147,7 @@ Encoding: 1093 1093 472
 GlifName: uni0445
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HMW
 AnchorPoint: "mark-top" 327 500 basechar 0
 LayerCount: 2
 Fore
@@ -23827,11 +23827,11 @@ Encoding: 120 120 696
 GlifName: x
 Width: 575
 VWidth: 0
-Flags: MW
+Flags: HW
 AnchorPoint: "mark-top" 327 500 basechar 0
 AnchorPoint: "mark-bottom" 248 0 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 482.722310999 479.856582446 m 2
  489.533734397 487.250868774 497.991431901 492.515606962 507.858744247 492.515606962 c 0
@@ -23865,6 +23865,41 @@ SplineSet
  243.031464704 508 284.721532743 467.925017045 327.983607716 380.394772332 c 2
  347.708244632 340.186858618 l 1
  482.722310999 479.856582446 l 2
+EndSplineSet
+Fore
+SplineSet
+231 355 m 2
+ 208 396 194 403 181 403 c 0
+ 164 403 137 389 115 375 c 0
+ 107 370 100 366 91 366 c 0
+ 81 366 73 372 67 381 c 2
+ 54 400 l 2
+ 50 406 49 412 49 419 c 0
+ 49 431 55 442 67 450 c 0
+ 113 481 159 508 196 508 c 0
+ 241 508 285 480 325 403 c 2
+ 353 348 l 1
+ 491 494 l 2
+ 499 503 508 508 519 508 c 0
+ 527 508 535 505 541 499 c 2
+ 562 481 l 2
+ 569 475 573 467 573 459 c 0
+ 573 450 567 442 560 434 c 2
+ 397 266 l 1
+ 510 41 l 2
+ 512 37 513 32 513 27 c 0
+ 513 11 499 0 482 0 c 2
+ 440 0 l 2
+ 425 0 410 6 404 20 c 2
+ 320 196 l 1
+ 143 8 l 2
+ 135 -1 126 -6 115 -6 c 0
+ 107 -6 100 -2 94 3 c 2
+ 73 21 l 2
+ 66 27 62 34 62 43 c 0
+ 62 52 67 61 74 68 c 2
+ 276 273 l 1
+ 231 355 l 2
 EndSplineSet
 EndChar
 
