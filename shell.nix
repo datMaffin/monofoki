@@ -15,7 +15,7 @@ in
     nativeBuildInputs = [
       pkgs.python39
       sfdnormalize
-      pkgs.fontforge
+      pkgs.fontforge-gtk
       pkgs.ttfautohint
     ];
   }
