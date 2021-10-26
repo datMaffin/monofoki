@@ -3,14 +3,13 @@ FontName: Monofoki-Bold-Italic
 FullName: Monofoki Bold Italic
 FamilyName: Monofoki
 Weight: Bold
-Version: 2.2
+Version: 2.3
 ItalicAngle: -9
 UnderlinePosition: 0
 UnderlineWidth: 0
 Ascent: 819
 Descent: 205
 InvalidEm: 0
-sfntRevision: 0x00023333
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
