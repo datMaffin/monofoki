@@ -16,7 +16,7 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 FSType: 0
-OS2Version: 3
+OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379938
@@ -25,7 +25,6 @@ TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 8 9 0 0 0 0 0 0
 OS2TypoAscent: 750
 OS2TypoAOffset: 0
 OS2TypoDescent: -250

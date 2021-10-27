@@ -16,7 +16,7 @@ Layer: 1 0 "Fore" 0
 XUID: [1021 977 -1548889699 2549773]
 StyleMap: 0x0001
 FSType: 0
-OS2Version: 3
+OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1593379981
@@ -25,7 +25,6 @@ TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 5 9 0 0 0 0 0 0
 OS2TypoAscent: 750
 OS2TypoAOffset: 0
 OS2TypoDescent: -250
@@ -57,7 +56,7 @@ OS2UnicodeRanges: a00002ff.100078fb.00020028.00000000
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "FontForge 2.0 : Monofoki Italic : 1-1-1980"
+LangName: 1033
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
