@@ -61,7 +61,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 588800 294400 196266 512000 1048576 196266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "mark-centerright" "'mark' Mark Positioning lookup 0-1" "mark-topright" "'mark' Mark Positioning lookup 0-1" "mark-ogonek" "'mark' Mark Positioning lookup 0-1" "mark-bottom" "'mark' Mark Positioning lookup 0-1" "mark-top" "'mark' Mark Positioning lookup 0-1" "bottomright"""  "topright"""  "topleft"""  "center"""  "bottom"""  "top"""  "ogonek"""
-BeginChars: 65593 1083
+BeginChars: 65593 1082
 
 StartChar: A
 Encoding: 65 65 0
@@ -30736,15 +30736,8 @@ Fore
 Refer: 1047 1014 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0305
-Encoding: 773 773 1050
-Width: 575
-Flags: MW
-LayerCount: 2
-EndChar
-
 StartChar: filledbox
-Encoding: 9632 9632 1051
+Encoding: 9632 9632 1050
 Width: 575
 VWidth: 0
 Flags: W
@@ -30768,7 +30761,7 @@ EndSplineSet
 EndChar
 
 StartChar: H22073
-Encoding: 9633 9633 1052
+Encoding: 9633 9633 1051
 Width: 575
 VWidth: 0
 Flags: W
@@ -30797,7 +30790,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25A2
-Encoding: 9634 9634 1053
+Encoding: 9634 9634 1052
 Width: 575
 VWidth: 0
 Flags: W
@@ -30834,7 +30827,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25A3
-Encoding: 9635 9635 1054
+Encoding: 9635 9635 1053
 Width: 575
 VWidth: 0
 Flags: W
@@ -30876,7 +30869,7 @@ EndSplineSet
 EndChar
 
 StartChar: triagup
-Encoding: 9650 9650 1055
+Encoding: 9650 9650 1054
 Width: 575
 VWidth: 0
 Flags: W
@@ -30899,17 +30892,17 @@ EndSplineSet
 EndChar
 
 StartChar: uni25B4
-Encoding: 9652 9652 1056
+Encoding: 9652 9652 1055
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1055 9650 N 0.7 0 0 0.7 86.251 106.8 2
+Refer: 1054 9650 N 0.7 0 0 0.7 86.251 106.8 2
 EndChar
 
 StartChar: uni25B5
-Encoding: 9653 9653 1057
+Encoding: 9653 9653 1056
 Width: 575
 VWidth: 0
 Flags: W
@@ -30919,7 +30912,7 @@ Refer: 1024 9651 N 0.7 0 0 0.7 86.251 106.8 2
 EndChar
 
 StartChar: uni25B6
-Encoding: 9654 9654 1058
+Encoding: 9654 9654 1057
 Width: 575
 VWidth: 0
 Flags: W
@@ -30940,7 +30933,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25B7
-Encoding: 9655 9655 1059
+Encoding: 9655 9655 1058
 Width: 575
 VWidth: 0
 Flags: W
@@ -30965,37 +30958,37 @@ EndSplineSet
 EndChar
 
 StartChar: uni25B8
-Encoding: 9656 9656 1060
+Encoding: 9656 9656 1059
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1058 9654 N 0.7 0 0 0.7 89.4 106.818 2
+Refer: 1057 9654 N 0.7 0 0 0.7 89.4 106.818 2
 EndChar
 
 StartChar: uni25B9
-Encoding: 9657 9657 1061
+Encoding: 9657 9657 1060
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1059 9655 N 0.7 0 0 0.7 89.4 106.818 2
+Refer: 1058 9655 N 0.7 0 0 0.7 89.4 106.818 2
 EndChar
 
 StartChar: triagrt
-Encoding: 9658 9658 1062
+Encoding: 9658 9658 1061
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1058 9654 N 1 0 0 0.7 0 106.818 2
+Refer: 1057 9654 N 1 0 0 0.7 0 106.818 2
 EndChar
 
 StartChar: uni25BB
-Encoding: 9659 9659 1063
+Encoding: 9659 9659 1062
 Width: 575
 VWidth: 0
 Flags: W
@@ -31022,28 +31015,28 @@ EndSplineSet
 EndChar
 
 StartChar: triagdn
-Encoding: 9660 9660 1064
+Encoding: 9660 9660 1063
 Width: 575
 VWidth: 0
 Flags: W
 AnchorPoint: "mark-top" 288 700 basechar 0
 LayerCount: 2
 Fore
-Refer: 1055 9650 N 1 0 0 -1 0 700 2
+Refer: 1054 9650 N 1 0 0 -1 0 700 2
 EndChar
 
 StartChar: uni25BE
-Encoding: 9662 9662 1065
+Encoding: 9662 9662 1064
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1064 9660 N 0.7 0 0 0.7 86.251 103.2 2
+Refer: 1063 9660 N 0.7 0 0 0.7 86.251 103.2 2
 EndChar
 
 StartChar: uni25BF
-Encoding: 9663 9663 1066
+Encoding: 9663 9663 1065
 Width: 575
 VWidth: 0
 Flags: W
@@ -31053,57 +31046,57 @@ Refer: 1025 9661 N 0.7 0 0 0.7 86.251 103.5 2
 EndChar
 
 StartChar: uni25C0
-Encoding: 9664 9664 1067
+Encoding: 9664 9664 1066
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1058 9654 N -1 0 0 1 575 0 2
+Refer: 1057 9654 N -1 0 0 1 575 0 2
 EndChar
 
 StartChar: uni25C1
-Encoding: 9665 9665 1068
+Encoding: 9665 9665 1067
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1059 9655 N -1 0 0 1 575 0 2
+Refer: 1058 9655 N -1 0 0 1 575 0 2
 EndChar
 
 StartChar: uni25C2
-Encoding: 9666 9666 1069
+Encoding: 9666 9666 1068
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1067 9664 N 0.7 0 0 0.7 83.1 106.818 2
+Refer: 1066 9664 N 0.7 0 0 0.7 83.1 106.818 2
 EndChar
 
 StartChar: uni25C3
-Encoding: 9667 9667 1070
+Encoding: 9667 9667 1069
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1068 9665 N 0.7 0 0 0.7 83.1 106.818 2
+Refer: 1067 9665 N 0.7 0 0 0.7 83.1 106.818 2
 EndChar
 
 StartChar: triaglf
-Encoding: 9668 9668 1071
+Encoding: 9668 9668 1070
 Width: 575
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1067 9664 N 1 0 0 0.7 0 106.818 2
+Refer: 1066 9664 N 1 0 0 0.7 0 106.818 2
 EndChar
 
 StartChar: uni25C5
-Encoding: 9669 9669 1072
+Encoding: 9669 9669 1071
 Width: 575
 VWidth: 0
 Flags: W
@@ -31130,7 +31123,7 @@ EndSplineSet
 EndChar
 
 StartChar: circle
-Encoding: 9675 9675 1073
+Encoding: 9675 9675 1072
 Width: 575
 VWidth: 0
 Flags: W
@@ -31159,7 +31152,7 @@ EndSplineSet
 EndChar
 
 StartChar: H18533
-Encoding: 9679 9679 1074
+Encoding: 9679 9679 1073
 Width: 575
 VWidth: 0
 Flags: W
@@ -31179,7 +31172,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D0
-Encoding: 9680 9680 1075
+Encoding: 9680 9680 1074
 Width: 575
 VWidth: 0
 Flags: W
@@ -31205,7 +31198,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D1
-Encoding: 9681 9681 1076
+Encoding: 9681 9681 1075
 Width: 575
 VWidth: 0
 Flags: W
@@ -31231,7 +31224,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D2
-Encoding: 9682 9682 1077
+Encoding: 9682 9682 1076
 Width: 575
 VWidth: 0
 Flags: W
@@ -31257,7 +31250,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D3
-Encoding: 9683 9683 1078
+Encoding: 9683 9683 1077
 Width: 575
 VWidth: 0
 Flags: W
@@ -31283,7 +31276,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D4
-Encoding: 9684 9684 1079
+Encoding: 9684 9684 1078
 Width: 575
 VWidth: 0
 Flags: W
@@ -31312,7 +31305,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D5
-Encoding: 9685 9685 1080
+Encoding: 9685 9685 1079
 Width: 575
 VWidth: 0
 Flags: W
@@ -31337,7 +31330,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D6
-Encoding: 9686 9686 1081
+Encoding: 9686 9686 1080
 Width: 575
 VWidth: 0
 Flags: W
@@ -31356,7 +31349,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D7
-Encoding: 9687 9687 1082
+Encoding: 9687 9687 1081
 Width: 575
 VWidth: 0
 Flags: W
