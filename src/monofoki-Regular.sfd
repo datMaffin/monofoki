@@ -29396,7 +29396,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1054 9650 N 0.7 0 0 0.7 86.251 106.8 2
+Refer: 1057 9654 N -0 0.7 -0.7 0 537 148 2
 EndChar
 
 StartChar: uni25B5
@@ -29406,7 +29406,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1036 9651 N 0.7 0 0 0.7 86.251 106.8 2
+Refer: 1056 9655 N -0 0.7 -0.7 0 537 148 2
 EndChar
 
 StartChar: uni25B8
@@ -29436,7 +29436,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1055 9660 N 0.7 0 0 0.7 86.251 103.2 2
+Refer: 1057 9654 N 0 -0.7 0.7 0 39 565 2
 EndChar
 
 StartChar: uni25BF
@@ -29446,7 +29446,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1037 9661 N 0.7 0 0 0.7 86.251 103.5 2
+Refer: 1056 9655 N 0 -0.7 0.7 0 39 565 2
 EndChar
 
 StartChar: uni25C2
