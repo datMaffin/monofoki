@@ -34,6 +34,9 @@ Copyright (c) 2020-2021, Marvin Dostal
 Licensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 https://scripts.sil.org/OFL""")
 
+if ("English (US)", "SubFamily", "Bold-Italic") in font.sfnt_names:
+  font.appendSFNTName("English (US)", "SubFamily", "Bold Italic")
+
 font.generate("$export")
 END
 
