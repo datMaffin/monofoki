@@ -61,7 +61,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 432138 588800 294400 196266 512000 1048576 196266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek"""
-BeginChars: 65593 1082
+BeginChars: 65593 1090
 
 StartChar: A
 Encoding: 65 65 0
@@ -28882,6 +28882,198 @@ SplineSet
  578 240 540 175 486 128 c 0
  432 81 362 54 296 54 c 1
  376 559 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni276C
+Encoding: 10092 10092 1082
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+360 -50 m 2
+ 126 293 l 2
+ 122 298 121 304 122 311 c 0
+ 123 318 127 324 132 329 c 2
+ 474 672 l 2
+ 494 692 503 700 527 700 c 2
+ 585 700 l 2
+ 596 700 599 688 582 672 c 2
+ 221 311 l 1
+ 468 -50 l 2
+ 479 -66 473 -78 462 -78 c 2
+ 404 -78 l 2
+ 380 -78 374 -70 360 -50 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni276D
+Encoding: 10093 10093 1083
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+182 -50 m 2
+ 162 -70 153 -78 129 -78 c 2
+ 71 -78 l 2
+ 60 -78 57 -66 74 -50 c 2
+ 435 311 l 1
+ 188 672 l 2
+ 177 688 183 700 194 700 c 2
+ 252 700 l 2
+ 276 700 282 692 296 672 c 2
+ 530 329 l 2
+ 533 324 535 318 534 311 c 0
+ 533 304 530 298 524 293 c 2
+ 182 -50 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni276E
+Encoding: 10094 10094 1084
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+360 -50 m 2
+ 126 293 l 2
+ 122 298 121 304 122 311 c 0
+ 123 318 127 324 132 329 c 2
+ 474 672 l 2
+ 494 692 503 700 527 700 c 2
+ 615 700 l 2
+ 626 700 629 688 612 672 c 2
+ 251 311 l 1
+ 498 -50 l 2
+ 509 -66 503 -78 492 -78 c 2
+ 404 -78 l 2
+ 380 -78 374 -70 360 -50 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni276F
+Encoding: 10095 10095 1085
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+212 -50 m 2
+ 192 -70 183 -78 159 -78 c 2
+ 71 -78 l 2
+ 60 -78 57 -66 74 -50 c 2
+ 435 311 l 1
+ 188 672 l 2
+ 177 688 183 700 194 700 c 2
+ 282 700 l 2
+ 306 700 312 692 326 672 c 2
+ 560 329 l 2
+ 563 324 565 318 564 311 c 0
+ 563 304 560 298 554 293 c 2
+ 212 -50 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni2770
+Encoding: 10096 10096 1086
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+360 -50 m 2
+ 126 293 l 2
+ 122 298 121 304 122 311 c 0
+ 123 318 127 324 132 329 c 2
+ 474 672 l 2
+ 494 692 503 700 527 700 c 2
+ 645 700 l 2
+ 656 700 659 688 642 672 c 2
+ 281 311 l 1
+ 528 -50 l 2
+ 539 -66 533 -78 522 -78 c 2
+ 404 -78 l 2
+ 380 -78 374 -70 360 -50 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni2771
+Encoding: 10097 10097 1087
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+242 -50 m 2
+ 222 -70 213 -78 189 -78 c 2
+ 71 -78 l 2
+ 60 -78 57 -66 74 -50 c 2
+ 435 311 l 1
+ 188 672 l 2
+ 177 688 183 700 194 700 c 2
+ 312 700 l 2
+ 336 700 342 692 356 672 c 2
+ 590 329 l 2
+ 593 324 595 318 594 311 c 0
+ 593 304 590 298 584 293 c 2
+ 242 -50 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni227A
+Encoding: 8826 8826 1088
+Width: 575
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+141 272 m 258
+ 138 272 l 258
+ 122 272 114 281 117 297 c 258
+ 121 324 l 258
+ 124 340 134 349 150 349 c 258
+ 153 349 l 258
+ 269 349 463 528 528 613 c 256
+ 538 626 550 630 563 621 c 258
+ 587 606 l 258
+ 600 597 600 586 589 572 c 258
+ 589 572 403 359 240 311 c 257
+ 387 263 507 50 507 50 c 258
+ 514 36 508 25 493 16 c 258
+ 465 1 l 258
+ 450 -8 437 -4 431 9 c 256
+ 392 94 271 272 141 272 c 258
+EndSplineSet
+EndChar
+
+StartChar: uni227B
+Encoding: 8827 8827 1089
+Width: 575
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+519 272 m 258
+ 389 272 210 94 145 9 c 256
+ 135 -4 122 -8 109 1 c 258
+ 86 16 l 258
+ 73 25 72 36 83 50 c 258
+ 83 50 269 263 432 311 c 257
+ 285 359 166 572 166 572 c 258
+ 159 586 164 597 179 606 c 258
+ 207 621 l 258
+ 222 630 234 626 240 613 c 256
+ 279 528 415 349 531 349 c 258
+ 534 349 l 258
+ 550 349 558 340 555 324 c 258
+ 551 297 l 258
+ 548 281 538 272 522 272 c 258
+ 519 272 l 258
 EndSplineSet
 EndChar
 EndChars
