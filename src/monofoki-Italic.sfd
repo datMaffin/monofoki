@@ -3,7 +3,7 @@ FontName: Monofoki-Italic
 FullName: Monofoki Italic
 FamilyName: Monofoki
 Weight: Regular
-Version: 2.5
+Version: 3.0
 ItalicAngle: -9
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -29,14 +29,14 @@ OS2TypoAscent: 750
 OS2TypoAOffset: 0
 OS2TypoDescent: -250
 OS2TypoDOffset: 0
-OS2TypoLinegap: 229
-OS2WinAscent: 900
+OS2TypoLinegap: 230
+OS2WinAscent: 910
 OS2WinAOffset: 0
-OS2WinDescent: 250
+OS2WinDescent: 320
 OS2WinDOffset: 0
-HheadAscent: 900
+HheadAscent: 910
 HheadAOffset: 0
-HheadDescent: -250
+HheadDescent: -320
 HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 500
@@ -4622,16 +4622,15 @@ StartChar: block
 Encoding: 9608 9608 160
 GlifName: block
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 575 900 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 575 910 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -5795,90 +5794,90 @@ StartChar: dkshade
 Encoding: 9619 9619 193
 GlifName: dkshade
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 -194 l 257
- 28 -250 l 257
- 0 -250 l 257
-71 -250 m 257
- 0 -108 l 257
- 0 -52 l 257
- 99 -250 l 257
- 71 -250 l 257
-142 -250 m 257
- 0 34 l 257
- 0 90 l 257
- 170 -250 l 257
- 142 -250 l 257
-213 -250 m 257
- 0 176 l 257
- 0 232 l 257
- 241 -250 l 257
- 213 -250 l 257
-284 -250 m 257
- 0 318 l 257
- 0 374 l 257
- 312 -250 l 257
- 284 -250 l 257
-355 -250 m 257
- 0 460 l 257
- 0 516 l 257
- 383 -250 l 257
- 355 -250 l 257
-426 -250 m 257
- 0 602 l 257
- 0 658 l 257
- 454 -250 l 257
- 426 -250 l 257
-497 -250 m 257
- 0 744 l 257
- 0 800 l 257
- 525 -250 l 257
- 497 -250 l 257
-575 -250 m 257
- 0 900 l 257
- 28 900 l 257
- 575 -194 l 257
- 575 -250 l 257
-575 -108 m 257
- 71 900 l 257
- 99 900 l 257
- 575 -52 l 257
- 575 -108 l 257
-575 34 m 257
- 142 900 l 257
- 170 900 l 257
- 575 90 l 257
- 575 34 l 257
-575 176 m 257
- 213 900 l 257
- 241 900 l 257
- 575 232 l 257
- 575 176 l 257
-575 318 m 257
- 284 900 l 257
- 312 900 l 257
- 575 374 l 257
- 575 318 l 257
-575 460 m 257
- 355 900 l 257
- 383 900 l 257
- 575 516 l 257
- 575 460 l 257
-575 602 m 257
- 426 900 l 257
- 454 900 l 257
- 575 658 l 257
- 575 602 l 257
-575 744 m 257
- 497 900 l 257
- 525 900 l 257
- 575 800 l 257
- 575 744 l 257
+0 668 m 1
+ 494 -320 l 1
+ 466 -320 l 1
+ 0 612 l 1
+ 0 668 l 1
+0 526 m 1
+ 423 -320 l 1
+ 395 -320 l 1
+ 0 470 l 1
+ 0 526 l 1
+0 384 m 1
+ 352 -320 l 1
+ 324 -320 l 1
+ 0 328 l 1
+ 0 384 l 1
+0 242 m 1
+ 281 -320 l 1
+ 253 -320 l 1
+ 0 186 l 1
+ 0 242 l 1
+0 100 m 1
+ 210 -320 l 1
+ 182 -320 l 1
+ 0 44 l 1
+ 0 100 l 1
+0 -42 m 1
+ 139 -320 l 1
+ 111 -320 l 1
+ 0 -98 l 1
+ 0 -42 l 1
+0 -184 m 1
+ 68 -320 l 1
+ 40 -320 l 1
+ 0 -240 l 1
+ 0 -184 l 1
+0 810 m 1
+ 565 -320 l 1
+ 537 -320 l 1
+ 0 754 l 1
+ 0 810 l 1
+575 810 m 1
+ 575 754 l 1
+ 497 910 l 1
+ 525 910 l 1
+ 575 810 l 1
+575 668 m 1
+ 575 612 l 1
+ 426 910 l 1
+ 454 910 l 1
+ 575 668 l 1
+575 526 m 1
+ 575 470 l 1
+ 355 910 l 1
+ 383 910 l 1
+ 575 526 l 1
+575 384 m 1
+ 575 328 l 1
+ 284 910 l 1
+ 312 910 l 1
+ 575 384 l 1
+575 242 m 1
+ 575 186 l 1
+ 213 910 l 1
+ 241 910 l 1
+ 575 242 l 1
+575 100 m 1
+ 575 44 l 1
+ 142 910 l 1
+ 170 910 l 1
+ 575 100 l 1
+575 -42 m 1
+ 575 -98 l 1
+ 71 910 l 1
+ 99 910 l 1
+ 575 -42 l 1
+575 -184 m 1
+ 575 -240 l 1
+ 0 910 l 1
+ 28 910 l 1
+ 575 -184 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -5892,16 +5891,15 @@ StartChar: dnblock
 Encoding: 9604 9604 194
 GlifName: dnblock
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 325 l 257
- 575 325 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 295 l 1
+ 575 295 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -8594,16 +8592,15 @@ StartChar: lfblock
 Encoding: 9612 9612 276
 GlifName: lfblock
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 287 900 l 257
- 287 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 287 910 l 1
+ 287 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -8675,30 +8672,30 @@ StartChar: ltshade
 Encoding: 9617 9617 279
 GlifName: ltshade
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 -194 l 257
- 28 -250 l 257
- 0 -250 l 257
-287 -250 m 257
- 0 324 l 257
- 0 380 l 257
- 315 -250 l 257
- 287 -250 l 257
-575 -250 m 257
- 0 900 l 257
- 28 900 l 257
- 575 -194 l 257
- 575 -250 l 257
-575 324 m 257
- 287 900 l 257
- 315 900 l 257
- 575 380 l 257
- 575 324 l 257
+0 384 m 1
+ 352 -320 l 1
+ 324 -320 l 1
+ 0 328 l 1
+ 0 384 l 1
+0 -184 m 1
+ 68 -320 l 1
+ 40 -320 l 1
+ 0 -240 l 1
+ 0 -184 l 1
+575 384 m 1
+ 575 328 l 1
+ 284 910 l 1
+ 312 910 l 1
+ 575 384 l 1
+575 -184 m 1
+ 575 -240 l 1
+ 0 910 l 1
+ 28 910 l 1
+ 575 -184 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -11022,16 +11019,15 @@ StartChar: rtblock
 Encoding: 9616 9616 352
 GlifName: rtblock
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-287 -250 m 257
- 287 900 l 257
- 575 900 l 257
- 575 -250 l 257
- 287 -250 l 257
+287 -320 m 1
+ 287 910 l 1
+ 575 910 l 1
+ 575 -320 l 1
+ 287 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -11418,50 +11414,50 @@ StartChar: shade
 Encoding: 9618 9618 365
 GlifName: shade
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 -194 l 257
- 28 -250 l 257
- 0 -250 l 257
-143 -250 m 257
- 0 36 l 257
- 0 92 l 257
- 171 -250 l 257
- 143 -250 l 257
-286 -250 m 257
- 0 322 l 257
- 0 378 l 257
- 314 -250 l 257
- 286 -250 l 257
-429 -250 m 257
- 0 608 l 257
- 0 664 l 257
- 457 -250 l 257
- 429 -250 l 257
-575 -250 m 257
- 0 900 l 257
- 28 900 l 257
- 575 -194 l 257
- 575 -250 l 257
-575 36 m 257
- 143 900 l 257
- 171 900 l 257
- 575 92 l 257
- 575 36 l 257
-575 322 m 257
- 286 900 l 257
- 314 900 l 257
- 575 378 l 257
- 575 322 l 257
-575 608 m 257
- 429 900 l 257
- 457 900 l 257
- 575 664 l 257
- 575 608 l 257
+0 668 m 1
+ 494 -320 l 1
+ 466 -320 l 1
+ 0 612 l 1
+ 0 668 l 1
+0 384 m 1
+ 352 -320 l 1
+ 324 -320 l 1
+ 0 328 l 1
+ 0 384 l 1
+0 100 m 1
+ 210 -320 l 1
+ 182 -320 l 1
+ 0 44 l 1
+ 0 100 l 1
+0 -184 m 1
+ 68 -320 l 1
+ 40 -320 l 1
+ 0 -240 l 1
+ 0 -184 l 1
+575 668 m 1
+ 575 612 l 1
+ 426 910 l 1
+ 454 910 l 1
+ 575 668 l 1
+575 384 m 1
+ 575 328 l 1
+ 284 910 l 1
+ 312 910 l 1
+ 575 384 l 1
+575 100 m 1
+ 575 44 l 1
+ 142 910 l 1
+ 170 910 l 1
+ 575 100 l 1
+575 -184 m 1
+ 575 -240 l 1
+ 0 910 l 1
+ 28 910 l 1
+ 575 -184 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16251,16 +16247,15 @@ StartChar: uni2501
 Encoding: 9473 9473 527
 GlifName: uni2501
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
+-21 282 m 1
+ -21 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16274,16 +16269,15 @@ StartChar: SF110000
 Encoding: 9474 9474 528
 GlifName: uni2502
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+266 -320 m 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 -320 l 1
+ 266 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16297,16 +16291,15 @@ StartChar: uni2503
 Encoding: 9475 9475 529
 GlifName: uni2503
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16320,26 +16313,25 @@ StartChar: uni2504
 Encoding: 9476 9476 530
 GlifName: uni2504
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-31 304 m 257
- 31 346 l 257
- 159 346 l 257
- 159 304 l 257
- 31 304 l 257
-222 304 m 257
- 222 346 l 257
- 350 346 l 257
- 350 304 l 257
- 222 304 l 257
-413 304 m 257
- 413 346 l 257
- 541 346 l 257
- 541 304 l 257
- 413 304 l 257
+31 304 m 1
+ 31 346 l 1
+ 159 346 l 1
+ 159 304 l 1
+ 31 304 l 1
+222 304 m 1
+ 222 346 l 1
+ 350 346 l 1
+ 350 304 l 1
+ 222 304 l 1
+413 304 m 1
+ 413 346 l 1
+ 541 346 l 1
+ 541 304 l 1
+ 413 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16353,26 +16345,25 @@ StartChar: uni2505
 Encoding: 9477 9477 531
 GlifName: uni2505
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-31 282 m 257
- 31 368 l 257
- 159 368 l 257
- 159 282 l 257
- 31 282 l 257
-222 282 m 257
- 222 368 l 257
- 350 368 l 257
- 350 282 l 257
- 222 282 l 257
-413 282 m 257
- 413 368 l 257
- 541 368 l 257
- 541 282 l 257
- 413 282 l 257
+31 282 m 1
+ 31 368 l 1
+ 159 368 l 1
+ 159 282 l 1
+ 31 282 l 1
+222 282 m 1
+ 222 368 l 1
+ 350 368 l 1
+ 350 282 l 1
+ 222 282 l 1
+413 282 m 1
+ 413 368 l 1
+ 541 368 l 1
+ 541 282 l 1
+ 413 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16386,26 +16377,25 @@ StartChar: uni2506
 Encoding: 9478 9478 532
 GlifName: uni2506
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 -187 m 257
- 266 69 l 257
- 308 69 l 257
- 308 -187 l 257
- 266 -187 l 257
-266 196 m 257
- 266 452 l 257
- 308 452 l 257
- 308 196 l 257
- 266 196 l 257
-266 579 m 257
- 266 835 l 257
- 308 835 l 257
- 308 579 l 257
- 266 579 l 257
+266 -187 m 1
+ 266 69 l 1
+ 308 69 l 1
+ 308 -187 l 1
+ 266 -187 l 1
+266 196 m 1
+ 266 452 l 1
+ 308 452 l 1
+ 308 196 l 1
+ 266 196 l 1
+266 579 m 1
+ 266 835 l 1
+ 308 835 l 1
+ 308 579 l 1
+ 266 579 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16419,26 +16409,25 @@ StartChar: uni2507
 Encoding: 9479 9479 533
 GlifName: uni2507
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-244 -187 m 257
- 244 69 l 257
- 330 69 l 257
- 330 -187 l 257
- 244 -187 l 257
-244 196 m 257
- 244 452 l 257
- 330 452 l 257
- 330 196 l 257
- 244 196 l 257
-244 579 m 257
- 244 835 l 257
- 330 835 l 257
- 330 579 l 257
- 244 579 l 257
+244 -187 m 1
+ 244 69 l 1
+ 330 69 l 1
+ 330 -187 l 1
+ 244 -187 l 1
+244 196 m 1
+ 244 452 l 1
+ 330 452 l 1
+ 330 196 l 1
+ 244 196 l 1
+244 579 m 1
+ 244 835 l 1
+ 330 835 l 1
+ 330 579 l 1
+ 244 579 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16452,31 +16441,30 @@ StartChar: uni2508
 Encoding: 9480 9480 534
 GlifName: uni2508
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-17 304 m 257
- 17 346 l 257
- 125 346 l 257
- 125 304 l 257
- 17 304 l 257
-160 304 m 257
- 160 346 l 257
- 268 346 l 257
- 268 304 l 257
- 160 304 l 257
-303 304 m 257
- 303 346 l 257
- 411 346 l 257
- 411 304 l 257
- 303 304 l 257
-446 304 m 257
- 446 346 l 257
- 554 346 l 257
- 554 304 l 257
- 446 304 l 257
+17 304 m 1
+ 17 346 l 1
+ 125 346 l 1
+ 125 304 l 1
+ 17 304 l 1
+160 304 m 1
+ 160 346 l 1
+ 268 346 l 1
+ 268 304 l 1
+ 160 304 l 1
+303 304 m 1
+ 303 346 l 1
+ 411 346 l 1
+ 411 304 l 1
+ 303 304 l 1
+446 304 m 1
+ 446 346 l 1
+ 554 346 l 1
+ 554 304 l 1
+ 446 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16490,31 +16478,30 @@ StartChar: uni2509
 Encoding: 9481 9481 535
 GlifName: uni2509
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-17 282 m 257
- 17 368 l 257
- 125 368 l 257
- 125 282 l 257
- 17 282 l 257
-160 282 m 257
- 160 368 l 257
- 268 368 l 257
- 268 282 l 257
- 160 282 l 257
-303 282 m 257
- 303 368 l 257
- 411 368 l 257
- 411 282 l 257
- 303 282 l 257
-446 282 m 257
- 446 368 l 257
- 554 368 l 257
- 554 282 l 257
- 446 282 l 257
+17 282 m 1
+ 17 368 l 1
+ 125 368 l 1
+ 125 282 l 1
+ 17 282 l 1
+160 282 m 1
+ 160 368 l 1
+ 268 368 l 1
+ 268 282 l 1
+ 160 282 l 1
+303 282 m 1
+ 303 368 l 1
+ 411 368 l 1
+ 411 282 l 1
+ 303 282 l 1
+446 282 m 1
+ 446 368 l 1
+ 554 368 l 1
+ 554 282 l 1
+ 446 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16528,36 +16515,35 @@ StartChar: uni250A
 Encoding: 9482 9482 536
 GlifName: uni250A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 -215 m 257
- 266 1 l 257
- 308 1 l 257
- 308 -215 l 257
- 266 -215 l 257
-266 72 m 257
- 266 288 l 257
- 308 288 l 257
- 308 72 l 257
- 266 72 l 257
-266 359 m 257
- 266 575 l 257
- 308 575 l 257
- 308 359 l 257
- 266 359 l 257
-266 646 m 257
- 266 862 l 257
- 308 862 l 257
- 308 646 l 257
- 266 646 l 257
-266 933 m 257
- 266 1149 l 257
- 308 1149 l 257
- 308 933 l 257
- 266 933 l 257
+266 -215 m 1
+ 266 1 l 1
+ 308 1 l 1
+ 308 -215 l 1
+ 266 -215 l 1
+266 72 m 1
+ 266 288 l 1
+ 308 288 l 1
+ 308 72 l 1
+ 266 72 l 1
+266 359 m 1
+ 266 575 l 1
+ 308 575 l 1
+ 308 359 l 1
+ 266 359 l 1
+266 646 m 1
+ 266 862 l 1
+ 308 862 l 1
+ 308 646 l 1
+ 266 646 l 1
+266 933 m 1
+ 266 1149 l 1
+ 308 1149 l 1
+ 308 933 l 1
+ 266 933 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16571,36 +16557,35 @@ StartChar: uni250B
 Encoding: 9483 9483 537
 GlifName: uni250B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-244 -215 m 257
- 244 1 l 257
- 330 1 l 257
- 330 -215 l 257
- 244 -215 l 257
-244 72 m 257
- 244 288 l 257
- 330 288 l 257
- 330 72 l 257
- 244 72 l 257
-244 359 m 257
- 244 575 l 257
- 330 575 l 257
- 330 359 l 257
- 244 359 l 257
-244 646 m 257
- 244 862 l 257
- 330 862 l 257
- 330 646 l 257
- 244 646 l 257
-244 933 m 257
- 244 1149 l 257
- 330 1149 l 257
- 330 933 l 257
- 244 933 l 257
+244 -215 m 1
+ 244 1 l 1
+ 330 1 l 1
+ 330 -215 l 1
+ 244 -215 l 1
+244 72 m 1
+ 244 288 l 1
+ 330 288 l 1
+ 330 72 l 1
+ 244 72 l 1
+244 359 m 1
+ 244 575 l 1
+ 330 575 l 1
+ 330 359 l 1
+ 244 359 l 1
+244 646 m 1
+ 244 862 l 1
+ 330 862 l 1
+ 330 646 l 1
+ 244 646 l 1
+244 933 m 1
+ 244 1149 l 1
+ 330 1149 l 1
+ 330 933 l 1
+ 244 933 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16614,21 +16599,19 @@ StartChar: SF010000
 Encoding: 9484 9484 538
 GlifName: uni250C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+308 304 m 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ 266 325 l 1
+ 266 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16642,21 +16625,19 @@ StartChar: uni250D
 Encoding: 9485 9485 539
 GlifName: uni250D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+308 282 m 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ 266 325 l 1
+ 266 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16670,21 +16651,19 @@ StartChar: uni250E
 Encoding: 9486 9486 540
 GlifName: uni250E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 -250 m 257
- 244 346 l 257
- 330 346 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 346 l 1
+ 266 346 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16698,21 +16677,19 @@ StartChar: uni250F
 Encoding: 9487 9487 541
 GlifName: uni250F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-244 -250 m 257
- 244 368 l 257
- 330 368 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 368 l 1
+ 266 368 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16726,21 +16703,19 @@ StartChar: SF030000
 Encoding: 9488 9488 542
 GlifName: uni2510
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 308 346 l 1
+ 308 325 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16754,21 +16729,19 @@ StartChar: uni2511
 Encoding: 9489 9489 543
 GlifName: uni2511
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 308 368 l 1
+ 308 325 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16782,21 +16755,19 @@ StartChar: uni2512
 Encoding: 9490 9490 544
 GlifName: uni2512
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-244 -250 m 257
- 244 346 l 257
- 330 346 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 308 346 l 1
+ 330 346 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16810,21 +16781,19 @@ StartChar: uni2513
 Encoding: 9491 9491 545
 GlifName: uni2513
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-244 -250 m 257
- 244 368 l 257
- 330 368 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 308 368 l 1
+ 330 368 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16838,21 +16807,19 @@ StartChar: SF020000
 Encoding: 9492 9492 546
 GlifName: uni2514
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+308 346 m 1
+ 596 346 l 1
+ 596 304 l 1
+ 266 304 l 1
+ 266 325 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16866,21 +16833,19 @@ StartChar: uni2515
 Encoding: 9493 9493 547
 GlifName: uni2515
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+308 368 m 1
+ 596 368 l 1
+ 596 282 l 1
+ 266 282 l 1
+ 266 325 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16894,21 +16859,19 @@ StartChar: uni2516
 Encoding: 9494 9494 548
 GlifName: uni2516
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 304 m 257
- 244 900 l 257
- 330 900 l 257
- 330 304 l 257
- 244 304 l 257
+244 304 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 266 304 l 1
+ 244 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16922,21 +16885,19 @@ StartChar: uni2517
 Encoding: 9495 9495 549
 GlifName: uni2517
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-244 282 m 257
- 244 900 l 257
- 330 900 l 257
- 330 282 l 257
- 244 282 l 257
+244 282 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 266 282 l 1
+ 244 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16950,21 +16911,19 @@ StartChar: SF040000
 Encoding: 9496 9496 550
 GlifName: uni2518
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 308 325 l 1
+ 308 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -16978,21 +16937,19 @@ StartChar: uni2519
 Encoding: 9497 9497 551
 GlifName: uni2519
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 308 325 l 1
+ 308 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17006,21 +16963,19 @@ StartChar: uni251A
 Encoding: 9498 9498 552
 GlifName: uni251A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-244 304 m 257
- 244 900 l 257
- 330 900 l 257
- 330 304 l 257
- 244 304 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 304 l 1
+ 308 304 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17034,21 +16989,19 @@ StartChar: uni251B
 Encoding: 9499 9499 553
 GlifName: uni251B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-244 282 m 257
- 244 900 l 257
- 330 900 l 257
- 330 282 l 257
- 244 282 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 282 l 1
+ 308 282 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17062,21 +17015,21 @@ StartChar: SF080000
 Encoding: 9500 9500 554
 GlifName: uni251C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+308 304 m 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17090,21 +17043,21 @@ StartChar: uni251D
 Encoding: 9501 9501 555
 GlifName: uni251D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+308 282 m 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17118,26 +17071,22 @@ StartChar: uni251E
 Encoding: 9502 9502 556
 GlifName: uni251E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 304 m 257
- 244 900 l 257
- 330 900 l 257
- 330 304 l 257
- 244 304 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+244 304 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ 244 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17151,26 +17100,22 @@ StartChar: uni251F
 Encoding: 9503 9503 557
 GlifName: uni251F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 346 l 257
- 330 346 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17184,21 +17129,19 @@ StartChar: uni2520
 Encoding: 9504 9504 558
 GlifName: uni2520
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17212,26 +17155,22 @@ StartChar: uni2521
 Encoding: 9505 9505 559
 GlifName: uni2521
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-244 282 m 257
- 244 900 l 257
- 330 900 l 257
- 330 282 l 257
- 244 282 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+244 282 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ 244 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17245,26 +17184,22 @@ StartChar: uni2522
 Encoding: 9506 9506 560
 GlifName: uni2522
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 368 l 257
- 330 368 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17278,21 +17213,19 @@ StartChar: uni2523
 Encoding: 9507 9507 561
 GlifName: uni2523
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17306,21 +17239,21 @@ StartChar: SF090000
 Encoding: 9508 9508 562
 GlifName: uni2524
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17334,21 +17267,21 @@ StartChar: uni2525
 Encoding: 9509 9509 563
 GlifName: uni2525
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17362,26 +17295,22 @@ StartChar: uni2526
 Encoding: 9510 9510 564
 GlifName: uni2526
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-244 304 m 257
- 244 900 l 257
- 330 900 l 257
- 330 304 l 257
- 244 304 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 304 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17395,26 +17324,22 @@ StartChar: uni2527
 Encoding: 9511 9511 565
 GlifName: uni2527
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 346 l 257
- 330 346 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 330 346 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17428,21 +17353,19 @@ StartChar: uni2528
 Encoding: 9512 9512 566
 GlifName: uni2528
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17456,26 +17379,22 @@ StartChar: uni2529
 Encoding: 9513 9513 567
 GlifName: uni2529
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-244 282 m 257
- 244 900 l 257
- 330 900 l 257
- 330 282 l 257
- 244 282 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17489,26 +17408,22 @@ StartChar: uni252A
 Encoding: 9514 9514 568
 GlifName: uni252A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 368 l 257
- 330 368 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 330 368 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17522,21 +17437,19 @@ StartChar: uni252B
 Encoding: 9515 9515 569
 GlifName: uni252B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17550,21 +17463,19 @@ StartChar: SF060000
 Encoding: 9516 9516 570
 GlifName: uni252C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17578,26 +17489,22 @@ StartChar: uni252D
 Encoding: 9517 9517 571
 GlifName: uni252D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 308 368 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17611,26 +17518,22 @@ StartChar: uni252E
 Encoding: 9518 9518 572
 GlifName: uni252E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17644,21 +17547,19 @@ StartChar: uni252F
 Encoding: 9519 9519 573
 GlifName: uni252F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17672,21 +17573,19 @@ StartChar: uni2530
 Encoding: 9520 9520 574
 GlifName: uni2530
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-244 -250 m 257
- 244 325 l 257
- 330 325 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17700,26 +17599,23 @@ StartChar: uni2531
 Encoding: 9521 9521 575
 GlifName: uni2531
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 -250 m 257
- 244 368 l 257
- 330 368 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 308 368 l 1
+ 330 368 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17733,26 +17629,23 @@ StartChar: uni2532
 Encoding: 9522 9522 576
 GlifName: uni2532
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-244 -250 m 257
- 244 368 l 257
- 330 368 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 368 l 1
+ 266 368 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17766,21 +17659,19 @@ StartChar: uni2533
 Encoding: 9523 9523 577
 GlifName: uni2533
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-244 -250 m 257
- 244 325 l 257
- 330 325 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17794,21 +17685,19 @@ StartChar: SF070000
 Encoding: 9524 9524 578
 GlifName: uni2534
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17822,26 +17711,22 @@ StartChar: uni2535
 Encoding: 9525 9525 579
 GlifName: uni2535
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
+ 308 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17855,26 +17740,22 @@ StartChar: uni2536
 Encoding: 9526 9526 580
 GlifName: uni2536
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 266 282 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17888,21 +17769,19 @@ StartChar: uni2537
 Encoding: 9527 9527 581
 GlifName: uni2537
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17916,21 +17795,19 @@ StartChar: uni2538
 Encoding: 9528 9528 582
 GlifName: uni2538
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-244 325 m 257
- 244 900 l 257
- 330 900 l 257
- 330 325 l 257
- 244 325 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17944,26 +17821,23 @@ StartChar: uni2539
 Encoding: 9529 9529 583
 GlifName: uni2539
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 282 m 257
- 244 900 l 257
- 330 900 l 257
- 330 282 l 257
- 244 282 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 282 l 1
+ 308 282 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -17977,26 +17851,23 @@ StartChar: uni253A
 Encoding: 9530 9530 584
 GlifName: uni253A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-244 282 m 257
- 244 900 l 257
- 330 900 l 257
- 330 282 l 257
- 244 282 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 266 282 l 1
+ 244 282 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18010,21 +17881,19 @@ StartChar: uni253B
 Encoding: 9531 9531 585
 GlifName: uni253B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-244 325 m 257
- 244 900 l 257
- 330 900 l 257
- 330 325 l 257
- 244 325 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18038,21 +17907,23 @@ StartChar: SF050000
 Encoding: 9532 9532 586
 GlifName: uni253C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18066,26 +17937,25 @@ StartChar: uni253D
 Encoding: 9533 9533 587
 GlifName: uni253D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18099,26 +17969,25 @@ StartChar: uni253E
 Encoding: 9534 9534 588
 GlifName: uni253E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18132,21 +18001,23 @@ StartChar: uni253F
 Encoding: 9535 9535 589
 GlifName: uni253F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18160,26 +18031,23 @@ StartChar: uni2540
 Encoding: 9536 9536 590
 GlifName: uni2540
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-244 325 m 257
- 244 900 l 257
- 330 900 l 257
- 330 325 l 257
- 244 325 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18193,26 +18061,23 @@ StartChar: uni2541
 Encoding: 9537 9537 591
 GlifName: uni2541
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 325 l 257
- 330 325 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18226,21 +18091,23 @@ StartChar: uni2542
 Encoding: 9538 9538 592
 GlifName: uni2542
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18254,31 +18121,26 @@ StartChar: uni2543
 Encoding: 9539 9539 593
 GlifName: uni2543
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 330 368 l 257
- 330 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 325 m 257
- 244 900 l 257
- 330 900 l 257
- 330 325 l 257
- 244 325 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18292,31 +18154,26 @@ StartChar: uni2544
 Encoding: 9540 9540 594
 GlifName: uni2544
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-244 282 m 257
- 244 368 l 257
- 596 368 l 257
- 596 282 l 257
- 244 282 l 257
-244 325 m 257
- 244 900 l 257
- 330 900 l 257
- 330 325 l 257
- 244 325 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ 244 282 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18330,31 +18187,26 @@ StartChar: uni2545
 Encoding: 9541 9541 595
 GlifName: uni2545
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 330 368 l 257
- 330 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 325 l 257
- 330 325 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 330 368 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18368,31 +18220,26 @@ StartChar: uni2546
 Encoding: 9542 9542 596
 GlifName: uni2546
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-244 282 m 257
- 244 368 l 257
- 596 368 l 257
- 596 282 l 257
- 244 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 325 l 257
- 330 325 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18406,26 +18253,23 @@ StartChar: uni2547
 Encoding: 9543 9543 597
 GlifName: uni2547
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-244 325 m 257
- 244 900 l 257
- 330 900 l 257
- 330 325 l 257
- 244 325 l 257
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 308 282 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18439,26 +18283,23 @@ StartChar: uni2548
 Encoding: 9544 9544 598
 GlifName: uni2548
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 325 l 257
- 330 325 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 266 368 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18472,26 +18313,23 @@ StartChar: uni2549
 Encoding: 9545 9545 599
 GlifName: uni2549
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 330 304 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18505,26 +18343,23 @@ StartChar: uni254A
 Encoding: 9546 9546 600
 GlifName: uni254A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 244 346 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18538,21 +18373,23 @@ StartChar: uni254B
 Encoding: 9547 9547 601
 GlifName: uni254B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 596 368 l 257
- 596 282 l 257
- -21 282 l 257
-244 -250 m 257
- 244 900 l 257
- 330 900 l 257
- 330 -250 l 257
- 244 -250 l 257
+-21 282 m 1
+ -21 368 l 1
+ 244 368 l 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 330 282 l 1
+ 330 -320 l 1
+ 244 -320 l 1
+ 244 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18566,21 +18403,20 @@ StartChar: uni254C
 Encoding: 9548 9548 602
 GlifName: uni254C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-71 304 m 257
- 71 346 l 257
- 215 346 l 257
- 215 304 l 257
- 71 304 l 257
-358 304 m 257
- 358 346 l 257
- 502 346 l 257
- 502 304 l 257
- 358 304 l 257
+71 304 m 1
+ 71 346 l 1
+ 215 346 l 1
+ 215 304 l 1
+ 71 304 l 1
+358 304 m 1
+ 358 346 l 1
+ 502 346 l 1
+ 502 304 l 1
+ 358 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18594,21 +18430,20 @@ StartChar: uni254D
 Encoding: 9549 9549 603
 GlifName: uni254D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-71 282 m 257
- 71 368 l 257
- 215 368 l 257
- 215 282 l 257
- 71 282 l 257
-358 282 m 257
- 358 368 l 257
- 502 368 l 257
- 502 282 l 257
- 358 282 l 257
+71 282 m 1
+ 71 368 l 1
+ 215 368 l 1
+ 215 282 l 1
+ 71 282 l 1
+358 282 m 1
+ 358 368 l 1
+ 502 368 l 1
+ 502 282 l 1
+ 358 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18622,21 +18457,20 @@ StartChar: uni254E
 Encoding: 9550 9550 604
 GlifName: uni254E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 -107 m 257
- 266 181 l 257
- 308 181 l 257
- 308 -107 l 257
- 266 -107 l 257
-266 468 m 257
- 266 756 l 257
- 308 756 l 257
- 308 468 l 257
- 266 468 l 257
+266 -107 m 1
+ 266 181 l 1
+ 308 181 l 1
+ 308 -107 l 1
+ 266 -107 l 1
+266 468 m 1
+ 266 756 l 1
+ 308 756 l 1
+ 308 468 l 1
+ 266 468 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18650,21 +18484,20 @@ StartChar: uni254F
 Encoding: 9551 9551 605
 GlifName: uni254F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-244 -107 m 257
- 244 181 l 257
- 330 181 l 257
- 330 -107 l 257
- 244 -107 l 257
-244 468 m 257
- 244 756 l 257
- 330 756 l 257
- 330 468 l 257
- 244 468 l 257
+244 -107 m 1
+ 244 181 l 1
+ 330 181 l 1
+ 330 -107 l 1
+ 244 -107 l 1
+244 468 m 1
+ 244 756 l 1
+ 330 756 l 1
+ 330 468 l 1
+ 244 468 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18678,21 +18511,20 @@ StartChar: SF430000
 Encoding: 9552 9552 606
 GlifName: uni2550
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 596 389 l 257
- 596 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 596 303 l 257
- 596 261 l 257
- -21 261 l 257
+-21 347 m 1
+ -21 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ -21 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18706,21 +18538,20 @@ StartChar: SF240000
 Encoding: 9553 9553 607
 GlifName: uni2551
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-223 -250 m 257
- 223 900 l 257
- 265 900 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 -250 m 257
- 309 900 l 257
- 351 900 l 257
- 351 -250 l 257
- 309 -250 l 257
+223 -320 m 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+309 -320 m 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 -320 l 1
+ 309 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18734,26 +18565,25 @@ StartChar: SF510000
 Encoding: 9554 9554 608
 GlifName: uni2552
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 347 m 257
- 266 389 l 257
- 596 389 l 257
- 596 347 l 257
- 266 347 l 257
-266 261 m 257
- 266 303 l 257
- 596 303 l 257
- 596 261 l 257
- 266 261 l 257
-266 -250 m 257
- 266 389 l 257
- 308 389 l 257
- 308 -250 l 257
- 266 -250 l 257
+308 261 m 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 261 l 1
+ 266 303 l 1
+ 266 347 l 1
+ 266 389 l 1
+ 308 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 308 347 l 1
+ 308 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 308 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18767,26 +18597,26 @@ StartChar: SF520000
 Encoding: 9555 9555 609
 GlifName: uni2553
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
-223 -250 m 257
- 223 346 l 257
- 265 346 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 -250 m 257
- 309 346 l 257
- 351 346 l 257
- 351 -250 l 257
- 309 -250 l 257
+266 304 m 1
+ 266 346 l 1
+ 309 346 l 1
+ 351 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 351 304 l 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 304 l 1
+ 266 304 l 1
+223 -320 m 1
+ 223 346 l 1
+ 265 346 l 1
+ 265 -320 l 1
+ 223 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18800,31 +18630,28 @@ StartChar: SF390000
 Encoding: 9556 9556 610
 GlifName: uni2554
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-223 347 m 257
- 223 389 l 257
- 596 389 l 257
- 596 347 l 257
- 223 347 l 257
-223 -250 m 257
- 223 389 l 257
- 265 389 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 261 m 257
- 309 303 l 257
- 596 303 l 257
- 596 261 l 257
- 309 261 l 257
-309 -250 m 257
- 309 303 l 257
- 351 303 l 257
- 351 -250 l 257
- 309 -250 l 257
+265 347 m 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 347 l 1
+ 223 389 l 1
+ 265 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 265 347 l 1
+351 261 m 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 261 l 1
+ 309 303 l 1
+ 351 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 351 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18838,26 +18665,25 @@ StartChar: SF220000
 Encoding: 9557 9557 611
 GlifName: uni2555
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 308 389 l 257
- 308 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 308 303 l 257
- 308 261 l 257
- -21 261 l 257
-266 -250 m 257
- 266 389 l 257
- 308 389 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 261 m 1
+ -21 303 l 1
+ 266 303 l 1
+ 266 347 l 1
+ -21 347 l 1
+ -21 389 l 1
+ 266 389 l 1
+ 308 389 l 1
+ 308 347 l 1
+ 308 303 l 1
+ 308 261 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18871,26 +18697,25 @@ StartChar: SF210000
 Encoding: 9558 9558 612
 GlifName: uni2556
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 315 346 l 257
- 315 304 l 257
- -21 304 l 257
-223 -250 m 257
- 223 346 l 257
- 265 346 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 -250 m 257
- 309 346 l 257
- 351 346 l 257
- 351 -250 l 257
- 309 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 223 346 l 1
+ 265 346 l 1
+ 309 346 l 1
+ 315 346 l 1
+ 351 346 l 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 304 l 1
+ 265 304 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18904,31 +18729,28 @@ StartChar: SF250000
 Encoding: 9559 9559 613
 GlifName: uni2557
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 351 389 l 257
- 351 347 l 257
- -21 347 l 257
-309 -250 m 257
- 309 389 l 257
- 351 389 l 257
- 351 -250 l 257
- 309 -250 l 257
--21 261 m 257
- -21 303 l 257
- 265 303 l 257
- 265 261 l 257
- -21 261 l 257
-223 -250 m 257
- 223 303 l 257
- 265 303 l 257
- 265 -250 l 257
- 223 -250 l 257
+-21 347 m 1
+ -21 389 l 1
+ 309 389 l 1
+ 351 389 l 1
+ 351 347 l 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 347 l 1
+ -21 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 223 303 l 1
+ 265 303 l 1
+ 265 261 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18942,26 +18764,25 @@ StartChar: SF500000
 Encoding: 9560 9560 614
 GlifName: uni2558
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 347 m 257
- 266 389 l 257
- 596 389 l 257
- 596 347 l 257
- 266 347 l 257
-266 261 m 257
- 266 303 l 257
- 596 303 l 257
- 596 261 l 257
- 266 261 l 257
-266 261 m 257
- 266 900 l 257
- 308 900 l 257
- 308 261 l 257
- 266 261 l 257
+308 261 m 1
+ 266 261 l 1
+ 266 303 l 1
+ 266 347 l 1
+ 266 389 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 308 347 l 1
+ 308 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 308 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -18975,26 +18796,25 @@ StartChar: SF490000
 Encoding: 9561 9561 615
 GlifName: uni2559
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-254 304 m 257
- 254 346 l 257
- 596 346 l 257
- 596 304 l 257
- 254 304 l 257
-223 304 m 257
- 223 900 l 257
- 265 900 l 257
- 265 304 l 257
- 223 304 l 257
-309 304 m 257
- 309 900 l 257
- 351 900 l 257
- 351 304 l 257
- 309 304 l 257
+223 304 m 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 346 l 1
+ 309 346 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 351 304 l 1
+ 309 304 l 1
+ 265 304 l 1
+ 254 304 l 1
+ 223 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19008,31 +18828,28 @@ StartChar: SF380000
 Encoding: 9562 9562 616
 GlifName: uni255A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-223 261 m 257
- 223 303 l 257
- 596 303 l 257
- 596 261 l 257
- 223 261 l 257
-223 261 m 257
- 223 900 l 257
- 265 900 l 257
- 265 261 l 257
- 223 261 l 257
-309 347 m 257
- 309 389 l 257
- 596 389 l 257
- 596 347 l 257
- 309 347 l 257
-309 347 m 257
- 309 900 l 257
- 351 900 l 257
- 351 347 l 257
- 309 347 l 257
+265 261 m 1
+ 223 261 l 1
+ 223 303 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 265 261 l 1
+351 347 m 1
+ 309 347 l 1
+ 309 389 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 351 347 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19046,26 +18863,25 @@ StartChar: SF280000
 Encoding: 9563 9563 617
 GlifName: uni255B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 308 389 l 257
- 308 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 308 303 l 257
- 308 261 l 257
- -21 261 l 257
-266 261 m 257
- 266 900 l 257
- 308 900 l 257
- 308 261 l 257
- 266 261 l 257
+-21 261 m 1
+ -21 303 l 1
+ 266 303 l 1
+ 266 347 l 1
+ -21 347 l 1
+ -21 389 l 1
+ 266 389 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 389 l 1
+ 308 347 l 1
+ 308 303 l 1
+ 308 261 l 1
+ 266 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19079,26 +18895,25 @@ StartChar: SF270000
 Encoding: 9564 9564 618
 GlifName: uni255C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 314 346 l 257
- 314 304 l 257
- -21 304 l 257
-223 304 m 257
- 223 900 l 257
- 265 900 l 257
- 265 304 l 257
- 223 304 l 257
-309 304 m 257
- 309 900 l 257
- 351 900 l 257
- 351 304 l 257
- 309 304 l 257
+-21 304 m 1
+ -21 346 l 1
+ 223 346 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 346 l 1
+ 309 346 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 304 l 1
+ 314 304 l 1
+ 309 304 l 1
+ 265 304 l 1
+ 223 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19112,31 +18927,28 @@ StartChar: SF260000
 Encoding: 9565 9565 619
 GlifName: uni255D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 261 m 257
- -21 303 l 257
- 351 303 l 257
- 351 261 l 257
- -21 261 l 257
-309 261 m 257
- 309 900 l 257
- 351 900 l 257
- 351 261 l 257
- 309 261 l 257
--21 347 m 257
- -21 389 l 257
- 265 389 l 257
- 265 347 l 257
- -21 347 l 257
-223 347 m 257
- 223 900 l 257
- 265 900 l 257
- 265 347 l 257
- 223 347 l 257
+-21 261 m 1
+ -21 303 l 1
+ 309 303 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 303 l 1
+ 351 261 l 1
+ 309 261 l 1
+ -21 261 l 1
+-21 347 m 1
+ -21 389 l 1
+ 223 389 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 389 l 1
+ 265 347 l 1
+ 223 347 l 1
+ -21 347 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19150,26 +18962,27 @@ StartChar: SF360000
 Encoding: 9566 9566 620
 GlifName: uni255E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 347 m 257
- 266 389 l 257
- 596 389 l 257
- 596 347 l 257
- 266 347 l 257
-266 261 m 257
- 266 303 l 257
- 596 303 l 257
- 596 261 l 257
- 266 261 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+308 261 m 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 261 l 1
+ 266 303 l 1
+ 266 347 l 1
+ 266 389 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 308 347 l 1
+ 308 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 308 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19183,26 +18996,26 @@ StartChar: SF370000
 Encoding: 9567 9567 621
 GlifName: uni255F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-309 304 m 257
- 309 346 l 257
- 596 346 l 257
- 596 304 l 257
- 309 304 l 257
-223 -250 m 257
- 223 900 l 257
- 265 900 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 -250 m 257
- 309 900 l 257
- 351 900 l 257
- 351 -250 l 257
- 309 -250 l 257
+351 304 m 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 304 l 1
+ 309 346 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 351 304 l 1
+223 -320 m 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 -320 l 1
+ 223 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19216,36 +19029,33 @@ StartChar: SF420000
 Encoding: 9568 9568 622
 GlifName: uni2560
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-223 -250 m 257
- 223 900 l 257
- 265 900 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 347 m 257
- 309 389 l 257
- 596 389 l 257
- 596 347 l 257
- 309 347 l 257
-309 347 m 257
- 309 900 l 257
- 351 900 l 257
- 351 347 l 257
- 309 347 l 257
-309 261 m 257
- 309 303 l 257
- 596 303 l 257
- 596 261 l 257
- 309 261 l 257
-309 -250 m 257
- 309 303 l 257
- 351 303 l 257
- 351 -250 l 257
- 309 -250 l 257
+351 347 m 1
+ 309 347 l 1
+ 309 389 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 351 347 l 1
+351 261 m 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 261 l 1
+ 309 303 l 1
+ 351 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 351 261 l 1
+223 -320 m 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 -320 l 1
+ 223 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19259,26 +19069,27 @@ StartChar: SF190000
 Encoding: 9569 9569 623
 GlifName: uni2561
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 308 389 l 257
- 308 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 308 303 l 257
- 308 261 l 257
- -21 261 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 261 m 1
+ -21 303 l 1
+ 266 303 l 1
+ 266 347 l 1
+ -21 347 l 1
+ -21 389 l 1
+ 266 389 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 389 l 1
+ 308 347 l 1
+ 308 303 l 1
+ 308 261 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19292,26 +19103,26 @@ StartChar: SF200000
 Encoding: 9570 9570 624
 GlifName: uni2562
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 265 346 l 257
- 265 304 l 257
- -21 304 l 257
-223 -250 m 257
- 223 900 l 257
- 265 900 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 -250 m 257
- 309 900 l 257
- 351 900 l 257
- 351 -250 l 257
- 309 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 223 346 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 346 l 1
+ 265 304 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 304 l 1
+ -21 304 l 1
+309 -320 m 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 -320 l 1
+ 309 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19325,36 +19136,33 @@ StartChar: SF230000
 Encoding: 9571 9571 625
 GlifName: uni2563
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-309 -250 m 257
- 309 900 l 257
- 351 900 l 257
- 351 -250 l 257
- 309 -250 l 257
--21 347 m 257
- -21 389 l 257
- 265 389 l 257
- 265 347 l 257
- -21 347 l 257
-223 347 m 257
- 223 900 l 257
- 265 900 l 257
- 265 347 l 257
- 223 347 l 257
--21 261 m 257
- -21 303 l 257
- 265 303 l 257
- 265 261 l 257
- -21 261 l 257
-223 -250 m 257
- 223 303 l 257
- 265 303 l 257
- 265 -250 l 257
- 223 -250 l 257
+309 -320 m 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 -320 l 1
+ 309 -320 l 1
+-21 347 m 1
+ -21 389 l 1
+ 223 389 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 389 l 1
+ 265 347 l 1
+ 223 347 l 1
+ -21 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 223 303 l 1
+ 265 303 l 1
+ 265 261 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19368,26 +19176,24 @@ StartChar: SF470000
 Encoding: 9572 9572 626
 GlifName: uni2564
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 596 389 l 257
- 596 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 596 303 l 257
- 596 261 l 257
- -21 261 l 257
-266 -250 m 257
- 266 282 l 257
- 308 282 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 347 m 1
+ -21 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ -21 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 308 261 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19401,26 +19207,23 @@ StartChar: SF480000
 Encoding: 9573 9573 627
 GlifName: uni2565
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-223 -250 m 257
- 223 325 l 257
- 265 325 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 -250 m 257
- 309 325 l 257
- 351 325 l 257
- 351 -250 l 257
- 309 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 351 304 l 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 304 l 1
+ 265 304 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19434,36 +19237,33 @@ StartChar: SF410000
 Encoding: 9574 9574 628
 GlifName: uni2566
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 596 389 l 257
- 596 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 265 303 l 257
- 265 261 l 257
- -21 261 l 257
-223 -250 m 257
- 223 303 l 257
- 265 303 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 261 m 257
- 309 303 l 257
- 596 303 l 257
- 596 261 l 257
- 309 261 l 257
-309 -250 m 257
- 309 303 l 257
- 351 303 l 257
- 351 -250 l 257
- 309 -250 l 257
+351 261 m 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 261 l 1
+ 309 303 l 1
+ 351 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 351 261 l 1
+-21 347 m 1
+ -21 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ -21 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 223 303 l 1
+ 265 303 l 1
+ 265 261 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19477,26 +19277,24 @@ StartChar: SF450000
 Encoding: 9575 9575 629
 GlifName: uni2567
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 596 389 l 257
- 596 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 596 303 l 257
- 596 261 l 257
- -21 261 l 257
-266 368 m 257
- 266 900 l 257
- 308 900 l 257
- 308 368 l 257
- 266 368 l 257
+-21 347 m 1
+ -21 389 l 1
+ 266 389 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ -21 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19510,26 +19308,23 @@ StartChar: SF460000
 Encoding: 9576 9576 630
 GlifName: uni2568
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-223 325 m 257
- 223 900 l 257
- 265 900 l 257
- 265 325 l 257
- 223 325 l 257
-309 325 m 257
- 309 900 l 257
- 351 900 l 257
- 351 325 l 257
- 309 325 l 257
+-21 304 m 1
+ -21 346 l 1
+ 223 346 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 346 l 1
+ 309 346 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19543,36 +19338,33 @@ StartChar: SF400000
 Encoding: 9577 9577 631
 GlifName: uni2569
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 261 m 257
- -21 303 l 257
- 596 303 l 257
- 596 261 l 257
- -21 261 l 257
--21 347 m 257
- -21 389 l 257
- 265 389 l 257
- 265 347 l 257
- -21 347 l 257
-223 347 m 257
- 223 900 l 257
- 265 900 l 257
- 265 347 l 257
- 223 347 l 257
-309 347 m 257
- 309 389 l 257
- 596 389 l 257
- 596 347 l 257
- 309 347 l 257
-309 347 m 257
- 309 900 l 257
- 351 900 l 257
- 351 347 l 257
- 309 347 l 257
+351 347 m 1
+ 309 347 l 1
+ 309 389 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 351 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ -21 261 l 1
+-21 347 m 1
+ -21 389 l 1
+ 223 389 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 389 l 1
+ 265 347 l 1
+ 223 347 l 1
+ -21 347 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19586,26 +19378,31 @@ StartChar: SF540000
 Encoding: 9578 9578 632
 GlifName: uni256A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 596 389 l 257
- 596 347 l 257
- -21 347 l 257
--21 261 m 257
- -21 303 l 257
- 596 303 l 257
- 596 261 l 257
- -21 261 l 257
-266 -250 m 257
- 266 900 l 257
- 308 900 l 257
- 308 -250 l 257
- 266 -250 l 257
+-21 261 m 1
+ -21 303 l 1
+ 266 303 l 1
+ 266 347 l 1
+ -21 347 l 1
+ -21 389 l 1
+ 266 389 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 308 347 l 1
+ 308 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 308 261 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19619,26 +19416,31 @@ StartChar: SF530000
 Encoding: 9579 9579 633
 GlifName: uni256B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 596 346 l 257
- 596 304 l 257
- -21 304 l 257
-223 -250 m 257
- 223 900 l 257
- 265 900 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 -250 m 257
- 309 900 l 257
- 351 900 l 257
- 351 -250 l 257
- 309 -250 l 257
+-21 304 m 1
+ -21 346 l 1
+ 223 346 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 346 l 1
+ 309 346 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 351 304 l 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 304 l 1
+ 265 304 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19652,51 +19454,46 @@ StartChar: SF440000
 Encoding: 9580 9580 634
 GlifName: uni256C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 347 m 257
- -21 389 l 257
- 265 389 l 257
- 265 347 l 257
- -21 347 l 257
-223 347 m 257
- 223 900 l 257
- 265 900 l 257
- 265 347 l 257
- 223 347 l 257
-309 347 m 257
- 309 389 l 257
- 596 389 l 257
- 596 347 l 257
- 309 347 l 257
-309 347 m 257
- 309 900 l 257
- 351 900 l 257
- 351 347 l 257
- 309 347 l 257
--21 261 m 257
- -21 303 l 257
- 265 303 l 257
- 265 261 l 257
- -21 261 l 257
-223 -250 m 257
- 223 303 l 257
- 265 303 l 257
- 265 -250 l 257
- 223 -250 l 257
-309 261 m 257
- 309 303 l 257
- 596 303 l 257
- 596 261 l 257
- 309 261 l 257
-309 -250 m 257
- 309 303 l 257
- 351 303 l 257
- 351 -250 l 257
- 309 -250 l 257
+351 347 m 1
+ 309 347 l 1
+ 309 389 l 1
+ 309 910 l 1
+ 351 910 l 1
+ 351 389 l 1
+ 596 389 l 1
+ 596 347 l 1
+ 351 347 l 1
+351 261 m 1
+ 351 -320 l 1
+ 309 -320 l 1
+ 309 261 l 1
+ 309 303 l 1
+ 351 303 l 1
+ 596 303 l 1
+ 596 261 l 1
+ 351 261 l 1
+-21 347 m 1
+ -21 389 l 1
+ 223 389 l 1
+ 223 910 l 1
+ 265 910 l 1
+ 265 389 l 1
+ 265 347 l 1
+ 223 347 l 1
+ -21 347 l 1
+-21 261 m 1
+ -21 303 l 1
+ 223 303 l 1
+ 265 303 l 1
+ 265 261 l 1
+ 265 -320 l 1
+ 223 -320 l 1
+ 223 261 l 1
+ -21 261 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19710,20 +19507,19 @@ StartChar: uni256D
 Encoding: 9581 9581 635
 GlifName: uni256D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 -250 m 257
- 266 38 l 258
- 266 208 404 346 574 346 c 258
- 596 346 l 257
- 596 304 l 257
- 574 304 l 258
- 427 304 308 185 308 38 c 258
- 308 -250 l 257
- 266 -250 l 257
+266 -320 m 1
+ 266 38 l 2
+ 266 208 404 346 574 346 c 2
+ 596 346 l 1
+ 596 304 l 1
+ 574 304 l 2
+ 427 304 308 185 308 38 c 2
+ 308 -320 l 1
+ 266 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19737,20 +19533,19 @@ StartChar: uni256E
 Encoding: 9582 9582 636
 GlifName: uni256E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-308 -250 m 257
- 266 -250 l 257
- 266 38 l 258
- 266 185 147 304 0 304 c 258
- -21 304 l 257
- -21 346 l 257
- 0 346 l 258
- 170 346 308 208 308 38 c 258
- 308 -250 l 257
+308 -320 m 1
+ 266 -320 l 1
+ 266 38 l 2
+ 266 185 147 304 0 304 c 2
+ -21 304 l 1
+ -21 346 l 1
+ 0 346 l 2
+ 170 346 308 208 308 38 c 2
+ 308 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19764,20 +19559,19 @@ StartChar: uni256F
 Encoding: 9583 9583 637
 GlifName: uni256F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-308 900 m 257
- 308 612 l 258
- 308 442 170 304 0 304 c 258
- -21 304 l 257
- -21 346 l 257
- 0 346 l 258
- 147 346 266 465 266 612 c 258
- 266 900 l 257
- 308 900 l 257
+308 910 m 1
+ 308 612 l 2
+ 308 442 170 304 0 304 c 2
+ -21 304 l 1
+ -21 346 l 1
+ 0 346 l 2
+ 147 346 266 465 266 612 c 2
+ 266 910 l 1
+ 308 910 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19791,20 +19585,19 @@ StartChar: uni2570
 Encoding: 9584 9584 638
 GlifName: uni2570
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 900 m 257
- 308 900 l 257
- 308 612 l 258
- 308 465 427 346 574 346 c 258
- 596 346 l 257
- 596 304 l 257
- 574 304 l 258
- 404 304 266 442 266 612 c 258
- 266 900 l 257
+266 910 m 1
+ 308 910 l 1
+ 308 612 l 2
+ 308 465 427 346 574 346 c 2
+ 596 346 l 1
+ 596 304 l 1
+ 574 304 l 2
+ 404 304 266 442 266 612 c 2
+ 266 910 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19818,18 +19611,17 @@ StartChar: uni2571
 Encoding: 9585 9585 639
 GlifName: uni2571
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 -229 m 257
- 554 921 l 257
- 596 921 l 257
- 596 879 l 257
- 21 -271 l 257
- -21 -271 l 257
- -21 -229 l 257
+-21 -229 m 1
+ 554 921 l 1
+ 596 921 l 1
+ 596 879 l 1
+ 21 -271 l 1
+ -21 -271 l 1
+ -21 -229 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19843,18 +19635,17 @@ StartChar: uni2572
 Encoding: 9586 9586 640
 GlifName: uni2572
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-21 921 m 257
- 596 -229 l 257
- 596 -271 l 257
- 554 -271 l 257
- -21 879 l 257
- -21 921 l 257
- 21 921 l 257
+21 921 m 1
+ 596 -229 l 1
+ 596 -271 l 1
+ 554 -271 l 1
+ -21 879 l 1
+ -21 921 l 1
+ 21 921 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19868,25 +19659,27 @@ StartChar: uni2573
 Encoding: 9587 9587 641
 GlifName: uni2573
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-21 921 m 257
- 596 -229 l 257
- 596 -271 l 257
- 554 -271 l 257
- -21 879 l 257
- -21 921 l 257
- 21 921 l 257
--21 -229 m 257
- 554 921 l 257
- 596 921 l 257
- 596 879 l 257
- 21 -271 l 257
- -21 -271 l 257
- -21 -229 l 257
+256 325 m 1
+ -21 879 l 1
+ -21 921 l 1
+ 21 921 l 1
+ 288 388 l 1
+ 554 921 l 1
+ 596 921 l 1
+ 596 879 l 1
+ 319 325 l 1
+ 596 -229 l 1
+ 596 -271 l 1
+ 554 -271 l 1
+ 288 262 l 1
+ 21 -271 l 1
+ -21 -271 l 1
+ -21 -229 l 1
+ 256 325 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19900,16 +19693,15 @@ StartChar: uni2574
 Encoding: 9588 9588 642
 GlifName: uni2574
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
+-21 304 m 1
+ -21 346 l 1
+ 308 346 l 1
+ 308 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19923,16 +19715,15 @@ StartChar: uni2575
 Encoding: 9589 9589 643
 GlifName: uni2575
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 900 l 257
- 308 900 l 257
- 308 304 l 257
- 266 304 l 257
+266 304 m 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 304 l 1
+ 266 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19946,16 +19737,15 @@ StartChar: uni2576
 Encoding: 9590 9590 644
 GlifName: uni2576
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
+266 304 m 1
+ 266 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 266 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19969,16 +19759,15 @@ StartChar: uni2577
 Encoding: 9591 9591 645
 GlifName: uni2577
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 -250 m 257
- 266 346 l 257
- 308 346 l 257
- 308 -250 l 257
- 266 -250 l 257
+266 -320 m 1
+ 266 346 l 1
+ 308 346 l 1
+ 308 -320 l 1
+ 266 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -19992,16 +19781,15 @@ StartChar: uni2578
 Encoding: 9592 9592 646
 GlifName: uni2578
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
+-21 282 m 1
+ -21 368 l 1
+ 308 368 l 1
+ 308 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20015,16 +19803,15 @@ StartChar: uni2579
 Encoding: 9593 9593 647
 GlifName: uni2579
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-244 304 m 257
- 244 900 l 257
- 330 900 l 257
- 330 304 l 257
- 244 304 l 257
+244 304 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 304 l 1
+ 244 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20038,16 +19825,15 @@ StartChar: uni257A
 Encoding: 9594 9594 648
 GlifName: uni257A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
+266 282 m 1
+ 266 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 266 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20061,16 +19847,15 @@ StartChar: uni257B
 Encoding: 9595 9595 649
 GlifName: uni257B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-244 -250 m 257
- 244 346 l 257
- 330 346 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 346 l 1
+ 330 346 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20084,21 +19869,19 @@ StartChar: uni257C
 Encoding: 9596 9596 650
 GlifName: uni257C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
--21 304 m 257
- -21 346 l 257
- 308 346 l 257
- 308 304 l 257
- -21 304 l 257
-266 282 m 257
- 266 368 l 257
- 596 368 l 257
- 596 282 l 257
- 266 282 l 257
+-21 304 m 1
+ -21 346 l 1
+ 266 346 l 1
+ 266 368 l 1
+ 596 368 l 1
+ 596 282 l 1
+ 266 282 l 1
+ 266 304 l 1
+ -21 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20112,21 +19895,19 @@ StartChar: uni257D
 Encoding: 9597 9597 651
 GlifName: uni257D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 325 m 257
- 266 900 l 257
- 308 900 l 257
- 308 325 l 257
- 266 325 l 257
-244 -250 m 257
- 244 346 l 257
- 330 346 l 257
- 330 -250 l 257
- 244 -250 l 257
+244 -320 m 1
+ 244 346 l 1
+ 266 346 l 1
+ 266 910 l 1
+ 308 910 l 1
+ 308 346 l 1
+ 330 346 l 1
+ 330 -320 l 1
+ 244 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20140,21 +19921,19 @@ StartChar: uni257E
 Encoding: 9598 9598 652
 GlifName: uni257E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 304 m 257
- 266 346 l 257
- 596 346 l 257
- 596 304 l 257
- 266 304 l 257
--21 282 m 257
- -21 368 l 257
- 308 368 l 257
- 308 282 l 257
- -21 282 l 257
+-21 282 m 1
+ -21 368 l 1
+ 308 368 l 1
+ 308 346 l 1
+ 596 346 l 1
+ 596 304 l 1
+ 308 304 l 1
+ 308 282 l 1
+ -21 282 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20168,21 +19947,19 @@ StartChar: uni257F
 Encoding: 9599 9599 653
 GlifName: uni257F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-266 -250 m 257
- 266 325 l 257
- 308 325 l 257
- 308 -250 l 257
- 266 -250 l 257
-244 304 m 257
- 244 900 l 257
- 330 900 l 257
- 330 304 l 257
- 244 304 l 257
+244 304 m 1
+ 244 910 l 1
+ 330 910 l 1
+ 330 304 l 1
+ 308 304 l 1
+ 308 -320 l 1
+ 266 -320 l 1
+ 266 304 l 1
+ 244 304 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20196,16 +19973,15 @@ StartChar: uni2581
 Encoding: 9601 9601 654
 GlifName: uni2581
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 -107 l 257
- 575 -107 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 -172 l 1
+ 575 -172 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20219,16 +19995,15 @@ StartChar: uni2582
 Encoding: 9602 9602 655
 GlifName: uni2582
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 37 l 257
- 575 37 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 -12 l 1
+ 575 -12 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20242,16 +20017,15 @@ StartChar: uni2583
 Encoding: 9603 9603 656
 GlifName: uni2583
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 181 l 257
- 575 181 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 142 l 1
+ 575 142 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20265,16 +20039,15 @@ StartChar: uni2585
 Encoding: 9605 9605 657
 GlifName: uni2585
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 468 l 257
- 575 468 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 449 l 1
+ 575 449 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20288,16 +20061,15 @@ StartChar: uni2586
 Encoding: 9606 9606 658
 GlifName: uni2586
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 612 l 257
- 575 612 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 603 l 1
+ 575 603 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20311,16 +20083,15 @@ StartChar: uni2587
 Encoding: 9607 9607 659
 GlifName: uni2587
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 756 l 257
- 575 756 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 757 l 1
+ 575 757 l 1
+ 575 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20334,16 +20105,15 @@ StartChar: uni2589
 Encoding: 9609 9609 660
 GlifName: uni2589
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 503 900 l 257
- 503 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 503 910 l 1
+ 503 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20357,16 +20127,15 @@ StartChar: uni258A
 Encoding: 9610 9610 661
 GlifName: uni258A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 431 900 l 257
- 431 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 431 910 l 1
+ 431 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20380,16 +20149,15 @@ StartChar: uni258B
 Encoding: 9611 9611 662
 GlifName: uni258B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 359 900 l 257
- 359 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 359 910 l 1
+ 359 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20403,16 +20171,15 @@ StartChar: uni258D
 Encoding: 9613 9613 663
 GlifName: uni258D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 215 900 l 257
- 215 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 215 910 l 1
+ 215 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20426,16 +20193,15 @@ StartChar: uni258E
 Encoding: 9614 9614 664
 GlifName: uni258E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 143 900 l 257
- 143 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 143 910 l 1
+ 143 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20449,16 +20215,15 @@ StartChar: uni258F
 Encoding: 9615 9615 665
 GlifName: uni258F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 71 900 l 257
- 71 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 910 l 1
+ 71 910 l 1
+ 71 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20472,16 +20237,15 @@ StartChar: uni2594
 Encoding: 9620 9620 666
 GlifName: uni2594
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 756 m 257
- 0 900 l 257
- 575 900 l 257
- 575 756 l 257
- 0 756 l 257
+0 769 m 1
+ 0 910 l 1
+ 575 910 l 1
+ 575 769 l 1
+ 0 769 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20495,16 +20259,15 @@ StartChar: uni2595
 Encoding: 9621 9621 667
 GlifName: uni2595
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-503 -250 m 257
- 503 900 l 257
- 575 900 l 257
- 575 -250 l 257
- 503 -250 l 257
+503 -320 m 1
+ 503 910 l 1
+ 575 910 l 1
+ 575 -320 l 1
+ 503 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20518,16 +20281,15 @@ StartChar: uni2596
 Encoding: 9622 9622 668
 GlifName: uni2596
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 325 l 257
- 287 325 l 257
- 287 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 295 l 1
+ 287 295 l 1
+ 287 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20541,16 +20303,15 @@ StartChar: uni2597
 Encoding: 9623 9623 669
 GlifName: uni2597
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-287 -250 m 257
- 287 325 l 257
- 575 325 l 257
- 575 -250 l 257
- 287 -250 l 257
+287 -320 m 1
+ 287 295 l 1
+ 575 295 l 1
+ 575 -320 l 1
+ 287 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20564,16 +20325,15 @@ StartChar: uni2598
 Encoding: 9624 9624 670
 GlifName: uni2598
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 325 m 257
- 0 900 l 257
- 287 900 l 257
- 287 325 l 257
- 0 325 l 257
+0 295 m 1
+ 0 910 l 1
+ 287 910 l 1
+ 287 295 l 1
+ 0 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20587,21 +20347,19 @@ StartChar: uni2599
 Encoding: 9625 9625 671
 GlifName: uni2599
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 287 900 l 257
- 287 -250 l 257
- 0 -250 l 257
-0 -250 m 257
- 0 325 l 257
- 575 325 l 257
- 575 -250 l 257
- 0 -250 l 257
+287 295 m 1
+ 575 295 l 1
+ 575 -320 l 1
+ 287 -320 l 1
+ 0 -320 l 1
+ 0 295 l 1
+ 0 910 l 1
+ 287 910 l 1
+ 287 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20615,21 +20373,19 @@ StartChar: uni259A
 Encoding: 9626 9626 672
 GlifName: uni259A_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-287 -250 m 257
- 287 325 l 257
- 575 325 l 257
- 575 -250 l 257
- 287 -250 l 257
-0 325 m 257
- 0 900 l 257
- 287 900 l 257
- 287 325 l 257
- 0 325 l 257
+0 295 m 1
+ 0 910 l 1
+ 287 910 l 1
+ 287 295 l 1
+ 575 295 l 1
+ 575 -320 l 1
+ 287 -320 l 1
+ 287 295 l 1
+ 0 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20643,21 +20399,19 @@ StartChar: uni259B
 Encoding: 9627 9627 673
 GlifName: uni259B_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 900 l 257
- 287 900 l 257
- 287 -250 l 257
- 0 -250 l 257
-0 325 m 257
- 0 900 l 257
- 575 900 l 257
- 575 325 l 257
- 0 325 l 257
+287 295 m 1
+ 287 -320 l 1
+ 0 -320 l 1
+ 0 295 l 1
+ 0 910 l 1
+ 287 910 l 1
+ 575 910 l 1
+ 575 295 l 1
+ 287 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20671,21 +20425,19 @@ StartChar: uni259C
 Encoding: 9628 9628 674
 GlifName: uni259C_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-287 -250 m 257
- 287 900 l 257
- 575 900 l 257
- 575 -250 l 257
- 287 -250 l 257
-0 325 m 257
- 0 900 l 257
- 575 900 l 257
- 575 325 l 257
- 0 325 l 257
+0 295 m 1
+ 0 910 l 1
+ 287 910 l 1
+ 575 910 l 1
+ 575 295 l 1
+ 575 -320 l 1
+ 287 -320 l 1
+ 287 295 l 1
+ 0 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20699,16 +20451,15 @@ StartChar: uni259D
 Encoding: 9629 9629 675
 GlifName: uni259D_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-287 325 m 257
- 287 900 l 257
- 575 900 l 257
- 575 325 l 257
- 287 325 l 257
+287 295 m 1
+ 287 910 l 1
+ 575 910 l 1
+ 575 295 l 1
+ 287 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20722,21 +20473,20 @@ StartChar: uni259E
 Encoding: 9630 9630 676
 GlifName: uni259E_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 -250 m 257
- 0 325 l 257
- 287 325 l 257
- 287 -250 l 257
- 0 -250 l 257
-287 325 m 257
- 287 900 l 257
- 575 900 l 257
- 575 325 l 257
- 287 325 l 257
+0 -320 m 1
+ 0 295 l 1
+ 287 295 l 1
+ 287 -320 l 1
+ 0 -320 l 1
+287 295 m 1
+ 287 910 l 1
+ 575 910 l 1
+ 575 295 l 1
+ 287 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -20750,21 +20500,19 @@ StartChar: uni259F
 Encoding: 9631 9631 677
 GlifName: uni259F_
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-287 -250 m 257
- 287 900 l 257
- 575 900 l 257
- 575 -250 l 257
- 287 -250 l 257
-0 -250 m 257
- 0 325 l 257
- 575 325 l 257
- 575 -250 l 257
- 0 -250 l 257
+0 -320 m 1
+ 0 295 l 1
+ 287 295 l 1
+ 287 910 l 1
+ 575 910 l 1
+ 575 295 l 1
+ 575 -320 l 1
+ 287 -320 l 1
+ 0 -320 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
@@ -21070,16 +20818,15 @@ StartChar: upblock
 Encoding: 9600 9600 687
 GlifName: upblock
 Width: 575
-VWidth: 0
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-0 325 m 257
- 0 900 l 257
- 575 900 l 257
- 575 325 l 257
- 0 325 l 257
+0 295 m 1
+ 0 910 l 1
+ 575 910 l 1
+ 575 295 l 1
+ 0 295 l 1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d
