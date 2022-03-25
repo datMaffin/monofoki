@@ -61,7 +61,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 432138 588800 294400 196266 512000 1048576 196266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "mark-topright" "'mark' Mark Positioning lookup 0-2" "mark-top" "'mark' Mark Positioning lookup 0-2" "mark-bottom" "'mark' Mark Positioning lookup 0-2" "mark-ogonek" "'mark' Mark Positioning lookup 0-2" "mark-centerright" "'mark' Mark Positioning lookup 0-2" "bottomright"""  "topright"""  "center"""  "topleft"""  "bottom"""  "top"""  "ogonek"""
-BeginChars: 65593 1117
+BeginChars: 65593 1121
 
 StartChar: A
 Encoding: 65 65 0
@@ -29806,6 +29806,114 @@ SplineSet
  232 154 241 163 257 163 c 2
  494 163 l 9
  494 623 l 17
+EndSplineSet
+EndChar
+
+StartChar: uni2717
+Encoding: 10007 10007 1117
+Width: 575
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+459 158 m 258
+ 418 123 l 258
+ 405 112 393 112 383 123 c 258
+ 285 239 l 257
+ 150 123 l 258
+ 137 112 124 112 114 123 c 258
+ 85 158 l 258
+ 75 169 77 182 90 193 c 258
+ 225 310 l 257
+ 127 427 l 258
+ 117 438 120 451 133 462 c 258
+ 174 497 l 258
+ 187 508 199 508 209 497 c 258
+ 307 381 l 257
+ 442 497 l 258
+ 455 508 468 508 478 497 c 258
+ 508 462 l 258
+ 518 451 515 438 502 427 c 258
+ 367 310 l 257
+ 465 193 l 258
+ 475 182 472 169 459 158 c 258
+EndSplineSet
+EndChar
+
+StartChar: uni2718
+Encoding: 10008 10008 1118
+Width: 575
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+495 158 m 258
+ 413 87 l 258
+ 400 76 387 76 377 87 c 258
+ 279 204 l 257
+ 144 87 l 258
+ 131 76 119 76 109 87 c 258
+ 49 158 l 258
+ 39 169 42 182 55 193 c 258
+ 190 310 l 257
+ 92 427 l 258
+ 82 438 84 451 97 462 c 258
+ 179 533 l 258
+ 192 544 205 544 215 533 c 258
+ 313 416 l 257
+ 448 533 l 258
+ 461 544 473 544 483 533 c 258
+ 543 462 l 258
+ 553 451 550 438 537 427 c 258
+ 402 310 l 257
+ 500 193 l 258
+ 510 182 508 169 495 158 c 258
+EndSplineSet
+EndChar
+
+StartChar: uni2713
+Encoding: 10003 10003 1119
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+237 173 m 1
+ 446 476 l 2
+ 456 490 469 494 482 486 c 2
+ 522 463 l 2
+ 535 455 537 443 527 429 c 2
+ 272 60 l 2
+ 262 46 250 42 237 50 c 2
+ 75 143 l 2
+ 62 151 60 163 70 177 c 2
+ 101 221 l 2
+ 111 235 123 240 136 232 c 2
+ 237 173 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2714
+Encoding: 10004 10004 1120
+Width: 575
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+239 224 m 1
+ 434 558 l 2
+ 443 573 455 577 469 571 c 2
+ 554 532 l 2
+ 568 526 571 515 562 500 c 2
+ 301 50 l 2
+ 292 35 280 31 266 37 c 2
+ 43 139 l 2
+ 29 145 25 156 34 171 c 2
+ 88 264 l 2
+ 97 279 109 283 123 277 c 2
+ 239 224 l 1
 EndSplineSet
 EndChar
 EndChars
