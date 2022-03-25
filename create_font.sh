@@ -29,7 +29,7 @@ font.appendSFNTName("English (US)", "Copyright", """Original author:
 Copyright (c) 2013-2021, Matthias Tellen matthias.tellen@googlemail.com
 
 Modifications:
-Copyright (c) 2020-2021, Marvin Dostal
+Copyright (c) 2020-2022, Marvin Dostal
 
 Licensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 https://scripts.sil.org/OFL""")
