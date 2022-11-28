@@ -26,7 +26,7 @@ for glyph in font.glyphs():
   glyph.addExtrema("all")
 
 font.appendSFNTName("English (US)", "Copyright", """Original author:
-Copyright (c) 2013-2021, Matthias Tellen matthias.tellen@googlemail.com
+Copyright (c) 2013-2022, Matthias Tellen matthias.tellen@googlemail.com
 
 Modifications:
 Copyright (c) 2020-2022, Marvin Dostal
