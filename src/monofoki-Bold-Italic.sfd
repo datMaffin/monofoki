@@ -5,8 +5,8 @@ FamilyName: Monofoki
 Weight: Bold
 Version: 3.2
 ItalicAngle: -9
-UnderlinePosition: 0
-UnderlineWidth: 0
+UnderlinePosition: -138
+UnderlineWidth: 20
 Ascent: 819
 Descent: 205
 InvalidEm: 1
