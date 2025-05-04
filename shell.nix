@@ -17,5 +17,6 @@ in
       sfdnormalize
       pkgs.fontforge-gtk
       pkgs.ttfautohint
+      pkgs.woff2
     ];
   }

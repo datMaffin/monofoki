@@ -29,7 +29,7 @@ font.appendSFNTName("English (US)", "Copyright", """Original author:
 Copyright (c) 2013-2022, Matthias Tellen matthias.tellen@googlemail.com
 
 Modifications:
-Copyright (c) 2020-2023, Marvin Dostal
+Copyright (c) 2020-2025, Marvin Dostal
 
 Licensed under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 https://scripts.sil.org/OFL""")
@@ -53,9 +53,19 @@ then
   ttfautohint export/Monofoki-Italic.ttf export/Monofoki-Italic-hinted.ttf
   ttfautohint export/Monofoki-Bold.ttf export/Monofoki-Bold-hinted.ttf
   ttfautohint export/Monofoki-Bold-Italic.ttf export/Monofoki-Bold-Italic-hinted.ttf
+
+  woff2_compress export/Monofoki-Regular-hinted.ttf
+  woff2_compress export/Monofoki-Italic-hinted.ttf
+  woff2_compress export/Monofoki-Bold-hinted.ttf
+  woff2_compress export/Monofoki-Bold-Italic-hinted.ttf
 fi
 
 generate 'src/monofoki-Regular.sfd' 'export/Monofoki-Regular.otf'
 generate 'src/monofoki-Italic.sfd' 'export/Monofoki-Italic.otf'
 generate 'src/monofoki-Bold.sfd' 'export/Monofoki-Bold.otf'
 generate 'src/monofoki-Bold-Italic.sfd' 'export/Monofoki-Bold-Italic.otf'
+
+woff2_compress export/Monofoki-Regular.otf
+woff2_compress export/Monofoki-Italic.otf
+woff2_compress export/Monofoki-Bold.otf
+woff2_compress export/Monofoki-Bold-Italic.otf
