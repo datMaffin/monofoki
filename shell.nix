@@ -1,7 +1,7 @@
 { pkgs ? import <nixpkgs> {} }:
 
 let 
-  sfdnormalize = pkgs.python39Packages.buildPythonPackage rec {
+  sfdnormalize = pkgs.python313Packages.buildPythonPackage rec {
     pname = "sfdnormalize";
     version = "1.x.x";
 
@@ -13,10 +13,12 @@ let
 in
   pkgs.mkShell {
     nativeBuildInputs = [
-      pkgs.python39
+      pkgs.python313
       sfdnormalize
       pkgs.fontforge-gtk
       pkgs.ttfautohint
       pkgs.woff2
+      pkgs.nerd-font-patcher
+      pkgs.curl
     ];
   }
