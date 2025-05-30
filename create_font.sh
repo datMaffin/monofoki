@@ -69,3 +69,5 @@ woff2_compress export/Monofoki-Regular.otf
 woff2_compress export/Monofoki-Italic.otf
 woff2_compress export/Monofoki-Bold.otf
 woff2_compress export/Monofoki-Bold-Italic.otf
+
+cp LICENSE export/LICENSE-Monofoki
