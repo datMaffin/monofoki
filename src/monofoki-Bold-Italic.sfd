@@ -6336,6 +6336,7 @@ Encoding: 176 176 189
 GlifName: degree
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -11167,6 +11168,7 @@ StartChar: ordfeminine
 Encoding: 170 170 314
 GlifName: ordfeminine
 Width: 575
+GlyphClass: 2
 Flags: W
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -11211,6 +11213,7 @@ StartChar: ordmasculine
 Encoding: 186 186 315
 GlifName: ordmasculine
 Width: 575
+GlyphClass: 2
 Flags: W
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -25557,6 +25560,7 @@ StartChar: uni02B3
 Encoding: 691 691 848
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Back
@@ -25694,6 +25698,7 @@ EndChar
 StartChar: uni1D47
 Encoding: 7495 7495 850
 Width: 575
+GlyphClass: 2
 Flags: W
 AnchorPoint: "mark-numerator" 286 800 mark 0
 LayerCount: 2
@@ -25747,6 +25752,7 @@ EndChar
 StartChar: uni1D9C
 Encoding: 7580 7580 851
 Width: 575
+GlyphClass: 2
 Flags: W
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -25868,6 +25874,7 @@ EndChar
 StartChar: uni207A
 Encoding: 8314 8314 854
 Width: 575
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Back
@@ -25925,6 +25932,7 @@ EndChar
 StartChar: uni207B
 Encoding: 8315 8315 855
 Width: 575
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Back
@@ -25957,6 +25965,7 @@ EndChar
 StartChar: uni207C
 Encoding: 8316 8316 856
 Width: 575
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Back
@@ -26008,6 +26017,7 @@ EndChar
 StartChar: uni207D
 Encoding: 8317 8317 857
 Width: 575
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -26033,6 +26043,7 @@ EndChar
 StartChar: uni207E
 Encoding: 8318 8318 858
 Width: 575
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -26060,6 +26071,7 @@ EndChar
 StartChar: uni208A
 Encoding: 8330 8330 859
 Width: 575
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -26069,6 +26081,7 @@ EndChar
 StartChar: uni208B
 Encoding: 8331 8331 860
 Width: 480
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -26078,6 +26091,7 @@ EndChar
 StartChar: uni208C
 Encoding: 8332 8332 861
 Width: 480
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -26087,6 +26101,7 @@ EndChar
 StartChar: uni208D
 Encoding: 8333 8333 862
 Width: 480
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -26096,6 +26111,7 @@ EndChar
 StartChar: uni208E
 Encoding: 8334 8334 863
 Width: 480
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -26440,6 +26456,7 @@ EndChar
 StartChar: uni2070
 Encoding: 8304 8304 871
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26469,6 +26486,7 @@ EndChar
 StartChar: uni00B9
 Encoding: 185 185 872
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26494,6 +26512,7 @@ EndChar
 StartChar: uni00B2
 Encoding: 178 178 873
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26528,6 +26547,7 @@ EndChar
 StartChar: uni00B3
 Encoding: 179 179 874
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26570,6 +26590,7 @@ EndChar
 StartChar: uni207F
 Encoding: 8319 8319 875
 Width: 575
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Back
@@ -26633,6 +26654,7 @@ EndChar
 StartChar: uni2074
 Encoding: 8308 8308 876
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26668,6 +26690,7 @@ EndChar
 StartChar: uni2075
 Encoding: 8309 8309 877
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26705,6 +26728,7 @@ EndChar
 StartChar: uni2076
 Encoding: 8310 8310 878
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26738,6 +26762,7 @@ EndChar
 StartChar: uni2077
 Encoding: 8311 8311 879
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26767,6 +26792,7 @@ EndChar
 StartChar: uni2078
 Encoding: 8312 8312 880
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26801,6 +26827,7 @@ EndChar
 StartChar: uni2079
 Encoding: 8313 8313 881
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
@@ -26834,6 +26861,7 @@ EndChar
 StartChar: uni2080
 Encoding: 8320 8320 882
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26844,6 +26872,7 @@ EndChar
 StartChar: uni2081
 Encoding: 8321 8321 883
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26854,6 +26883,7 @@ EndChar
 StartChar: uni2082
 Encoding: 8322 8322 884
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26864,6 +26894,7 @@ EndChar
 StartChar: uni2083
 Encoding: 8323 8323 885
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26874,6 +26905,7 @@ EndChar
 StartChar: uni2084
 Encoding: 8324 8324 886
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26884,6 +26916,7 @@ EndChar
 StartChar: uni2085
 Encoding: 8325 8325 887
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26894,6 +26927,7 @@ EndChar
 StartChar: uni2086
 Encoding: 8326 8326 888
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26904,6 +26938,7 @@ EndChar
 StartChar: uni2087
 Encoding: 8327 8327 889
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26914,6 +26949,7 @@ EndChar
 StartChar: uni2088
 Encoding: 8328 8328 890
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -26924,6 +26960,7 @@ EndChar
 StartChar: uni2089
 Encoding: 8329 8329 891
 Width: 575
+GlyphClass: 2
 Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
@@ -29562,6 +29599,7 @@ StartChar: uni02C9
 Encoding: 713 713 970
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -29572,6 +29610,7 @@ StartChar: uni02CA
 Encoding: 714 714 971
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -29582,6 +29621,7 @@ StartChar: uni02CB
 Encoding: 715 715 972
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -29592,6 +29632,7 @@ StartChar: uni02CD
 Encoding: 717 717 973
 Width: 575
 VWidth: 0
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -29602,6 +29643,7 @@ StartChar: uni02CE
 Encoding: 718 718 974
 Width: 575
 VWidth: -775
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -29612,6 +29654,7 @@ StartChar: uni02CF
 Encoding: 719 719 975
 Width: 575
 VWidth: -775
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -29622,6 +29665,7 @@ StartChar: uni02D7
 Encoding: 727 727 976
 Width: 575
 VWidth: -775
+GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
