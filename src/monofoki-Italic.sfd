@@ -23435,7 +23435,7 @@ StartChar: uni02E1
 Encoding: 737 737 849
 Width: 575
 GlyphClass: 2
-Flags: W
+Flags: MW
 AnchorPoint: "mark-numerator" 270 740 mark 0
 LayerCount: 2
 Back
@@ -30480,7 +30480,7 @@ EndChar
 StartChar: uni2139
 Encoding: 8505 8505 1124
 Width: 535
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30540,7 +30540,7 @@ StartChar: uni2090
 Encoding: 8336 8336 1125
 Width: 575
 GlyphClass: 2
-Flags: W
+Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
 Fore
@@ -30551,7 +30551,7 @@ StartChar: uni2099
 Encoding: 8345 8345 1126
 Width: 575
 GlyphClass: 2
-Flags: W
+Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
 Fore
@@ -30562,7 +30562,7 @@ StartChar: uni2092
 Encoding: 8338 8338 1127
 Width: 575
 GlyphClass: 2
-Flags: W
+Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
 Fore
@@ -30573,7 +30573,7 @@ StartChar: uni2097
 Encoding: 8343 8343 1128
 Width: 575
 GlyphClass: 2
-Flags: W
+Flags: MW
 AnchorPoint: "mark-denominator" 270 140 mark 0
 LayerCount: 2
 Fore
@@ -30583,7 +30583,7 @@ EndChar
 StartChar: uni2034
 Encoding: 8244 8244 1129
 Width: 575
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30612,7 +30612,7 @@ EndChar
 StartChar: uni21A6
 Encoding: 8614 8614 1130
 Width: 575
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30650,7 +30650,7 @@ EndChar
 StartChar: uni21A4
 Encoding: 8612 8612 1131
 Width: 575
-Flags: W
+Flags: MW
 LayerCount: 2
 Back
 SplineSet
@@ -30714,7 +30714,7 @@ EndChar
 StartChar: uni21A9
 Encoding: 8617 8617 1132
 Width: 575
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30748,7 +30748,7 @@ EndChar
 StartChar: uni21AA
 Encoding: 8618 8618 1133
 Width: 575
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30783,7 +30783,7 @@ StartChar: angle
 Encoding: 8736 8736 1134
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30808,7 +30808,7 @@ StartChar: uni2222
 Encoding: 8738 8738 1135
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30862,7 +30862,7 @@ StartChar: uni2224
 Encoding: 8740 8740 1137
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30882,7 +30882,7 @@ EndChar
 StartChar: uni2226
 Encoding: 8742 8742 1138
 Width: 575
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30903,7 +30903,7 @@ StartChar: uni222E
 Encoding: 8750 8750 1139
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -30937,7 +30937,7 @@ StartChar: uni2210
 Encoding: 8720 8720 1140
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 331 8719 N -1 0 0 -1 597 616 2
@@ -30947,7 +30947,7 @@ StartChar: dotmath
 Encoding: 8901 8901 1141
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 325 183 N 1 0 0 1 0 0 2
@@ -30957,7 +30957,7 @@ StartChar: uni225A
 Encoding: 8794 8794 1142
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 171 711 N 1 0 0 1 0 0 2
@@ -30968,7 +30968,7 @@ StartChar: uni2254
 Encoding: 8788 8788 1143
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -31015,7 +31015,7 @@ StartChar: uni2255
 Encoding: 8789 8789 1144
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -31062,7 +31062,7 @@ StartChar: uni226A
 Encoding: 8810 8810 1145
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -31099,7 +31099,7 @@ StartChar: uni226B
 Encoding: 8811 8811 1146
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -31136,7 +31136,7 @@ StartChar: uni2213
 Encoding: 8723 8723 1147
 Width: 575
 VWidth: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 330 177 N -1 0 0 -1 600 650 2
