@@ -13450,6 +13450,47 @@ p2
 s."
 EndChar
 
+StartChar: uni0404
+Encoding: 1028 1028 9999
+GlifName: uni0404
+Width: 575
+VWidth: 0
+Flags: MW
+AnchorPoint: "mark-top" 287 700 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+478 680 m 256
+ 431 699 385 710 340 710 c 256
+ 222 710 85 640 85 390 c 258
+ 85 310 l 258
+ 85 60 222 -10 340 -10 c 256
+ 385 -10 431 1 478 20 c 256
+ 493 26 497 38 491 53 c 258
+ 481 77 l 258
+ 475 92 464 97 449 91 c 256
+ 406 74 369 68 338 68 c 256
+ 226 68 171 157 171 313 c 257
+ 418 313 l 258
+ 432 313 444 324 444 338 c 258
+ 444 363 l 258
+ 444 377 433 388 419 388 c 258
+ 171 388 l 257
+ 171 547 228 632 338 632 c 256
+ 369 632 406 626 449 609 c 256
+ 464 603 475 608 481 623 c 258
+ 491 647 l 258
+ 497 662 493 674 478 680 c 256
+  PathStart: -2
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p1
+V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p2
+s."
+EndChar
+
 StartChar: afii10054
 Encoding: 1029 1029 414
 GlifName: uni0405
@@ -15685,6 +15726,46 @@ PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
 p1
 V2016-05-29 16:25:52 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p2
+s."
+EndChar
+
+StartChar: uni0454
+Encoding: 1108 1108 9998
+GlifName: uni0454
+Width: 575
+VWidth: 0
+Flags: MW
+AnchorPoint: "mark-top" 287 500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+478 480 m 256
+ 431 500 385 510 328 510 c 259
+ 202 510 85 440 85 250 c 259
+ 85 60 202 -10 328 -10 c 259
+ 385 -10 431 0 478 20 c 256
+ 493 26 497 38 491 53 c 258
+ 481 77 l 258
+ 475 92 464 97 449 91 c 257
+ 404 75 369 68 328 68 c 259
+ 248 68 184 106 173 213 c 257
+ 419 213 l 258
+ 433 213 444 224 444 238 c 258
+ 444 263 l 258
+ 444 277 433 288 419 288 c 258
+ 173 288 l 257
+ 185 395 248 432 328 432 c 259
+ 369 432 405 425 449 409 c 256
+ 464 403 475 408 481 423 c 258
+ 491 447 l 258
+ 497 462 493 474 478 480 c 256
+  PathStart: -2
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p1
+V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
 p2
 s."
 EndChar
