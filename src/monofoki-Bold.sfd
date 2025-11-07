@@ -13822,46 +13822,6 @@ p2
 s."
 EndChar
 
-StartChar: uni0404
-Encoding: 1028 1028 9999
-GlifName: uni0404
-Width: 575
-VWidth: 0
-Flags: MW
-AnchorPoint: "mark-top" 287 700 basechar 0
-LayerCount: 2
-Fore
-SplineSet
-419 398 m 2
- 181 398 l 1
- 183 539 237 612 338 612 c 3
- 372 612 407 605 445 590 c 0
- 465 582 482 589 490 609 c 2
- 500 633 l 2
- 508 653 501 671 482 679 c 0
- 431 700 384 710 340 710 c 3
- 173 710 75 591 75 389 c 2
- 75 311 l 2
- 75 109 173 -10 340 -10 c 3
- 384 -10 431 0 482 21 c 0
- 502 29 508 47 500 67 c 2
- 490 91 l 2
- 482 111 465 118 445 110 c 0
- 407 95 372 88 338 88 c 3
- 237 88 183 161 181 303 c 1
- 418 303 l 2
- 438 303 454 319 454 338 c 2
- 454 363 l 2
- 454 382 438 398 419 398 c 2
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p1
-V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p2
-s."
-EndChar
-
 StartChar: afii10054
 Encoding: 1029 1029 414
 GlifName: uni0405
@@ -16062,45 +16022,6 @@ PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
 p1
 V2016-05-29 16:25:52 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p2
-s."
-EndChar
-
-StartChar: uni0454
-Encoding: 1108 1108 9998
-GlifName: uni0454
-Width: 575
-VWidth: 0
-Flags: MW
-AnchorPoint: "mark-top" 287 500 basechar 0
-LayerCount: 2
-Fore
-SplineSet
-500 433 m 2
- 508 453 501 471 482 479 c 0
- 441 496 374 510 327 510 c 3
- 170 510 75 412 75 250 c 3
- 75 87 170 -10 328 -10 c 3
- 381 -10 435 1 482 21 c 0
- 502 29 508 47 500 67 c 2
- 490 91 l 2
- 482 111 465 118 445 110 c 0
- 409 97 360 88 328 88 c 3
- 245 88 196 127 184 203 c 1
- 419 203 l 2
- 438 203 454 219 454 238 c 2
- 454 263 l 2
- 454 282 438 298 419 298 c 2
- 184 298 l 1
- 197 374 245 412 328 412 c 3
- 368 412 402 406 445 390 c 0
- 465 382 482 389 490 409 c 2
- 500 433 l 2
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p1
-V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
 p2
 s."
 EndChar
@@ -32124,6 +32045,42 @@ LayerCount: 2
 Fore
 Refer: 718 771 N 1 0 0 1 1 55 2
 Refer: 698 121 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0454
+Encoding: 1108 1108 1245
+GlifName: uni0454
+Width: 575
+VWidth: 0
+Flags: MW
+AnchorPoint: "mark-top" 288 500 basechar 0
+LayerCount: 2
+Fore
+Refer: 1046 1013 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p1
+V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p2
+s."
+EndChar
+
+StartChar: uni0404
+Encoding: 1028 1028 1246
+GlifName: uni0404
+Width: 575
+VWidth: 0
+Flags: MW
+AnchorPoint: "mark-top" 288 700 basechar 0
+LayerCount: 2
+Fore
+Refer: 448 1069 N -1 0 0 1 572 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p1
+V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p2
+s."
 EndChar
 EndChars
 EndSplineFont

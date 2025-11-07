@@ -13450,47 +13450,6 @@ p2
 s."
 EndChar
 
-StartChar: uni0404
-Encoding: 1028 1028 9999
-GlifName: uni0404
-Width: 575
-VWidth: 0
-Flags: MW
-AnchorPoint: "mark-top" 287 700 basechar 0
-LayerCount: 2
-Fore
-SplineSet
-478 680 m 256
- 431 699 385 710 340 710 c 256
- 222 710 85 640 85 390 c 258
- 85 310 l 258
- 85 60 222 -10 340 -10 c 256
- 385 -10 431 1 478 20 c 256
- 493 26 497 38 491 53 c 258
- 481 77 l 258
- 475 92 464 97 449 91 c 256
- 406 74 369 68 338 68 c 256
- 226 68 171 157 171 313 c 257
- 418 313 l 258
- 432 313 444 324 444 338 c 258
- 444 363 l 258
- 444 377 433 388 419 388 c 258
- 171 388 l 257
- 171 547 228 632 338 632 c 256
- 369 632 406 626 449 609 c 256
- 464 603 475 608 481 623 c 258
- 491 647 l 258
- 497 662 493 674 478 680 c 256
-  PathStart: -2
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p1
-V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p2
-s."
-EndChar
-
 StartChar: afii10054
 Encoding: 1029 1029 414
 GlifName: uni0405
@@ -15584,8 +15543,8 @@ SplineSet
  196 -10 144 0 97 20 c 256
  82 26 78 38 84 53 c 258
  94 77 l 258
- 100 92 111 97 126 91 c 257
- 171 75 206 68 247 68 c 259
+ 100 92 110.889027914 96.7061234085 126 91 c 256
+ 170.67193784 74.131224864 206 68 247 68 c 259
  327 68 391 106 402 213 c 257
  156 213 l 258
  142 213 131 224 131 238 c 258
@@ -15726,46 +15685,6 @@ PickledDataWithLists: "(dp0
 Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
 p1
 V2016-05-29 16:25:52 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p2
-s."
-EndChar
-
-StartChar: uni0454
-Encoding: 1108 1108 9998
-GlifName: uni0454
-Width: 575
-VWidth: 0
-Flags: MW
-AnchorPoint: "mark-top" 287 500 basechar 0
-LayerCount: 2
-Fore
-SplineSet
-478 480 m 256
- 431 500 385 510 328 510 c 259
- 202 510 85 440 85 250 c 259
- 85 60 202 -10 328 -10 c 259
- 385 -10 431 0 478 20 c 256
- 493 26 497 38 491 53 c 258
- 481 77 l 258
- 475 92 464 97 449 91 c 257
- 404 75 369 68 328 68 c 259
- 248 68 184 106 173 213 c 257
- 419 213 l 258
- 433 213 444 224 444 238 c 258
- 444 263 l 258
- 444 277 433 288 419 288 c 258
- 173 288 l 257
- 185 395 248 432 328 432 c 259
- 369 432 405 425 449 409 c 256
- 464 403 475 408 481 423 c 258
- 491 447 l 258
- 497 462 493 474 478 480 c 256
-  PathStart: -2
-EndSplineSet
-PickledDataWithLists: "(dp0
-Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
-p1
-V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
 p2
 s."
 EndChar
@@ -29163,21 +29082,21 @@ SplineSet
 491 447 m 2
  481 423 l 2
  475 408 464 403 449 409 c 0
- 405 425 369 432 328 432 c 0
+ 405 425 369 432 328 432 c 3
  248.11478401 432 185.148467453 394.939553623 173.089165348 289 c 1
  401 289 l 2
  417 289 426 280 426 264 c 2
  426 237 l 2
  426 221 417 212 401 212 c 2
  172.977072322 212 l 1
- 184.753201438 105.293553958 247.863941663 68 328 68 c 0
+ 184.753201438 105.293553958 247.863941663 68 328 68 c 3
  369 68 404 73 449 91 c 0
  464 97 475 92 481 77 c 2
  491 53 l 2
  497 38 493 26 478 20 c 0
- 431 0 379 -10 328 -10 c 0
- 202 -10 85 60 85 250 c 0
- 85 440 202 510 328 510 c 0
+ 431 0 379 -10 328 -10 c 3
+ 202 -10 85 60 85 250 c 3
+ 85 440 202 510 328 510 c 3
  379 510 431 500 478 480 c 0
  493 474 497 462 491 447 c 2
 EndSplineSet
@@ -33050,6 +32969,42 @@ LayerCount: 2
 Fore
 Refer: 1220 777 N 1 0 0 1 1 10 2
 Refer: 698 121 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0454
+Encoding: 1108 1108 1245
+GlifName: uni0454
+Width: 575
+VWidth: 0
+Flags: MW
+AnchorPoint: "mark-top" 287 500 basechar 0
+LayerCount: 2
+Fore
+Refer: 1046 1013 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p1
+V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p2
+s."
+EndChar
+
+StartChar: uni0404
+Encoding: 1028 1028 1246
+GlifName: uni0404
+Width: 575
+VWidth: 0
+Flags: MW
+AnchorPoint: "mark-top" 287 700 basechar 0
+LayerCount: 2
+Fore
+Refer: 448 1069 N -1 0 0 1 571 0 2
+PickledDataWithLists: "(dp0
+Vcom.schriftgestaltung.Glyphs.lastChange\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p1
+V2025-11-02 00:00:00 +0000\\u000d\\u000d\\u000d\\u000d\\u000d\\u000d
+p2
+s."
 EndChar
 EndChars
 EndSplineFont
